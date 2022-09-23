@@ -26,7 +26,7 @@ if __name__ == "__main__":
     n = int(sys.argv[1])                                   # The first argument, sys.argv[0] is the name of the file...
     sel = sys.argv[2]
 
-    iter = 1
+    iter = 2000
 
     if sel == 1:
         for i in range(iter):
