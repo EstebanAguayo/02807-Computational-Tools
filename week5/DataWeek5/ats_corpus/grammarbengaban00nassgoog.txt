@@ -1,0 +1,8508 @@
+Google 
+
+
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
+
+to make the world's books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+We also ask that you: 
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attributionTht GoogXt "watermark" you see on each file is essential for in forming people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite severe. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+at |http: //books .google .com/I 
+
+
+
+1 
+
+
+^ 
+
+
+I 
+
+
+^.NGA- Bantu 
+Grammar 
+
+
+
+
+
+^'~ ?«• 
+ - H^r^ 
+
+-ar" ■- 
+
+•5l5f 
+
+
+
+^ 
+
+
+
+1 
+
+
+
+ 3 
+
+
+
+4 
+
+
+
+
+
+
+' ''i 
+
+
+
+MACKEY'S GRAMMAR 
+
+
+
+OF THE 
+
+
+
+BENGA-BANTU LANGUAGE. 
+
+
+
+REVISED BY 
+
+REV. R. H. NASSAU, D. D., 
+
+\\ 
+
+CORRESPONDING MEMBER OF THE AMERICAN GEOGRAPHICAL 
+
+SOCIETY, HONORARY MEMBER OF THE ARCHAEOLOGICAL 
+
+ASSOCIATION OF THE UNIVERSITY OF PENNSYLVANIA.. 
+
+
+
+GABOON AND CORISCO MISSION, 
+WEST AFRICA. 
+
+
+
+AMERICAN TRACT SOCIETY, 
+
+150 NASSAU STREET, NEW YORK. 
+
+1892. 
+
+
+
+
+
+
+Mi 
+
+
+
+PREFACE. 
+
+
+
+Recognizing that the task assigned me by the 
+Mission was a revision, and not a new book, I have 
+followed the order of the parts of speech as arranged 
+in Mr. Mackey's Grammar. (" A Grammar of the 
+Benga Language," by Rev. James L. Mackey, New 
+York, 1855.) But on many points I have made ^ 
+additions, enlarging and ^illustrating it. There are 
+some alterations, but few corrections. The chief 
+additions have been to the Noun and to the Verb : 
+to the latter of which a correction is made in the 
+form take^j^ as typical of the Passive Voice. The 
+effort is made also to have the orthography consist- 
+ent, by recognizing and calling into use the vocal 
+coalescences so prominent in the Bantu languages. 
+
+Acknowledgment is made to Tregelles' " Heads 
+of Hebrew Grammar " for some suggestions and one 
+or two quotations. 
+
+But almost all the additions or alterations are 
+from my own notes and suggestions, extending over 
+many years and made at various times in confer- 
+ences with different native assistants, and from 
+original deductions and inferences in intervals of 
+study. 
+
+
+
+4 PREFACE. 
+
+As giving succinctly the distinguishing features 
+of the Bantu Family, to which the Benga belongs, 
+the following copious extracts are made from Hove- 
+lacque, who, in his " Science of Language *' (" The 
+Science of Language, Linguistics, Philology, Ety- 
+mology," by Abel Hovelacque. Translated by A. 
+H. Keane, B. A. London : Clapham & Hall, 193 
+Piccadilly, 1877. Chap. 4, pp. 44-58 et seq.), ar- 
+ranges all forms of articulate speech into three 
+groups : 
+
+A. The Monosyllabic, Isolating Languages, e. g., 
+Chinese. 
+
+B. The Agglutinating, or Agglomerative. 
+
+C. The Inflective, e. g., Hebrew. 
+
+"Of all known languages, those that by their 
+form belong to this second (B) class are by far the 
+most numerous. Beyond all manner of doubt they 
+belong to a great many stocks, veiy distinct, inde- 
+pendent, and incapable of being reduced to a com- 
+mon source While in the idioms of the first 
+
+(A) class (Isolating: Chinese, Siamese, etc.) the 
+words are invariably monosyllabic forms, following 
+each other without the least fusion or connection, 
+and each retaining its proper force, in those of the 
+second (B) category, many elements are placed in 
+close association, in a way agglutinating, or agglom- 
+erating together, whence their name of "Aggluti- 
+nating Languages." Of these diverse elements, one 
+alone contains the leading idea, the main thought 
+
+
+
+PREFACfi. 5 
+
+or conception, the others losing their independent 
+value altogether. , They certainly still retain a per- 
+sonal or individual sense, but this is now entirely 
+
+relative In any case, let us state at once that 
+
+in the a^lutinating tongues there is no true declen- 
+sion or conjugation ; the use of these terms, as well 
+as of the corresponding words case^ nominative^ ac- 
+cusative^ genitive^ and so on, .... is merely a con- 
+ventional way of expressing oneself, not perhaps to 
+be absolutely condemned, but yet to be taken with 
+great reserve 
+
+" Section 1 of the Agglutinating languages is the 
+South African. (By * South African,' as here used, 
+is understood the languages of the Hottentots and 
+of the Bushmen only.) Subdivisions: (1) Hotten- 
+tot ; (2) Bushmen. 
+
+" Section 2. Languages of the African Negroes: 
+(1) Woloflf, Senegal; (2) Mandingo Group, Sene- 
+gambia; (3) Felup Group, Gambia; (4) Sonrai 
+(Southeast of Timbuctoo) ; (5) Hausa, east of Niger ; 
+(6) Bomu, west of Lake Chad ; (7) Kru Group, 
+Qrebo, Bassa ; (8) Ewe Group, Toruba, Akra. 
+
+" Section 3. The Bantu or Kafir Family y occu- 
+pies a wide domain, roughly comprising the whole 
+of the southeast of the continent, reaching south- 
+wards to the neighborhood of the Cape, and north- 
+wards a little beyond the Equator, where it meets 
+the Ethiopian group of the Hamitic family, and the 
+dialects of the negroes of Guinea, thus spreading 
+
+
+
+6 I^REFACE. 
+
+north and south over about one-half of the whole 
+continent. 
+
+" About one-fourth of the natives of Africa speak 
+the various dialects of this family. These are very 
+numerous, and are all derived from one common 
+source, which .... is far from being the case with 
+the languages spoken by the negro tribes in the 
+centre and west of the continent. The mother- 
+tongue of this great family is utterly unknown, but 
+it may possibly yet be restored in all its essential 
+grammatical and lexical features. 
+
+" The general name of Kafir, often given to the 
+Bantu family, is purely conventional. The word, 
+which is Arabic and means infidel^ was at first ap- 
+plied to all the tribes of Southeast Africa, but was 
+gradually limited, until it has now come to be re- 
+stricted to those stretching from the northeast of 
+Cape Colony to Delagoa Bay. Hence it cannot 
+with propriety be any longer applied to such lan- 
+guages as the Ki-Suaheli, spoken in Zanzibar, or to 
+the Fernandian, in the Gulf of Guinea. 
+
+" The term Bantu is in every way preferable. It 
+is the plural of a word meaning man ; has the sense 
+of men, population, people, and may readily be ex- 
+tended to the language itself. 
+
+" The phonetic system of the whole family is one 
+of the richest, nor is it lacking in harmony. As a 
+rule, words are modified, not by suffixing, but by 
+prefixing the various elements of relationship. 
+
+
+
+PREFACE. 7 
+
+" It i8 divided into three great branches, a West- 
+em, a Central, and an Eastern, each of which is 
+again subdivided into a number of minor groups. 
+They are thus classified by Fr. Mtiller and Hahn : — 
+Eastern Branch : languages of the Zanzibar district ; 
+languages of the Zambesi ; Zulu-Kafir group. Cen- 
+tral Branch: Sechuana and Tegeza. Western 
+Branch : Kongo, Herero, etc .... 
+
+" On the West or Atlantic coast, we find the Ban- 
+tu system less prevalent than on the East coast. 
+Northwards it stretches four or five degrees beyond 
+the Equator, thus bordering on the languages of 
+the negroes proper. 
+
+" The northern division of this western branch 
+comprises the dialects of Fernando Poy IstibUy Benga, 
+Mpongwe, Dikele, and Kongo ^ which last is the most 
+important of the group. ^ 
+
+" More to the south are the Bunda (in Angola), 
+Benguela, Londa^ and Herero^ about 19 degr. south 
+latitude, and reaching southwards as far as the Hot- 
+tentot-Namaqua dialect .... 
+
+" The phonetics of the Bantu family call for no 
+particular remark, except that the rowels are liable 
+to contraction, to euphonic suppressions, and to 
+other rather numerous variations, but always in 
+accordance with well-determined principles. In 
+this respect the Kafir idioms are more refined than 
+many other agglutinating tongues, instances occur- 
+ring in them of true vowel harmony, that is, of the 
+
+
+
+8 PREFACE. 
+
+vowel of one syllable assimilating to that of another 
+in the same word. 
+
+" The consonantal system seems somewhat com- 
+plex, owing to the great number of double conso- 
+nants, whose first element is a nasal ; nt, nd, mp, 
+etc. 
+
+" On the other hand, we again meet here with 
+some of the click letters of the Hottentot phonetics. 
+The Kafirs seem to have borrowed them from their 
+Hottentot neighbors, as they occur in those Kafir 
+dialects only that border on the Hottentot domain, 
+as, for instance, in those of the Zulu branch. The 
+farther we proceed from this neighborhood, the less 
+frequent these letters become ; hence they do not 
+occur at jiU in Mpongwe or Benga . . . The num- 
+ber of other consonants is very considerable. They 
+are subject to fixed euphonic laws, and interchange 
+regularly between the various members of the Bantu 
+family, a great many of such coincidences being 
+already well known and determined. (Bleek : * A 
+Comparative Grammar of South African Languages.' 
+London, 1869.) .... All these languages have this 
+in common, that the word is built up by elements 
+not suffixed, but prefixed to the principal root. Of 
+these prefixes, some denote the singular, others 
+the plural .... These various formative prefixes of 
+course differ in the various idioms of the Bantu 
+family, but they all nevertheless derive from older 
+common forms. At some unknown period there 
+
+
+
+PREFACE. 
+
+
+
+existed a common Bantu tongue, which subsequent- 
+ly broke up into different dialects, all characterized 
+by special euphonic laws. Hence the various pre- 
+fixes of this primitive speech were naturally modi- 
+fied in the various idioms derived from it 
+
+" Subjoined is a table of the singular and plural 
+forms of the word * Bantu' in some of the lan- 
+guages in question : 
+
+
+
+
+
+Singular* 
+
+
+Plural. 
+
+
+Ki-Suaheli 
+
+
+mtu 
+
+
+watu 
+
+
+Ki-Nita 
+
+
+mutu 
+
+
+atu 
+
+
+Ki-Kamba 
+
+
+mundu 
+
+
+andu 
+
+
+Ki-Sambala 
+
+
+muntu 
+
+
+wantu 
+
+
+Ki-Hiau 
+
+
+mundu 
+
+
+vandu 
+
+
+Sena 
+
+
+muntto 
+
+
+vanttu 
+
+
+Makua 
+
+
+mtittu 
+
+
+attu 
+
+
+Kafir 
+
+
+umntu 
+
+
+abantu 
+
+
+Zulu 
+
+
+umuntu 
+
+
+abantu 
+
+
+Sehlapi 
+
+
+mothu 
+
+
+bathu 
+
+
+Sesuto 
+
+
+motu 
+
+
+batu 
+
+
+Tegeza 
+
+
+amuno 
+
+
+vano 
+
+
+Herero 
+
+
+omundu 
+
+
+ovandu 
+
+
+Sindonga 
+
+
+umtu 
+
+
+vantu 
+
+
+Nano 
+
+
+omuno 
+
+
+omano 
+
+
+Angola 
+
+
+omutu 
+
+
+oatu 
+
+
+Kongo 
+
+
+omuntu 
+
+
+oantu 
+
+
+Benga 
+
+
+moto 
+
+
+bato 
+
+
+Dualla 
+
+
+motu 
+
+
+batu 
+
+
+
+" The adjective is formed with the same deriva- 
+
+
+
+10 PREFACE. 
+
+tive element as the noun- it qualifies, or, if there be 
+a difference, it is at least very slight. Thus, ' n6n6' 
+in Benga being greats and the word *elombo,* 
+things being * belombo ' in the plural, * elombo 
+enfine,' great thing; 'belombo benene/ great 
+things. In a word, the adjective necessarily agrees, 
+even in its formation, with its noun. Thus the 
+word *nen6,' great, may, in a sentence, have four 
+or five different prefixes, if it happen to be repeated 
+so many times, as qualifying so many words also 
+formed by means of those prefixes. This process is 
+common to all the members of the Bantu family, 
+whence the title of * alliteral ' languages which has 
+been given them. 
+
+"The methods which express the relations of 
+mood and tense seem, at first sight, somewhat in- 
+tricate, but are really quite simple, consisting, as is 
+usual in agglutinating tongues, in tacking indepen- 
+dent particles on to the principal root. But, as 
+already stated, the special feature of the Bantu fam- 
+ily is the formation of words by means of prefixes, 
+hence the secondary elements are here placed, not 
+after, but before, the chief radical." 
+
+
+
+PREFACE. 
+
+
+
+II 
+
+
+
+CX4 
+
+O 
+> 
+
+< 
+
+D 
+
+< 
+
+X 
+
+
+
+U 
+•J 
+
+O o 
+
+« o 
+
+
+
+X 
+H 
+
+a 
+
+^s 
+
+o 
+
+(/) 
+
+o 
+
+Qu 
+
+a: 
+
+H 
+
+O 
+
+o 
+
+X 
+(/) 
+
+< 
+
+
+
+
+
+
+OQ 
+
+bo 
+
+08 
+03 
+
+a 
+
+•iH 
+
+
+
+
+
+I 
+
+CO 
+
+
+
+o 
+
+i 
+
+o 
+
+
+
+•iH 
+
+
+
+O 
+GO 
+
+
+
+•4^ 
+
+
+
+
+
+
+CO 
+
+
+
+a 
+
+03 
+
+d 
+cm' 
+
+
+
+PI 
+
+pq 
+
+
+
+CO 
+
+
+
+P 
+o 
+
+• »-< 
+
+P 
+
+d 
+
+d 
+o 
+
+
+
+
+
+
+
+• 
+
+
+be 
+
+
+fl 
+
+
+Q 
+
+
+o 
+
+
+O 
+
+
+GO 
+
+
+a, 
+
+
+
+
+§ 
+
+
+ft 
+
+
+'^ 
+
+
+a 
+
+
+
+
+^ 
+
+
+
+
+<D 
+
+
+
+
+r^ 
+
+
+• 
+g8 
+
+
+-4^ 
+
+
+bc 
+
+
+o 
+
+
+fl 
+
+
+;zi 
+
+
+pq 
+
+
+
+^ '- 
+
+
+
+o 
+
+
+
+
+
+
+
+
+
+^3 
+
+
+
+d 
+d 
+
+
+
+ce 
+
+
+
+BEMGA GRAMMAR. 
+
+
+
+ORTHOGRAPHY. 
+
+ALPHABET. 
+
+The sounds used in the Benga language may all 
+be expressed by the following signs : 
+
+a, a, b, d, e, 6, f, g, h, i, j, k, 1, m, n, o, p, s, t, u, 
+^, w, y. 
+
+In the adjacent Kombe and Mpongwe tribes, r 
+is a very prevalent sound. Also ch, sh, and zh, rep- 
+resented respectively by ty, sy, and zy. 
+
+VOWELS. 
+
+The vowels are four short, a, e, 6, i ; and three 
+long, d, o, u. 
+
+a sounded as a in far, e. g., kalaka, speak thou. 
+
+
+
+a 
+
+
+<( 
+
+
+a 
+
+
+law, '* 
+
+
+tandaka, love thou. 
+
+
+e 
+
+
+<( 
+
+
+e 
+
+
+they, 
+
+
+en^, arm. 
+
+
+g 
+
+
+t( 
+
+
+e 
+
+
+met. " 
+
+
+kw61ek6, chop thou. 
+
+
+i 
+
+
+t( 
+
+
+• 
+
+1 
+
+
+maohine, <' 
+
+
+ipivia, thought. 
+
+
+
+
+
+(( 
+
+
+
+
+
+note, *• 
+
+
+ikogo. shoe. 
+
+
+u 
+
+
+(i 
+
+
+oo 
+
+
+moon, * ' 
+
+
+itutu, smoke. 
+
+
+
+14 BENGA GRAMMAR. 
+
+
+
+DIPHTHONGS. 
+
+
+
+The diphthongs are formed by prefixing to any 
+other vowel, long or short, the short vowel a. 
+
+EXAMPLES. 
+
+ai sounded as i in pine, e. g., Paia, my father. 
+
+ae •* i " " t^kae, this. 
+
+au " as ow in how, '• maupa, dews. 
+
+ao •• ow •• •• Paia- o, my father. 
+
+CONSONANTS. 
+
+The simple consonant sounds are expressed by 
+b, d, f, g, h, j, k, 1, m, n, p, s, t, v, w, y ; each of 
+these letters has one well-defined sound. 
+
+Note. — g is always hard ; y preceded by a be- 
+comes a vowel, and the resultant combination is 
+represented by the diphthong ai, e. g., mba yowe 
+(spoken mbaiyowe), I do not know. 
+
+COMBINED CONSONANTS. 
+
+There are some peculiar sounds which can only 
+be expressed by combinations of consonants. These 
+are found, for the most part, at the beginning of 
+words. 
+
+
+
+Also, 
+
+
+
+EXASfPLRR. 
+
+
+bw, AS in 
+
+
+bwalo, canoe. 
+
+
+mb, *' 
+
+
+mboka, town. 
+
+
+uj. •• 
+
+
+njea, path. 
+
+
+mw, '• 
+
+
+mwanga, a garden. 
+
+
+ng. *• 
+
+
+ngowa, hog. 
+
+
+kw, * * 
+
+
+kw§16, to chop. 
+
+
+ngw. " 
+
+
+bangwe, father. 
+
+
+mbw, *' 
+
+
+mbwedi, captive. 
+
+
+
+BENGA GRAMMAR. 1 5 
+
+These are nothing more, however, than the com- 
+bined sounds of the component simple consonants, 
+and are easily remembered and pronounced after 
+being heard a few times. It may assist one begin- 
+ning to allow a half-suppressed initial vowel sound, 
+somewhat after the manner of a Hebrew vocal 
+sh'va. 
+
+EXAMPLES- 
+
+mboka, &8 if umboka. 
+ngowa, •' iDgowa. 
+
+When ng* appears in other than the first syllable 
+of a word, its proper sound is not readily caught by 
+most foreigners. Example : hangw6. The mistake 
+is usually made of dividing the syllables as if they 
+were thus, hang-we, precisely as in the English 
+word "singer." But there is no such sound in 
+Benga. (There is, most abundantly, in Mpongwe ; 
+and it is represented by the sign n). The proper 
+sound for ng* in Benga, as in Mpongwe also, may be 
+readily obtained by noticing the nasal reduplica- 
+tion, of which one's own nose is conscious, in slow- 
+ly and firmly pronouncing the English word " fin- 
+ger." The ng* in hangwe will therefore be pro- 
+nounced as if it were spelled in English, hang-ngwe, 
+the ng being doubled after the manner of a He- 
+brew dagesh forte. 
+
+CONTRACTIONS. 
+
+Invariably every. Benga word ends in a vowel; 
+many of them also begin with a vowel. Hence it 
+
+
+
+1 6 BENGA GRAMMAR. 
+
+frequently happens that two vowels come together, 
+one ending and one beginning a word. When .this 
+is the case, in most instances, either (1) one of the 
+vowels is elided, or (2) a coalescence of the two oc- 
+curs, forming a new sound. 
+
+EXAMPLES OF CONTRACTION BT ELISION. 
+
+ESkg o nhgkg, go to the beach. 
+Elided K6k' o 'h6k6. 
+
+VSkg umba epokolo, give me a hat. 
+Elided Vgkg 'mba 'pokolo. 
+
+EXAMPLES OF CONTBACTION BY COALESCENCE. 
+
+Koho iitg, many parrots ; pronounciid Kob* wit6. 
+Ndabo eyamu, a good house ; *' Ndab' weyam*. 
+
+Sometimes also there may be both elision and 
+coalescence in the same word : — e. g., Ndabo edve, 
+thy house, is first elided into ndabo 'ave, and then 
+coalesced into ndab* wav6. But in our Benga books 
+such instances of coalescence as ndabw&ve, though 
+properly so pronounced, are not so written ; such 
+phonetics would be inconsistent with the beautiful 
+symmetiy of the language. The words are written 
+ndabo 'ave, and the reader learns very readily to 
+apply the coalescence by the following rules : 
+
+Rule 1st. When either of the three long vowels 
+is final and followed by itself or any other vowel, 
+long or short, the resultant sound is w. 
+
+EXAMPLES. 
+
+(1) A fiual long vowel followed by itself, Etaka 'ave, thy fam- 
+ily, pronounced etakwave. 
+
+
+
+BENGA GRAMMAR. 1 7 
+
+(2) A final loDg vowel followed by a short vowel, Jambo iyamS 
+a good affair, pronounced jambwiyam'. 
+
+(3) A final long vowel followed by another long vowel, Upu- 
+Inngu *ave, thy cave, pronounced upulnngwave. 
+
+Eule 2d. Wlien either of the four short vowels 
+(except a) is final and followed by another vowel, 
+long or short, the resultant sound is y. 
+
+
+
+EXAMPLES. 
+
+
+
+e a ) ( ^'^ ) ( 
+
+e a y written -J Sa > pronounced -I 
+
+i e ) ( 16 ) ( 
+
+
+
+ya 
+
+
+
+Exception (1), a before another short vowel, 
+wherever located, becomes a diphthong ai, e. g., 
+tekae, this ; mbambag, truly ; paia, father. 
+
+Exception (2), a before a long vowel, wherever 
+located, becomes a diphthong on ; e. g., maupa, 
+dews, as if moupa ; Paia O ! oh ! my father, as if 
+Paiou. 
+
+There is no rule to indicate, in a given collision 
+of any two vowels, in which of the two ways, elision 
+or coalescence, the contraction shall occur. But a 
+reader's ear soon learns from the harmony of the 
+language what is the proper pronunciation in the 
+case. 
+
+The chief difficulty is in understanding the words 
+when spoken, the contractions being of such fre- 
+quent occurrence. Sometimes a whole sentence is 
+spoken as if it formed but one word ; and it is diffi- 
+cult, without considerable knowledge of the language, 
+to detect the words of which it is made up ; e. g., 
+
+BengK Grnnimar. 2 
+
+
+
+1 8 BENGA GRAMMAR. 
+
+E le epokolo ea nja ekae? Whose hat is this? is 
+spoken, Elepokolan jakai ? 
+
+There are also contractions caused by dropping 
+of an entire syllable, e. g., mwana-mwajo, daughter 
+(literally, woman-child), contracted, mwa'-mwajo ; 
+mbi valandi, I 'm going ; contracted, mb* 'alandi. 
+
+• ACCENT. 
+
+The accent is almost always on the penult. 
+
+EXAMPLES. 
+
+I->£a-du, a hand ; v^-ke, give ; e-ja-nga-na-if^-bo, a book ; le- 
+va-i»-de, show. 
+
+Exception 1. Verbs followed by a monosyllabic 
+objective. 
+
+EXAMPLE. 
+
+Y^Jke 'mba, give me ; Levaki<// ma, show him. 
+
+Here the accent is carried forward to the last 
+syllables ke and d6. But indeed this exception ie 
+only apparent, and would disappear if the pronom- 
+inal objectives 'mba and ma were written, as in He- 
+brew, as suffixes to their verbs, thus ; v6k6mba, le- 
+vakidemd. 
+
+Exception 2. The word beja, food, and perhaps 
+a few others, like miba, water, and diba, marriage, 
+seem to accentuate the last syllable. 
+
+
+
+BENGA GRAMMAR. J9 
+
+ETYMOLOGY. 
+
+NOUNS. 
+
+Nouns have distinct forms to indicate their num- 
+ber and classification, but none to show their gen- 
+der or case. 
+
+NUMBER. 
+
+There are two numbers, the singular and the 
+plural, indicated by their initial syllables. 
+
+1. But a large list of nouns has only one form to 
+express both the singular and the plural, e. g., pavo, 
+knife; payo, knives; mbanja, a bamboo; mbanja, 
+bamboos. 
+
+2. Some nouns have two forms for their plural, 
+the singular remaining the same. 
+
+EXAMPLES 
+
+mboka, town { ^^^^^^ [towns 
+
+njea.path { ^jea }p^^^« 
+ndabo, house { ^^^^^^1^^ [houses 
+
+3. The names of liquids and other nouns of 
+quantity are always used in the plural form and 
+take plural adjuncts, e. g., miba, water; mavule, 
+oil ; makandd, sap. 
+
+CLASSDIOATION. 
+
+The classification of nouns depends upon the 
+
+
+
+20 BENGA GRAMMAR. 
+
+manner in which they form their plurals and take 
+their adjuncts. 
+
+1st. Nouns which form their plurals in a similar 
+manner are arranged together in one class. These 
+are found, without exception, to take similar ad- 
+juncts. There are thirteen modes of forming plu- 
+rals in the language ; so this • rule, strictly adhered 
+to, woum lead to the formation of thirteen classes. 
+
+2d. But the number of classes may be reduced 
+to eight, by uniting under a class all nouns whose 
+singular takes like adjuncts, though their plurals 
+may not be similarly formed. 
+
+The above and the meaning of the word adjunct, 
+or " vinculum," will be clearly understood by com- 
+paring the tables of nouns and pronominal prefixes 
+given under each class of nouns. 
+
+GENDER. 
+
+The natural gender is indicated by attaching to 
+the noun the words momo, man, or mwajo, woman. 
+
+EXAMPLES. 
+
+i . . A. ^wa?«-°^omo ) ^ man-child, i. e. , a son. 
+(contracted) mwa'-momo j 
+
+. . . ^x n^^ana-mwajo j ^ woman-child, i. e. , a daughter, 
+(contracted) mwa'-mwajo J 
+
+The form used to indicate the gender of irra- 
+tional animals is different, e. g., momi mwa kuba, 
+male of chicken, i. e., cock ; mwadi mwa tomba, fe- 
+male of goat. 
+
+Inanimate objects have no gender. 
+
+
+
+BENGA GRAMMAR. 21 
+
+CASE. 
+
+Subjects and objects are known, as in English, 
+by their position in a sentence. But the possessive 
+case is always preceded by a compound adjunctive 
+particle which answers in signification to the prep- 
+osition " of," e. g. : 
+
+ub&ki mua Tonda. • 
+
+axe of Tonda, i. e., Tonda's axe. 
+ele ea buda. 
+tree of kuda, i. e., a kuda tree. 
+
+CLASSES OF NOUNS. 
+
+FIBST GLASS. 
+
+This very large class comprises all nouns com- 
+mencing with e and y : the plural is formed by 
+changing those letters into be. 
+
+
+
+
+
+EXAMPLES OF E. 
+
+
+
+
+Singular. Plural. 
+
+
+Hat 
+
+
+epokolo bepokolo 
+
+
+Arm 
+
+
+ena bena 
+
+
+Tree 
+
+
+ele bele 
+
+
+
+
+EXAMPLES OF Y. 
+
+
+
+
+singular. Plural. 
+
+
+FTeat 
+
+
+yomu beomu 
+
+
+A flat basket 
+
+
+yapa beapa 
+
+
+A large family fetish yaka beaka 
+
+
+A peculiar-shaped boat yalo bealo 
+
+
+Yam 
+
+
+yoma beoma 
+
+
+
+Note. — If, as the harmony of the language would 
+allow, it were agreed to write this second list of ex- 
+
+
+
+22 BENGA GRAMMAR. 
+
+amples thus : eoma, eapa, etc., the pronunciation 
+would be unchanged, and this entire first class would 
+then have for its initial letter only the letter e, with 
+the single exception of the name for the Supreme 
+Being, Anyambe, whose plural is beanyambd. 
+
+EXAMPLE OF ADJUNCT OF THE FIRST CLASS OF_ NOUNS. 
+
+Sing • Tree of life, Ele { ^^^^^ ^^ \ 'mgnS. 
+Plural Trees of life, Bele { 1%^^ ^^^^ \ 'mgnS. 
+
+SECOND CLASS. 
+
+This class comprises all nouns beginning with i^ 
+dl, and J. The plurals are formed by (1) changing 
+the first syllable into ma ; (2) by substituting for the 
+initial letter the letter m. 
+
+
+
+EXAMPLES OF 
+
+
+(I). 
+
+
+
+
+Sing. 
+
+
+Plural. 
+
+
+Hand 
+
+
+ikadu 
+
+
+makadu 
+
+
+Shoulder 
+
+
+ibekg 
+
+
+mabSkS 
+
+
+Egg 
+
+
+dike 
+
+
+makg 
+
+
+Ear 
+
+
+dita 
+
+
+mata 
+
+
+Door 
+
+
+jambe 
+
+
+mambe 
+
+
+Boil 
+
+
+Jala 
+
+
+mala 
+
+
+
+EXAMPLES OF (2). 
+
+Sing. Plural. 
+
+Afiair jambo mambo 
+
+•Sun joba moba 
+
+Eye diha mih& 
+
+Name dina mina 
+
+Fire-plaoe diya miya 
+
+But there are some exceptions. 
+
+
+
+BENGA GRAMMAR. 23 
+
+EXAMPLES. 
+
+Sing. Plural. 
+Dew j^^P^^ manpa 
+Ten jomu mabo 
+
+Note 1. Under this second class are regularly 
+inflected the cardinals from 2 to 5 inclusive. 
+
+ibale ; Two hands. makadn mabale 
+
+ilalo; Three •* ** malalo 
+
+inai ; Four " " manai 
+
+itano; Five ** '* matano 
+
+Note 2. Those nouns which are names of liquids 
+and not used in the singular, belong to the plural 
+of this class ; e. g., milk, many&nga ; rum, maku ; 
+blood, makiya ; water, miba (old form maiba). 
+
+Note 3. Some nouns beginning with i change 
+this letter into lo for the plural ; these belong to 
+the seventh class, which see. 
+
+
+
+
+
+EXAMPLES. 
+
+
+
+
+
+
+Singular. 
+
+
+Plural. 
+
+
+Bird 
+
+
+inani 
+
+
+lonani 
+
+
+Place 
+
+
+iboko 
+
+
+loboko 
+
+
+Pepper 
+
+
+ikadada 
+
+
+lokadada 
+
+
+Spider 
+
+
+ibobeli 
+
+
+lobobeli 
+
+
+
+EXAMPLE OF ADJUNCT OF THE SECOND CLASS OF NOUNS. 
+
+Sing. Name of Jesus. Dina ja Jisu. 
+
+PI. Names of Jesus. Mina ma Jisu. 
+
+THIRD CLASS. 
+
+The third class of nouns comprises all (except 
+verbal nouns of agency) beginning with u and inw 
+(equivalent mu). To form the plural, they change 
+those letters into me. 
+
+
+
+24 BENGA GRAMMAR. 
+
+
+
+
+
+EXAMPLES. 
+
+
+
+
+Singular. Plural. 
+
+
+Axe 
+
+
+ubaki mebaki 
+
+
+Garden 
+
+
+mwanga meanga 
+
+
+Female 
+
+
+mwadi meadi 
+
+
+
+
+EXCEPTIONS. 
+
+
+
+
+Singular. Plural. 
+
+
+Head 
+
+
+molo meolo 
+
+
+Male 
+
+
+momi meomi 
+
+
+
+EXAMPLE OF THE ADJUNCT OF THE THIRD CLASS OF NOUNS. 
+
+Sing. Garden of plantains, Mwanga mua bekai. 
+PI. Gardens *< Meanga mea bekai. 
+
+FOURTH CLASS. 
+
+The fourth class comprises all the nouns begin- 
+ning with bo (equivalent bw); and the plural is 
+formed by changing into me either (1) bo (bw) or 
+(2) b alone. 
+
+EXAMPLES OF (l). 
+
+Sing. Plural. 
+
+Orange bolohi melohi 
+
+Canoe bwalo mealo 
+
+Medicine bwanga meanga 
+
+EXAMPLES OF (2). 
+
+Sing. Plural. 
+
+Face boho meoho 
+
+Rainy season boka meoka 
+
+Exceptions : Buhwa, day, belongs to this fourth 
+class in the singular, but the plural, hwi, which is 
+irregular, takes its adjunct with the singular of the 
+second class. Bobe, sin, belonging to this fourth 
+class in the singular, has its plural, mabe, like the 
+plural of the second class. 
+
+
+
+BENGA GRAMMAR. 2$ 
+
+EXAMPLE OP ADJUNCT OF THE FOURTH CLASS OF NOUNS. 
+
+Sing. Canoe of a stranger, Bwalo boa mwengi. 
+PI. Canoes " ** Mealo mea mwengi. 
+
+FIFTH CLASS. 
+
+This class consists of the very large number of 
+the verbal nouns of agency, whose initial letter is 
+u ; the plural is formed by changing u into ba. 
+
+EXAMPLES. 
+
+Singular. Plural. 
+
+Builder ulongi balongi 
+
+Fisher uhombwedi bahombwedi 
+
+Saviour uyongi bayongi 
+
+EXAMPLE OF ADJUNCT OF THE FIFTH CLASS OF NOUNS. 
+
+Sing. The builder of a house, Ulongi mna ndabo. 
+PI. The builders '* " Balongi ba ndabo. 
+
+SIXTH CLASS. 
+
+A few nouns, names of rational beings, begin- 
+ning with mo and mi/v (equivalent mu) constitute 
+a sixth class. They form their plural by changing 
+mo into ba and mw (mu) into b. They are thus 
+separately constituted from the fifth class because 
+of the form n6 they take in their adjunct of the 
+definite demonstrative pronoun, which see. 
+
+
+
+
+
+EXAMPLES. 
+
+
+
+
+
+
+Singular. 
+
+
+Plural. 
+
+
+Person 
+
+
+moto 
+
+
+bato 
+
+
+Man 
+
+
+momo 
+
+
+bamo 
+
+
+Woman 
+
+
+mwajo 
+
+
+bajo 
+
+
+Child 
+
+
+mwana 
+
+
+bana 
+
+
+
+26 BENGA GRAMMAR. 
+
+Mwada, wife, is irregular in its plural bajo. 
+Query : Is polygamy thus wrought into the very 
+language itself? 
+
+EXAMPLE OF ADJUNXT OF THE SIXTH CLASS OF NOUNS. 
+
+Sing. Man of sorrows, Momo ua betuniya. 
+PL Men of ' ' Bamo ba betuniya. 
+
+SEVENTH CLASS. 
+
+The seventh class comprises diminutives and all 
+other nouns beginning with ri. The plural is 
+formed by changing (1) v into 1, (2) vi into 1, (3) 
+vi into lo. 
+
+
+
+EXAMPLES OF (l). 
+
+
+
+
+
+
+Singular. 
+
+
+Plural. 
+
+
+River 
+
+
+viho 
+
+
+liho 
+
+
+Torch 
+
+
+vitwa 
+
+
+litwa 
+
+
+Nose 
+
+
+vijo 
+
+
+lijo 
+
+
+EXAMPLES OF (2). 
+
+
+
+
+
+
+Singular. 
+
+
+Plural. 
+
+
+Song 
+
+
+viembo 
+
+
+lembo 
+
+
+Salt 
+
+
+vianga 
+
+
+langa 
+
+
+Lime-fruit 
+
+
+viaha 
+
+
+laha 
+
+
+
+EXAMPLES OF (3). 
+
+Singular. ~ Plural. 
+
+A little thing vilolombo lololombo 
+A small fish vijajaka lojajaka 
+
+A little piece vipupuhu lopupuhu 
+
+The exceptions mentioned in note (3) of the 
+second class of nouns, beginning with I, but which 
+make their plural in lo, belong to this seventh 
+class, e. g., inani, bird ; plural, lonani (not man&ni). 
+
+
+
+BENGA GRAMMAR. 2^ 
+
+EXAMPLE OF ADJUNCT OF THE SEVENTH CLASS OF NOUNS. 
+
+Sing. Song of praise, Viembo via ibenda. 
+PI. Songs " Lembo la ibenda. 
+
+EIGHTH CLASS. 
+
+The eighth class embraces all nouns which un- 
+dergo no change to form the plural. But they are 
+declinable in their adjuncts, taking in the singular 
+the adjunct of the singular of class first, and in the 
+plural the adjunct of the singular of class second. 
+
+Examples : mbanja, bamboo ; fato, stocking ; 
+tomba, goat ; kuba, chicken ; pele, way ; nyanga, 
+sake. 
+
+Note 1. Pele and nyanga are used sometimes as 
+nouns and sometimes as adverbial phrases in con- 
+nection with the preposition o. 
+
+EXAMPLES AS NOUNS. 
+
+O pSle 'pakw§ ea viho, On the other side of the river. 
+
+pel* eyamu, In a good way. 
+
+A wakind' o nyang' 'ahu, He died for onr sake. 
+
+EXAMPLES AS ADVERBIAL PHRASES. 
+
+O pSl' *am§. About me. 
+
+nyang* 'ame, As fur as I am concerned. 
+
+Note 2. Some nouns belonging to this eighth 
+class have a second form for the plural, taking the 
+plural adjunct of the second class. 
+
+EXAMPLE. 
+
+Siug., Adjunct. PI., Adjunct. 
+
+House, Ndabo, enjj^^*^?', J^ 
+' ' ' ] mandabo, ma 
+
+
+
+28 BENGA GRAMMAR. 
+
+EXAMPLE OF ADJUNCT OF THE EIGHTH CLASS OF NOUNS. 
+
+Sinf(. Chicken of my friend, Euba ea mbwe< 'ame. 
+PI. Chickens " " Euba ja mbwe* *ame. 
+
+DERIVATIVES. 
+
+At least five kinds of nouns may be derived from 
+verbs or from other nouns. 
+
+1. ABSTRACT NOUNS. 
+
+These are derived from the second person sin- 
+gular imperative of the verb, by dropping the last 
+syllable and prefixing i. 
+
+EXAMPLES. 
+
+Longaka, build thou. Ilonga, building. 
+Langaka, read thou. Ilanga, reading. 
+
+Kalaka, talk thou. Ikala, talking. 
+
+These nouns all belong to class second, both in 
+singular and plural. 
+
+2. NOUNS OF AGENCY. 
+
+These are formed from the second person sin- 
+gular imperative of the verb, by dropping the last 
+syllable, changing the vowel which precedes it to i, 
+and prefixing u. 
+
+EXAMPLES. 
+
+Longaka, build thou. Ulongi, a builder. 
+Langaka, read thou. Ulangi, a reader. 
+
+Ealaka, talk thou. Ukali, a talker. 
+
+These nouns all belong to class fifth, both in the 
+singular and plural. 
+
+
+
+BENGA GRAMMAR. 29 
+
+3. NOUNS OP MODE OB MANNER. 
+
+These are formed by changing u of the noun of 
+agency into i, and suffixing di, 
+
+EXAMPLES. 
+
+Ulongi, a builder. IloDgidi, mode of building. 
+UlaDgi, a reader. Ilangidi, way of reading. 
+
+Ukali, a talker. Ikalidi, manner of talking. 
+
+These nouns all belong to class second both in 
+singular and plural. 
+
+4. NOUNS OF PLACE OR LOCALITY. 
+
+These are formed by adding to the abstract 
+noun the syllables nido. 
+
+EXAMPLES. 
+
+Ilonga, a building. Ilonganido, site for a house. 
+
+Ihamba, a price. Ihambanido, a market-place. 
+
+Ijabua, fording. Ijabwanido, a ford. 
+
+These nouns all belong to class second both in 
+singular and plural. 
+
+5. NOUNS OF DIMINUTION. 
+
+These are formed (1) from nouns beginning with 
+a vowel by changing this vowel to vl, and redupli- 
+cating the second syllable, (2) from nouns begin- 
+ning, with a consonant, by^ prefixing vi and redu- 
+plicating the first syllable. 
+
+EXAMPLES OF (l). 
+
+Singular. Plural. 
+Food, eja ; a little food, vijaja, lojaja. 
+Hand| ikadu ; a small hand, vikakadu, lokakadu. 
+
+EXAMPLES OF (2). 
+
+Door, jambe ; A small door, vijajambe lojajambe. 
+House, ndabo ; A small house, vindandabo londandaV >. 
+
+
+
+30 BENGA. GRAMMAR. 
+
+These nouns all belong to class seventh both in 
+singular and plural. 
+
+6. NOUNS OF INTENSITY. 
+
+They express the quaUty of the noun in the 
+greatest degree. Formed by redupUcating any 
+noun, and suffixing e, e. g., motomotwe, a real 
+man ; ndabondabwe, a very fine house ; ekalikalifi, 
+simply talking, i. e., gabbling. 
+
+See also other forms of verbal nouns under note 
+to the paradigm of verbs and their species. Thus : 
+
+From the relative species Kalakiya, speak for 
+or to. 
+
+EXAMPLES. 
+
+Kind of noun 1. Ikaliya, prayer. 
+
+2. Ukaliyi, one who prays. 
+5. Vikakaliya, a little, prayer. 
+
+From the reciprocal species, Kalanaka, speak 
+together. 
+
+EXAMPLES. 
+
+Kind of noun I Ikalana, conversation. 
+
+2. Ukalani, one who converses. 
+
+3. Ikalanidi, way of conversing. 
+5. Vikakalana, a little conversation. 
+
+
+
+
+
+
+
+
+
+ADJECTIVES. 
+
+Adjectives have number and classification, but 
+they have neither case nor gender, and no proper 
+degrees of comparison. 
+
+NUMBEB AND CLASS— INFLECTION. 
+
+Adjectives have a singular and plural form, and 
+
+
+
+BENGA GRAMMAR. 3 1 
+
+they are also inflected so as to agree in class with 
+the nouns which they qualify. 
+
+The following examples exhibit a noun of each 
+class joined with the adjective " good " in the sin- 
+gular and plural. 
+
+1st i ^^°S- C^ood hat, epokolo eyamn. 
+
+I PI. Good hats, bepokolo beyamu. 
+
+Q^ r Sing. Good boat-landiug, ibongo iyamii. 
+
+\ PI. Good boat-landings, roabongo mayamu. 
+
+g J f Sing. Good axe, nbaki uyamu. 
+
+I PI. Good axes, mebaki meynmu. 
+
+^., j Sing. Good face, boho boyamu. 
+
+I PL Good faces, meoho meyamn. 
+
+5th i ^^^S- Good builder, ulongi uyamtL 
+
+I PI. . Good builders, balongi bayamu. 
+
+g.i ( Sing. Good person, moto uyamu. 
+
+I PI. Good persons, bato bayamu, 
+
+„. V 1 Sing Good candle, vitwa viyamu. 
+
+1 PI. Good caudles, litwa loyamu. 
+
+«.| j Sing. Good house, ndabo eyamu. 
+
+I PI. Good houses, ndabo iyamu. 
+
+We find here the forms eyam*, beyam* ; uyam*, 
+mayam* ; uyam*, meyam*, etc., which the adjective 
+yamu takes to agree with a noun of each class. 
+
+All the adjectives, with a few exceptions noted 
+below, and possessive and adjective pronouns, are 
+inflected in the same manner. 
+
+Exception (1.) A few adjectives are not inflected, 
+but are used in connection with the nouns which 
+they qualify, without any variation of their simple 
+root form, e. g., nyevi, nice ; kena, excessive. 
+
+Exception (2.) The cardinals from 6 to 9 inclu- 
+sive, utoba, hembwedi, logwambi, ibuwa. 
+
+
+
+32 BENGA GRAMMAR. 
+
+COMPARISON. 
+
+Objects are compared (1) by a circumlocution, 
+(2) by merely stating the quality of the object 
+which possesses the particular quality in the high- 
+est or lowest degree, (3) by peculiar intonation and 
+emphasis. 
+
+To aid in expressing comparative and superla- 
+tive degrees, the verb keba, to surpass, and the 
+adverb wa, more, are frequently used. 
+
+EXAMPLES IN COMPARATIVE DEGREE. 
+
+My hat is better than yours. 
+Epokol* 'aine e kebakgnd' eavS. 
+(LiteraUy) Hat my it excels yours. 
+
+This is a larger fish than that 
+Ejaka tSkae e ud* euene wa na 'kae. 
+(Literally) Fish this it is large more with that. 
+
+Ogula is older than Komba. 
+Eomba ua Ogula ; Ogur a nd' utodu. 
+(Literally) Eomba and Ogula ; Ogula he is old. 
+
+EXAMPLES IN SUPERLATIVE DEGREE. 
+
+My hat is the best of all. 
+Epokol' 'am§ e kebakendi beehepi. 
+(Literally) Hat my it surpasses all [hats]. 
+
+This is the largest fish I have ever seen. 
+Ekae nd* ejaka *nene metS eame eha yene n' ivakwS. 
+(laterally) This is fish large very mine which not seen before. 
+
+The Bible is the best of books. 
+£ible e nd' ejanganangobo eyam' wa na beSh^pi. 
+(Literally) Bible it is book good more with all [books]. 
+
+Emphasis and intonation are used to indicate 
+extremes in quantity and quality ; precisely as in 
+English we express ecstasy of grief or joy, admira- 
+tion or detestation, by an emphatic prolongation of 
+
+
+
+BENGA GRAMMAR. 33 
+
+a syllable, e. g., beau-u-tiful ! hor-r-rible ! But the 
+native African must be he^rd to appreciate the 
+exaggeration of his u-ya-a-a-m*, exceedingly good ! 
+e*.ne-6-e-ne, exceedingly great ! 
+
+The list of adjectives in Benga is very short, 
+for such common words as good, yamu ; bad, be ; 
+large, nen6 ; small, hdle ; special, huhu ; many, ite ; 
+black, vindo, etc. But this paucity is supplied by 
+the constant use of substantive-adjectives. 
+
+SUBSTANTIVES FOR ADJECTIVES. 
+
+A very frequent construction (somewhat after 
+the manner of the Hebrew " hill of holiness," holy 
+hill) is to ascribe to a given noun the quality, ma- 
+terial, possession, attribute, or habit of some other 
+noun, the two nouns being connected by the proper 
+class-agreeing prepositional adjunct of the first or 
+qualified noun. 
+
+Examples : "Ancient people " is expressed thus: 
+bato ba vyo. Here the attribute (age) of the noun 
+vyo, ago, is ascribed to the noun bato, people, by 
+the sixth class vinculum ba belonging to bato. 
+
+New cloth, unamba muca kya ; literally, cloth of now. 
+High bill, ukodl mu* udomba ; literally, hill of height. 
+
+NUMEBAL ADJECTIVES. 
+
+The manner of counting in Benga is strictly 
+decimal. And the spoken word is illustrated and 
+emphasized by a regular and systematic show of 
+the same number of the speaker's fingers of either 
+hand. 
+
+Uenf^a Grftniniar. "l 
+
+
+
+34 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+hi 
+<l 
+
+H 
+
+<l 
+
+D 
+
+
+
+CQ 
+
+
+
+O 
+52; 
+
+O 
+
+» 
+
+
+
+
+
+
+<e« V 
+
+
+
+
+
+
+O 
+
+
+
+»~.»^ —^ 'rm f^ 
+
+
+
+is. 
+
+
+
+c a 
+
+
+
+11 
+
+fl s fi a 
+
+
+
+If 
+
+Vl'» W 
+
+
+
+iw 
+
+
+
+)5*S 
+
+
+
+0,0 
+
+
+
+«d 
+
+
+
+
+
+
+StfiJ.'Sa ti P- 
+
+
+
+4>9 
+
+
+
+<(di2 0.^ 
+
+
+
+U eS 
+
+
+
+S-=a 
+
+
+
+'S: o o o o 
+
+
+
+eS 98 
+
+c s 
+
+
+
+4J 
+
+
+
+£3 08 03 ^ 08 
+
+
+
+3i2 
+
+
+
+o 
+
+
+
+S OS'S * § 
+S cS e3 08 e8 
+
+
+
+<d 08 
+C 08 
+
+- e8 
+
+dd 
+
+
+
+d 
+
+^ 
+
+
+
+an - 
+
+
+
+o 
+
+■rt SS 08 2 o3 
+^A,S d-M 
+
+-f a> a> « » 
+
+
+
+0) 
+
+e8 03 
+d d 
+
+
+
+o o a> o) 
+
+
+
+dsssa 
+
+
+
+- 08 
+d d 
+
+
+
+
+
+
+So.^ 
+
+
+
+o 
+
+* c3 
+
+
+
+O 
+^ ■« 
+
+
+
+.* rj s d 
+
+.1^ 63 08 08 o3 
+
+.' «, s s s s 
+
+
+
+o3«e«A 
+<d-d^ 08 
+^ s8<(d d 
+
+~">'~'d d aj dj « 
+
+
+
+« a3 
+
+
+
+S3 08 
+;;^£,d d-M •o 
+
+«d S^ 9^ $ S d 
+V A .o jo jo .r: 
+
+
+
+08 > 
+
+d 
+
+
+
+<D o 
+
+^ .0 ™ C -S 
+
+<ce $ 0) a> o 
+
+c8 ti 08 ^ ^ 
+
+a d d d d 
+
+
+
+0? V 
+
+
+
+08 eSS 
+
+d d (u 
+
+
+
+S 2S 55*3 2 5 
+08 w 98 08 A 08 
+
+sssass 
+
+
+
+
+
+
+U 
+«d 
+
+a; 
+
+08 
+
+d 
+
+
+
+
+
+
+
+«? 
+
+
+m 
+
+
+1-3 
+
+
+s 
+
+
+-«J 
+
+
+P5 
+
+
+s 
+
+
+M 
+
+
+*i 
+
+
+S 
+
+
+
+
+
+
+
+
+
+
+
+<4 
+
+
+
+So 
+
+5:s 
+
+
+
+
+3il|£i§Biiaiii|iii|i|||||||i 
+
+-- « +j oj s' rs ws--. oQoooooooddsdddddddc 
+
+
+
+dddddddd 
+
+
+
+ddddddddddes 
+
+
+
+dSddCdddCa«C8OT««WOTTOCag 
+
+'O o o o o o o o o d ScSSSSSS BU 
+
+
+
+
+
+
+0000 
+
+
+
+
+rH O O 
+000 
+
+
+
+rH O 
+
+
+
+. BENGA GRAMMAR. 35 
+
+In the preceding table, it will be perceived that 
+the numerals from 1 to 5 inclusive are inflected as 
+common adjectives to agree with the nouns which 
+they qualify^ From 6 to 9 inclusive they are inde- 
+clinable. 
+
+Ten and its multiples are used as round num- 
+bers, and the nouns which they qualify are con- 
+strued after them connected by the regular class- 
+prepositional vinculum or adjunct. Thus, "one 
+hat " is epokolo eaka ; but " ten hats " is jom* ja 
+bepokolo, literally "ten of hats." "Twenty hats" 
+is mabo ma bepokolo mabale, literally " tens of hats 
+two." " Thirty hats," mabo ma bepokolo malalo ; 
+literally, " tens of hats three. 
+
+When a given number of things includes units, 
+tens, and hundreds, the noun is repeated for each 
+repetition of the qualifying numeral adjective. 
+Thus : 
+
+One hundred and six people. 
+Kama ea bato paka, na bato utoba. 
+(Literally) Hundred of people one, and people six. 
+
+Two hundred and ten people. 
+Kama ja bato ibale, na jomu ja bato jaka. 
+(Literally) Hundreds of people two, and ten of people one. 
+
+Seven hundred and twenty-five people. 
+
+Kama ja bato hembwedi, na mabu ma bato mabale, na 
+
+bato batano. 
+(Literally) Hundreds of people seven, and tens of people two, and 
+
+people five. 
+
+But in common conversation all this is abbrevi- 
+
+
+
+36 BENGA GRAMMAR. 
+
+ated by uttering the noun only when the units are 
+finally named. Thus : 
+
+Kama hSmbwedi na maba mabale ua bato batano. 
+(Literally) Hundreds seven and tens two and people five. 
+
+This may be still further abbreviated by drop- 
+ping the conjunction na, except at the final utter- 
+ing of the unit. Thus : 
+
+Twelve hundred and thirty-four people. 
+Tajen paka kama ibale mabu malalo ua bato banai. 
+(Literally) Thousand one, hundreds two,' tens three, and people 
+four. 
+
+In the veiy common native African colloquial 
+mode of expressing a numeral by exhibiting the 
+number of fingers indicating it, the hearer is ex- 
+pected to name the adjunct of the class of noun to 
+which the indicated number belongs. 
+
+For 1, the speaker lifts up an index finger ; for 
+2, the first and second fingers only ; for 3, the sec- 
+ond, third, and fourth fingers only ; for 4, the four 
+fingers, the thumb being hidden ; for 5, the closed 
+fist. 
+
+Thus, if a man going on a journey is asked how 
+many days he will be absent, and intends to be ab- 
+sent, perhaps, four days, he will reply, " Hwi di," 
+(days so), at the same time holding up four fingers ; 
+and the interrogator is expected to say, " Inai " 
+(four). 
+
+So, also, if there be three axes, and the question 
+be, Mebaki meningS ? how many axes ? the reply 
+
+
+
+benga grammar. 3; 
+
+is, "Me," with three fingers up; me being the 
+plural adjunct of the class third of nouns to which 
+mebaki belongs. 
+
+In narration, and very graphically in the telling 
+of pa (a summary of incidents told immediately 
+after arrival from a journey), this method of num- 
+bering is chiefly used ; and it is remarkable with 
+what facility hundreds, tens, and units can be rep- 
+resented, with no fear on the part of the narrator 
+of bemg misunderstood. 
+
+OBDINAL NTJMBEBS. 
+
+The Benga language has no proper series of 
+ordinal numbers. But a regular series may bo 
+formed in the same manner that some of the neigh- 
+boring tribes form their ordinals, i. e., by prefixing 
+to the cardinal series the prepositional vinculum 
+corresponding to and qualifying the noun thus num- 
+bered. In this series, however, bohoboho (face-to- 
+face — " the fore ") is used instead of pakd. 
+
+The forms for ordinals used with nouns of the 
+several classes would be as follows : 
+
+
+
+38 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+09 
+
+a 
+
+
+
+00 
+
+
+
+B 
+
+be 
+
+o 
+
+
+
+fii 
+
+
+
+H 
+
+P 
+
+
+
+
+
+
+CO 
+
+
+
+
+
+
+»c 
+
+
+
+^ O O O 
+
+O C fl 
+
+5 o3 e« 08 
+
+n 4^ 4-> '«iX 
+
+*» o8 « a 
+
+^ a a a 
+
+
+
+o o 
+fl a 
+
+
+
+o 
+a 
+
+e3 
+
+
+
+O 
+
+a 
+
+00 
+
+
+
+o -c 
+
+
+
+^4< 'rj cd oS ^ 
+
+I e a a fl 
+
+' ? c3 Qi a> 
+
+^ a a a 
+
+
+
+-s 
+
+
+-a 
+
+
+a 
+
+
+fl 
+
+
+Oj 
+
+
+ClJ 
+
+
+£ 
+
+
+£ 
+
+
+
+03 
+
+O 
+
+
+
+
+
+
+Pis 
+
+
+
+
+o 2 o o 
+
+■3 ^ ^ ^ 
+
+.— 03 o a> 
+
+^ a a a 
+
+
+
+o o 
+oS "3 
+
+
+
+03 
+
+
+
+X2 
+
+
+
+O 
+
+
+
+o 
+"3 
+
+
+
+C-J 
+
+
+
+"3 
+
+
+
+08 
+
+a 
+
+
+
+C3 o O 
+•^ I— ^- 
+
+a 
+
+
+
+3 
+
+a 
+
+
+
+03 
+
+
+
+0) 
+
+
+
+a' <w ^ 
+
+J ^ 2 a 
+
+
+
+Cfi 
+
+
+
+o 
+o 
+
+o 
+
+
+
+D 
+
+
+
+«^ --'2 * ■* «3 * 
+
+
+
+SE.23.aaaBaaiiJ->:^g.s^ 
+
+
+
+O ts 
+>5 
+
+
+
+1—1 ^' 
+
+
+
+•3 JS 
+
+
+
+•« 
+
+
+
+JC .C f 
+
+-tJ 4-3 «J 
+
+CO I- oc 
+
+
+
+0} 
+
+H 
+P 
+
+
+
+OQ 
+00 
+
+OS 
+
+
+
+09 
+
+d 
+o 
+
+o 
+
+
+
+Ml 
+
+i;.a 
+
+I 
+
+I 
+
+
+
+bo 
+u 
+
+Oi 
+
+> 
+
+
+
+
+OQ 
+
+
+
+H 
+
+
+
+
+
+
+c8 
+O . 
+
+"»^ a 
+bfl a 
+
+00 
+
+O 03 
+
+H O 
+t 
+
+
+
+. aa ^ «• 
+
+
+
+
+
+
+o 
+
+
+
+sS e3 o8 .^ •pj 
+
+=3 C fl fl o3 o8^ 
+C o3 O) O) p 9 A 
+
+« c a c 2 2 K J. 
+
+03.1) OJ S S C OB 
+
+
+
+c 
+o 
+
+
+
+Eaa"^®.a 
+
+
+
+c 
+Is 
+
+c 
+
+
+
+a> V a> 
+
+^^33*3 
+
+-3 03 <U 0) 
+
+a^aaa 
+
+7 o) OJ « 
+
+D i-j "-J '—' 
+*"? 08 03 08 
+
+"AAA 
+A 03 0) <» 
+
+^aaa 
+
+
+
+093 
+AA 
+OS (X 
+A A 
+I I 
+0) a; 
+
+ce o3 
+AA 
+
+
+
+O 03 
+
+3« 
+
+A 09 
+O A 
+
+
+
+a 
+o 
+
+>> 
+
+A 
+
+O 
+
+
+
+A 
+^-V'S'A 
+
+
+
+<ie 
+
+
+
+;.u: 
+
+
+
+(*-.., 
+
+
+
+<ed 
+
+
+
+A 
+
+,a 
+
+^^ 
+
+A S 
+
+
+
+A 
+
+
+
+P^ 03 
+
+' *iS < * "^ 
+' A jrf ** 
+
+a^^ 
+
+
+
+
+
+
+
+
+
+>-• ^ lo eot-00 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+PRONOUNS. 
+
+
+
+39 
+
+
+
+There are seven kinds of pronouns: personal, 
+relative, definite, interrogative, demonstrative, in- 
+definite, and distributive. 
+
+The possessive personal pronouns, the demon- 
+strative, and the indefinite, have the form of adjec- 
+tives and are declined in all respects similarly. 
+
+PERSONAL PRONOUNS. 
+
+These have number, person, and case, but no 
+gender. 
+
+TABLE OF PERSONAL PRONOUNS. 
+
+
+
+
+
+SINGULAR. 
+
+
+
+
+
+
+Nominative. 
+
+
+Possessive. 
+
+
+Objective. 
+
+
+1st Person. 
+
+
+mbi 
+
+
+me 
+
+
+umba 
+
+
+2d Person. 
+
+
+o 
+
+
+av6 
+
+
+av6 
+
+
+3d Person. 
+
+
+a 
+
+
+i^ 
+
+
+ma; ju 
+
+
+
+
+PLURAL. 
+
+
+
+
+
+
+Nominative. 
+
+
+Possessive. 
+
+
+Objective. 
+
+
+1st Person. 
+
+
+ho 
+
+
+hu 
+
+
+• hwe 
+
+
+2d Person. 
+
+
+o 
+
+
+nyu 
+
+
+iuySni ; inyi 
+
+
+3d Person. 
+
+
+ba 
+
+
+bu 
+
+
+ba 
+
+
+
+Note. There is another form of the nominatives 
+of the three persons. 
+
+
+
+
+
+Singular. 
+
+
+Plural. 
+
+
+1st Person. 
+
+
+mba, mba 
+
+
+hwa, hu 
+
+
+2d Person. 
+
+
+\ya, wn 
+
+
+wa, wu 
+
+
+3d Person. 
+
+
+aa, au 
+
+
+baa, bu 
+
+
+
+Query. The presence of this a in mba, and 
+the apparently unnecessary forms of wa and hwa. 
+
+
+
+40 BENGA GRAMMAR. 
+
+can be accounted for in two other ways than by 
+admitting their existence as actual distinct forms. 
+With a harmonious application of the rules for eli- 
+sion and coalescence of vowels, the irregular exist- 
+ence of those forms can be done away with. 
+
+1st. By recognizing (what is undeniable) that a 
+and u are privative, and are one of the signs of ne- 
+gation. 
+
+Example of a negative : Mba vahaka, I do not 
+wish: 
+
+• SINGULAR. 
+
+1. mbi a vahaka, mb*-^ vabaka, (prouounced) mbk vabaka. 
+
+2. o i\ vahaka, o-^ vahaka, ** wa vahaka. 
+
+3. a a vahaka, a-4 vahaka, " nk vahaka. 
+
+PLURAL. 
+
+1. ho a vahaka, ho-^ vahaka, (prouounced) hw^ vahaka. 
+
+2. o a vahakaui, o-k vahakani, " wa vahakaui. 
+
+3. ba a vahaka, ba-a vahaka, " baa vahaka. 
+
+Example of u negative : Mbu vahaka, I did 
+not wish : 
+
+SINGULAR. 
+
+1. mbi u vahaka, mb'-u vahaka, (pronouuced) mbii vahaka. 
+
+2. o u vahaka, o-u vahaka, " wii vahaka. 
+
+3. a u vahaka, a-u vahaka. ' * au vahaka. 
+
+PLURAL. 
+
+1. ho u vahaka, h'-u vahaka, (pronouuced) hii vahaka, 
+
+2. o u vahakaui, o-u vahakaui, *' wu vahakani. 
+
+3. ba u vahaka, b*-u vahaka, " bii vabaka. 
+
+2d. By assuming (what is here made only as a 
+suggestion) that in certain tenses (mentioned far- 
+
+
+
+BENGA GRAMMAR. 4I 
+
+ther on) of the verb, a is a prefixed portion of the 
+verb itself. Why the verb should thus change its 
+initial letter, I do not attempt here to explain. 
+But reasons for its possibility will be given under 
+the paradigm on page 71. 
+
+Example of a, not as a sign of negation, but as 
+possibly a part of the verb itself: K* umba mba 
+vala. And then I went : 
+
+SINGULAR. 
+
+1. kn umba mbi a vala, k' umba-mb^ avala, k' umba-mb'avala. 
+
+2. ka av6 o a vala, k* flv6-o avala, k* &v6 wa 'vala. 
+
+3. ka ma a a vala, ka ma-a avala, ka mwa 'vala. 
+
+PLURAL. 
+
+1. ka hw6 ho a vala, ka hw6-ho avala. ka hwS-hwa 'vala. 
+
+2. kainySnioa valani, k' injgni-o aviilani. k'inySniwa'valani. 
+
+3. ka ba ba a vala, ka b4-b' avala, ka bii-ba 'vala. 
+
+These forms of the personal pronoun are used, 
+(1) in the present and future indicative active of the 
+negative aspect of verbs, (2) in the narrative perfect 
+indicative active of the affirmative aspect of verbs, 
+and (3) in the future potential active of the affirma- 
+tive aspect of verbs. 
+
+Example of (1) present indicative active nega- 
+tive : Mba tandaka, I do not love : 
+
+SINGULAR. 
+
+1. mbi a tandaka, mb'-a tandaka. mb^ tandaka. 
+
+2. o a tandaka, o-a tandaka, \9k tandaka. 
+8. a a iandaka, a-a tandaka, aa tandaka. 
+
+
+
+42 BENGA GRAMMAR. 
+
+PLURAL. 
+
+1. ho a tandaki, ho-a tandaka. hwa tandaka. 
+
+2. o a tandakani, o-a tandslkani, v/k tandakani, 
+
+3. ba a tandaka, ba-a tandakH, ba^ taudaka. 
+
+Future indicative active negative : Mba vale, I 
+will not go : 
+
+SINGULAR. 
+
+
+
+1. 
+
+
+mbi a Tale, 
+
+
+mb'-a vale. 
+
+
+mhk vale. 
+
+
+2. 
+
+
+a vale. 
+
+
+o-a vale. 
+
+
+vfk vale. 
+
+
+8. 
+
+
+a a vale, 
+
+
+a-a vale, 
+
+PLURAL. 
+
+
+&k vale. 
+
+
+1. 
+
+
+ho a vale, 
+
+
+ho-a vale. 
+
+
+hwk vale. 
+
+
+2. 
+
+
+a valeui, 
+
+
+o-a valeni, 
+
+
+w^ valeni. 
+
+
+3. 
+
+
+ba a vale, 
+
+
+ba-a vale, 
+
+
+b*4 vale. 
+
+
+
+Example of (2) narrative perfect indicative active 
+afi^mative : K* umba mba vala, And then I went : 
+
+SINGULAR. 
+
+1. k* umba-mb' a vala, k' umba-mba vala. 
+
+2. k' av8-o a vala, k* avg-wa vala. 
+8. ka ma-a a vala, ka mwa vala 
+
+PLURAL. 
+
+1. ka hwS ho a vala. ka hw6-hwa vala. 
+
+2. k' inygni o a valani, k* inyeni-wa vnlani. 
+
+3. ka ba ba a vala, ka Im-ba vala. 
+
+Example of (3) future potential active affirma- 
+tive : Mba y&j& kw6, Let me rest awhile. 
+
+SINGULAR. 
+
+1. mbi a yaja. or, mbi ayaja, (pronounced) mba yaja. 
+
+2. o a yaja, or, o ayaja, *' wa yaja. 
+
+3. a a yaja, or, a ayaja, * ' a yaja. 
+
+
+
+BENGA GRAMMAR. 43 
+
+PLURAL. 
+
+1. ho a yaja, or, ho ayaja, (pronounced) hwa yaja. 
+
+2. o a yajani, or, o ayajani, " wa yajani. 
+
+3. ba a yaja, or, ba ayaja, " ba yaja. 
+
+Suggestion. In the adjacent Mpongwe dialect, 
+a becomes, in certain tenses, prefixed to the verb 
+itself. It is supposed that this is also the case in 
+Fan. Possibly this might be the case also in Ben- 
+ga, e. g., aydjd for a yajd, in the example just above 
+given. 
+
+One of the forms, ju, of the 3d pers. obj. is used, 
+but not invariably, after the conjunction na, e. g., 
+Keke na ju. Go with him. But as the object of 
+verbs and of prepositions, ma is always used, e. g., 
+Vek6 ma beja, Give him food. Keke o md-a jadi. 
+Go unto him. 
+
+A euphonic n is sometimes used with the sec- 
+ond person singular, as, na n&ve. 
+
+There is also a very frequent combination of the 
+objective and nominative as a double subject, like 
+the ungrammatical English, " Mr. A. he said ;" but 
+which is perfectly correct in Benga. Thus: O 
+umba mbi ?dki. When I said. 
+
+SINGULAR. 
+
+1. 'mba-mbi vaki, When me-I said. 
+
+2. O ave-o vaki, When thee-thou saidest. 
+
+3. O maa vaki, When him-he said. 
+
+PLURAL. 
+
+1. hw6-ho vaki, When us- we said. 
+
+2. O 'iiyeni-o vakini, When yoii-ye said. 
+
+3. O ba-ba vaki, When them-they said. 
+
+
+
+44 BENGA GRAMMAR. 
+
+FUNCTIONS OF THE PERSONAL PRONOUN IN BENGA. 
+
+Remark 1st. — The personal pronoun, in the pos- 
+sessive case, belongs, like an adjective, to the noun 
+which it possesses. Its union with the noun is so 
+intimate that it sometimes changes the accent of 
+the noun, and might almost be said to form with it 
+a compound word. Thus : My hand, en^ eame, 
+might be written enwamg. 
+
+Remark 2d. — The personal pronouns which rep- 
+resent irrational animals and things have a form 
+for each class of nouns, e. g., for the first class : 
+
+
+
+Singular. 
+
+
+
+
+Plural. 
+
+
+1st pers. 
+
+
+e 
+
+
+be. 
+
+
+3d pers. 
+
+
+ea 
+
+
+bea. 
+
+
+
+They were not included in the class table on page 
+31, but are treated under Definite Pronouns, which 
+see on page 48. 
+
+Remark 3d. — The possessive case is also inti- 
+mately united with the preposition a, "of," and 
+with the prefixes of the several classes of nouns, 
+making thereby a compound definite pronoun, 
+agreeing, like an adjective, with the nouns over 
+which they express possession. Thus : 
+
+Ena ea ngiidi, A hand olHtrengih. 
+
+Bena bea ngudi, Hands of strength. 
+
+Ubaki mna America, American axe. 
+
+Meb&ki mea America, American axes. 
+
+Remark 4th. — The union of the possessive case 
+with the class prefixes might be considered as far- 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+45 
+
+
+
+ther compounded by union with the preposition a, 
+"of," e. g., as 
+
+
+
+e- a- m§ ) 
+
+it of me ) ^ ' 
+
+
+
+3- a- ju 
+it of him 
+
+
+
+!■ his. 
+
+
+
+This assumes that the radical forms of the personal 
+pronouns are me, hu ; av^, nyu ; ju. bu. 
+
+Eemark 5th. — There may be suffixed to the ob- 
+jective of each personal pronoun, the adverb m6t6, 
+"very," with the force of "self," as, umba-mete, 
+myself ; md-met6, himself ; iny6ni-mete, yourselves. 
+
+Remark 6th. — To the compound possessive per- 
+sonal pronoun may be prefixed i, with the force of 
+" own," as ijame, ibeam6, imeame, my own ; with or 
+without the suffixing of m6te, e. g., ijame mete, 
+my very own. 
+
+TABLE OF THE POSSESSIVE PERSONAL PRONOUNS, SHOWING 
+THEIR USE WITH THE CLASS-LETTERS OR PREFIXES OF 
+THE SEVERAL CLASSES OF NOUNS. 
+
+
+
+Class 
+
+of 
+
+
+Num- 
+ber. 
+
+
+Class 
+
+Pref. 
+
+1 
+
+
+First 1 
+
+
+person. 
+
+
+Second person. 
+
+
+Third 
+
+
+person. 
+
+
+noun. 
+
+
+Sing. 
+
+
+Plural. 
+
+
+Sing. Plural. 
+
+
+Sing. 
+
+
+Plural. 
+
+
+
+
+
+
+1 
+
+e 
+
+
+ame 
+
+
+aim 
+
+
+'av6 anyu 
+
+
+aja 
+
+
+abu 
+
+
+iBt. j 
+
+
+Sing 
+
+
+eam6 
+
+
+eahu 
+
+
+eave eanyu 
+
+
+eaju 
+
+
+eabu 
+
+
+PI. 
+
+
+be beame 
+
+
+beahu 
+
+
+heave beanyu 
+
+
+beaju 
+
+
+beabu 
+
+
+2d i 
+
+
+Sing. 
+
+
+• 
+
+J 
+
+
+jame 
+
+
+jahu 
+
+
+jave janyu 
+
+
+jaju 
+
+
+jabu 
+
+
+m\Jk» ^ 
+
+
+PI. 
+
+
+m 
+
+
+mame 
+
+
+mahu 
+
+
+mave manyu 
+
+
+maju 
+
+
+mabu 
+
+
+3d. . 
+
+
+Sing. 
+
+
+ma 
+
+
+muame 
+
+
+muahu 
+
+
+muavg muanyu 
+
+
+muaju 
+
+
+muabu 
+
+
+PL 
+
+
+me 
+
+
+meame 
+
+
+meahu 
+
+
+meavg m eanyu 
+
+
+meaju 
+
+
+meabu 
+
+
+4th. . 
+
+
+Sing. 
+
+
+bo 
+
+
+boame 
+
+
+boahu 
+
+
+boave boanyu 
+
+
+boaju 
+
+
+boabu 
+
+
+PI. 
+
+
+me 
+
+
+meame 
+
+
+meahu 
+
+
+meave meanyu 
+
+
+meaju 
+
+
+meabu 
+
+
+5th.  
+
+
+Sing 
+
+
+mu 
+
+
+muame 
+
+
+muahu 
+
+
+muave muanyu 
+
+
+muaju 
+
+
+muabu 
+
+
+PI. 
+
+
+b 
+
+
+bame 
+
+
+bahn 
+
+
+have banyu 
+
+
+baju 
+
+
+babu 
+
+
+6th. i 
+
+
+Sing. 
+
+
+u 
+
+
+name 
+
+
+uabu 
+
+
+uave uanyu 
+
+
+uaju 
+
+
+uabu 
+
+
+PI. 
+
+
+b 
+
+
+bame 
+
+
+bahu 
+
+
+have banyu 
+
+
+baju 
+
+
+babu 
+
+
+7th. j 
+
+
+Sing. 
+
+
+vi 
+
+
+viame 
+
+
+viabu 
+
+
+viave vianyu 
+
+
+viaju 
+
+
+viabu 
+
+
+PI. 
+
+
+I 
+
+
+lamg 
+
+
+lahu 
+
+
+lave lanyu 
+
+
+laju 
+
+
+labu 
+
+
+8th. j 
+
+
+Sing. 
+
+
+6 
+
+
+came 
+
+
+eahu 
+
+
+eav§ eanyu 
+
+
+eaju 
+
+
+eabii 
+
+
+PI. 
+
+
+• 
+
+J 
+
+
+jame 
+
+
+jahu 
+
+
+javd janyu 
+
+
+jaju 
+
+
+jabu 
+
+
+
+46 BENGA GRAMMAR. 
+
+In the foregoing table there is a contraction, 
+consistent with the rule for elision, throughout the 
+entire second person singular. Thus : 
+
+it of you I y®^"* ea-ave, e'ave, eave. 
+RELATIVE PRONOUNS. 
+
+There are no proper relative pronouns except 
+the interrogatives. Their place is supplied by the 
+definite pronouns. Thus : 
+
+I am the person who did it. 
+Umba ndi moto a ma ha ea. 
+(Literally) Me is the person Ag has done it. 
+
+In this example the " who " of English is rep- 
+resented by a in Benga, which is the definite 
+pronoun standing for moto. It does. not agree in 
+person with umba, which it would do were it a per- 
+sonal pronoun, as its English representative in the 
+literal translation is. 
+
+EXAMPLES. 
+
+These are the men whom I saw. 
+Ekaba ndi bamo bame ba ma yene. 
+(Literally) These are men of mine tAgy have seen. 
+
+We are the people who did that work. 
+Hwe ndi bato ba ma ha 'havu tSne. 
+(Literally) Us are people tAgy have done work that. 
+
+INTERROGATIVES. 
+
+These are: iija, who; ve, which; and nde, 
+what. 
+
+
+
+BENGA GRAMMAR. 47 
+
+EXAMPLES. 
+
+Who says so ? Nj* a ma Ta nonan' S. 
+
+Who art thou ? Av§ 1§ a nja-e. 
+
+Who are ye ? Inyi le ba nja-S. 
+
+Who are these people ? Ekaba Ig nja bato-e. 
+
+Sometimes nja is used for " what." Thus : 
+
+What time? Nja 'gombe-S. 
+What work ? Nja *havu-e. 
+
+Ve is used very much as the interrogative 
+" which," in English. 
+
+EXAMPLES. 
+
+Which [ukata, pen] dost thou want? 
+Uve 16 umuave u vahak' e. 
+Which [epokolo, hat] ? Eve le. 
+
+It will be observed, in the above examples, that 
+ve varies itself as an adjective to agree with the 
+noun to which it refers, by prefixing to itself the 
+class-letter of that noun, e. g., with ukata, a noun 
+of the third class, ve becomes uve ; with epokolo, 
+a noun of the first class, ve becomes eve. 
+
+Nde is used, in most cases, synonymously with 
+the English " what." Thus : 
+
+What is the matter ? What does he say ? 
+
+E 16 nde. A kalaka 16 nde. 
+
+(Literally) It ? what. (Literally) He speaks? what. 
+
+Note.— Lfe and ^ are equivalent to " ? " as signs 
+of interrogation, and le has a plural, li. 
+
+An auditor, not having distinctly heard what 
+was said, will interrupt the speaker with, " Na, le " 
+
+
+
+48 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+(What 's he say ? or, What 's that ?). But the na 
+is probably an adverb, " thus" or " namely," e. g., 
+
+And he spoke unto him, saying. 
+Ka ma-a va na ju, na. 
+(Literally) And him-he said to him, viz. 
+
+DEFINITE PRONOUN. 
+
+This part of speech is not found in the English 
+language, nor in any other, so far as is known, ex- 
+cept in the various dialects of the Bantu language 
+comprised in the southern half of Africa. In some 
+positions it supplies the place of a personal pro- 
+noun ; in some, that of a relative ; in some, that of 
+the genitive case in Latin, or the preposition " of " 
+in English, when it signifies possession. But, in 
+many positions in which it is used, the English and 
+most other languages have nothing corresponding. 
+The definite pronoun is inflected, and has a form 
+agreeing with each class of nouns. 
+
+NOUNS AND THEIR DEFINITE PRONOMINAL ADJUNCTS. 
+
+
+
+Class of noun 
+
+
+
+1st. 
+2(1. 
+3d. 
+
+4th. 
+
+5 th. 
+
+6 th. 
+7th. 
+8th. 
+
+
+
+{ 
+
+
+
+Norn. 
+
+
+
+Sing, e 
+PI. be 
+Sing.i 
+PI. ma 
+Sing, u 
+PI. me 
+Sing, bo 
+PI. me 
+Sing, u 
+PI. ba 
+Sing, u 
+PI. ba 
+Sing, vi 
+PI. lo 
+Sing, e 
+PI. i 
+
+
+
+Noun. 
+
+
+
+ena, e 
+bena, be 
+ikadu, i 
+makadu, ma 
+ubaki, u 
+mebaki. me 
+boho, bo 
+meoho, me 
+ulongi, u 
+balongi, ba 
+moto, u 
+bato, ba 
+vitwa, vi 
+litwa, lo 
+mbanja, e 
+mbanja, i 
+
+
+
+Objective. 
+
+
+Possessive. 
+
+
+ea 
+
+
+ea 
+
+
+bea 
+
+
+bea 
+
+
+
+
+j* 
+
+
+ma 
+
+
+ma 
+
+
+ma 
+
+
+mua 
+
+
+mea 
+
+
+mea 
+
+
+boa 
+
+
+boa 
+
+
+mea 
+
+
+mea 
+
+
+ma 
+
+
+mua 
+
+
+ba 
+
+
+ba 
+
+
+ma 
+
+
+ua 
+
+
+ba 
+
+
+ba 
+
+
+Via 
+
+
+via 
+
+
+la 
+
+
+la 
+
+
+ea 
+
+
+ea 
+
+
+ja 
+
+
+ja 
+
+
+
+Spoken 
+
+ya 
+bya 
+
+
+
+mwa 
+
+mya 
+
+bwa 
+
+mya 
+
+mwa 
+
+wa 
+
+vya 
+
+
+
+BENGA GRAMMAR. 49 
+
+USES OF THE DEFINITE PRONOUN. 
+
+1st. It interposes itself between all nouns in the 
+nominative case and the verbs which they govern, 
+as an apposition pronoun, having the same case, 
+number, and classification as the noun, thus making 
+a double nominative. 
+
+BXAMPLES. 
+
+Ejanganangobo e vaki nouane. Book it says so. 
+
+Lonani lo vevekendi. Birds they fly. 
+
+Bwalo-b'-utangani^^ tamwakandi. Ship it sails. 
+
+In these examples, e, lo, and bo are definite 
+pronouns,. agreeing in case, number, and classifica- 
+tion with the nouns, respectively, ejanganangobo, 
+lonani, and bwalobutangani. 
+
+2d. It sometimes occupies the position of a per- 
+sonal pronoun of the objective case. 
+
+EXAMPLES. 
+
+Mbwia i nakandi : mbi taudakand' ojeneyci. 
+Bain it rains ; I like to see it. 
+
+Mbi na mebaki ; o vahakand' o bamba mea^. 
+1 have axes ; dost thou wish to buy them ? 
+
+Notice the position of ja and mea. 
+
+3d. It is used as a relative, and as such it iden- 
+tifies its antecedent with admirablie precision by 
+the beautiful alliteration that distinguishes the 
+Bantu languages. 
+
+EXAMPLES. 
+
+God made all things which we see. 
+AnyambS a velakindi Mombo ^.ihu dg yfineke ^Shepi. 
+(Literally) God He made t&ings of ours they see all. 
+
+Benga Orammr A | 
+
+
+
+
+
+50 BENGA GRAMMAR. 
+
+I will follow thee whithersoever thou goest. 
+Mbi ka vitend' aye o /(7boko /dwe lo ka val§ /^§pi. 
+(Literally) I will follow thee to places of yours they shall go all. 
+
+The definite pronoun is used twice in each of 
+these sentences, and. in both instances agreeing re- 
+spectively with belombo and loboko. The repeti- 
+tions be and lo supply the place of the relative 
+" which." (See also examples under Relative Pro- 
+nouns.) 
+
+Note. — The above harmony of alliteration is 
+invariable, except (1) when an abstract noun is per- 
+sonified as a concrete. Thus : 
+
+Sin has a thousand treacherous arts. 
+Bobe a na megono ti. 
+
+Here " sin '* personified has for its definite pro- 
+noun a, and not bo, as in the abstract it-should be. 
+As in " My sin is great," bobe boame bo ndi bone- 
+ne, where the harmonic alliteration retains its place. 
+
+(2) Only apparent variations caused by con- 
+traction. In the examples given in the beginning 
+of this Use Third, the words lave and lehepi are 
+contracted from leave and loehepi. The contracted 
+forms are the ones always used. 
+
+4th. It serves, together with the preposition a, 
+" of," as a connecting link or adjunct between two 
+nouns, supplying thus the place of the genitive or 
+possQssive case. . 
+
+EXAMPLES, r 
+
+Tonda*s house. Ndabo ea Tonda. (Contracted) Ndabo 'a 
+Ton da. (Pronounced) Ndabwa Tonda. 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+SI 
+
+
+
+Mediko'8 boolss. Bejangauangobo bea Mediko, 
+Sand of the sea. Mahe ma manga. 
+
+No possessive case can be 'regularly formed 
+without the interposition of the definite pronoun. 
+
+TABLE OF DEFINITE ADJUNCTS. 
+
+
+
+Class 
+
+of 
+noun. 
+
+
+
+Igt. ] 
+
+2d, i 
+3d 
+
+
+
+• 
+
+
+
+4th. 
+
+
+
+Number. 
+
+
+
+Sing. 
+
+PI. 
+
+Sing. 
+
+PL 
+
+Sing. 
+
+PI. * 
+
+Sing. 
+
+PI. 
+
+
+
+Definite Pronoun. 
+
+
+
+Written. Spoken. 
+
+
+
+ea 
+
+bea 
+
+Ija 
+
+ma 
+
+mua' 
+
+mea 
+
+boa 
+
+mea 
+
+
+
+bya 
+
+
+
+mwa 
+mya 
+bwa 
+mya 
+
+
+
+Class 
+
+of 
+noun. 
+
+
+
+5th. \ 
+6th. I 
+7th. 
+8th. 
+
+
+
+Number. 
+
+
+
+Sing. 
+
+PI. 
+
+Sing. 
+
+PI. 
+
+Sing. 
+
+PI. 
+
+Sing. 
+
+PL 
+
+
+
+Definite Pronoun. 
+
+
+Written. 
+
+
+Spoken. 
+
+
+mua ' 
+ba 
+
+
+mwa 
+
+
+ua 
+ba 
+
+
+wa 
+
+
+via 
+la 
+
+
+vya 
+
+
+ea 
+ja 
+
+
+ya 
+
+
+
+5th. It incorporates itself with all adjectives and. 
+adjective pronouns, and is indispensable to their 
+declension. 
+
+
+
+EXAMPLES. 
+
+Good axes. Mebaki meyam*. 
+
+
+
+Long axes. 
+My axes. 
+Their axes. 
+
+
+
+Mebaki meyaba. 
+Mebaki meame. 
+Mebaki meabu. 
+
+
+
+In these examples, me of the adjective and of 
+the possessive pronoun is the definite pronoun rep- 
+resenting mebaki, axes; nnd it is indispensable to 
+the regular formation of the qualifying words yamu, 
+am6, yaba, and abu. It unites with them, and 
+forms the compound words, meyam', meame, me- 
+yaba, and meabu. 
+
+6th. It unites with i, in a duplicated form, to 
+make a compound personal possessive pronoun, in- 
+
+
+
+52 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+eluding the possessor and the thing possessed. 
+Thus: 
+
+Ikadu ijame [i-j-a-mS]. My own hand. 
+
+O yokak* ijavS [i-j-a-av6]. Do not listen, your own self. 
+
+Mebaki me nd' imeaju [i-me-a-ju]. The axes are hisovrn. 
+
+DEMONSTRATIVE PRONOUNS. 
+
+The root-forms of the demonstrative pronouns 
+are eka, this, these ; and nS, that, those. They 
+are declined so as to agree with nouns of each class ; 
+the class-adjunct being suffixed to the eka and its 
+inflections, but prefixed to nS and its inflections. 
+Also by prefixing eka to nS and its inflections, 
+another word ekane is formed, meaning thaty those 
+(more distant). This is perfectly regular for all 
+classes of nouns except parts of the sixth and eighth. 
+
+TABLE OF DEMONSTRATIVE PRONOUNS AND THEIR CLASS- 
+AGREEMENTS. 
+
+
+
+Class of 
+noun. 
+
+
+Class 
+Adjunct. 
+
+
+Demonstrative Root forms. 
+
+
+Noun. 
+
+
+
+
+^^- KSl 
+
+
+^® 1 those 
+
+
+«^-^{thoL 
+
+
+
+
+1st. 
+
+2d. 
+
+3d. 
+
+4th. 
+
+6th. 
+
+6th. 
+
+7th. 
+
+8th. 
+
+
+]be 
+(di 
+\ ma 
+\ mu 
+\ me 
+j bo 
+\ me 
+j mu 
+]ba 
+Jng 
+ ba 
+
+vi 
+
+lo 
+
+ne 
+
+di 
+
+
+ekae 
+
+ekabe 
+
+ekadi 
+
+ekama 
+
+ekamu 
+
+ekame 
+
+ekabo 
+
+eknme 
+
+ekamu 
+
+ekaba 
+
+ekanS 
+
+ekaba 
+
+ekavi 
+
+ekalo 
+
+ekanS 
+
+ekadi 
+
+
+eng 
+
+bene 
+
+dine 
+
+mang 
+
+mune 
+
+mene 
+
+bone 
+
+menS 
+
+mun3 
+
+ban§ 
+
+mane 
+
+bane- 
+
+vin§ 
+
+lone 
+
+yan8 
+
+dine 
+
+
+ekaeue 
+
+ekabene 
+
+ekadine 
+
+ekamane 
+
+eknmune 
+
+ekamene 
+
+ekabonS 
+
+ekamene 
+
+ekamune 
+
+ekaban§ 
+
+ekanene 
+
+ekaban§ 
+
+ckavine 
+
+ekaloug 
+
+ekanene 
+
+ekadine 
+
+
+ena 
+
+bena 
+
+ikadu 
+
+raakadu 
+
+uvanda 
+
+mevanda 
+
+bwalo 
+
+mealo 
+
+nyongi 
+
+bayongi 
+
+moto 
+
+baio 
+
+vijo 
+
+lijo 
+
+he 
+
+he 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+53 
+
+
+
+All these three, eka, ne, and 'ekane are made 
+more emphatic, and become demonstrative adjec- 
+tive pronouns by prefixing te to them (their initial 
+e being elided after S of te in the combination). 
+
+
+
+Class of 
+Noun. 
+
+.1st. 
+2d. 
+
+3a. 
+
+4th. 
+6th. 
+6th. 
+7th. 
+8th. 
+
+
+
+Noun. 
+
+
+
+fena 
+bena 
+J ikadu 
+} makada 
+
+{uvanda ^ 
+me van da 
+
+\ mesSw 
+j uyonRi 
+I bayongi 
+j moto 
+I bato 
+jvijo 
+
+llijo 
+
+jhe 
+
+Ihe 
+
+
+
+This, these. 
+
+
+
+tekae 
+
+tSkabc 
+
+tSkadi 
+
+tekama 
+
+tekamu 
+
+tekame 
+
+tekabo 
+
+tekame 
+
+t«kama 
+
+tekaba 
+
+tekane 
+
+tSkaba 
+
+tekavi 
+
+tekalo 
+
+tekang 
+
+tekadi 
+
+
+
+That, those. 
+
+
+
+teng 
+
+tSbene 
+
+tSdine 
+
+temane 
+
+tSmune 
+
+t6men6 
+
+teboue 
+
+temene 
+
+tSraune 
+
+tebane 
+
+temanS 
+
+tebnne 
+
+tevinS 
+
+tglonS 
+
+tSyang 
+
+tMin§ 
+
+
+
+That, those, 
+(more distant,) 
+
+
+
+t^kaene 
+
+tekabene 
+
+tSkadine 
+
+tSkamane 
+
+tSkamune 
+
+tekamenS 
+
+tekabone 
+
+tSkamene 
+
+tekamune 
+
+tSkabane 
+
+tekaoeug 
+
+tSkabane 
+
+tSkaving 
+
+tSkalon^ 
+
+tekanenS 
+
+tekadine 
+
+
+
+EXAMPLES. 
+
+
+
+This is a good thing. 
+This thing is good. 
+
+
+
+Ekae e ndi elombo eyamu. 
+Elombo tekae e ndi eyamu. 
+
+
+
+Here, " this " standing alone, as a demonstrative 
+pronoun, the noun being understood, is always 
+ekae and its inflections ; but where it stands with 
+the noun expressed, as a demonstrative pronoun, 
+e. g., " this thing," it is always t6kae and its inflec- 
+tions. 
+
+Bemark (1). T6 can be used in a short abrupt — 
+though not necessarily rude or improper — manner, 
+without combination (the class-combinations being 
+
+
+
+54 BENGA GRAMMAR. 
+
+understood) to indicate any noun of any class, and 
+of either number. As, en& te, that arm ; ikadu t3, 
+that hand; mebdki te, those axes, and so on, for all 
+classes and both singular and plural. 
+
+Remark (2). With moto and words of its class 
+(sixth), " that " is often expressed by tfing, instead 
+of its regular temdne. As : that person, moto ten6, 
+instead of moto temane. 
+
+Remark (3). With nouns of class eight there is 
+great irregularity in their singular. 
+
+INDEFINITE PRONOUNS. 
+
+These are, in their root-forms, &kd, some ; pd- 
+kwe, another; ngani, another's; ite, many; 6hepi, 
+all. 
+
+The above are all declined as adjectives, so far 
+as their nature admits of such declension. Ngani 
+is not inflected, and is available only by the inter- 
+position of the adjunct of the class to which its 
+agreeing noun belongs, e. g., another's heart, ulema 
+mua ngani ; another's face, boho boa ngani. tlhe- 
+pi is compound of root ehe and the intensive pi, 
+which latter is sometimes omitted, as : Bato behe, 
+all people. 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+55 
+
+
+
+TABLE OF INDEFINITE PRONOUNS. 
+
+
+
+Class 
+
+of 
+nouns 
+
+
+
+l8t. 
+
+2d. 
+
+3d. 
+
+4th. 
+
+5th. 
+
+6th. 
+
+7 th. 
+
+8lh. 
+
+
+
+Number 
+
+
+
+i Sing. 
+
+1pi. 
+
+j Sing. 
+
+) Sing. 
+)P1. 
+J Sing. 
+
+i Sing. 
+I PI. 
+
+j ir- 
+
+(Sing 
+IPI. 
+
+
+
+
+
+Indefinite Pronouns. 
+
+
+
+
+aka 
+
+
+pakwe 
+
+
+it6 
+
+
+6h6pi 
+
+
+eaka 
+
+
+epakwe 
+
+
+eitd 
+
+
+edhgpi 
+
+
+beaka 
+
+
+bepakwe 
+
+
+beite 
+
+
+beghgpi 
+
+
+jSka^ 
+
+
+ip&we 
+
+
+iit6 
+
+
+j6h6pi 
+
+
+raaka 
+
+
+mapakwe 
+
+
+maitg 
+
+
+mSh^pi 
+
+
+umbaka 
+
+
+upftkwe 
+
+
+uit6 
+
+
+mu6h6pi 
+
+
+meaka 
+
+
+niep^kw^ 
+
+
+meitg 
+
+
+meghgpi 
+
+
+baka 
+
+
+bopA,kwe 
+
+
+boite 
+
+
+bo(^h6pi 
+
+
+meaka 
+
+
+mepakvve 
+
+
+meitg 
+
+
+raeehepi 
+
+
+umbaka 
+
+
+upakwS 
+
+
+uite 
+
+
+muehSpi 
+
+
+baka 
+
+
+bapA,kw§ 
+
+
+baits 
+
+
+bShgpi 
+
+
+umbaka 
+
+
+upA,kwS 
+
+
+uitg 
+
+
+ugbgpi 
+
+
+baka 
+
+
+ba pakwe 
+
+
+baitg 
+
+
+b6h6pi 
+
+
+j(iak4 
+
+
+vipakwe 
+
+
+viitg 
+
+
+vighgpi 
+
+
+mk4 
+
+
+lopJlkwe 
+
+
+loitg 
+
+
+Ighgpi 
+
+
+paka 
+
+
+ep4kw6 
+
+
+eitS 
+
+
+eShSpi 
+
+
+jaka 
+
+
+ipA-kwe 
+
+
+iitg 
+
+
+j6b6pi 
+
+
+
+Nouiv 
+
+
+
+eua 
+
+ben a 
+
+ikadu 
+
+makadu 
+
+uvand^ 
+
+mev&nda 
+
+bwalo 
+
+mealo 
+
+uyongi 
+
+ba.yongi 
+
+moto 
+
+bato 
+
+vitwa 
+
+litwa 
+
+njea 
+
+njea 
+
+
+
+Id the above table note many (apparent) ir- 
+regularities. They are due almost solely to regular 
+elisions and coalescences. 
+
+(1.) In the inflection of akd, eak& and be&ka 
+will be spoken as if written yaka and byaka ; and 
+vidka as if vyakd ; the mb of umbaka is simply eu- 
+phonic for uaka; maksl, baka, and lak&, contrac- 
+tions for maakd, boakd and baaka, and loaka. 
+
+(2.) In the inflections of 6hepi, eehepi and be6- 
+hepi will be spoken as if y^hepi and bjehepi ; me- 
+ehepi as if myehepi; and vifihepi as if vyeh^pi; 
+bo6h6pi and muehepi as if bwehepi and mwehepi, 
+under the regular rule for coalescence ; mehepi and 
+behepi contracted from what should (rigidly) be 
+maehfipi and ba^hepi. But it is these contracted 
+forms only that are always used. 
+
+
+
+56 BENGA GRAMMAR. 
+
+VEEBS. 
+
+The verb is quite regular and methodical in its 
+conjugation, but at the same time it is difficult for 
+a foreigner to master it completely. The extent 
+and variety of its inflections are very great. Each 
+regular verb has a surprising number of parts reg- 
+ularly derived, many of which can be expressed or 
+represented iu English only by phrases. 
+
+The simplest form of the verb, and that from 
+which the other parts are most easily and naturally 
+derived, is the singular of the imperative mood. 
+This is therefore taken as the ground-form or radi- 
+cal. Various modifications of meaning, which in 
+western languages are expressed partly by voices of 
+the verb, partly by other verbs, are found in Benga 
+in the several derivations or conjugations of the 
+same verb. The word " conjugation '' is however 
+objectionable ; for its meaning in the grammar of 
+other languages is wholly different. The word 
+" species " will therefore be used in speaking of these 
+forms or modifications. 
+
+SPECIES OF THE VERB. 
+
+By the term " species " are designated derived 
+verbs. From the radical of most in the language, 
+others are derived, which have a modified meaning, 
+e. g., from the radical yowaka, know thou, comes 
+yowakide, inform thou. Jalca, eat, means by one of 
+its species, jakide, feed. 
+
+
+
+BENGA GRAMMAR. $y 
+
+Every regular verb is susceptible of having de- 
+rived from it the following four species : 
+
+EXAMPLES. 
+
+1. Badical Ealaka, speak. 
+
+II. Frequentative species Kalakate, speak continuously. 
+
+III. Relative " Kalakia, speak to or for (pray). 
+
+IV. Causative ** KaLikidS, cause to speak. 
+
+V. Reciprocal '• Kalanaka, speak together (con- 
+
+verse). 
+
+1. Kadical Bapake, carry. 
+
+II. Frequentative species Bapakate, continue carrying. 
+
+III. Relative * **^ Bapakia, can-y for (transmit). 
+
+IV. Causative ** Bapakid^, cause to carry (lade). 
+
+V. Reciprocal *• Bapanaka, carry in company. 
+
+I. The radical of the verb expresses the simple 
+idea of a verb, without any accessory or contingent 
+meaning, as : tandakd, love ; mwetek^, smile. 
+
+II. Frequentative. The frequentative species 
+expresses continuance of the action, and in some 
+verbs, the intensity of the simple idea of the verb, 
+as : kalakate, mbi yokakate, speak on, I hear (clear- 
+ly). Jakate, mbi vakate, continue eating, I am 
+coming (presently). Also from yeneke, see, y^ne- 
+k6te, look sharply. 
+
+III. Relative. The relative species directs the 
+action of the verb to or for some one, as : kalakia 
+Anyambe, pray to God. Longakia 'mba ndabo, 
+build a house for me. 
+
+IV. Causative. The force of the causative spe- 
+cies is to cause an act to be performed, as : kalaki- 
+de mahonga, gnash the teeth, (literally, cause the 
+
+
+
+58 BENGA GRAMMAk. 
+
+teeth to speak). Jakide md, feed him, (literally, 
+cause him to eat). Hakide md, employ him, (lit- 
+erally, cause him to work). 
+
+V. Reciprocal. The reciprocal species expresses 
+mutuality of action, as : ho tamwanakandi, we are 
+journeying together. Mbi yonganakandi, I am pur- 
+suing. 
+
+Remark 1. While these perfectly harmonious 
+derivations are capable of being made from any 
+root-form, yet, probably very few series of any one 
+verb would all be used in ordinary conversation, 
+their meaning forbidding their use. 
+
+Remark 2. The meanings of the derivatives do 
+not seem always to be cognate with the meaning of 
+the radical. Thus, yongaka, save ; j^ongakidg, re- 
+member; yonganaka, pursue. Also, iyakid6, for- 
+give; a causative form, which seems to have no 
+radical. There are radicals, jaka, eat, and jaka, 
+bear (progeny); the one has its reciprocal janaka, 
+eat one another (as cannibals), the other, janaka, 
+beget. 
+
+COMPOUND SPECIES. 
+
+Other species may be formed by combining with 
+the reciprocal either of the other three simple spe- 
+cies ; the new species will then express the com- 
+bined meanings of the words of which they are 
+composed. Thus : 
+
+Kalanakate, a recipro-frequentative, 
+Continue speaking with each other. 
+
+
+
+BENGA GRAMMAR. 59 
+
+Ealanakia, n recipro-relative, 
+
+Speak unitedly for (some one) or to (some one). 
+
+EalanakidS, a recipro-causative, 
+Cause to speak together. 
+
+Note. Three forms : (1) ta kala, (2) kalaka be- 
+kalikali, and (3) kalaka bo-kalaka, formerly sup- 
+posed to be distinct species of a typical radical 
+kalaka, are not worthy of being so regarded. The 
+words ta, bekalikali, and bo-kalaka are not coin- 
+pounded with the verb ; they are only used in eon- 
+nection with it, as a' score of other adverbs might 
+be. They can be used, not only with the radical, 
+but also with any of the species. (1) Ta kala 
+means "speak first.'* Ta is part of the defective 
+verb taka, precede, which see in the list of irregu- 
+lar and defective verbs. (2) Kalaka bekalikali 
+means " talk nonsense," the plural of the noun eka- 
+likali, foolish talking, being used precisely as kala- 
+ka iyowg, speak wisdom, or, kalaka nangudi, speak 
+loudly, might be used. (3) Kalaka bo-kalaka, 
+speak, and do nothing else. Bo has the force oi 
+" only," limiting the action expressed by the verb : 
+bo-kalaka is reduplicative, and does not alter the 
+form of the verb at all. 
+
+EXAMPLES. 
+
+Kwglgkg bekwSlikwSli, chop at random (useless choppings). 
+Kw^lgkg bo-kwglgkg, chop, only chopping, i. e., chop, and do 
+nothing else. 
+
+The above four species and the compound spe- 
+
+
+
+6o BENGA GRAMMAR. 
+
+cies are all capable of inflection through the aspects, 
+voices, moods, and tenses, which belong to the rad- 
+ical of a regular verb. But there are many parts 
+in the full conjugation of some of them where they 
+would be meaningless, and therefore would not be 
+used. 
+
+VOICES. 
+
+Benga verbs have two voices, the active and the 
+passive. Each has a form of its own, with the use 
+of an auxiliary. 
+
+MOODS. 
+
+Benga verbs have five moods : the imperative, 
+indicative, subjunctive, potential, and infinitive. 
+
+TENSES. 
+
+There are seven tenses : the present, immediate 
+past, perfect, historical, pluperfect, first and second 
+future. 
+
+The indicative and subjunctive have all these- 
+tenses. The potential has two, present and perfect. 
+The imperative has but one, the present. The in- 
+finitive has but one. 
+
+ASPECTS. 
+
+Verbs, both regular and irregular, radicals and 
+derivatives, have an affirmative and a negative 
+aspect, for each voice, extending through all the 
+moods and tenses, and which are made partly 
+
+
+
+BENGA GRAMMAR. 6l 
+
+without the use of auxiliary particles. An enor- 
+mous development is thus made by the doubling of 
+every part of every verb. 
+
+Negation is expressed (1) by no change in the 
+verb itself, but by peculiar vocal stress, difficult to 
+be recognized or acquired by a foreigner, laid on 
+the nominative. (In Benga that nominative, if a 
+pronoun, is marked with a grave accent, as a sign 
+of negation. But in the adjacent Mpongwe, the 
+negation is indicated by italicising the vowel of the 
+' verb's first syllable.) Example : mbi keke. shall I 
+go ? and mbi k6ke, shall not I go ? To acquire the 
+vocal-stress laid on the mbi, the learner will be 
+aided by thinking of the similar vocal-stress laid 
+upon " not ** ip English. 
+
+(2) By a change in the final syllable of the verb 
+itself, e. g., keke, go ; o k6ke, do not go. 
+
+(3) By prefixing the privatives a, u, and ha. 
+Examples : A vahakandi, he wishes ; aa vahaka, he 
+wishes not ; a vahakindi, he wished ; aii vahaka, he 
+wished not ; a pakindi, he came ; a ha payete, he 
+has not come. 
+
+(4) By any two or even three of these ways to- 
+gether ; but by whatever other way negation may 
+be indicated, that vocal-stress must also always be 
+used. 
+
+(5) Perhaps by a diflference in the pronominal 
+nominative itself, as mbi affirmative, mba nega* 
+tive. (See tables of Personal Pronouns.) 
+
+
+
+62 BENGA GRAMMAR. 
+
+PERSON AND NUMBER. 
+
+Verbs have three persons and two numbers ; but 
+these do not vary the verb, except in the second 
+person plural, which has the suffix nl for its ter- 
+mination in all positions. 
+
+IRREGULAR AND DEFECTIVE VERBS. 
+
+There are a very small number of defective 
+verbs ; but even these are for the most part regu- 
+lar. The four defective verbs in most frequent use 
+are : paka, taka, vaka, vala. 
+
+They are used only in certain moods and tenses. 
+
+
+
+EXAMPLES. 
+
+
+
+Act. Indie. Pres. A pakaudi, -i 
+
+A pandi, (contracted) / 
+
+
+
+he arrives. 
+
+
+
+} 
+
+
+
+*' •* Perfect. A pakiudi, 
+
+A paki (contr.) J. he arrived. 
+A pSkite 
+
+" " Future. A ka pandi > , .,| 
+
+. , *7 J he will amve. 
+A ka pate ) 
+
+** " Neg. Fut. A pSye, he will not arrive. 
+
+.a paye } -^^ ^^ ^^^ arrived 
+A ha payete 5 
+
+Passive, Ind. Present A pwi > i. • • j 
+
+* ., ,. f "6 IS arnved. 
+A pwendi > 
+
+
+
+A pwendi 
+
+'* '• Perfect. A pakudwg ^ he has been arrived, 
+
+r.) ^ i. e., 
+
+
+
+A p4dw6 (contr.) J i. e., brought. 
+
+" Future. A ka pad we > 
+
+A ka padwete I ^^ ^^^^ ^^ ^^•^"^^^*' 
+
+
+
+BENGA GRAMMAR. 63 
+
+TAKA. 
+
+The word taka means to precede in doing. 
+Thus : 
+
+This boat was the first to arrive. 
+Eleude tSkae e takindi o pd,. 
+
+Do your own work first. 
+Wa ta o ha ehavn '&v6 m§t§. 
+
+ • 
+
+VAKA. 
+
+Vaka, come, is in frequent use. Thus : 
+
+Come unto me before that I die. 
+
+Vak' o 'mba-mbi jadi, n' amba na tak* o wa. 
+
+He comes ; he is coming 
+A vakandi , a vakate. 
+
+The boat is coming from the south. 
+Eleude e vakiyandi o diko. 
+
+Ta viya ! First come, i. e., come at once, before 
+doing anything else. Ta viya is used interchanga- 
+bly with vaka, except that it would not properly be 
+addressed to a superior. 
+
+VALA. 
+
+Vala, depart, is in constant use. Thus : 
+
+Mbi vahakand' o vala. 
+I wish to depart. 
+
+Mbi valindi. 
+I have gone. 
+
+Yalanakia 'mba Igta tSkang. 
+Forward for mc this letter. 
+
+A valanudwc na jonga. 
+He was trasported safely. 
+
+
+
+A 
+
+
+
+64 BENGA GRAMMAR. 
+
+CONTRACTIONS. 
+
+There are a few contractions : e. g. (1) the parting 
+salutation mb* 'alandi, I am going, contracted from 
+mbi valandi. 
+
+(2) Mb* a 'we, I do n't know, and its equivalent n' a 
+'we, are constantly used, contracted from the nega- 
+tive aspect of the present indicative aetive of the 
+verb vowaka, know thou. 
+
+(3) A contraction from the verb yonyaka, weary 
+thou, e. g., . 
+
+O ma yooyS 16 o viya. 
+(Contracted) O ma 'nyg V o viya. 
+
+Why did you fail to come ? 
+
+(4) 'Mba, na, we, a contraction of umba na, we, 
+" me, thus, please," i. e., a call to attention to what 
+the speaker is about to say. 
+
+SUBSTANTIVE VERBS. 
+
+The verb to be. 
+
+There is no single verb in the language that de- 
+serves to be called the verb of existence. But 
+there are a few substantive verbs, expressing some- 
+what of the verb to be. 
+
+te. 
+
+Te, am, is used only in the present of the indi- 
+cative and subjunctive moods. 
+
+
+
+BENGA GRAMMAR. 65 
+
+Indicative mood ; present tense. 
+
+Singular. 
+
+Ist pers. Mbi te. I am. 
+2d pers. te. Thoa art. 
+
+3d pers. A te. He is. 
+
+Plural. 
+
+Ist pert. Ho te. We are. 
+
+2d pers. O teui. Ye are. 
+
+3d pers. Ba te. They are. 
+
+Subjunctive mood ; present tense. 
+
+Singular. 
+
+Ist pers. Oniiigg mba te. If t am. 
+2d pers. Onitige o te. If thou art. 
+
+3d pers. Oningg a te. If he is. 
+
+Plural. 
+
+Ist pers. Oniugg ho te. If we are. 
+
+2d pers. Oning§ o teni. If ye are. 
+
+3d pers. Oningg ba te. If they are. 
+
+Other forms are ndl and its relative di, as : 
+
+Ba nd* ovone. They are there. 
+
+Ma ndi md,u6. That is he. 
+
+Ma nd' a velakidi he. He it is who created the earth. 
+
+Ma nd' a di bwam^ He it is who is good. 
+
+Another form is 1, e. g., 
+
+A i we. He is there. 
+
+Also, n^ite, e. g., 
+
+A ngite ; a ngite we. 
+He is ; he is there. 
+
+
+
+66 BENGA GRAMMAR. 
+
+Also jadl and its relative dldl5 e. g., 
+
+A didi o ndabo tg a ndi mbwei 'amg. 
+He who is in that house is my friend. 
+
+Hangw' 'abu a jad* oba. 
+
+Out Fp.ther who art in heaven. 
+
+• 
+
+Mb' 'aland' o ma-a jadi 
+I am going unto him. 
+(Literally) I am going where him — ^he is. 
+
+But jadi should properly be reckoned as an 
+adverb expressing local personal existence. It is 
+never used towards inanimate objects or lower ani- 
+mals. 
+
+Also b&kS, use to do, or be accustomed to do, 
+
+Ho bgkgndi ho haka nonanS. 
+We usually do so. 
+
+Bapaia ba bSkite ba haka mbSmba tSkadi. 
+Our forefathers used to do these customs. 
+
+The negative aspect of te is be and ibS^ e. g. 
+
+I ' b6 nonang. It is not so. 
+
+Indicative mood ; present tense. 
+
+Singular. 
+
+1st pers. Mb' ib^. I am not. 
+2d pers. ib6. Thou art not, 
+
+8d pers. A ibS. He is not. 
+
+Plural. 
+
+Ist pers. Ho ib6. We are not. 
+2d pers. ibfini. Yo are not. 
+3d pers. Ba ib6. They are not 
+
+
+
+»7 
+
+
+
+BENGA GRAMMAR. 6/ 
+
+These substantive verbs are used somewhat as 
+auxiliaries, e. g., 
+
+Mbi te mbi kSkS. I can go, i. e., 
+
+I am [in that state of existence that] I can go. 
+
+Mbi ndi lomwSngo. 
+I am sent. 
+
+DIYAEA. 
+
+But the regular verb diyaka, live, or dwell, best 
+represents the verb to be, and supplies auxiliaries 
+to all the other verbs, e. g., 
+
+Imperfect Indicative. 
+
+( diyandi ) 
+Mbi ma } (cont.) diyi J- 1 was. 
+( '* di' ) 
+
+Pluperfect Indicative. 
+
+Mbi ma di' mb* akala [or, mba kala]. 
+I had spoken. 
+
+"TE," AND "NDl" WITH "NA." 
+
+A very commonly used and useful idiom makes 
+te and ndl with na to express possession. Thus : 
+
+O te na bejaka ? 
+Have you fish ? 
+(Literally) Thou art with fish ? 
+
+Inygni dip^, o ndini na bwam. 
+Only ye have goodness. 
+
+Or, na alone will express the same possession, 
+if te or ndl are understood, e. g., 
+
+na 'hiki 'yam'. There is a happy land. 
+(Literally) You [are] with a happy land. 
+
+Sftsa I Please ! is an adverbial phrase. 
+
+
+
+68 BENGA GRAMMAR. 
+
+CONDITIONAL SENTENCES. 
+
+There are three pair of correlatives : oninge and 
+vakana, or b6nge ; jaka and te ; and vengg 1^ and 
+kumbakide na. 
+
+EXAMPLES. 
+I. 
+
+Ouingg wa ha bobe vakaua o ka vomndwS. 
+
+If thou doest ^^rong therefore thou shalt be puuished. 
+
+Oniugg wa ta liya benge o ka benja. 
+
+If thou first plantest then thou shalt reap. 
+
+11. 
+
+A jaka na Jisu au wa, te ho nyangindi. 
+
+If Jesus had not died we would have been lost. 
+
+III. 
+
+O ygngg 16 mba kandid* ayg elombo ehalg, na kumbwakidS na 
+enSng 'kae. 
+
+How that I forbade you a little thing, and the much rather 
+this great one ! 
+
+CONJUGATION OP THE REGULAR VERB. 
+
+The following synopsis, which is the complete 
+conjugation of the radical of a regular verb, will 
+give a better idea of the diflferent parts than could 
+be given by any mere explanation. 
+
+Synopsis of the verb o loma, to send. 
+ACTIVE VOICE. AFFIEMATIVE ASPECT. 
+
+IMPERATIVE MOOD. 
+
+Sing. Lomaka, send thou. 
+Pi, Lomakani, send ye. 
+
+
+
+BENGA GRAMMAR. 69 
+
+INDICATIVE MOOD. 
+
+Present tense, 
+Lomakandi, send, or am sending. 
+
+Singular. 
+
+1st pers. Mbi lomakandi. 
+2(1 pers. lomakandi. 
+3d pers. A lomakandi. 
+
+Plural. 
+
+1st pel's. Ho lomakandi. 
+2d pers. lomakandini. 
+3d pers. Ba lomakandi. 
+
+Immediate Past, 
+Ma lomandi. Have (recently) sent. 
+
+Singular. 
+
+1st pers. Mbi ma lomandi. 
+2d pers. O ma lomandi. 
+3d pers. A ma lomandi. 
+
+Plural. 
+
+1st pers. Ho ma lomandi. 
+2d pers. O ma lomandini. 
+3d pers. Ba ma lomandi. 
+
+A contracted form of the immediate past is mbi 
+ma lomi. 
+
+Perfect, 
+Lomindi. Have sent. 
+
+Singular. Plural. 
+
+1st pers. Mbi lomindi. Ho lomindi. 
+
+2d pers. O lomindi. lomindini. 
+
+3d pers. A lomindi. Ba lomindi. 
+
+
+
+70 BENGA GRAMMAR. 
+
+Historical. 
+Lomakindi. Sent (long ago). 
+
+Sing. Plural. 
+
+Ist pers. Mbi lomakindi. Ho lomakiudi. 
+
+2d pers. O lomakindi. O lomakindini. 
+
+3d pers. A lomakindi. Ba lomakindi. 
+
+A contracted form of the historical is lomaki. 
+A relative form of it is lomakidi. 
+
+Thus : Simple form : 
+
+God created all things. 
+
+Anyambg a velakindi belombo be^hgpi. 
+
+Contracted : 
+
+It is God who created all things. 
+Anyambe nd' a velaki belombo be^hSpi. 
+
+Relative : 
+
+God is He who created all things. 
+
+AnyambS ma nd* a velakidi belombo beghgpi. 
+
+Indeed, any part of the verb capable of a rela- 
+tive meaning can be made so in form by the substi- 
+tution of di for final ndl. 
+
+The historical has also a narrative form, 
+
+E* umba mba loma. 
+
+Pluperfect, 
+Ma di* mba loma. Had sent. 
+
+Singular. 
+
+Ist pers. Mbi ma di' mba loma. 
+2d pers. O ma di' wa loma. 
+3d pers. A ma diyand* a loma. 
+
+
+
+BENGA GRAMMAR. 7 1 
+
+Plural. 
+
+Ist pers. Ho ma di' hwa loma. 
+
+2d pers. O ma di3'andini wa lomani. 
+
+3d pers. Ba ma di* ba loma. 
+
+Di* is a contraction of diyandi, immediate past 
+of the verb diyaka. 
+
+Suggestion. It is possible that the interjected 
+a, in mba loma, belongs to the verb itself, and not 
+to the subject pronoun. Arguments for this possi- 
+bility are, (1) the fact that a is so interjected in 
+parts of the verb in the cognate Mpongwe and (pro- 
+bably) of the Fan dialects. (2) By admitting this 
+a as part of the verb, the apparently irregular 
+forms mba, "wa, etc., of the pronoun would have 
+no necessity for existence. The pluperfect would 
+then be written thus : 
+
+Singular. 
+
+1st pers. Mbi ma di' mbi aloma. 
+
+2d pers. ma di' o aloma. 
+
+3d pers. A ma diyand* a aloma. 
+
+Plural. 
+
+1st pers. Ho ma di' ho aloma. 
+
+2d pers. O ma diyandini o alomani. 
+
+3d pers. Ba ma di' ba aloma. 
+
+By elision the above and all similar tenses would 
+then be written thus : 
+
+Singular. 
+
+Ist pars. Mbi ma di' mb '-aloma. 
+2d pers. O ma di' o-aloma. 
+3d pers. A ma diyand' a 'loma. 
+
+
+
+^2 BENGA GRAMMAR. 
+
+Plural. 
+
+1st pers. Ho ma di' ho-aloxua. 
+
+2d pers. O ma diyandiui o-alomani. 
+
+3d pers. Ba ma di' b'-aloma. 
+
+And pronounced, by coalescence and other contrac- 
+tions, as if thus : 
+
+Singular. 
+
+1st pers. Mbi ma di' mb' aloma. 
+2d pers. ma di' wa %ma. 
+3d pers. A ma diyand' a 'loma. 
+
+Plural. 
+
+1st pers. Ho ma di' hwa 'loma. 
+
+2d pers. ma diyandini wa 'lomani. 
+
+3d pers. Ba ma di' ba 'loma. 
+
+First Future, 
+Ka lomandi. Will or shall send. 
+
+Singular. Plural. 
+
+1st pers. Mbi ka lomandi. Ho ka lomandi. 
+
+2d pers. O ka lomandi. ka lomandini. 
+
+3d pers. A ka lomandi. Ba ka lomandi. 
+
+There is a contingent form of the future, " When 
+I shall send." 
+
+Singular. 
+
+1st pers. 'mba-mbi ka loma. 
+2d pers. O avS-o ka loma. 
+3d pers. ma-a ka loma. 
+
+Plural. 
+
+1st pers. O hwS-ho ka loma. 
+2d pers. O inySni-o ka lomani. 
+3d pers. O ba-ba ka loma. 
+
+
+
+BENGA GRAMMAR. 73 
+
+Second Future, 
+Ka diyi aloma. Will or shall have sent. 
+
+Sing^ular. 
+
+1st pers. Mbi ka diyi ml)a loma, or, mb* aloma, mba 'loma. 
+
+2d pers. O ka diyi wa loma, " o-aloma, wa *loma. 
+
+8d pers. A ka diyand' a loma, " a-aloma, a 'loma. 
+
+Plural. 
+
+1st pers. Ho ka diyi hwa loma, or, ho-aloma, hwa 'loma. 
+
+2d pers. O ka diyandini wa lomani, *' o-alomani, wa 'lomani. 
+3d pers. Ba ka diyi ba loma, '* ba-aloma, ba 'loma. 
+
+SUBJUNCTIVE MOOD. 
+
+All the tenses of this mood are formed from 
+the corresponding tenses of the indicative, by 
+prefixing the phrase, oninge na, " if, thus." The 
+present, pluperfect, and second future have also 
+the form of a interjected between the pronoun and 
+the verb. 
+
+Present tense, 
+Oninge na lomakandi. If send. 
+
+Singular. 
+
+1st pers. OningS na mbi lomakandi. 
+2d pers. OningS na o lomakandi. 
+3d pers. OningS na a lomakandi. 
+
+Plural. 
+
+1st pers. OningS na ho lomakandi. 
+2d pers. Oninge na o lomakandini. 
+3d pers. Oningg na ba lomakandi. 
+
+
+
+74 BENGA GRAMMAR, 
+
+Another form. 
+
+Singular. 
+
+Istpen. Oning§ mb* a loma, or, m\>* aloma» 
+2d pen. Oninge o-a loma, '* wa ai 
+8d pers. Oninge a-a loma, " a 'loma. 
+
+Plural. 
+
+let pers. OningS ho-a loma, or, hwa 'loma. 
+2d pers. OningS o-a lomani, ** wa'lomani. 
+3d perH. Oninge ba-a loma, " ba 'loma. 
+
+See suggestion on page 71. 
+
+Ifnmediate Past. 
+Oningd na ma lomandi. If (recently) sent. 
+
+Singular. 
+
+Ifit pers. OningS ua mbi ma lomandi. 
+2d pens. OningS na o ma lomandi. 
+3il pers. Oningd na a ma lomandi 
+
+Plural. 
+
+1st pers« Oning^ na ho ma lomandL 
+2i) p^fs. Oning^ na o ma lomandini. 
+Si) p«r& Oning$ na In ma lomandi. 
+
+Ouing^ ua lomindi. If haxe aent 
+
+Ut |%M9k Outn$^ n» luH lo^tiiodi. 
+
+
+
+BENGA GRAMMAR. 75 
+
+Historical, 
+Oninge ua lomakindi. If (long ago) sent. 
+
+Singular. 
+Ist pers. OningS na mbi lomakindi. 
+2d pers. Oninge na o lomakindi. 
+3d pers. Oningg na a lomakindi. 
+
+Plural. 
+1st pers. Oninge na ho lomakindi. 
+2d pers. Oningg na o lomakindini. 
+3d pers. OningS na ba lomakindi. 
+
+Pluperfect, 
+Oninge na ma di' a loma. [Aloma] If had sent. 
+
+Singular. 
+1st pers. Oningg na mbi ma di* mb* a loma. 
+2d pers. OningS na o ma di' o-a loma. 
+3d pers. Oninge na a ma di* a-a loma. 
+
+Plural. 
+Ist pers. Oningg na ho ma di' ho-a loma. 
+2d pers. OningS na o ma diyandini o-a lomani. 
+3d pers. Oninge na ba ma di* b*-a loma. 
+
+See suggestion on page 71 for Aloma. 
+
+First Future, 
+Oninge na ka lomandi. If shall or will send. 
+
+Singular. 
+
+1st pers. OningS na mbi ka lomandi. 
+2d pers. OningS na o ka lomandi. 
+3d pers. Oningg na a ka lomandi. 
+
+Plural. 
+Ist pers. Onin^§ na ho ka lomandi. 
+2d pers. OningS na o ka lomandini. 
+3d pers. Oninge na ba ka lomandi. 
+
+
+
+76 BENGA GRAMMAR. 
+
+Special form. 
+Oningg lominge. 
+
+Singular. 
+
+1st pers. Oningg mbi lomingg. 
+2(1 pers. Oning^ o lomingS. 
+3d pers. Oninge a lomingS. 
+
+Plural. 
+Ist pers. Oningg bo lominge. 
+2d pers. Oninge o lominggni. 
+3d pers. Oningg ba lomingS. 
+
+This is the form most commonly used in conver- 
+sation. 
+
+Second Future, 
+
+Oningg na ka di* a loma [Aloma]. 
+If shall or will have sent. 
+
+Singular. 
+
+Ist pers. Oninge na mbi ka di' mb^a loma, or, mb' aloma. 
+
+2d pers. Oningg na o ka di* o-a loma, *• wa 'loma. 
+
+3d pers. Oninge na a ka diyand* a-a loma, '* a 'loma. 
+
+Plural. 
+1st pers. Oningg na bo ka di' bo-a loma, or, bwa 'loma. 
+
+2d pers. Oninge na o ka diyandini o-a lomani, ' ' wa 'lomani. 
+3d pers. OningS na ba ka di' b'-a loma, " b' aloma. 
+
+See suggestion on page 71 for Aloma. 
+
+POTENTIAL MOOD. 
+
+Present tense. 
+First form. 
+T' o loma. May or must send. 
+This form of the present potential takes for its 
+
+
+
+BENGA GRAMMAR. ^^ 
+
+auxiliary ta, a contraction of the defective verb 
+
+Singular. Plural. 
+
+Ist pen. Mbi t< o loma. Ho t* o loma. 
+
+2d pers. O t* o loma. O t* o lomani. 
+
+3d pers. A t' o loma. Ba t* o loma. 
+
+Second form. 
+Te lomaka. Can send. 
+
+This form takes its auxiliary from the substan- 
+tive verb te, " to be." 
+
+Singular. 
+
+Ist pers. Mbi te mbi lomaka. 
+
+2d pers. O te o lomaka. O t' o lomaka. 
+
+3d pers. A te a lomaka. A t' a lomaka. 
+
+Plural. 
+Ist pers. Ho te ho lomaka. 
+2d pers. O teni o lomakani. 
+3d pers. Ba te ba lomaka. 
+
+Perfect and HistoricaL 
+
+Te ! lomakindi. Should have sent. 
+
+The auxiliary sign of this tense is the interjection 
+of regret, te I Would that I had done so-and-so. 
+
+Singular. 
+
+1st pers. Te mbi lomakindi. 
+2d pers. T' o lomakindi. 
+3d pers. T' a lomakindi. 
+
+Plural. 
+
+let pers. Te ho lomakindi. 
+2d pers. T* o lomakindini. 
+8d pers. Te ba lomakindi. 
+
+
+
+78 BENGA GRAMMAR. 
+
+INFINITIVE MOOD. 
+
+Present tense, 
+O loma. To send. 
+E. g., mbi vahakand' o loma 'ye. I wish to send 
+you. 
+
+Future, 
+
+Ka loma. To send. 
+
+E. g., mbi pandi ka loma ma. I come to send him. 
+
+Participle. 
+Lomaka. Sending. 
+
+YERBAL NOUNS. 
+
+Noun absti^aot, Iloma, a sending. 
+
+Noun of agency, Ulomi, a sender. 
+
+Noun of mode, Ilomidi, manner of sending. 
+
+Noun of locality, Uomanido, place of sending. 
+
+No^w diminutive, YiloJoma, a little sending. 
+
+Noun of intensity, Ilomalomwe, a special sending. 
+
+ACTIVE TOICE. NEGATIVE ASPECT. 
+
+IXPSKATIVS MOOni 
+
+Sirtg. O lomake* Send thou not 
+/Y. O lomateni. Send ye not. 
+
+IXPICATIVm 3I001>. 
+
+Present tense. 
+A k>mi3iJta. Send not. 
+
+Singular. FluraL 
+
+lepers* )Ib "i Ii^miik^ H-'aloina&ai. 
+
+^ pecs. Oui iQOiiiki. Oa tii^makajii 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+;9 
+
+
+
+In this and all subsequent tenses the reader 
+will apply for himself the rule of coalescence, ma- 
+king oa, on, and hoa respectively wa, wu, and 
+hwa. 
+
+Immediate Past, 
+U loma. Did not (recently) send. 
+
+
+
+Singular. 
+
+Istpers. Mb' u loma. 
+2d pers. On loma. 
+3d pers. Au loma. 
+
+
+
+Plural. 
+
+H' u loma. 
+Ou lomani. 
+B'uloma. 
+
+
+
+Perfect. 
+
+U lomaka. Have not sent. 
+
+First form. 
+
+
+
+Singular. 
+
+Ist pers. Mb* u lomaka. 
+2d pers. On lomaka. 
+3d pers. Au lomaka. 
+
+
+
+Plural. 
+
+H'u lomaka. 
+Ou lomakani. 
+B' u lomaka. 
+
+
+
+Second form. Ha lome. 
+
+
+
+Singular. 
+Ist pers. Mbi ha lome. 
+2d pers. O ba lome. 
+3d pers. A ba lome. 
+
+
+
+Plural. 
+Ho ba lome. 
+O ba lomeni. 
+Ba ba lome. 
+
+
+
+HistoricaL 
+
+
+
+Did not send (long ago). 
+
+Singular. PluraL 
+
+1st pers. Mb* u lomaka. H' u lomaka. 
+
+2d pers. Ou lomaka. Ou lomakani. 
+
+3d pers. Au lomaka. B' u lomaka. 
+
+
+
+80 BENGA GRAMMAR. 
+
+Pluperfect, 
+U diya a loma [Aloma?]. Had not sent. 
+
+Singular 
+
+Istpers. Mb*u diya mbaloma. 
+2d pers. Ou diya wa loma. 
+3d pers. Au diya a loma. 
+
+Plural. 
+
+Istpers. H'u diya hwa loma. 
+2d pers. On diyani wa lomani. 
+3d pers. B'u diya ba loma. 
+
+First Future, 
+A lome [Alome?]. Shall or will not send. 
+
+Singular. Plural. 
+
+1st pers. Mb'^ lome. Hoa loma. 
+
+2d pers. O^ lome. O^ lomeni. 
+
+3d pers. A^ lome. B k lome. 
+
+Second Future. 
+
+A diye a loma [Aloma ?]. 
+Shall or will not have sent. 
+
+Singular. 
+
+1st pers. Mb*^ diye mb'a loma. 
+2d pers. Oa diye oa loma. 
+3d pers. Aa diye aa loma. 
+
+Plural. 
+
+1st pers. Hoa diye ho^ loma. 
+2d pers. O^ diyeni o^ lomani. 
+3d pers. B*a diye b-A loma. 
+
+
+
+BENGA GRAMMAR. 8 1 
+
+SUBJUNCTIVE MOOD. 
+
+Present tense. 
+
+Special form. 
+Oninge lome. If send not. 
+
+Singular. Plural. 
+
+1st pers. Ouinge mbi lome. Oninge ho lome. 
+
+2d pers. Oninge o lome. Oiiingg o lomeni. 
+
+3d pers. Oninge a lome. Oninge ba lome. 
+
+All the tenses of the active negative subjunctive 
+are formed by prefixing oninge na (" if so ") to the 
+corresponding tenses of active negative indicative. 
+
+Present. 
+Oninge na a lomaka [Alomaka?]. If not send. 
+
+Singular. 
+1st pers. Oninge na mb* a lomaka. 
+2d pers. Oninge na o^ lomaka. 
+3d pers. Oninge na aa lomaka. 
+
+Plural. 
+1st pers. Oninge na boa lomaka. 
+2d pess. Oninge na ok lomakani. 
+3d pers. Oninge na b*^ lomaka. 
+
+Immediate Past. 
+U loma. Did not (recently) send. 
+
+Singular. 
+1st pers, Oninge na mb* u loma. 
+2d pers. Oninge na ou loma. 
+3d pers. Oninge na au loma. 
+
+Plural. 
+1st pers. Oninge na b* u loma. 
+2d pers. Oninge na ou lomani. 
+3d pers. Oninge na b* u loma. 
+
+
+
+82 BENGA GRAMMAR. 
+
+Perfect, 
+Oning^ na ha lome. If have not sent. 
+
+Singular. 
+1st pers. OniBg§ na mbi ha lome. 
+2d pers. Oninge na o ha lome. 
+3d pers. Oni^ge na a ha lome. 
+
+Plural. 
+1st pers. Ouinge na ho ba lome. 
+2d pers. Oning§ na o ha lomeni. 
+3d pers, Oniiige na ba ha lome. 
+
+a 
+
+• HistoricaL 
+Oninge na u lomaka. If sent not (long ago). 
+
+singular. 
+1st pers. Oniuge namb' u lomaka. 
+2d pers. Oninge na ou lomaka. 
+3d pers. Oninge na au lomaka. 
+
+Plural. 
+
+1st pers. Oninge na h' u lomaka. 
+2d pers.' Oninge na ou lomakani. 
+3d pers. Oninge b' a lomal^. 
+
+Pluperfect. 
+
+* 
+
+OningS na u diya a loma [Aloma?l 
+If had not sent (long ago). 
+
+Singular. 
+1st pers. Oninge na mb* u diya mb' a loma 
+2d pers. Onin^§ na oa diya wa loma. 
+3d pers. Oninge na au diya a loma. 
+
+Plural. 
+1st pers. Oninge na h' u diya hwa loma. 
+2d pers Oninge na ou diya wa lomani. 
+3d perS. Oninge na b* u diya ba loma. 
+
+
+
+BENGA GRAMMAR. 83 
+
+First Future. 
+Oninge na a lome. . If sliall or will not send. 
+
+Singular. . 
+
+iKtpers. Oiiinge na mb' a lomo. 
+2d pen. Oainge na oa' lome. 
+3(i pers. Oninge na'aa loQie. 
+
+Plural. 
+
+Istpers Oninge i^ hoa lome. 
+2d pers: Oningg na oa lomeai. 
+3d pers. Oninge na b' a lome. 
+
+» 
+
+. Second Future, 
+
+Oninge na a diye a loma [Aloma?] 
+If shall Or will not have sent. 
+
+Singular. * 
+
+Ist pers. Oninge na mb' a cliye mb* a loma. 
+2d pers. Oninge na oa diye oa loma. 
+3d pers. Oninge na aa diye aa loma. 
+
+Plural." 
+Ist pers. Oninge na ho^ diye hoa loma. 
+2d pers. Oninge na oa diyeni oa lomani? 
+3d pers. Oningg na b* A diye b* k loma. 
+
+
+
+
+
+
+
+POTENTTAT, 
+
+
+MOOD. 
+
+
+
+
+
+
+• 
+
+Present tense. 
+
+
+
+
+A lomi. May not send. 
+
+
+
+
+Singular. 
+
+
+Plural 
+
+
+1st 
+
+
+pers. 
+
+
+Mb* a lomi. 
+
+
+Ho^ lomi. 
+
+
+2d 
+
+
+pers. 
+
+
+0^ lomi. 
+
+
+Oa lomini. 
+
+
+3d 
+
+
+pers. 
+
+
+kk lomi. 
+
+
+B* k lomi. 
+
+
+
+This present tense can be expressed also by a 
+
+
+
+84 BENGA GRAMMAR. 
+
+circumlocutory use of the phrase mbi 'be na ngudi, 
+I have not ability. Thus : Cannot send. 
+
+Singular. 
+Ist pers. Mbi 'bS na ugudi mbi lomaka. 
+2d pers. O 'bS na ngadi o lomaka. 
+3d pers. A 'bS na ngudi a lomaka. 
+
+Plural. 
+1st pers. Ho 'be na ngudi ho lomaka. 
+2d pers. O 'bSni na ngudi o lomakeni. 
+3d pers. Ba 'bS na ngudi ba lomaka. 
+
+Perfect. 
+Te ! u lomaka. Would had not sent. 
+
+Singular. Plural. 
+
+Ist pers. Te ! mb' u lomaka. Te ! h' u lomaka. 
+
+2d pers. Te ! ou lomaka. Te ! ou lomakani. 
+
+3d pers. Te ! au lomaka. Te ! b' u lomaka. 
+
+PASSIVE VOICE. AFFIEMATIVE ASPECT. 
+
+IMPERATIVE MOOD. 
+
+Sing, Lomakwe. Be thou sent. 
+PL Lomakweni. Be ye sent. 
+
+INDICATIVE MOOD. 
+
+Present tense. 
+
+Am sent. 
+
+First Form. Lomakwendi. 
+
+Singular. Plural. 
+
+1st pers. Mbi lomakwSndi. Ho lomakwendi. 
+
+2d pers. lomakwendi. O lomakwSndini. 
+
+3d pers. A lomakwendi. Ba lomakwendi. 
+
+
+
+BENGA GRAMMAR. 85 
+
+Second Form. Ndi lomW6ngo. 
+
+Singular. Plural. 
+
+1st pers. Mbi ndi lomwgngo. Ho ndi lomwengo. 
+
+2d pers. O ndi iomwgngo. O ndini lomwSngo. 
+
+3d pers. A ndi lomwgngo. Ba ndi lomwengo. 
+
+Third form. A lomwendi. [Alomw6ndiV] 
+
+Singular. Plural. 
+
+1st pers Mb'a lomwgndi. Hoa lomwendi. 
+
+2d pers. Oa lomwendi. Oa lomwSndini. 
+
+3d pers. Aa lomwgndi. B'a lumwSndi. 
+
+Immediate Past. 
+Ma lomwendi. Was sent (recently). 
+
+Singular. Plural. 
+
+1st pers. Mbi ma lomwendi. Ho ma lomwSndi. 
+
+2d pers. O ma lomwgndi. O ma lomwgndini. 
+
+3d pers. A ma lomwendi. Ba ma lomwgndi. 
+
+Perfect, 
+Lomudwendi. Have been sent. 
+
+Singular. Plural. 
+
+1st pers. Mbi lomudwSndi. Ho lomudwendi. 
+
+2d pers. lomudwSndi. O lomudwgndini. 
+
+3d pers. A lomudwSndi. Ba lomudwgndi. 
+
+Historical, 
+Lomakudwendi. Have been sent (long ago). 
+
+Singular. Plural. 
+
+Ist pers. Mbi lomakudwSndi. IIo lomakndwgndi. 
+
+2d pers. O lomakudwendi. O lomakudwgndini. 
+
+3d pers. A lomakudwendi. Ba lomakudwendi. 
+
+
+
+86 BENGA GRAMMAR. 
+
+Pluperfect. 
+
+Had been sent. 
+First form. Diyaki lomw6. [Alomwfi ?] 
+
+I 
+
+Singular. 
+
+Istpers. Mbi diyaki mba lomwS. 
+2d pers. diyaki wa lomwg. 
+3d pers. A diyakind* a lomwS. 
+
+Plural. 
+Ist pers. Ho diyaki hwa lomwS 
+
+2d ners \ ^ ^iy^^i^^i^i ^* lomwS. ) 
+( O diyaki wa lomweni. ) 
+
+3d pers. Ba diyaki ba lomwe. 
+
+Second form. Diyaki lomw^nga 
+
+Singular. 
+
+let pers. Mbi diyaki lomwengo. 
+2d pers. O diyaki lomwengo. 
+3d pers. A diyakindi lomwgngo. 
+
+Plural. 
+
+1st pers. Ho diyaki lomwSngo. 
+2d pers. diyakiudini lomwengo. 
+3d pers. Ba diyaki lomwengo. 
+
+First Future, 
+Ka lomwgndi. Will be sent 
+
+Singular. Plural. 
+
+1st pers. Mbi ka lomwendi. Ho ka lomwSndi. 
+
+2d pers. O ka lomwendi. O ka lomwendini. 
+
+3d pers. A ka lomwgndi. Ba ka lomwendi. 
+
+
+
+BENGA GRAMMAR. 87 
+
+Second Future, 
+Ka diyi lorn we [Alomwe?]. Will have been sent. 
+
+Singular. 
+
+Ist pers. Mbi ka diyi inba lorn we. 
+2d pers. ka diyi wa lomwS. 
+3d pers. A ka diyand' a lomwS. 
+
+Plural, 
+lat perfi. Ho ka diyi hw^ lomwd. 
+
+2d Ders J ^ ^* diyandini wa lorn we. ij 
+1 ka diyandi wa lomwSni. ) 
+3d pers. Ba ka diyi ba lomwS. 
+
+SUBJUNCTIVE MOOD. 
+
+Formed by prefixing oningg na to the tenses of 
+the indicative passive affirmative. 
+
+Present tense. 
+OningS lomwe. [Alomwe ?] If am sent. 
+
+Singular. Plural. 
+
+Ist pers. OniogS mba lomwS. OningS hwa lomwe. 
+
+2d pers. Onlnge wa lomwe. Oningg wa lomwgni. 
+
+3d pers. OningS a lomwe. Oninge ba lomw§. 
+
+« 
+
+Immediate Past. 
+Oninge na ma lomwendi. If was sent. 
+
+Singular. 
+1st pers. OningS na mbi ma lomwendi. 
+2d pers. Oningg na o ma lomwSndi. 
+3d pers. Oningg na a ma lomwSndi. 
+
+Plural. 
+1st pers. OningS na ho ma lomwendi. 
+2d pers. OningS na o ma lomwSndini. 
+3d pers. Onfngg na ba ma lomwendi. 
+
+
+
+88 BENGA GRAMMAR. 
+
+Perfect. 
+Oningg na lomakudw^ndi. If have been sent. 
+
+Singular. 
+
+1st pers. Oningg na mbi lomakndwendi. 
+2d pers. Oninge na o lomakndwendi. 
+3d pers. Oninge na a lomakudwendi. 
+
+Plural. 
+
+1st pers. Oninge na ho lomakadwSndi. 
+2d peis. Oninge na o lomakndwendini. 
+3d pers. OningS na ba lomakndwendi. 
+
+Historical, 
+Same as the perfect. 
+
+Pluperfect, 
+
+If had been sent. 
+First form. Oninge na diyaki lorn we. [Alomw6 ?] 
+
+Singular. 
+
+Ist pers. Oning§ na mbi diyaki mba lomwg. 
+2d pers. Oninge na o diyaki wa lomwS. 
+3d pers. Oninge na a diyaki a lomwe. 
+
+Plural. 
+1st pers. Oning^ na ho diyaki hwa lomwe. 
+2 1 ners / Oiling© na o diyakindini wa lomwe. j 
+\ Oninge na o diyaki wa lomweni. \ 
+3d pers. Oninge na ba diyaki ba lomwg. 
+
+Second form. Oninge na diyaki lomwengo. 
+
+Singular. 
+
+1st pers. Oninge na mbi diyaki lomwSngo. 
+2d pers. Oninge na o diyaki lomwengo. 
+3d pers. Oninge na a diyakindi lomwengo. 
+
+
+
+BENGA GRAMMAR. 89 
+
+Plural. 
+
+1st pers. Ouingg na ho diyaki lomwSngo. 
+2d pers. OningS na o diyakindini lomwengo. 
+3d pers. Oninge na ba diyaki lomwengo. 
+
+First Future, 
+Oninge na ka lomwendi. If shall be sent. 
+
+Singular. 
+
+1st pers. Oninge na mbi ka lomwendi. 
+2d pers. OningS na o ka lomwendi. 
+3d pers. Oninge na a ka lomwendi. 
+
+Plural. 
+
+1st pers. Oninge na ho ka lomwendi. 
+2d pers. OningS na o ka lomwSndiui. 
+8d pers. Oninge na ba ka lomwendi. 
+
+Second Future, 
+
+Oninge na ka diyi lorn we. [Alomwe ?] 
+If will.have been sent. 
+
+Singular. 
+
+1st pers. Oninge na mbi ka diyi mba lomwe. 
+2d pers. OningS na o ka diyi wa lomwe. 
+3d pers. OningS na a ka diyand' a lomwe. - 
+
+Plural. 
+
+Ist pers. Oninge nn ho ka diyi hwa lomwe. 
+
+o •. j OningS na o ka diyandini wa lomwe. 1 
+
+* 1 Oningg na o ka diyandi wa lomweni. ) 
+
+3d pers. Oninge na ba ka diyi ba lomwe. 
+
+
+
+90 BENGA GRAMMAR. 
+
+POTENTIAL MOOD. 
+
+Present tense. 
+First form. Ta o Ibmwe. May be sent. 
+
+Singular. Plural. 
+
+1st pers. Mbi t* o lomwe. Ho t* o lomw§. 
+
+2d pers. t* o lomwS. t' o lomweni. 
+
+3d pers. A t* o lomwg. Ba t* o lomwe. 
+
+Second form. Te lomakw6. Can be sent. 
+
+Singular. 
+
+let pers. Mbi te mbi lomakwS. 
+2d pers. O t' o lomakwe. 
+3d pers. A t* a lomakwS. 
+
+Plural. 
+
+1st pers. Ho te ho lomakwS. 
+
+2d pers. \ ^ *®"^ ^ lomakwg. ) 
+( O t' o lomakwgni. | 
+3d pers. Ba te ba lomakwe. 
+
+INFINITIYE MOOD. 
+
+O lomw6. ) m 1 I 
+
+Ka lomwe. f ^^ ^^ «^^*- 
+
+Participle, 
+Iiomwengo. Sent. 
+
+VERBAL NOUNS. 
+
+Abstract, Ilomw6, a message. 
+Agency, TJlomwe, a messenger. 
+
+Diminutive, Vilolomwg, a little message. 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+91 
+
+
+
+PASSIVE VOICE. NEGATIVE ASPECT. 
+
+
+
+IMPERATIVE MOOD. 
+
+Sing, O lomakwe. Be thou not sent. 
+PL O lomakwgni. Be ye not sent. 
+
+INDICATIVE MOOD. 
+
+Present tense. 
+Am not sent. 
+
+First form. \ lomakwe. 
+
+
+
+Singular. 
+
+Ist pers. Mb' a lomakwe. 
+2d pers. Oa lomakwe. 
+3d pers. h.k lomakwg 
+
+
+
+Plural. 
+
+Hoa lomakwe. 
+Oa lomakwSni. 
+B' a lomakwe. 
+
+
+
+Second form. A lomw6. 
+
+
+
+Singular. 
+
+Ist pers. Mb' a lomwe, 
+2d pers. Oa lomwe. 
+3d pers. Aa lomwg. 
+
+
+
+Plural. 
+
+Hoa lomwe. 
+O^ loraweni. 
+B* k lomwe. 
+
+
+
+Third form. Ib6 lomwengo. 
+
+
+
+Singular. 
+
+Ist pers. Mb' Ibe lomwengo. 
+2d pers. O ibe lomwgngo. 
+3d pers.. A ibe lomwengo. 
+
+
+
+Plural. 
+
+
+
+Ho ibe lomwengo. 
+O ibeni lomwengo. 
+Ba ibe lomwengo. 
+
+
+
+Fourth form. Ha lomw6. 
+
+
+
+Singular. 
+
+1st pers. Mbi ha lomwe. 
+2d pers. O ba lomwe. 
+3d pers. A ha lomwe 
+
+
+
+Plural. 
+
+Ho ba lomwS. 
+O ha lomweni. 
+Ba ba lomwe. 
+
+
+
+92 BENGA GRAMMAR. 
+
+Immediate Past, 
+U lomwe. Was not sent. 
+
+Singular. Plural. 
+
+1st pers. Mb' u lomw5. • H' u lomwg. 
+
+2d pers. Ou lomwe. Ou lomweni. 
+
+3d pers. An lomwS. B' u lomwe. 
+
+Perfect, 
+U lomakwg. Have not been sent. 
+
+Singular. Plural. 
+
+Ist pet's. Mb' u lomakwe. H' u lomakw§. 
+2d pers. Ou lomakwe. Ou lomakwSni. 
+
+3d pers. Au lomakwe. B* u lomakwe. 
+
+Historical, 
+Same as the perfect. 
+
+Pluperfect, 
+
+Had not been sent. 
+First form. Diyaka a lomw6. [Alomwe ?] 
+
+Singular. 
+
+1st pers. Mb' a diyaka mba lomwS. 
+2d pers. Ou diyaka wa lomwe. 
+3d pers. Au diyaka a lomwe. 
+
+Plural. 
+Ist pers. H' u diyaka hwa lomwg. 
+
+2d pers. \ ^^ ^y^^*^^ ^* lomwS. ) 
+' I Ou diyaka wa lomwgni. ) 
+
+3d pers. . B' u diyalca ba lomwg. 
+
+
+
+BENGA GRAMMAR. 93 
+
+Second form. U diyaka lomwengo. 
+
+Singular. 
+
+Ist pers. Mb* u diyaka lomwengo. 
+2d pers. O a diyaka lomwSngo. 
+3d pers. Au diyaka lomwengo. 
+
+Plural. 
+
+1st pers. H' n diyaka lomwengo. 
+2d pers. Ou diyakani lomwengo. 
+3d pers. B* u diyaka lomwgngo. 
+
+First Future, 
+A lomwe. Will not be sent. 
+
+Singular Plural. 
+
+1st pers. Mb* k lomwe. Ho^ lomwg. 
+
+2d pers. O^ lomwe. O^ lomwSni. 
+
+3d pers. A^ lomwe. B' a lomw6. 
+
+Second Future. 
+
+A diye a lomw6. [Alomwe?] 
+Will not have been sent. 
+
+Singular. 
+
+1st pers. Mb* a diye mba lomw§. 
+2d pers. O^ diye wa lomwS 
+3d pers. A^ diye a lomwe. 
+
+Plural. 
+Ist pers. Ho4 diye hwa lomwS. 
+
+2d ners -I ^^ diyeni wa lomwe. ) 
+' ( O^ diye wa lomw6ni. ) 
+3d pers. B* k diye ba lomw$. 
+
+
+
+94 BENGA GRAMMAR. 
+
+SUBJUNCTIVE MOOD. 
+
+Formed by prefixing oninge na to the tenses of 
+the indicative passive negative. 
+
+Present tense, 
+Oninge lomwe. If not sent. 
+
+Singular. Plural. 
+
+1st pers. Oningg mbi lomwe. Oninge ho lomwe. 
+
+2d pers. Oningg o lomwe. Oninge o lomweni. 
+
+3d pers. Oninge a lomwe. Oninge ba lomwe. 
+
+Immediate Past, 
+Oninge na u lomwe. , If was not sent (recently). 
+
+Singular. 
+Ist pers. Oninge na mb' a lomw§. 
+2d pers. OningS na on lomwe. 
+3d pers. Oninge na au lomwe. 
+
+Plural. 
+1st pers. Oninge na h' u lomwe. 
+2d pers. Oninge na ou lomweni. 
+3d pers. OningS na b' u lomwe. 
+
+, Perfect, 
+Oninge na u lomakwfi. If have not been sent. 
+
+Singular. 
+1st pers. Oninge na mb' u lomakwS. 
+2d pers. Oninge na ou lomakwg. 
+3d pers. Oningg na au lomakwe. 
+
+Plural. 
+
+Ist pers. Oninge na h' u lomakwg. 
+2d pers. Oninge na ou lomakweni. 
+3d pers. Oninge na b* u lomakwg. 
+
+Historical, 
+Same as the perfect, 
+
+
+
+BENGA GRAMMAR. 95 
+
+Pluperfect, 
+
+Oninge na u diyaka a lorn we. [Alomwe?] 
+If had not been sent. 
+
+Singular. 
+
+1st pers. ODiugg na mb' u diyaka mba lomwS. 
+2d pers. OningS na ou diyaka wa lomwe. 
+3d pers. Oningg na au diyaka a lomwe. 
+
+Plural. 
+1st pers. Oningg na h' u diyaka hwa lomwg. 
+
+2d wers. -i ^^^^^ ^* ^^ diyakani wa lomwg. \ 
+\ Oningg na ou diyaka wa lomwSni. » 
+3d pers. OningS na b' u diyaka ba lomwg. 
+
+First Future, 
+Oningg na a lomwe. If will not be sent. 
+
+Singular. 
+
+1st pers. Oninge na mb' a lomwg. 
+
+2d pers. Oningg na oa lomwS. ^ 
+
+3d pers. Oningg na aa lomwe. 
+
+Plural. 
+
+1st pers. Oninge na ho^ lomwg. 
+2d pers. Oninge na ok lomweni. 
+3d pers. Oningg na b' a lomwg. 
+
+Second Future. 
+
+Oninge na a diye a lomwe. [Alomwe ?] 
+If will not have been sent. 
+
+Singular. 
+
+1st pers. Oninge na mb' a diye mba lomw6. 
+2d pers. Oninge na o^ diye wa lomwe. 
+3d pers. Oninge na aa diye a lomw$. 
+
+
+
+96 BENGA GRAMMAR. 
+
+Plural. 
+Ist pere. Oninge na ho^ diye hwa lomwe. 
+
+2d Dera. i O^JJ^g^ ^^ oa diyeni wa lomwS. ) 
+I Oning§ na ok diye wa lomwfini. ) 
+3d pers. Oninge b' a diye ba lomw6. 
+
+POTENTIAL MOOD. 
+
+Present tense. 
+
+May not be sent. 
+First form. A lomwe. 
+
+Sing^ular. Plural. 
+
+Ist pers. Mb* k lomwe. Hdi lomwe. 
+
+2d pers. O^lomwg. O^ lomweni. 
+
+3d pers. A^ lomwe. B* a lomwS. 
+
+Second form. Ibe na ngudi e lomakwe. 
+
+Cannot be sent. 
+
+Singular. 
+
+1st pers. Mb' ibe na ngudi e lomakwe. 
+2d pers. ibg na ngudi e lomakwe. 
+3d pers. A ibe na ngudi e lomakwe. 
+
+Plural. 
+
+1st pers. Ho ibe na ngudi e lomakwS. 
+
+2d oers -I ^ ^^^^^ ^^ ngudi e lomakwe. | 
+1 ibe na ngudi e lomakweni. ) 
+3d pers. Ba ibe na ngudi e lomakwe. 
+
+Perfect, 
+Te ! u lomakudwe. Would ! not have been sent. 
+
+Singular. Plural. 
+
+Ist pers. Te ! mb' u lomakudwe. Te ! h' u lomakudw6. 
+
+2d pers. Te ! ou lomakudwe. Te ! ou lomakudwenl. 
+
+3d pers. T* au lomakudwe, Te ! b* u lomakudwe. 
+
+
+
+BENGA GRAMMAR. 97 
+
+All the other species, frequentative, lomakate; 
+relative, lomakiya ; reciprocal, lomanaka j aDd caus- 
+ative, lomakide ; and their compounds, recipro-fre- 
+quentative, lomanakate; recipro-relative, lomana- 
+kiya ; recipro-causative, lomanakide, are capable of 
+being conjugated through both aspects of both 
+voices, and in all moods and tenses (as far as mean- 
+ing will allow), with tense signs and terminations 
+the same as in the above paradigm of the radical 
+lomaka. 
+
+And the several kinds of verbal nouns can be 
+derived from each of the above-named species, lim- 
+ited only by their capacity for meanings, e. g., 
+
+Ilomiya, > „ , ,. 
+
+Ilomidg, ) 
+Ulomide, I Causative. 
+
+nomana, ^ 
+
+PAKTICIPLES. 
+
+This part of Benga speech does not exactly co- 
+incide with the English participle. There are only 
+two, and they are used only in the present. 
+
+Active, present. Lomaka, sending. 
+
+T. . ,, Lomakwg, ) 
+
+P*««^^« Lomwengo. r«^*- 
+
+EXAMPLE. 
+
+Anyambe a na kenga, a lomaka mbwiya o bayamu na babe 
+tepe ta. 
+
+God is kind, sending rain on good and bad both together. 
+
+Benga GrRmtnar. y 
+
+
+
+98 BENGA GRAMMAR. 
+
+Also there is another participial form, in the 
+use of the intensive adverb bo, only, e. g., bo-tan- 
+daka, loving, simply, or entirely loving ; bo-v6heke, 
+scorning utterly. 
+
+ADVEKBS. 
+
+The number of adverbs in the Benga language 
+is not great ; but they can readily be increased by 
+the use of adverbial phrases consisting of the prep- 
+osition o and certain nouns of place, time, manner, 
+etc. 
+
+ADVERBS OF PLACE. 
+
+Oba. Above. 
+
+Okava. Here. 
+
+Ovone. There. 
+
+Okaoni. OS there. 
+
+Okavani. There (farther oflf), 
+
+Ove. Where. 
+
+Ulanga. Westward. (Literally, O 'langa, " to 
+the deep," i. e., of the sea.) 
+
+O boho. Forward. (Literally, " to the face," 
+i. e., face ward. 
+
+O mbuhwa. Behind. (Literally, " to the rear.") 
+
+O he. Below, " to the ground." 
+
+Bo. Far. 
+
+Baka, baka na. Beside, alongside. 
+
+Tavidengo. Far away. 
+
+Piele. Near. 
+
+Kwanga. Until, clear unto. 
+
+
+
+BENGA GRAMMAR. 99 
+
+We. There, to the very end, ultimately. 
+Jadi. Unto. 
+
+ADVERBS OF TIME. 
+
+Pani. At once, this moment. 
+O buhwa. To-day. 
+Vaiko. Yesterday. 
+O vake. To-morrow. 
+Wawd. Quickly. 
+Ngwambe. Hastily. 
+Pwapw&. In a hurry. 
+
+Kya. Now. (O kya tekane, "at this present 
+[time].") 
+
+Kwei. Presently, after a while. 
+
+N* ivakwe. At another [time]. 
+
+O vyo. Formerly. (" To the old [time].") 
+
+ADVERBS OF QUANTITY. 
+
+Bo. Only, simply. 
+
+Mete. Very. 
+
+Kabo. Only, 
+
+Kwe. A little. 
+
+Twetwe. SuflSicient. 
+
+Pa. Solely, absolutely. 
+
+Tep6. Also. 
+
+Paniango. Exactly, just as. 
+
+ADVERBS OP DOUBT. 
+
+Oninge. If. 
+
+Ip6. Perhaps, if.* 
+
+O banga. Lest. (Literally, " to fear.") 
+
+Pagate. If only. 
+
+
+
+lOO BENGA GRAMMAR. 
+
+ADVERBS OP MANNER. 
+
+Dipa. Alone. 
+
+O bwe, bwebwe. Openly^ " to the light." 
+
+KyA. Cut oflf short. 
+
+Na. Thus, namely, viz. 
+
+Nandi. Therefore. 
+
+Ta. Together. 
+
+Ka. Tremblingly, hesitatingly. 
+
+Kakana. In this manner, thus. 
+
+Ka. As. 
+
+Ka na. As if. 
+
+Pani ka. Like manner, like unto. 
+
+ADVERBS OF AFFIRMATION. 
+
+Aye. Ai. Yes (of response). 
+E. Yes (of assent). 
+Nonane. It is so. 
+Nande. Certainly. 
+Nande le. Why not ? 
+Pakwgpakwe. Verily, truly. 
+Mbambae. Truly. 
+Vakana. Then, therefore, so. 
+
+ADVERBS OF NEGATION. 
+
+Nyawe. No. 
+Hanga. Not. 
+
+Besides single words, as in the above lists, many 
+phrases are used adverbially, just as in English. 
+
+
+
+BENGA GRAMMAR. 
+
+
+
+lOI 
+
+
+
+EXAMPLES. 
+
+
+
+Mbi ka yenete, I will see (implying doubt, or refusal). 
+Egombe yghepi, All the time, for ever. 
+Sasa, Please to do so ; if it please you. 
+
+Such adverbial phrases are very numerous. 
+
+
+
+PEEP08ITI0NS. 
+
+There are very few. Preposition a, of, is capa- 
+ble of being varied, in likeness to the alliterative 
+form of the noun with which it agrees, and forming 
+the adjunct or link to the noun which it governs, as 
+described under nouns and pronouns. Thus : 
+
+CLASSES OF NOUNS. 
+
+
+
+
+
+1st 
+
+
+2d 
+
+
+8d 
+
+
+4th 
+
+
+5th 
+
+
+6th 
+
+
+7th 
+
+
+8th 
+
+
+Sinff. 
+
+
+ea 
+
+
+ja- 
+
+
+mua 
+
+
+boa 
+
+
+mua 
+
+
+ua 
+
+
+via 
+
+
+ea 
+
+
+PL 
+
+
+bea 
+
+
+ma 1 
+
+
+mea 
+
+
+mea 
+
+
+ba 
+
+
+ba 
+
+
+la 
+
+
+ja 
+
+
+
+The single preposition o supplies the place of a 
+large number of those in use in the English lan- 
+guage. To, from, on, upon, over, in, against, and 
+others are represented by it. 
+
+The other in most frequent use is na, with. 
+
+
+
+EXAMPLES. 
+
+
+
+Baka na (Baka, near ; na, to), be8ide. 
+Pigle na (pi61e, near ; na, to), near to. 
+Oviya (o, in ; viya, coming), from. 
+
+The preposition o, when used before the name 
+of a person, or before a personal pronoun, is always 
+followed by jadi. 
+
+
+
+102 BENGA GRAMMAR. 
+
+FXAMPLE8. 
+
+Mb' 'aland' o Mediko a jadi. 
+I am going unto Mediko. 
+
+Mba viyand' o ma-a jadi. 
+
+I have come from bim [where him-he is]. 
+
+As jadi expresses personal local existence, it is 
+not used after common nouns, unless they indicate 
+a person or persons, e. g., 
+
+A vukiyend o bato ba jadi. 
+He came unto mankind. 
+
+See jadi in the list of defective and irregular 
+verbs. 
+
+CONJUNCTIONS. 
+
+These are copulative and disjunctive. 
+
+Those most frequently in use are : 
+
+Oningg. If. 
+
+Na. And. 
+
+Kabo. Except. 
+
+Kabojana, ikabojana, jambojana, kaboja. Be- 
+cause. 
+
+Tombekete, tombete, tombe. Either, or. 
+
+Also the correlatives : Oning6 and vakdna, or 
+bSnge; jaka and te. (See examples under defec- 
+tive and irregular verbs.) 
+
+INTERJECTIONS. 
+
+Single words used as interjections are not nu- 
+merous. Em6 is used when something extraordi- 
+
+
+
+BENGA GRAMMAR. 103 
+
+nary is seen or heard. Bamdni is an expression of 
+surprise or grief ; te, of regret. Saba and sabali, 
+used interrogatively, are equivalent to, True? Is it 
+true ? But, used positively, they are of the nature 
+of an oath. 
+
+Phrases used as exclamations abound, some of 
+which mean in English as follows : " Oh ! my mo- 
+ther !" " Oh ! my father !" " Oh ! son of my mo- 
+ther !" Often the name alone of the father or mother 
+is used. 
+
+Sasa, please ! is used more especially by chil- 
+dren or inferiors, in asking a favor. 
+
+We? is a courteous softening of an order, or 
+polite call to attention to some address or state- 
+ment. Thus, a teacher to his pupil, or friend to a 
+cotnpanion, begins his statement, Mba na, we ? as 
+if to say, " I speak to you ; listen." And friend to 
+a friend, or master to a willing servant, Hak* ekae, 
+we. " Do this, please." 
+
+Occasionally an expression, often of a slangy 
+nature, originates from some trifling cause, and is 
+in every one's mouth for a little while, and then 
+again falls into disuse. 
+
+Mbolo is a salutation, with its plural mboloani. 
+The inferior always first addresses the superior, the 
+child the parent, the servant the master, the host 
+the guest. The claims of hospitality are carried so 
+far that a king, if a host, is thereby the "inferior" 
+of a child or even of a slave, the child being, for 
+
+
+
+I04 BENGA GRAMMAR. 
+
+the time, his guest. (This was literally exact for- 
+merly, until, in places where foreign influences pre- 
+vail, there has been substituted an indiscriminate 
+and meaningless hand-shaking.) The person thus 
+saluted responds, " Ai, mbolo." The plural mbo- 
+loani, though intended for the whole company of 
+strangers or guests, is (where politeness is regarded) 
+addiessed to their leader or eldest one, by name. 
+Mbolo means " gray hairs," and the salutation is 
+equivalent to " may you live to old age !" 
+
+Among intimate friends, or as a courtly saluta- 
+tion from a chief, is used the word sale and its 
+plural saleni, e. g., sale, welcome ! Bangi, saleni. 
+Hail, strangers ! And then when this effusive wel- 
+come has quieted down, the dignified "mbolo" 
+should invariably be added. , 
+
+Among affectionate friends, both men and wo- 
+men, but more especially among women, samba! 
+precedes the usual mbolo. The host, seeing the 
+visitor coming, advances rapidly with extended 
+arms, ejaculating, "lyfi! iyS," and as the friends 
+meet, they fall on to each the other's shoialder, 
+clasping each their own hands on the other's back, 
+with a prolonged samba-a-a ! 
+
+Many other forms of salutation there are, used, 
+as in civilized countries, only among equals, or 
+with a streak of humor, equivalent to our, " Top-o*- 
+the-moming !" " How are you, old fellow," etc. 
+
+Te! Would so-and-so! has already been men- 
+tioned as an adverb. 
+
+
+
+BENGA GRAMMAR. lOJ 
+
+INTERROGATION. 
+
+Interrogation is expressed, not only as in all 
+languages, by the inflection of voice, but also by 
+the particles we and le and e. 
+
+We has already been mentioned both as an 
+adverb and as an interjection. It not only softens 
+the asperity of a command, but closes all respectful 
+requests, e. g., 
+
+O ka hanaka 'mba, we. 
+Will you help me ? 
+
+Le has also a plural form, li. 
+
+EXAMPLES. 
+
+O haka IS nde. O haka li nde. 
+
+What doest thou ? What do ye ? 
+
+Who art thou ? Ave o le a nja. 
+(Contracted) Av6 le nja. 
+(Literally) Thou? who. 
+
+Who are ye? Inyi li ba nja. 
+(Literally) Ye? they who. 
+
+E is often used at the close of an interrogative 
+phrase or sentence, thereby duplicating the interro- 
+gation. 
+
+EXAMPLES. 
+
+O ka pat* e le nja 'gombe-e [pronounced, gombye]. 
+
+What time will you come ? 
+(Literally) Thou wilt come, it? what time? 
+
+O yahaka li nja janga-e [pronounced, jangwg]. 
+
+What kind do you want? 
+(Literally) Ye want? what kind? 
+
+
+
+Io6 BENGA GRAMMAR. 
+
+SPECIMEN OF TEANSLATION. 
+
+(lesson from the BENGA PRIMER.) 
+Matt. 14:24-31. 
+
+Krais a tamwaka o manga. 
+Christ He walking on the sea. 
+
+Na kolu, bato ba diyaki na Jisu Krais; 
+At evenings people they were with Jesus Christ : 
+
+ka b& - ba dika m& o he, ka ba - ba 
+
+then them-they left Him on the land, and them-they 
+
+vala o manga na 'lende. 
+went on the sea in a boat, 
+
+E ka bweyak* ivititi. Ka manga ma linguwa. 
+
+// then seizing darkness. And sea it raged, 
+
+Upupe u vungaka na ngudi. Ka b& behepi ba 
+Wind it blew with strength. And them all they 
+
+yene Jisu a tamwaka o manga, a vaka piel6 na 
+saw Jesus he walking on sea, he coming near to 
+
+'lende. Ba bangaki jS.nga iite. Ka m& - a va 
+boat. They feared fear much. And Him-he spoke 
+
+na ba, na, O bangakeni ; a te 'mba. Ka Pit6 
+to them, thus. Ye not fear ; he is me. Then Peter 
+
+a va, na, Upangiyi, ipe a nd* &ve, langwakia 
+he spoke, thus. Lord, if he is thee, tell to 
+
+'mba na mbi vake o &ve - o jadi o miba. Ka 
+me that I may come to thee-thou unto on water. And 
+
+
+
+BENGA GRAMMAR. 10/ 
+
+M& - a v&, na, Vaka. Ka Pit6 a huba 
+
+Him-he said, thus. Come, Then Peter he descended 
+
+o 'lende o Vala o Jisu a jadi. 
+from boat in coming to Jesus he unto. 
+
+O ma-a y6nekidi manga ma ka bevaka n* 
+When him-he saw sea it was fouled with 
+
+«upupe, ka ma-a banga jS^ngd iite. Ekae nd' e 
+wind, then him-he feared fear much. This is it 
+
+pangaki m& o hinga ; ka md-a v&, na, Upangiyi, 
+made him to sink ; then him-he said, thus, Lord, 
+
+yongakg 'mba. Ka Jisu a hambid* en& 'aju, 
+save me. Then Jesus he reached forth hand his, 
+
+ka Md - a bweyia ma, ka M& - a tata ma 
+
+then Him-he took hold on him, then Him-he kept him 
+
+bwam*. Ka Jisu a bete o 'lende ; b& b6hepi 
+well. Then Jesus He went up into boat ; them all 
+
+ba yeneki mbya 'n6n6 na yen6 Ma. 
+they saw gladness great with seeing Him. 
+
+Moto uehepi a kalakiye, A ! Upangiyi, yongake 
+Person each he let pray, 0/ Lord, save 
+
+'mba. Kabojana o 'b6 n* up4kw6 kabo 
+
+mc. For you are not with another except 
+
+Jisu a ka yonge, na Ma - a tata ilina jame. 
+Jesus he will save, and Him-he keep soul mine. 
+
+
+
+108 BENGA GRAMMAR. 
+
+THE LORD'S PRAYER. 
+
+Hangw* ahu a jad* oba, Dina jave i diyake hole. 
+Ipangiya j&ve i vake. Upango 'muave u hamake o 
+he, ka m* u jad* oba. Veke hwe o buhwa beja bea 
+buhwa bohuhu. Na nav6 o ka iyakidg hwe mabe 
+mahu pani ka hw6-ho iyafeide ba-ba hake hwe bo- 
+be. O valakide hw6 o iy6judw6, ndi vengekid6 hw6 
+oviya bobe. Kabojana ipangiya, na ngudi, n* iven- 
+da be nd* ibeave o 'gombe eehgpi. Am6n. 
+
+
+
+
+PL Sq7^ 
+
+
+
+A. ./ rt 
+
+
+
+
+a (.105 012 aao osa 
+
+
+
+Stanford Uniyersity Libraries 
+Stanford, California 
+
+
+
+1 
+
+
+
+B«tnni thb book on or Woro dtto dm. 
+
+
+
+;. 
+
+
+
+
