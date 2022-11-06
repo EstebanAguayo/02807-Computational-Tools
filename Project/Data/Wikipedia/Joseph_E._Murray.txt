@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Joseph_E._Murray", "to": "Joseph E. Murray"}], "pages": {"917192": {"pageid": 917192, "ns": 0, "title": "Joseph E. Murray", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Joseph Murray]]"}}}]}}}}

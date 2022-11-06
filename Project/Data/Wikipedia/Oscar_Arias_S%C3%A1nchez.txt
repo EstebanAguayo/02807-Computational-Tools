@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Oscar_Arias_S\u00e1nchez", "to": "Oscar Arias S\u00e1nchez"}], "pages": {"1263559": {"pageid": 1263559, "ns": 0, "title": "Oscar Arias S\u00e1nchez", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[\u00d3scar Arias]]"}}}]}}}}

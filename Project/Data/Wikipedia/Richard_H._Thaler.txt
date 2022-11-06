@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Richard_H._Thaler", "to": "Richard H. Thaler"}], "pages": {"22569897": {"pageid": 22569897, "ns": 0, "title": "Richard H. Thaler", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Richard Thaler]]"}}}]}}}}

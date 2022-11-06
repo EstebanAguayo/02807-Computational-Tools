@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Vitaly_L._Ginzburg", "to": "Vitaly L. Ginzburg"}], "pages": {"714310": {"pageid": 714310, "ns": 0, "title": "Vitaly L. Ginzburg", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Vitaly Ginzburg]]"}}}]}}}}

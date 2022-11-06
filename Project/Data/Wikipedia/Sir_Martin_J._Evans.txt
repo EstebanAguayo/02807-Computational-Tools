@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Martin_J._Evans", "to": "Sir Martin J. Evans"}], "pages": {"26591481": {"pageid": 26591481, "ns": 0, "title": "Sir Martin J. Evans", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Martin Evans]]"}}}]}}}}

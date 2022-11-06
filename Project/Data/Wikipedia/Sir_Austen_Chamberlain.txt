@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Austen_Chamberlain", "to": "Sir Austen Chamberlain"}], "pages": {"671855": {"pageid": 671855, "ns": 0, "title": "Sir Austen Chamberlain", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Austen Chamberlain]]"}}}]}}}}

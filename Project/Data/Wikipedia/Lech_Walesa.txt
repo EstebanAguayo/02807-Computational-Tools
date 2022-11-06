@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lech_Walesa", "to": "Lech Walesa"}], "pages": {"2123146": {"pageid": 2123146, "ns": 0, "title": "Lech Walesa", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Lech Wa\u0142\u0119sa]] {{R from title without diacritics}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_John_B._Gurdon", "to": "Sir John B. Gurdon"}], "pages": {"39100559": {"pageid": 39100559, "ns": 0, "title": "Sir John B. Gurdon", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[John Gurdon]]"}}}]}}}}

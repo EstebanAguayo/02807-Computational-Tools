@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Leonid_Vitaliyevich_Kantorovich", "to": "Leonid Vitaliyevich Kantorovich"}], "pages": {"359782": {"pageid": 359782, "ns": 0, "title": "Leonid Vitaliyevich Kantorovich", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Leonid Kantorovich]]"}}}]}}}}

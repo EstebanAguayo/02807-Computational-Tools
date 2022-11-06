@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Michael_S._Brown", "to": "Michael S. Brown"}], "pages": {"3301129": {"pageid": 3301129, "ns": 0, "title": "Michael S. Brown", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Michael Stuart Brown]]"}}}]}}}}

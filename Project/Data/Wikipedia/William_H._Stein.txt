@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_H._Stein", "to": "William H. Stein"}], "pages": {"789018": {"pageid": 789018, "ns": 0, "title": "William H. Stein", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[William Howard Stein]]"}}}]}}}}

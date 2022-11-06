@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Jerome_I._Friedman", "to": "Jerome I. Friedman"}], "pages": {"1263657": {"pageid": 1263657, "ns": 0, "title": "Jerome I. Friedman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Jerome Isaac Friedman]]"}}}]}}}}

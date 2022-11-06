@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_A._Fowler", "to": "William A. Fowler"}], "pages": {"869512": {"pageid": 869512, "ns": 0, "title": "William A. Fowler", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[William Alfred Fowler]]"}}}]}}}}

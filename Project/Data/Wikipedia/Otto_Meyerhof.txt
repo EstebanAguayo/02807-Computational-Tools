@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Otto_Meyerhof", "to": "Otto Meyerhof"}], "pages": {"666887": {"pageid": 666887, "ns": 0, "title": "Otto Meyerhof", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Otto Fritz Meyerhof]]"}}}]}}}}

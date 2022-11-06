@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Selman_A._Waksman", "to": "Selman A. Waksman"}], "pages": {"1834777": {"pageid": 1834777, "ns": 0, "title": "Selman A. Waksman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Selman Waksman]]"}}}]}}}}

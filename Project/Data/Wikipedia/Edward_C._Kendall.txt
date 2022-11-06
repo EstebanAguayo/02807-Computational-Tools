@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edward_C._Kendall", "to": "Edward C. Kendall"}], "pages": {"840267": {"pageid": 840267, "ns": 0, "title": "Edward C. Kendall", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Edward Calvin Kendall]]"}}}]}}}}

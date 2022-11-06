@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Frederick_C._Robbins", "to": "Frederick C. Robbins"}], "pages": {"1816902": {"pageid": 1816902, "ns": 0, "title": "Frederick C. Robbins", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Frederick Chapman Robbins]]"}}}]}}}}

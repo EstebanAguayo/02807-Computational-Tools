@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Martinus_J.G._Veltman", "to": "Martinus J.G. Veltman"}], "pages": {"817865": {"pageid": 817865, "ns": 0, "title": "Martinus J.G. Veltman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Martinus J. G. Veltman]]"}}}]}}}}

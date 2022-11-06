@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ernest_T.S._Walton", "to": "Ernest T.S. Walton"}], "pages": {"1263713": {"pageid": 1263713, "ns": 0, "title": "Ernest T.S. Walton", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ernest Walton]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Bruce_Merrifield", "to": "Bruce Merrifield"}], "pages": {"1263824": {"pageid": 1263824, "ns": 0, "title": "Bruce Merrifield", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Robert Bruce Merrifield]]"}}}]}}}}

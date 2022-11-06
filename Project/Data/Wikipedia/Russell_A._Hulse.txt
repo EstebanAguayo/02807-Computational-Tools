@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Russell_A._Hulse", "to": "Russell A. Hulse"}], "pages": {"1263653": {"pageid": 1263653, "ns": 0, "title": "Russell A. Hulse", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Russell Alan Hulse]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Randy_W._Schekman", "to": "Randy W. Schekman"}], "pages": {"20025882": {"pageid": 20025882, "ns": 0, "title": "Randy W. Schekman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Randy Schekman]]"}}}]}}}}

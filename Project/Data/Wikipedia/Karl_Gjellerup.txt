@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Karl_Gjellerup", "to": "Karl Gjellerup"}], "pages": {"1263629": {"pageid": 1263629, "ns": 0, "title": "Karl Gjellerup", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Karl Adolph Gjellerup]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Carl_Cori", "to": "Carl Cori"}], "pages": {"734336": {"pageid": 734336, "ns": 0, "title": "Carl Cori", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Carl Ferdinand Cori]]"}}}]}}}}

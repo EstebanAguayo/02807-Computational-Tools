@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Adam_G._Riess", "to": "Adam G. Riess"}], "pages": {"33300984": {"pageid": 33300984, "ns": 0, "title": "Adam G. Riess", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Adam Riess]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paul_A.M._Dirac", "to": "Paul A.M. Dirac"}], "pages": {"1263735": {"pageid": 1263735, "ns": 0, "title": "Paul A.M. Dirac", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul Dirac]]\n\n{{Redirect category shell|1=\n{{R from long name}}\n}}"}}}]}}}}

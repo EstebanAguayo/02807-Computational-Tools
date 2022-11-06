@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Patrick_M.S._Blackett", "to": "Patrick M.S. Blackett"}], "pages": {"1263718": {"pageid": 1263718, "ns": 0, "title": "Patrick M.S. Blackett", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Patrick Blackett]]"}}}]}}}}

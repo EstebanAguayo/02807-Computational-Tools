@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_J._Lefkowitz", "to": "Robert J. Lefkowitz"}], "pages": {"13227624": {"pageid": 13227624, "ns": 0, "title": "Robert J. Lefkowitz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Lefkowitz]]"}}}]}}}}

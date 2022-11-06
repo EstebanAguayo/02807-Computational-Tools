@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Robert_Robinson", "to": "Sir Robert Robinson"}], "pages": {"1154821": {"pageid": 1154821, "ns": 0, "title": "Sir Robert Robinson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Robinson]]\n\n{{R from incomplete disambiguation}}"}}}]}}}}

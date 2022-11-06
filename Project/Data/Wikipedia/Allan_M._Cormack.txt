@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Allan_M._Cormack", "to": "Allan M. Cormack"}], "pages": {"908059": {"pageid": 908059, "ns": 0, "title": "Allan M. Cormack", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Allan MacLeod Cormack]]"}}}]}}}}

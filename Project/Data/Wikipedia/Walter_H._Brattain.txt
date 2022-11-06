@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Walter_H._Brattain", "to": "Walter H. Brattain"}], "pages": {"352815": {"pageid": 352815, "ns": 0, "title": "Walter H. Brattain", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Walter Houser Brattain]]"}}}]}}}}

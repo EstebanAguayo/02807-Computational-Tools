@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ivo_Andric", "to": "Ivo Andric"}], "pages": {"2125580": {"pageid": 2125580, "ns": 0, "title": "Ivo Andric", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ivo Andri\u0107]]\n{{R from title without diacritics}}"}}}]}}}}

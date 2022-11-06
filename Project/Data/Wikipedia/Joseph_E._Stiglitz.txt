@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Joseph_E._Stiglitz", "to": "Joseph E. Stiglitz"}], "pages": {"20023075": {"pageid": 20023075, "ns": 0, "title": "Joseph E. Stiglitz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Joseph Stiglitz]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Gerard_Debreu", "to": "Gerard Debreu"}], "pages": {"7694002": {"pageid": 7694002, "ns": 0, "title": "Gerard Debreu", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[G\u00e9rard Debreu]]\n{{R from title without diacritics}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Luis_Leloir", "to": "Luis Leloir"}], "pages": {"1154599": {"pageid": 1154599, "ns": 0, "title": "Luis Leloir", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Luis Federico Leloir]]"}}}]}}}}

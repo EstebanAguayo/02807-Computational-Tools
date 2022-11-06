@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Mario_R._Capecchi", "to": "Mario R. Capecchi"}], "pages": {"13629388": {"pageid": 13629388, "ns": 0, "title": "Mario R. Capecchi", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mario Capecchi]]"}}}]}}}}

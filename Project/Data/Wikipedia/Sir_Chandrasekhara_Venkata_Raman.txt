@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Chandrasekhara_Venkata_Raman", "to": "Sir Chandrasekhara Venkata Raman"}], "pages": {"276723": {"pageid": 276723, "ns": 0, "title": "Sir Chandrasekhara Venkata Raman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[C. V. Raman]]"}}}]}}}}

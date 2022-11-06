@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Douglass_C._North", "to": "Douglass C. North"}], "pages": {"474368": {"pageid": 474368, "ns": 0, "title": "Douglass C. North", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Douglass North]]"}}}]}}}}

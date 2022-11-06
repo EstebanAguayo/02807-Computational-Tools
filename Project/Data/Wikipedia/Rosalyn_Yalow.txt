@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Rosalyn_Yalow", "to": "Rosalyn Yalow"}], "pages": {"727469": {"pageid": 727469, "ns": 0, "title": "Rosalyn Yalow", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rosalyn Sussman Yalow]]"}}}]}}}}

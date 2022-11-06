@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alexandr_Solzhenitsyn", "to": "Alexandr Solzhenitsyn"}], "pages": {"1091822": {"pageid": 1091822, "ns": 0, "title": "Alexandr Solzhenitsyn", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Aleksandr Solzhenitsyn]]"}}}]}}}}

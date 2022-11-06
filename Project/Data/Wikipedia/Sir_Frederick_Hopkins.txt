@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Frederick_Hopkins", "to": "Sir Frederick Hopkins"}], "pages": {"675816": {"pageid": 675816, "ns": 0, "title": "Sir Frederick Hopkins", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Frederick Gowland Hopkins]]"}}}]}}}}

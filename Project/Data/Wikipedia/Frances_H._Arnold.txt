@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Frances_H._Arnold", "to": "Frances H. Arnold"}], "pages": {"26372104": {"pageid": 26372104, "ns": 0, "title": "Frances H. Arnold", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Frances Arnold]]"}}}]}}}}

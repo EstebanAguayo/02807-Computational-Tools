@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Martin_L._Perl", "to": "Martin L. Perl"}], "pages": {"2030770": {"pageid": 2030770, "ns": 0, "title": "Martin L. Perl", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Martin Lewis Perl]]"}}}]}}}}

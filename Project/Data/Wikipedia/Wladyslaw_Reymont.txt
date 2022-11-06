@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Wladyslaw_Reymont", "to": "Wladyslaw Reymont"}], "pages": {"2126769": {"pageid": 2126769, "ns": 0, "title": "Wladyslaw Reymont", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[W\u0142adys\u0142aw Reymont]]\n{{R from title without diacritics}}"}}}]}}}}

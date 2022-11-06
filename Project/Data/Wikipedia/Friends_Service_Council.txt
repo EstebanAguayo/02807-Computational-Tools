@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Friends_Service_Council", "to": "Friends Service Council"}], "pages": {"14968671": {"pageid": 14968671, "ns": 0, "title": "Friends Service Council", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Quaker Peace and Social Witness]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Bernard_L._Feringa", "to": "Bernard L. Feringa"}], "pages": {"52148614": {"pageid": 52148614, "ns": 0, "title": "Bernard L. Feringa", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ben Feringa]]"}}}]}}}}

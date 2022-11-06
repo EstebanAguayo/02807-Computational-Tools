@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Bernard_Katz", "to": "Sir Bernard Katz"}], "pages": {"671961": {"pageid": 671961, "ns": 0, "title": "Sir Bernard Katz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bernard Katz]]"}}}]}}}}

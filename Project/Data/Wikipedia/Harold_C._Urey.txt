@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Harold_C._Urey", "to": "Harold C. Urey"}], "pages": {"3426817": {"pageid": 3426817, "ns": 0, "title": "Harold C. Urey", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Harold Urey]]"}}}]}}}}

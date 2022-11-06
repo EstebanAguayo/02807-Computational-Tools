@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Harry_M._Markowitz", "to": "Harry M. Markowitz"}], "pages": {"2035261": {"pageid": 2035261, "ns": 0, "title": "Harry M. Markowitz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[Harry Markowitz]]"}}}]}}}}

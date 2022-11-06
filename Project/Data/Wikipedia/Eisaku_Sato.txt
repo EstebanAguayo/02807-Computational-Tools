@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Eisaku_Sato", "to": "Eisaku Sato"}], "pages": {"10556832": {"pageid": 10556832, "ns": 0, "title": "Eisaku Sato", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eisaku Sat\u014d]]\n{{R from title without diacritics}}"}}}]}}}}

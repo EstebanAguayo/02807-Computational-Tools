@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "H._Gobind_Khorana", "to": "H. Gobind Khorana"}], "pages": {"612819": {"pageid": 612819, "ns": 0, "title": "H. Gobind Khorana", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Har Gobind Khorana]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Clive_W.J._Granger", "to": "Clive W.J. Granger"}], "pages": {"26591523": {"pageid": 26591523, "ns": 0, "title": "Clive W.J. Granger", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Clive Granger]]"}}}]}}}}

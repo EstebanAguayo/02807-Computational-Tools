@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Anthony_J._Leggett", "to": "Anthony J. Leggett"}], "pages": {"714318": {"pageid": 714318, "ns": 0, "title": "Anthony J. Leggett", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Anthony James Leggett]]"}}}]}}}}

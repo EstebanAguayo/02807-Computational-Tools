@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Gerald_M._Edelman", "to": "Gerald M. Edelman"}], "pages": {"359760": {"pageid": 359760, "ns": 0, "title": "Gerald M. Edelman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gerald Edelman]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "James_J._Heckman", "to": "James J. Heckman"}], "pages": {"723170": {"pageid": 723170, "ns": 0, "title": "James J. Heckman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[James Heckman]]"}}}]}}}}

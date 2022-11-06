@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Herbert_S._Gasser", "to": "Herbert S. Gasser"}], "pages": {"2030759": {"pageid": 2030759, "ns": 0, "title": "Herbert S. Gasser", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Herbert Spencer Gasser]]"}}}]}}}}

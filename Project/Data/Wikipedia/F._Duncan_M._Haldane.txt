@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "F._Duncan_M._Haldane", "to": "F. Duncan M. Haldane"}], "pages": {"32214305": {"pageid": 32214305, "ns": 0, "title": "F. Duncan M. Haldane", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Duncan Haldane]]"}}}]}}}}

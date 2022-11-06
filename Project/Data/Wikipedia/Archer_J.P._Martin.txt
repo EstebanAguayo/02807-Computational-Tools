@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Archer_J.P._Martin", "to": "Archer J.P. Martin"}], "pages": {"26591469": {"pageid": 26591469, "ns": 0, "title": "Archer J.P. Martin", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Archer Martin]]"}}}]}}}}

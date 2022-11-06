@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_C._Richardson", "to": "Robert C. Richardson"}], "pages": {"2314616": {"pageid": 2314616, "ns": 0, "title": "Robert C. Richardson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Richardson]]"}}}]}}}}

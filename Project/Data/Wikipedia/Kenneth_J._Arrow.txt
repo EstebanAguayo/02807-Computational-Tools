@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kenneth_J._Arrow", "to": "Kenneth J. Arrow"}], "pages": {"359507": {"pageid": 359507, "ns": 0, "title": "Kenneth J. Arrow", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kenneth Arrow]]"}}}]}}}}

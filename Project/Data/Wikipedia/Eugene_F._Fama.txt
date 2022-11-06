@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Eugene_F._Fama", "to": "Eugene F. Fama"}], "pages": {"5549475": {"pageid": 5549475, "ns": 0, "title": "Eugene F. Fama", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eugene Fama]]"}}}]}}}}

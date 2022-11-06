@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Salvador_E._Luria", "to": "Salvador E. Luria"}], "pages": {"359583": {"pageid": 359583, "ns": 0, "title": "Salvador E. Luria", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Salvador Luria]]"}}}]}}}}

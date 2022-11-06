@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "C.T.R._Wilson", "to": "C.T.R. Wilson"}], "pages": {"1263743": {"pageid": 1263743, "ns": 0, "title": "C.T.R. Wilson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Charles Thomson Rees Wilson]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Norman_Angell", "to": "Sir Norman Angell"}], "pages": {"1146878": {"pageid": 1146878, "ns": 0, "title": "Sir Norman Angell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Norman Angell]]"}}}]}}}}

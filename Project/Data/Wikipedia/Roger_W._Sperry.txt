@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Roger_W._Sperry", "to": "Roger W. Sperry"}], "pages": {"1076348": {"pageid": 1076348, "ns": 0, "title": "Roger W. Sperry", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Roger Wolcott Sperry]]"}}}]}}}}

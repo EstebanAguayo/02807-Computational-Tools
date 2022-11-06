@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Charles_Sherrington", "to": "Sir Charles Sherrington"}], "pages": {"772665": {"pageid": 772665, "ns": 0, "title": "Sir Charles Sherrington", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Charles Scott Sherrington]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Barry_Sharpless", "to": "Barry Sharpless"}], "pages": {"410136": {"pageid": 410136, "ns": 0, "title": "Barry Sharpless", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Karl Barry Sharpless]]"}}}]}}}}

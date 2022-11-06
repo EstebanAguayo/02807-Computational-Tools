@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Cyril_Hinshelwood", "to": "Sir Cyril Hinshelwood"}], "pages": {"1263877": {"pageid": 1263877, "ns": 0, "title": "Sir Cyril Hinshelwood", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Cyril Norman Hinshelwood]]"}}}]}}}}

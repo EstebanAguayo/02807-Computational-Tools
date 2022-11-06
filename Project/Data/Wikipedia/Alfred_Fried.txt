@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alfred_Fried", "to": "Alfred Fried"}], "pages": {"737835": {"pageid": 737835, "ns": 0, "title": "Alfred Fried", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alfred Hermann Fried]]"}}}]}}}}

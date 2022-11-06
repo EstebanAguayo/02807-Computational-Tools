@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Peter_Mansfield", "to": "Sir Peter Mansfield"}], "pages": {"2527603": {"pageid": 2527603, "ns": 0, "title": "Sir Peter Mansfield", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Peter Mansfield]]"}}}]}}}}

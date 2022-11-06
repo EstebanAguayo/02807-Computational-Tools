@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_R._Minot", "to": "George R. Minot"}], "pages": {"422386": {"pageid": 422386, "ns": 0, "title": "George R. Minot", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Minot]]"}}}]}}}}

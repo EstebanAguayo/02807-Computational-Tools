@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_H._Northrop", "to": "John H. Northrop"}], "pages": {"541140": {"pageid": 541140, "ns": 0, "title": "John H. Northrop", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[John Howard Northrop]]"}}}]}}}}

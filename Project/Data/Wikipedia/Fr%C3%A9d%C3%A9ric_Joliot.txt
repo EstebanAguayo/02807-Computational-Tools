@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Fr\u00e9d\u00e9ric_Joliot", "to": "Fr\u00e9d\u00e9ric Joliot"}], "pages": {"91804": {"pageid": 91804, "ns": 0, "title": "Fr\u00e9d\u00e9ric Joliot", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Fr\u00e9d\u00e9ric Joliot-Curie]]"}}}]}}}}

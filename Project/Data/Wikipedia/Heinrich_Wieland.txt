@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Heinrich_Wieland", "to": "Heinrich Wieland"}], "pages": {"1263901": {"pageid": 1263901, "ns": 0, "title": "Heinrich Wieland", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Heinrich Otto Wieland]]"}}}]}}}}

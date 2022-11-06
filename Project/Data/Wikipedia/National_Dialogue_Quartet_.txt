@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "National_Dialogue_Quartet_", "to": "National Dialogue Quartet"}], "pages": {"48132687": {"pageid": 48132687, "ns": 0, "title": "National Dialogue Quartet", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Tunisian National Dialogue Quartet]]"}}}]}}}}

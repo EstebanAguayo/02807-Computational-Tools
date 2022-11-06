@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alphonse_Laveran", "to": "Alphonse Laveran"}], "pages": {"906455": {"pageid": 906455, "ns": 0, "title": "Alphonse Laveran", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Charles Louis Alphonse Laveran]]"}}}]}}}}

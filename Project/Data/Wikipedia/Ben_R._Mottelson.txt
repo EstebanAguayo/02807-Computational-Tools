@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ben_R._Mottelson", "to": "Ben R. Mottelson"}], "pages": {"1263694": {"pageid": 1263694, "ns": 0, "title": "Ben R. Mottelson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ben Roy Mottelson]]"}}}]}}}}

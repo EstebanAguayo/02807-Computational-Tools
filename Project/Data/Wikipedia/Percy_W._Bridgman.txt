@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Percy_W._Bridgman", "to": "Percy W. Bridgman"}], "pages": {"1263728": {"pageid": 1263728, "ns": 0, "title": "Percy W. Bridgman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Percy Williams Bridgman]]"}}}]}}}}

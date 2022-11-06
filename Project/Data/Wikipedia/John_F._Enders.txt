@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_F._Enders", "to": "John F. Enders"}], "pages": {"665501": {"pageid": 665501, "ns": 0, "title": "John F. Enders", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Franklin Enders]]"}}}]}}}}

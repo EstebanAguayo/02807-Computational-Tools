@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Hans_G._Dehmelt", "to": "Hans G. Dehmelt"}], "pages": {"2352647": {"pageid": 2352647, "ns": 0, "title": "Hans G. Dehmelt", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hans Georg Dehmelt]]"}}}]}}}}

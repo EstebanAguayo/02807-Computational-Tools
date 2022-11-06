@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Theodor_Kocher", "to": "Theodor Kocher"}], "pages": {"272564": {"pageid": 272564, "ns": 0, "title": "Theodor Kocher", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Emil Theodor Kocher]]"}}}]}}}}

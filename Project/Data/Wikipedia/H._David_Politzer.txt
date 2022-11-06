@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "H._David_Politzer", "to": "H. David Politzer"}], "pages": {"21490783": {"pageid": 21490783, "ns": 0, "title": "H. David Politzer", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hugh David Politzer]]"}}}]}}}}

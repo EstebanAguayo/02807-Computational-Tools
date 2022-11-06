@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_John_Eccles", "to": "Sir John Eccles"}], "pages": {"49191": {"pageid": 49191, "ns": 0, "title": "Sir John Eccles", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Eccles (neurophysiologist)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_E._Lucas_Jr.", "to": "Robert E. Lucas Jr."}], "pages": {"18347001": {"pageid": 18347001, "ns": 0, "title": "Robert E. Lucas Jr.", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Lucas Jr.]]"}}}]}}}}

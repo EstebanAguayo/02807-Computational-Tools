@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Gerardus_'t_Hooft", "to": "Gerardus 't Hooft"}], "pages": {"28395624": {"pageid": 28395624, "ns": 0, "title": "Gerardus 't Hooft", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gerard 't Hooft]]"}}}]}}}}

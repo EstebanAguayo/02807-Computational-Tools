@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Daniel_L._McFadden", "to": "Daniel L. McFadden"}], "pages": {"353346": {"pageid": 353346, "ns": 0, "title": "Daniel L. McFadden", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Daniel McFadden]]"}}}]}}}}

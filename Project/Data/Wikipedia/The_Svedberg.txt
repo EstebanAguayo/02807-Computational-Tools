@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "The_Svedberg", "to": "The Svedberg"}], "pages": {"1263906": {"pageid": 1263906, "ns": 0, "title": "The Svedberg", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Theodor Svedberg]]"}}}]}}}}

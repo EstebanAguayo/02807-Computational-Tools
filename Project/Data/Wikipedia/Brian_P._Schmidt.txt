@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Brian_P._Schmidt", "to": "Brian P. Schmidt"}], "pages": {"33308727": {"pageid": 33308727, "ns": 0, "title": "Brian P. Schmidt", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Brian Schmidt]]"}}}]}}}}

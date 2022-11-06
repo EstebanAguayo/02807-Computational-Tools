@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Godfrey_N._Hounsfield", "to": "Godfrey N. Hounsfield"}], "pages": {"908056": {"pageid": 908056, "ns": 0, "title": "Godfrey N. Hounsfield", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Godfrey Hounsfield]]"}}}]}}}}

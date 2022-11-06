@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Alexander_Fleming", "to": "Sir Alexander Fleming"}], "pages": {"99315": {"pageid": 99315, "ns": 0, "title": "Sir Alexander Fleming", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alexander Fleming]]"}}}]}}}}

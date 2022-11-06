@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_F._Engle_III", "to": "Robert F. Engle III"}], "pages": {"26591533": {"pageid": 26591533, "ns": 0, "title": "Robert F. Engle III", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert F. Engle]]"}}}]}}}}

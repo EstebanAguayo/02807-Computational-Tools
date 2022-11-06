@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ilya_Mechnikov", "to": "Ilya Mechnikov"}], "pages": {"1311468": {"pageid": 1311468, "ns": 0, "title": "Ilya Mechnikov", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[\u00c9lie Metchnikoff]]"}}}]}}}}

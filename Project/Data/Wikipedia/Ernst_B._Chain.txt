@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ernst_B._Chain", "to": "Ernst B. Chain"}], "pages": {"1834802": {"pageid": 1834802, "ns": 0, "title": "Ernst B. Chain", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ernst Chain]]"}}}]}}}}

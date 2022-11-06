@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kip_S._Thorne", "to": "Kip S. Thorne"}], "pages": {"251690": {"pageid": 251690, "ns": 0, "title": "Kip S. Thorne", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kip Thorne]]"}}}]}}}}

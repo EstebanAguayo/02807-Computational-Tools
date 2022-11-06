@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Willard_S._Boyle", "to": "Willard S. Boyle"}], "pages": {"24593051": {"pageid": 24593051, "ns": 0, "title": "Willard S. Boyle", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Willard Boyle]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ada_E._Yonath", "to": "Ada E. Yonath"}], "pages": {"24604612": {"pageid": 24604612, "ns": 0, "title": "Ada E. Yonath", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ada Yonath]]"}}}]}}}}

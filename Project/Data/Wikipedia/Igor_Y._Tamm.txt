@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Igor_Y._Tamm", "to": "Igor Y. Tamm"}], "pages": {"1263705": {"pageid": 1263705, "ns": 0, "title": "Igor Y. Tamm", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Igor Tamm]]"}}}]}}}}

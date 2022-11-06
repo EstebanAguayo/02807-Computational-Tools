@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Bertram_N._Brockhouse", "to": "Bertram N. Brockhouse"}], "pages": {"341806": {"pageid": 341806, "ns": 0, "title": "Bertram N. Brockhouse", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bertram_Brockhouse]]"}}}]}}}}

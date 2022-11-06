@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lester_Bowles_Pearson", "to": "Lester Bowles Pearson"}], "pages": {"18301": {"pageid": 18301, "ns": 0, "title": "Lester Bowles Pearson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Lester B. Pearson]]"}}}]}}}}

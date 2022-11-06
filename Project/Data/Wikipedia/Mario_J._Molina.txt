@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Mario_J._Molina", "to": "Mario J. Molina"}], "pages": {"65528421": {"pageid": 65528421, "ns": 0, "title": "Mario J. Molina", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mario Molina]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Rodney_R._Porter", "to": "Rodney R. Porter"}], "pages": {"764983": {"pageid": 764983, "ns": 0, "title": "Rodney R. Porter", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rodney Robert Porter]]"}}}]}}}}

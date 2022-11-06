@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_William_Ramsay", "to": "Sir William Ramsay"}], "pages": {"98014": {"pageid": 98014, "ns": 0, "title": "Sir William Ramsay", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[William_Ramsay]]"}}}]}}}}

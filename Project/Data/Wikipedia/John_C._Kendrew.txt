@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_C._Kendrew", "to": "John C. Kendrew"}], "pages": {"1263866": {"pageid": 1263866, "ns": 0, "title": "John C. Kendrew", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[John Kendrew]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Arthur_L._Schawlow", "to": "Arthur L. Schawlow"}], "pages": {"1234270": {"pageid": 1234270, "ns": 0, "title": "Arthur L. Schawlow", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Arthur Leonard Schawlow]]"}}}]}}}}

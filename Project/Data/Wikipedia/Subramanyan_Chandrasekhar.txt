@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Subramanyan_Chandrasekhar", "to": "Subramanyan Chandrasekhar"}], "pages": {"240164": {"pageid": 240164, "ns": 0, "title": "Subramanyan Chandrasekhar", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Subrahmanyan Chandrasekhar]]"}}}]}}}}

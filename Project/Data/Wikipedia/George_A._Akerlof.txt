@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_A._Akerlof", "to": "George A. Akerlof"}], "pages": {"308354": {"pageid": 308354, "ns": 0, "title": "George A. Akerlof", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Akerlof]]"}}}]}}}}

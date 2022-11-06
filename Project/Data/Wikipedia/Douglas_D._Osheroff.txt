@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Douglas_D._Osheroff", "to": "Douglas D. Osheroff"}], "pages": {"34548654": {"pageid": 34548654, "ns": 0, "title": "Douglas D. Osheroff", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Douglas Osheroff]]"}}}]}}}}

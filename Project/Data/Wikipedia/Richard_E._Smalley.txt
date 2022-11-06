@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Richard_E._Smalley", "to": "Richard E. Smalley"}], "pages": {"695669": {"pageid": 695669, "ns": 0, "title": "Richard E. Smalley", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Richard Smalley]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Thomas_H._Morgan", "to": "Thomas H. Morgan"}], "pages": {"1802246": {"pageid": 1802246, "ns": 0, "title": "Thomas H. Morgan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Thomas Hunt Morgan]]"}}}]}}}}

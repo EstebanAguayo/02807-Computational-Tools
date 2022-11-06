@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_F._Smoot", "to": "George F. Smoot"}], "pages": {"7270609": {"pageid": 7270609, "ns": 0, "title": "George F. Smoot", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Smoot]]"}}}]}}}}

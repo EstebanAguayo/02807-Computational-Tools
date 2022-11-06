@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "David_J._Gross", "to": "David J. Gross"}], "pages": {"1041390": {"pageid": 1041390, "ns": 0, "title": "David J. Gross", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[David Gross]]"}}}]}}}}

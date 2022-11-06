@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Philip_S._Hench", "to": "Philip S. Hench"}], "pages": {"840265": {"pageid": 840265, "ns": 0, "title": "Philip S. Hench", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Philip Showalter Hench]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_R._Vane", "to": "John R. Vane"}], "pages": {"753701": {"pageid": 753701, "ns": 0, "title": "John R. Vane", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Vane]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Horst_L._St\u00f6rmer", "to": "Horst L. St\u00f6rmer"}], "pages": {"1621613": {"pageid": 1621613, "ns": 0, "title": "Horst L. St\u00f6rmer", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Horst Ludwig St\u00f6rmer]]"}}}]}}}}

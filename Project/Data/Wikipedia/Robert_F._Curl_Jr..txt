@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_F._Curl_Jr.", "to": "Robert F. Curl Jr."}], "pages": {"1263805": {"pageid": 1263805, "ns": 0, "title": "Robert F. Curl Jr.", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Robert Curl]]"}}}]}}}}

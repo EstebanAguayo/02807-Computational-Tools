@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "James_E._Meade", "to": "James E. Meade"}], "pages": {"26591494": {"pageid": 26591494, "ns": 0, "title": "James E. Meade", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[James Meade]]"}}}]}}}}

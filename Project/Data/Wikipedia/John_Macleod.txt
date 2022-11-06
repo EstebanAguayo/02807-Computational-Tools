@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_Macleod", "to": "John Macleod"}], "pages": {"3301638": {"pageid": 3301638, "ns": 0, "title": "John Macleod", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John MacLeod]]\n\n{{R from other capitalisation}}\n{{R from ambiguous}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Torsten_N._Wiesel", "to": "Torsten N. Wiesel"}], "pages": {"832573": {"pageid": 832573, "ns": 0, "title": "Torsten N. Wiesel", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Torsten Wiesel]]"}}}]}}}}

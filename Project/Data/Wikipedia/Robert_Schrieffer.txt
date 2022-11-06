@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_Schrieffer", "to": "Robert Schrieffer"}], "pages": {"934368": {"pageid": 934368, "ns": 0, "title": "Robert Schrieffer", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Robert Schrieffer]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lord_Todd", "to": "Lord Todd"}], "pages": {"1263872": {"pageid": 1263872, "ns": 0, "title": "Lord Todd", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alexander R. Todd]]"}}}]}}}}

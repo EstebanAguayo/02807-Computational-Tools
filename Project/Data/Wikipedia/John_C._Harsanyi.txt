@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_C._Harsanyi", "to": "John C. Harsanyi"}], "pages": {"442292": {"pageid": 442292, "ns": 0, "title": "John C. Harsanyi", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Harsanyi]]"}}}]}}}}

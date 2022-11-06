@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_H._van_Vleck", "to": "John H. van Vleck"}], "pages": {"754073": {"pageid": 754073, "ns": 0, "title": "John H. van Vleck", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Hasbrouck Van Vleck]]"}}}]}}}}

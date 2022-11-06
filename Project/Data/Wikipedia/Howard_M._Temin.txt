@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Howard_M._Temin", "to": "Howard M. Temin"}], "pages": {"920169": {"pageid": 920169, "ns": 0, "title": "Howard M. Temin", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Howard Martin Temin]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ryoji_Noyori", "to": "Ryoji Noyori"}], "pages": {"25042256": {"pageid": 25042256, "ns": 0, "title": "Ryoji Noyori", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ry\u014dji Noyori]]\n{{R from title without diacritics}}"}}}]}}}}

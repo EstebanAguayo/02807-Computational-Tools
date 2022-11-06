@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Eric_S._Maskin", "to": "Eric S. Maskin"}], "pages": {"13737651": {"pageid": 13737651, "ns": 0, "title": "Eric S. Maskin", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eric Maskin]]"}}}]}}}}

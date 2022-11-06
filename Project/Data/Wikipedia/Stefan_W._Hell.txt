@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Stefan_W._Hell", "to": "Stefan W. Hell"}], "pages": {"44055030": {"pageid": 44055030, "ns": 0, "title": "Stefan W. Hell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Stefan Hell]]"}}}]}}}}

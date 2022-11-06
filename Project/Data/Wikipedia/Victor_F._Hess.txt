@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Victor_F._Hess", "to": "Victor F. Hess"}], "pages": {"1263732": {"pageid": 1263732, "ns": 0, "title": "Victor F. Hess", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Victor Francis Hess]]"}}}]}}}}

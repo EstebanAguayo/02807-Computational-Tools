@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Archibald_V._Hill", "to": "Archibald V. Hill"}], "pages": {"734329": {"pageid": 734329, "ns": 0, "title": "Archibald V. Hill", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Archibald Hill]]"}}}]}}}}

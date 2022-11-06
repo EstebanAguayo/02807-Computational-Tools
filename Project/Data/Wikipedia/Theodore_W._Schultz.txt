@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Theodore_W._Schultz", "to": "Theodore W. Schultz"}], "pages": {"3285813": {"pageid": 3285813, "ns": 0, "title": "Theodore W. Schultz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Theodore Schultz]]"}}}]}}}}

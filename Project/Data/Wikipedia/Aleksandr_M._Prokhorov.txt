@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Aleksandr_M._Prokhorov", "to": "Aleksandr M. Prokhorov"}], "pages": {"1263700": {"pageid": 1263700, "ns": 0, "title": "Aleksandr M. Prokhorov", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alexander Prokhorov]]"}}}]}}}}

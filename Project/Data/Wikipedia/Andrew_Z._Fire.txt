@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Andrew_Z._Fire", "to": "Andrew Z. Fire"}], "pages": {"7252429": {"pageid": 7252429, "ns": 0, "title": "Andrew Z. Fire", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[Andrew Fire]]"}}}]}}}}

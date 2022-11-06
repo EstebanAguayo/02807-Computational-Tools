@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sin-Itiro_Tomonaga", "to": "Sin-Itiro Tomonaga"}], "pages": {"50330770": {"pageid": 50330770, "ns": 0, "title": "Sin-Itiro Tomonaga", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Shin'ichir\u014d Tomonaga]]\n{{R from move}}"}}}]}}}}

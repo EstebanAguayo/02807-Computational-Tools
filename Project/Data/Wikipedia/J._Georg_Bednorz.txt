@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "J._Georg_Bednorz", "to": "J. Georg Bednorz"}], "pages": {"7710792": {"pageid": 7710792, "ns": 0, "title": "J. Georg Bednorz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Georg Bednorz]]"}}}]}}}}

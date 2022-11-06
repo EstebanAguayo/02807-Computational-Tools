@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_D._Snell", "to": "George D. Snell"}], "pages": {"1077435": {"pageid": 1077435, "ns": 0, "title": "George D. Snell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Davis Snell]]"}}}]}}}}

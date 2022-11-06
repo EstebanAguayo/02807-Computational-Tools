@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Nikolay_Semenov", "to": "Nikolay Semenov"}], "pages": {"1263875": {"pageid": 1263875, "ns": 0, "title": "Nikolay Semenov", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Nikolay Semyonov]]"}}}]}}}}

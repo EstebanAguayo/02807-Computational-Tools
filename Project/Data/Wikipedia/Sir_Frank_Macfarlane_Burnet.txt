@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Frank_Macfarlane_Burnet", "to": "Sir Frank Macfarlane Burnet"}], "pages": {"1805440": {"pageid": 1805440, "ns": 0, "title": "Sir Frank Macfarlane Burnet", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Macfarlane Burnet]]"}}}]}}}}

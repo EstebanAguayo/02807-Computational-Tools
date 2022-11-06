@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Christian_Anfinsen", "to": "Christian Anfinsen"}], "pages": {"669198": {"pageid": 669198, "ns": 0, "title": "Christian Anfinsen", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Christian B. Anfinsen]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Henry_W._Kendall", "to": "Henry W. Kendall"}], "pages": {"5201775": {"pageid": 5201775, "ns": 0, "title": "Henry W. Kendall", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Henry Way Kendall]]"}}}]}}}}

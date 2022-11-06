@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Andr\u00e9_Lwoff", "to": "Andr\u00e9 Lwoff"}], "pages": {"859404": {"pageid": 859404, "ns": 0, "title": "Andr\u00e9 Lwoff", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Andr\u00e9 Michel Lwoff]]"}}}]}}}}

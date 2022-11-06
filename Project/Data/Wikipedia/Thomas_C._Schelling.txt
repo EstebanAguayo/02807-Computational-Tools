@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Thomas_C._Schelling", "to": "Thomas C. Schelling"}], "pages": {"2877283": {"pageid": 2877283, "ns": 0, "title": "Thomas C. Schelling", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Thomas Schelling]]"}}}]}}}}

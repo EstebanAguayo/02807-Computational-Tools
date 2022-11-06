@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edmund_S._Phelps", "to": "Edmund S. Phelps"}], "pages": {"7365267": {"pageid": 7365267, "ns": 0, "title": "Edmund S. Phelps", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Edmund_Phelps]]"}}}]}}}}

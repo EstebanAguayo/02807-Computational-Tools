@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Andr\u00e9_F._Cournand", "to": "Andr\u00e9 F. Cournand"}], "pages": {"1816919": {"pageid": 1816919, "ns": 0, "title": "Andr\u00e9 F. Cournand", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Andr\u00e9 Fr\u00e9d\u00e9ric Cournand]]"}}}]}}}}

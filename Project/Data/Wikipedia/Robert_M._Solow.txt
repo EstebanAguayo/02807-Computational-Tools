@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_M._Solow", "to": "Robert M. Solow"}], "pages": {"359659": {"pageid": 359659, "ns": 0, "title": "Robert M. Solow", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Robert Solow]]"}}}]}}}}

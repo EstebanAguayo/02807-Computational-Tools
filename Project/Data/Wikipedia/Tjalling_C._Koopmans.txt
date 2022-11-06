@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Tjalling_C._Koopmans", "to": "Tjalling C. Koopmans"}], "pages": {"1406750": {"pageid": 1406750, "ns": 0, "title": "Tjalling C. Koopmans", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Tjalling Koopmans]]"}}}]}}}}

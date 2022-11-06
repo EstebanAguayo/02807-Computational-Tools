@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Leland_Hartwell", "to": "Leland Hartwell"}], "pages": {"8412494": {"pageid": 8412494, "ns": 0, "title": "Leland Hartwell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Leland H. Hartwell]]"}}}]}}}}

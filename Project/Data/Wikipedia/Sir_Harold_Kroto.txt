@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Harold_Kroto", "to": "Sir Harold Kroto"}], "pages": {"734047": {"pageid": 734047, "ns": 0, "title": "Sir Harold Kroto", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Harry Kroto]]"}}}]}}}}

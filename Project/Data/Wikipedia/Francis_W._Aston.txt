@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Francis_W._Aston", "to": "Francis W. Aston"}], "pages": {"1263912": {"pageid": 1263912, "ns": 0, "title": "Francis W. Aston", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Francis William Aston]]"}}}]}}}}

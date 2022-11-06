@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Paul_Nurse", "to": "Sir Paul Nurse"}], "pages": {"1802261": {"pageid": 1802261, "ns": 0, "title": "Sir Paul Nurse", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul Nurse]]"}}}]}}}}

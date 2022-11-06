@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Anwar_al-Sadat", "to": "Anwar al-Sadat"}], "pages": {"7818943": {"pageid": 7818943, "ns": 0, "title": "Anwar al-Sadat", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Anwar Sadat]]"}}}]}}}}

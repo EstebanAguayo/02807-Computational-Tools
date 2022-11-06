@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_D._Nordhaus", "to": "William D. Nordhaus"}], "pages": {"12818598": {"pageid": 12818598, "ns": 0, "title": "William D. Nordhaus", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[William Nordhaus]]"}}}]}}}}

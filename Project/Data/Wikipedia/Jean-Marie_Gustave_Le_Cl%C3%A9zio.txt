@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Jean-Marie_Gustave_Le_Cl\u00e9zio", "to": "Jean-Marie Gustave Le Cl\u00e9zio"}], "pages": {"20004420": {"pageid": 20004420, "ns": 0, "title": "Jean-Marie Gustave Le Cl\u00e9zio", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[J. M. G. Le Cl\u00e9zio]]"}}}]}}}}

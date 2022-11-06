@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Baruch_S._Blumberg", "to": "Baruch S. Blumberg"}], "pages": {"4557813": {"pageid": 4557813, "ns": 0, "title": "Baruch S. Blumberg", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Baruch Samuel Blumberg]]"}}}]}}}}

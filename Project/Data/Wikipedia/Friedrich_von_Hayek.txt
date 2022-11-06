@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Friedrich_von_Hayek", "to": "Friedrich von Hayek"}], "pages": {"27579627": {"pageid": 27579627, "ns": 0, "title": "Friedrich von Hayek", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Friedrich Hayek]]\n\n{{R from birth name}}"}}}]}}}}

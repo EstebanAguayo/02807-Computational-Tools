@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ronald_G.W._Norrish", "to": "Ronald G.W. Norrish"}], "pages": {"1263860": {"pageid": 1263860, "ns": 0, "title": "Ronald G.W. Norrish", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ronald George Wreyford Norrish]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alfred_D._Hershey", "to": "Alfred D. Hershey"}], "pages": {"1720773": {"pageid": 1720773, "ns": 0, "title": "Alfred D. Hershey", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alfred Hershey]]"}}}]}}}}

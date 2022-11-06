@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edward_A._Doisy", "to": "Edward A. Doisy"}], "pages": {"2030751": {"pageid": 2030751, "ns": 0, "title": "Edward A. Doisy", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Edward Adelbert Doisy]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paul_Modrich", "to": "Paul Modrich"}], "pages": {"10482057": {"pageid": 10482057, "ns": 0, "title": "Paul Modrich", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul L. Modrich]]"}}}]}}}}

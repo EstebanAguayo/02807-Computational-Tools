@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sune_K._Bergstr\u00f6m", "to": "Sune K. Bergstr\u00f6m"}], "pages": {"944986": {"pageid": 944986, "ns": 0, "title": "Sune K. Bergstr\u00f6m", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sune Bergstr\u00f6m]]"}}}]}}}}

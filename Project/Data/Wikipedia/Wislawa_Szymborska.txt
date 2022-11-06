@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Wislawa_Szymborska", "to": "Wislawa Szymborska"}], "pages": {"2126935": {"pageid": 2126935, "ns": 0, "title": "Wislawa Szymborska", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Wis\u0142awa Szymborska]] {{R from title without diacritics}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Carl_D._Anderson", "to": "Carl D. Anderson"}], "pages": {"762699": {"pageid": 762699, "ns": 0, "title": "Carl D. Anderson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Carl David Anderson]]\n\n{{R from short name}}"}}}]}}}}

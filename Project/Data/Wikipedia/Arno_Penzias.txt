@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Arno_Penzias", "to": "Arno Penzias"}], "pages": {"318506": {"pageid": 318506, "ns": 0, "title": "Arno Penzias", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Arno Allan Penzias]]"}}}]}}}}

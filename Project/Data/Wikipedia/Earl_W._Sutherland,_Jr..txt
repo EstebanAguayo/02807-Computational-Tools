@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Earl_W._Sutherland,_Jr.", "to": "Earl W. Sutherland, Jr."}], "pages": {"810290": {"pageid": 810290, "ns": 0, "title": "Earl W. Sutherland, Jr.", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Earl Wilbur Sutherland Jr.]]"}}}]}}}}

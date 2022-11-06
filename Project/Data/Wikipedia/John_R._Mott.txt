@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_R._Mott", "to": "John R. Mott"}], "pages": {"369009": {"pageid": 369009, "ns": 0, "title": "John R. Mott", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Mott]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Willis_E._Lamb", "to": "Willis E. Lamb"}], "pages": {"1263708": {"pageid": 1263708, "ns": 0, "title": "Willis E. Lamb", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Willis Lamb]]"}}}]}}}}

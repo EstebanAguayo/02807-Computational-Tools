@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "European_Union_(EU)", "to": "European Union (EU)"}], "pages": {"-1": {"ns": 0, "title": "European Union (EU)", "missing": ""}}}}

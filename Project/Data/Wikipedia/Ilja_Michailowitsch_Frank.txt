@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ilja_Michailowitsch_Frank", "to": "Ilja Michailowitsch Frank"}], "pages": {"-1": {"ns": 0, "title": "Ilja Michailowitsch Frank", "missing": ""}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Odysseus_Elytis", "to": "Odysseus Elytis"}], "pages": {"779312": {"pageid": 779312, "ns": 0, "title": "Odysseus Elytis", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Odysseas Elytis]]"}}}]}}}}

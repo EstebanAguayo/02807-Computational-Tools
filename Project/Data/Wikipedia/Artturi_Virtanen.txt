@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Artturi_Virtanen", "to": "Artturi Virtanen"}], "pages": {"359123": {"pageid": 359123, "ns": 0, "title": "Artturi Virtanen", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Artturi Ilmari Virtanen]]"}}}]}}}}

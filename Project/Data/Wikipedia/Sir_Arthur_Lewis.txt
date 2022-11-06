@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Arthur_Lewis", "to": "Sir Arthur Lewis"}], "pages": {"673551": {"pageid": 673551, "ns": 0, "title": "Sir Arthur Lewis", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[W. Arthur Lewis]]"}}}]}}}}

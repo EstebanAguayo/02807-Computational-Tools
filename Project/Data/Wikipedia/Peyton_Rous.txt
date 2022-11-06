@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Peyton_Rous", "to": "Peyton Rous"}], "pages": {"1535602": {"pageid": 1535602, "ns": 0, "title": "Peyton Rous", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Francis Peyton Rous]]"}}}]}}}}

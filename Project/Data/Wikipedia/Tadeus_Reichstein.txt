@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Tadeus_Reichstein", "to": "Tadeus Reichstein"}], "pages": {"44515207": {"pageid": 44515207, "ns": 0, "title": "Tadeus Reichstein", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Tadeusz Reichstein]]\n{{R from move}}"}}}]}}}}

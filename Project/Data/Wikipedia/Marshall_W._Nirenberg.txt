@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Marshall_W._Nirenberg", "to": "Marshall W. Nirenberg"}], "pages": {"762367": {"pageid": 762367, "ns": 0, "title": "Marshall W. Nirenberg", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Marshall Warren Nirenberg]]"}}}]}}}}

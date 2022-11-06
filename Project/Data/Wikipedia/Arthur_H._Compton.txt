@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Arthur_H._Compton", "to": "Arthur H. Compton"}], "pages": {"1263739": {"pageid": 1263739, "ns": 0, "title": "Arthur H. Compton", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Arthur Compton]]"}}}]}}}}

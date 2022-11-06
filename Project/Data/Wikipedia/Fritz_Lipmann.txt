@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Fritz_Lipmann", "to": "Fritz Lipmann"}], "pages": {"666881": {"pageid": 666881, "ns": 0, "title": "Fritz Lipmann", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Fritz Albert Lipmann]]"}}}]}}}}

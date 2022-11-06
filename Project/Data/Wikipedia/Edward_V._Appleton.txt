@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edward_V._Appleton", "to": "Edward V. Appleton"}], "pages": {"1263722": {"pageid": 1263722, "ns": 0, "title": "Edward V. Appleton", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Edward Victor Appleton]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Barry_J._Marshall", "to": "Barry J. Marshall"}], "pages": {"840327": {"pageid": 840327, "ns": 0, "title": "Barry J. Marshall", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Barry Marshall]]"}}}]}}}}

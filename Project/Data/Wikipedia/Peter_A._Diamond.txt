@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Peter_A._Diamond", "to": "Peter A. Diamond"}], "pages": {"29197426": {"pageid": 29197426, "ns": 0, "title": "Peter A. Diamond", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Peter Diamond]]"}}}]}}}}

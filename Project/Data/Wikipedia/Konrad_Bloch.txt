@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Konrad_Bloch", "to": "Konrad Bloch"}], "pages": {"17368": {"pageid": 17368, "ns": 0, "title": "Konrad Bloch", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Konrad Emil Bloch]]"}}}]}}}}

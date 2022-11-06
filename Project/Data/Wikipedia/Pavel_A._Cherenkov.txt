@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Pavel_A._Cherenkov", "to": "Pavel A. Cherenkov"}], "pages": {"857178": {"pageid": 857178, "ns": 0, "title": "Pavel A. Cherenkov", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Pavel Cherenkov]]"}}}]}}}}

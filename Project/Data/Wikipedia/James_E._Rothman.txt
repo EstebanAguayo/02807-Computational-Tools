@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "James_E._Rothman", "to": "James E. Rothman"}], "pages": {"19943861": {"pageid": 19943861, "ns": 0, "title": "James E. Rothman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[James Rothman]]"}}}]}}}}

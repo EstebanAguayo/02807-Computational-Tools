@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Gustav_Hertz", "to": "Gustav Hertz"}], "pages": {"345775": {"pageid": 345775, "ns": 0, "title": "Gustav Hertz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gustav Ludwig Hertz]]\n\n{{Redirect category shell|1=\n{{R from short name}}\n}}"}}}]}}}}

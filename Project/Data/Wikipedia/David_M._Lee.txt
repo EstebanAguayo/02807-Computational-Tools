@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "David_M._Lee", "to": "David M. Lee"}], "pages": {"2006474": {"pageid": 2006474, "ns": 0, "title": "David M. Lee", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[David Lee (physicist)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Max_F._Perutz", "to": "Max F. Perutz"}], "pages": {"734095": {"pageid": 734095, "ns": 0, "title": "Max F. Perutz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Max Perutz]]"}}}]}}}}

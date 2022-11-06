@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_G._Edwards", "to": "Robert G. Edwards"}], "pages": {"39192800": {"pageid": 39192800, "ns": 0, "title": "Robert G. Edwards", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Edwards (physiologist)]]"}}}]}}}}

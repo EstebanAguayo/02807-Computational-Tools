@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "James_M._Buchanan_Jr.", "to": "James M. Buchanan Jr."}], "pages": {"25627131": {"pageid": 25627131, "ns": 0, "title": "James M. Buchanan Jr.", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[James M. Buchanan]]"}}}]}}}}

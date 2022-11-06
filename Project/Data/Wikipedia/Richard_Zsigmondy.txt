@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Richard_Zsigmondy", "to": "Richard Zsigmondy"}], "pages": {"1263908": {"pageid": 1263908, "ns": 0, "title": "Richard Zsigmondy", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Richard Adolf Zsigmondy]]"}}}]}}}}

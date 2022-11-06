@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paul_J._Flory", "to": "Paul J. Flory"}], "pages": {"1182583": {"pageid": 1182583, "ns": 0, "title": "Paul J. Flory", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul Flory]]"}}}]}}}}

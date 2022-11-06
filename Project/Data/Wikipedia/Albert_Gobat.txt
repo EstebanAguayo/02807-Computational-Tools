@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Albert_Gobat", "to": "Albert Gobat"}], "pages": {"1263609": {"pageid": 1263609, "ns": 0, "title": "Albert Gobat", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Charles Albert Gobat]]"}}}]}}}}

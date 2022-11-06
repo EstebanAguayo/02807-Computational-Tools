@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lloyd_S._Shapley", "to": "Lloyd S. Shapley"}], "pages": {"9279617": {"pageid": 9279617, "ns": 0, "title": "Lloyd S. Shapley", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lloyd Shapley]]"}}}]}}}}

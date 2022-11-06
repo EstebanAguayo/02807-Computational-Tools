@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_F._Giauque", "to": "William F. Giauque"}], "pages": {"537780": {"pageid": 537780, "ns": 0, "title": "William F. Giauque", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[William Giauque]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Wendell_M._Stanley", "to": "Wendell M. Stanley"}], "pages": {"482803": {"pageid": 482803, "ns": 0, "title": "Wendell M. Stanley", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wendell_Meredith_Stanley]]"}}}]}}}}

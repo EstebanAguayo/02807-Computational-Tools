@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Howard_Florey", "to": "Sir Howard Florey"}], "pages": {"1834974": {"pageid": 1834974, "ns": 0, "title": "Sir Howard Florey", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Howard Florey]]"}}}]}}}}

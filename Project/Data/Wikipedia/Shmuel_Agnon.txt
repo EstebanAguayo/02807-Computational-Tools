@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Shmuel_Agnon", "to": "Shmuel Agnon"}], "pages": {"3086740": {"pageid": 3086740, "ns": 0, "title": "Shmuel Agnon", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Shmuel Yosef Agnon]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kai_M._Siegbahn", "to": "Kai M. Siegbahn"}], "pages": {"1263665": {"pageid": 1263665, "ns": 0, "title": "Kai M. Siegbahn", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Kai Siegbahn]]"}}}]}}}}

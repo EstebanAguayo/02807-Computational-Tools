@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Andrew_V._Schally", "to": "Andrew V. Schally"}], "pages": {"1061943": {"pageid": 1061943, "ns": 0, "title": "Andrew V. Schally", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Andrew Schally]]"}}}]}}}}

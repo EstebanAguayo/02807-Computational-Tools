@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Mairead_Corrigan", "to": "Mairead Corrigan"}], "pages": {"30889479": {"pageid": 30889479, "ns": 0, "title": "Mairead Corrigan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mairead Maguire]]"}}}]}}}}

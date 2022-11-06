@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Dorothy_Crowfoot_Hodgkin", "to": "Dorothy Crowfoot Hodgkin"}], "pages": {"21671065": {"pageid": 21671065, "ns": 0, "title": "Dorothy Crowfoot Hodgkin", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dorothy Hodgkin]]"}}}]}}}}

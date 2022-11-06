@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "A._Michael_Spence", "to": "A. Michael Spence"}], "pages": {"359873": {"pageid": 359873, "ns": 0, "title": "A. Michael Spence", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Michael Spence]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "E._M._Purcell", "to": "E. M. Purcell"}], "pages": {"1263712": {"pageid": 1263712, "ns": 0, "title": "E. M. Purcell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Edward Mills Purcell]]"}}}]}}}}

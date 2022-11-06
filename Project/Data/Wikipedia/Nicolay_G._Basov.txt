@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Nicolay_G._Basov", "to": "Nicolay G. Basov"}], "pages": {"1263701": {"pageid": 1263701, "ns": 0, "title": "Nicolay G. Basov", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Nikolay Basov]]"}}}]}}}}

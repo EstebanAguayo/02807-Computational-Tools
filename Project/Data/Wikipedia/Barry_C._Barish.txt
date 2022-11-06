@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Barry_C._Barish", "to": "Barry C. Barish"}], "pages": {"49254089": {"pageid": 49254089, "ns": 0, "title": "Barry C. Barish", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Barry Barish]]"}}}]}}}}

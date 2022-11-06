@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Nevill_F._Mott", "to": "Sir Nevill F. Mott"}], "pages": {"1263672": {"pageid": 1263672, "ns": 0, "title": "Sir Nevill F. Mott", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Nevill Francis Mott]]"}}}]}}}}

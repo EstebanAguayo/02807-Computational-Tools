@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Luis_Alvarez", "to": "Luis Alvarez"}], "pages": {"7584384": {"pageid": 7584384, "ns": 0, "title": "Luis Alvarez", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Luis \u00c1lvarez]]\n\n{{R from title without diacritics}}\n{{R ambig}}"}}}]}}}}

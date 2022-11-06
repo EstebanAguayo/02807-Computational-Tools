@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Hendrik_A._Lorentz", "to": "Hendrik A. Lorentz"}], "pages": {"1263746": {"pageid": 1263746, "ns": 0, "title": "Hendrik A. Lorentz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Hendrik Lorentz]]"}}}]}}}}

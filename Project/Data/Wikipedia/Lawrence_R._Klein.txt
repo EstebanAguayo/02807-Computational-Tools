@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lawrence_R._Klein", "to": "Lawrence R. Klein"}], "pages": {"723156": {"pageid": 723156, "ns": 0, "title": "Lawrence R. Klein", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lawrence Klein]]"}}}]}}}}

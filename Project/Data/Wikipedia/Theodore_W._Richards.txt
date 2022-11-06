@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Theodore_W._Richards", "to": "Theodore W. Richards"}], "pages": {"4635572": {"pageid": 4635572, "ns": 0, "title": "Theodore W. Richards", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Theodore William Richards]]"}}}]}}}}

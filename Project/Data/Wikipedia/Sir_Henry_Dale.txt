@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_Henry_Dale", "to": "Sir Henry Dale"}], "pages": {"675087": {"pageid": 675087, "ns": 0, "title": "Sir Henry Dale", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Henry Hallett Dale]]"}}}]}}}}

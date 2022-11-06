@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Eric_Cornell", "to": "Eric Cornell"}], "pages": {"406593": {"pageid": 406593, "ns": 0, "title": "Eric Cornell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eric Allin Cornell]]"}}}]}}}}

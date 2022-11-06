@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edvard_I._Moser", "to": "Edvard I. Moser"}], "pages": {"41209857": {"pageid": 41209857, "ns": 0, "title": "Edvard I. Moser", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#Redirect [[Edvard Moser]]"}}}]}}}}

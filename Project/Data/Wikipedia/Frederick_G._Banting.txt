@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Frederick_G._Banting", "to": "Frederick G. Banting"}], "pages": {"1834762": {"pageid": 1834762, "ns": 0, "title": "Frederick G. Banting", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Frederick Banting]]"}}}]}}}}

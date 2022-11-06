@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Cecil_Powell", "to": "Cecil Powell"}], "pages": {"393530": {"pageid": 393530, "ns": 0, "title": "Cecil Powell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[C. F. Powell]]"}}}]}}}}

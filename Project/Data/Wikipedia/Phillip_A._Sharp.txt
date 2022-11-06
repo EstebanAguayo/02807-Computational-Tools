@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Phillip_A._Sharp", "to": "Phillip A. Sharp"}], "pages": {"1076014": {"pageid": 1076014, "ns": 0, "title": "Phillip A. Sharp", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Phillip Allen Sharp]]"}}}]}}}}

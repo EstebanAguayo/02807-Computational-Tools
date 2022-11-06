@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Craig_C._Mello", "to": "Craig C. Mello"}], "pages": {"8111339": {"pageid": 8111339, "ns": 0, "title": "Craig C. Mello", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Craig Mello]]"}}}]}}}}

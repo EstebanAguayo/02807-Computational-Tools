@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "T.S._Eliot", "to": "T.S. Eliot"}], "pages": {"146092": {"pageid": 146092, "ns": 0, "title": "T.S. Eliot", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[T. S. Eliot]]\n\n{{Redirect category shell|1=\n{{R from alternate spacing}}\n}}"}}}]}}}}

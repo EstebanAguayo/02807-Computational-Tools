@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_W._Fogel", "to": "Robert W. Fogel"}], "pages": {"5518466": {"pageid": 5518466, "ns": 0, "title": "Robert W. Fogel", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Fogel]]"}}}]}}}}

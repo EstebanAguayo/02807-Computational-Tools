@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Thomas_R._Cech", "to": "Thomas R. Cech"}], "pages": {"4644482": {"pageid": 4644482, "ns": 0, "title": "Thomas R. Cech", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Thomas Cech]]"}}}]}}}}

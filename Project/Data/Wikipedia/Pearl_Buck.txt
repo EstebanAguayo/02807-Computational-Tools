@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Pearl_Buck", "to": "Pearl Buck"}], "pages": {"255828": {"pageid": 255828, "ns": 0, "title": "Pearl Buck", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Pearl S. Buck]]"}}}]}}}}

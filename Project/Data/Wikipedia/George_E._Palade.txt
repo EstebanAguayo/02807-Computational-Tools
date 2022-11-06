@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_E._Palade", "to": "George E. Palade"}], "pages": {"289951": {"pageid": 289951, "ns": 0, "title": "George E. Palade", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Emil Palade]]"}}}]}}}}

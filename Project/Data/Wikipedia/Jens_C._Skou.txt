@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Jens_C._Skou", "to": "Jens C. Skou"}], "pages": {"437631": {"pageid": 437631, "ns": 0, "title": "Jens C. Skou", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jens_Christian_Skou]]"}}}]}}}}

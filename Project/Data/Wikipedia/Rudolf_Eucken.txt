@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Rudolf_Eucken", "to": "Rudolf Eucken"}], "pages": {"1146314": {"pageid": 1146314, "ns": 0, "title": "Rudolf Eucken", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rudolf Christoph Eucken]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Thomas_H._Weller", "to": "Thomas H. Weller"}], "pages": {"1682723": {"pageid": 1682723, "ns": 0, "title": "Thomas H. Weller", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Thomas Huckle Weller]]"}}}]}}}}

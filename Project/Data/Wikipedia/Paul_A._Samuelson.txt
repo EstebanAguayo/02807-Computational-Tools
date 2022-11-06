@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paul_A._Samuelson", "to": "Paul A. Samuelson"}], "pages": {"723155": {"pageid": 723155, "ns": 0, "title": "Paul A. Samuelson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul Samuelson]]"}}}]}}}}

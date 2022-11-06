@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Wilhelm_Conrad_R\u00f6ntgen", "to": "Wilhelm Conrad R\u00f6ntgen"}], "pages": {"19924358": {"pageid": 19924358, "ns": 0, "title": "Wilhelm Conrad R\u00f6ntgen", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wilhelm R\u00f6ntgen]]"}}}]}}}}

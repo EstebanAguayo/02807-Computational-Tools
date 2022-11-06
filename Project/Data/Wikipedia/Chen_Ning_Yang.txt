@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Chen_Ning_Yang", "to": "Chen Ning Yang"}], "pages": {"41127298": {"pageid": 41127298, "ns": 0, "title": "Chen Ning Yang", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Yang Chen-Ning]]\n{{R from move}}"}}}]}}}}

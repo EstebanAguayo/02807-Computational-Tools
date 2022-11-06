@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_A._Millikan", "to": "Robert A. Millikan"}], "pages": {"193750": {"pageid": 193750, "ns": 0, "title": "Robert A. Millikan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Andrews Millikan]]"}}}]}}}}

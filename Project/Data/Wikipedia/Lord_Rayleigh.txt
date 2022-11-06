@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lord_Rayleigh", "to": "Lord Rayleigh"}], "pages": {"426739": {"pageid": 426739, "ns": 0, "title": "Lord Rayleigh", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John William Strutt, 3rd Baron Rayleigh]]"}}}]}}}}

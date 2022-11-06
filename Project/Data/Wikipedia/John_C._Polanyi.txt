@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_C._Polanyi", "to": "John C. Polanyi"}], "pages": {"764651": {"pageid": 764651, "ns": 0, "title": "John C. Polanyi", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Polanyi]]"}}}]}}}}

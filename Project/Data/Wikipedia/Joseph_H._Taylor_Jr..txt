@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Joseph_H._Taylor_Jr.", "to": "Joseph H. Taylor Jr."}], "pages": {"1263654": {"pageid": 1263654, "ns": 0, "title": "Joseph H. Taylor Jr.", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Joseph Hooton Taylor Jr.]]"}}}]}}}}

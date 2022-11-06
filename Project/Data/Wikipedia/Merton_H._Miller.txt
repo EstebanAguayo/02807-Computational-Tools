@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Merton_H._Miller", "to": "Merton H. Miller"}], "pages": {"622938": {"pageid": 622938, "ns": 0, "title": "Merton H. Miller", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Merton Miller]]"}}}]}}}}

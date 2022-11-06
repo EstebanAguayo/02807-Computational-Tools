@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "James_A._Mirrlees", "to": "James A. Mirrlees"}], "pages": {"2043341": {"pageid": 2043341, "ns": 0, "title": "James A. Mirrlees", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[James Mirrlees]]"}}}]}}}}

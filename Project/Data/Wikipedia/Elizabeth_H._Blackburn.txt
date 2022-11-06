@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Elizabeth_H._Blackburn", "to": "Elizabeth H. Blackburn"}], "pages": {"8140023": {"pageid": 8140023, "ns": 0, "title": "Elizabeth H. Blackburn", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Elizabeth Blackburn]]"}}}]}}}}

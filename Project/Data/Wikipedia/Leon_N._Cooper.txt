@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Leon_N._Cooper", "to": "Leon N. Cooper"}], "pages": {"2000940": {"pageid": 2000940, "ns": 0, "title": "Leon N. Cooper", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[Leon Cooper]]"}}}]}}}}

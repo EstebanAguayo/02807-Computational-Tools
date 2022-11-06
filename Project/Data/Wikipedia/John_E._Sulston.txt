@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "John_E._Sulston", "to": "John E. Sulston"}], "pages": {"31521319": {"pageid": 31521319, "ns": 0, "title": "John E. Sulston", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Sulston]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Abiy_Ahmed_Ali", "to": "Abiy Ahmed Ali"}], "pages": {"57136056": {"pageid": 57136056, "ns": 0, "title": "Abiy Ahmed Ali", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Abiy Ahmed]]\n\n{{R from move}}"}}}]}}}}

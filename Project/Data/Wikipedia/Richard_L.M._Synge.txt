@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Richard_L.M._Synge", "to": "Richard L.M. Synge"}], "pages": {"26591455": {"pageid": 26591455, "ns": 0, "title": "Richard L.M. Synge", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Richard Laurence Millington Synge]]"}}}]}}}}

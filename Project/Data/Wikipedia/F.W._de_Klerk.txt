@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "F.W._de_Klerk", "to": "F.W. de Klerk"}], "pages": {"106332": {"pageid": 106332, "ns": 0, "title": "F.W. de Klerk", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[F. W. de Klerk]]"}}}]}}}}

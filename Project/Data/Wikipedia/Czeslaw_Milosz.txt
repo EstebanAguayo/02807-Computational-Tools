@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Czeslaw_Milosz", "to": "Czeslaw Milosz"}], "pages": {"2126817": {"pageid": 2126817, "ns": 0, "title": "Czeslaw Milosz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Czes\u0142aw Mi\u0142osz]] {{R from title without diacritics}}"}}}]}}}}

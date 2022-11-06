@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_H._Whipple", "to": "George H. Whipple"}], "pages": {"422395": {"pageid": 422395, "ns": 0, "title": "George H. Whipple", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Whipple]]"}}}]}}}}

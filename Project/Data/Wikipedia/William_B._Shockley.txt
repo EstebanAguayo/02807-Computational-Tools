@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_B._Shockley", "to": "William B. Shockley"}], "pages": {"359656": {"pageid": 359656, "ns": 0, "title": "William B. Shockley", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[William Shockley]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Charles_B._Huggins", "to": "Charles B. Huggins"}], "pages": {"6030499": {"pageid": 6030499, "ns": 0, "title": "Charles B. Huggins", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Charles Brenton Huggins]]"}}}]}}}}

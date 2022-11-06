@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Lord_Boyd_Orr", "to": "Lord Boyd Orr"}], "pages": {"697660": {"pageid": 697660, "ns": 0, "title": "Lord Boyd Orr", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Boyd Orr]]"}}}]}}}}

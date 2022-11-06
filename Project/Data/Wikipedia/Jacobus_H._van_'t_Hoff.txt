@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Jacobus_H._van_'t_Hoff", "to": "Jacobus H. van 't Hoff"}], "pages": {"1263914": {"pageid": 1263914, "ns": 0, "title": "Jacobus H. van 't Hoff", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Jacobus Henricus van 't Hoff]]"}}}]}}}}

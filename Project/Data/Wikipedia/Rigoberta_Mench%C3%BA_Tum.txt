@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Rigoberta_Mench\u00fa_Tum", "to": "Rigoberta Mench\u00fa Tum"}], "pages": {"1263550": {"pageid": 1263550, "ns": 0, "title": "Rigoberta Mench\u00fa Tum", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Rigoberta Mench\u00fa]]"}}}]}}}}

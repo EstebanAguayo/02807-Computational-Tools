@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Willard_F._Libby", "to": "Willard F. Libby"}], "pages": {"367257": {"pageid": 367257, "ns": 0, "title": "Willard F. Libby", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Willard Libby]]"}}}]}}}}

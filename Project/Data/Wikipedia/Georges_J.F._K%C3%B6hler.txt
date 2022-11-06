@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Georges_J.F._K\u00f6hler", "to": "Georges J.F. K\u00f6hler"}], "pages": {"1805400": {"pageid": 1805400, "ns": 0, "title": "Georges J.F. K\u00f6hler", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Georges J. F. K\u00f6hler]]"}}}]}}}}

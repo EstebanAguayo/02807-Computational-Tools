@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "The_14th_Dalai_Lama_", "to": "The 14th Dalai Lama"}], "pages": {"1263556": {"pageid": 1263556, "ns": 0, "title": "The 14th Dalai Lama", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[14th Dalai Lama]]"}}}]}}}}

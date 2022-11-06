@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "D._Carleton_Gajdusek", "to": "D. Carleton Gajdusek"}], "pages": {"56228025": {"pageid": 56228025, "ns": 0, "title": "D. Carleton Gajdusek", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Daniel Carleton Gajdusek]]\n\n{{R from move}}"}}}]}}}}

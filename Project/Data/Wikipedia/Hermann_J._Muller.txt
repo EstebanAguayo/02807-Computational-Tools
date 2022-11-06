@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Hermann_J._Muller", "to": "Hermann J. Muller"}], "pages": {"1775584": {"pageid": 1775584, "ns": 0, "title": "Hermann J. Muller", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hermann Joseph Muller]]"}}}]}}}}

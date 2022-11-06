@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Ronald_H._Coase", "to": "Ronald H. Coase"}], "pages": {"1184296": {"pageid": 1184296, "ns": 0, "title": "Ronald H. Coase", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ronald Coase]]"}}}]}}}}

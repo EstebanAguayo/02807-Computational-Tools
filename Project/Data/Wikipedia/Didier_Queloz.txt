@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Didier_Queloz", "to": "Didier Queloz"}], "pages": {"70688149": {"pageid": 70688149, "ns": 0, "title": "Didier Queloz", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Didier P. Queloz]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

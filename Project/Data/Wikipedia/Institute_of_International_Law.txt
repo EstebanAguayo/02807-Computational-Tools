@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Institute_of_International_Law", "to": "Institute of International Law"}], "pages": {"1263602": {"pageid": 1263602, "ns": 0, "title": "Institute of International Law", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Institut de Droit International]]"}}}]}}}}

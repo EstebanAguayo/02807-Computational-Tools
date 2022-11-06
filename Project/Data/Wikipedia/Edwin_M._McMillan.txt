@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Edwin_M._McMillan", "to": "Edwin M. McMillan"}], "pages": {"308352": {"pageid": 308352, "ns": 0, "title": "Edwin M. McMillan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Edwin McMillan]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kary_B._Mullis", "to": "Kary B. Mullis"}], "pages": {"17377": {"pageid": 17377, "ns": 0, "title": "Kary B. Mullis", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kary Mullis]]\n{{R from alternate spelling|Kary Mullis}}"}}}]}}}}

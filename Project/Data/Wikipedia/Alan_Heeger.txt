@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alan_Heeger", "to": "Alan Heeger"}], "pages": {"1107766": {"pageid": 1107766, "ns": 0, "title": "Alan Heeger", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alan J. Heeger]]"}}}]}}}}

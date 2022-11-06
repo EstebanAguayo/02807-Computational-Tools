@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sir_James_W._Black", "to": "Sir James W. Black"}], "pages": {"20025809": {"pageid": 20025809, "ns": 0, "title": "Sir James W. Black", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[James Black (pharmacologist)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Val_Fitch", "to": "Val Fitch"}], "pages": {"1263667": {"pageid": 1263667, "ns": 0, "title": "Val Fitch", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Val Logsdon Fitch]]"}}}]}}}}

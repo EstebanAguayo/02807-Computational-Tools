@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robert_B._Woodward", "to": "Robert B. Woodward"}], "pages": {"3426827": {"pageid": 3426827, "ns": 0, "title": "Robert B. Woodward", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Burns Woodward]]"}}}]}}}}

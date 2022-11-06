@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kenzaburo_Oe", "to": "Kenzaburo Oe"}], "pages": {"17741454": {"pageid": 17741454, "ns": 0, "title": "Kenzaburo Oe", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kenzabur\u014d \u014ce]]\n{{R from title without diacritics}}"}}}]}}}}

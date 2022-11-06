@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Bruce_A._Beutler", "to": "Bruce A. Beutler"}], "pages": {"22635172": {"pageid": 22635172, "ns": 0, "title": "Bruce A. Beutler", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bruce Beutler]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Samuel_C.C._Ting", "to": "Samuel C.C. Ting"}], "pages": {"1263677": {"pageid": 1263677, "ns": 0, "title": "Samuel C.C. Ting", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Samuel C. C. Ting]]"}}}]}}}}

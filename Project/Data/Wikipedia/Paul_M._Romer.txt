@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paul_M._Romer", "to": "Paul M. Romer"}], "pages": {"33453917": {"pageid": 33453917, "ns": 0, "title": "Paul M. Romer", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paul Romer]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "George_A._Olah", "to": "George A. Olah"}], "pages": {"758751": {"pageid": 758751, "ns": 0, "title": "George A. Olah", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[George Andrew Olah]]"}}}]}}}}

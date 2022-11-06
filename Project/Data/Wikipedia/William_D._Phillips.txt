@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "William_D._Phillips", "to": "William D. Phillips"}], "pages": {"630915": {"pageid": 630915, "ns": 0, "title": "William D. Phillips", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[William Daniel Phillips]]"}}}]}}}}

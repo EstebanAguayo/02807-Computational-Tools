@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Niels_K._Jerne", "to": "Niels K. Jerne"}], "pages": {"773190": {"pageid": 773190, "ns": 0, "title": "Niels K. Jerne", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Niels Kaj Jerne]]"}}}]}}}}

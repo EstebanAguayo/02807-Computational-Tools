@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Norman_F._Ramsey", "to": "Norman F. Ramsey"}], "pages": {"4551709": {"pageid": 4551709, "ns": 0, "title": "Norman F. Ramsey", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Norman Foster Ramsey Jr.]]"}}}]}}}}

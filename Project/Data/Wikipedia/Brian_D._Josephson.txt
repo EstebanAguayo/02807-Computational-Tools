@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Brian_D._Josephson", "to": "Brian D. Josephson"}], "pages": {"1263696": {"pageid": 1263696, "ns": 0, "title": "Brian D. Josephson", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Brian Josephson]]"}}}]}}}}
