@@ -1,0 +1,24 @@
+Trygve Magnus Haavelmo (13 December 1911 – 28 July 1999), born in Skedsmo, Norway, was an economist whose research interests centered on econometrics. He received the Nobel Memorial Prize in Economic Sciences in 1989.
+
+
+== Biography ==
+After attending Oslo Cathedral School, Haavelmo received a degree in economics from the University of Oslo in 1930 and eventually joined the Institute of Economics with the recommendation of Ragnar Frisch. Haavelmo was Frisch's assistant for a period of time until he was appointed as head of computations for the institute. In 1936, Haavelmo studied statistics at University College London while he subsequently traveled to Berlin, Geneva, and Oxford for additional studies. Haavelmo assumed a lecturing position at the University of Aarhus in 1938 for one year and then in the subsequent year was offered an academic scholarship to travel abroad and study in the United States. During World War II he worked with Nortraship in the Statistical Department in New York City. He received his PhD in 1946 for his work on The Probability Approach in Econometrics.He was a professor of economics and statistics at the University of Oslo between 1948–79 and was the trade department head of division from 1947–48. Haavelmo acquired a prominent position in modern economics through his logical critique of a series of custom conceptions in mathematical analysis.In 1989, Haavelmo was awarded the Nobel Prize in Economics "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures."Haavelmo resided at Østerås in Bærum. He died on 28 July 1999 in Oslo.
+
+
+== Legacy ==
+Judea Pearl wrote "Haavelmo was the first to recognize the capacity of economic models to guide policies" and "presented a mathematical procedure that takes an arbitrary model and produces quantitative answers to policy questions". According to Pearl, "Haavelmo's paper, 'The Statistical Implications of a System of Simultaneous Equations', marks a pivotal turning point, not in the statistical implications of econometric models, as historians typically presume, but in their causal counterparts." Haavelmo's idea that an economic model depicts a series of hypothetical experiments and that policies can be simulated by modifying equations in the model became the basis of all currently used formalisms of econometric causal inference. (The biostatistics and epidemiology literature on causal inference draws from different sources.) It was first operationalized by Robert H. Strotz and Herman Wold (1960) who advocated "wiping out" selected equations, and then translated into graphical models as "wiping out" incoming arrows. This operation has subsequently led to Pearl's "do"-calculus and to a mathematical theory of counterfactuals in econometric models. Pearl further speculates that the reason economists do not generally appreciate these revolutionary contributions of Haavelmo is because economists themselves have still not reached
+consensus of what an economic model stands for, as attested by profound disagreements among econometric textbooks.
+
+
+== References ==
+
+
+== External links ==
+
+List of publications
+Trygve Haavelmo on Nobelprize.org  including the Nobel Lecture on 7 December 1989 Econometrics and the Welfare State
+Model Discovery and Trygve Haavelmo’s Legacy by David F. Hendry and Søren Johansen.]
+Trygve Haavelmo Growth Model by Elmer G. Wiens
+"Trygve Haavelmo (1911–1999)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Pearl, Judea (2014). "Trygve Haavelmo and the Emergence of Causal Calculus" (PDF). Forthcoming, Econometric Theory, special issue on Haavelmo Centennial. UCLA Computer Science Department, Technical Report R-391.
+Chen, Bryant; Pearl, Judea (2013). "Regression and Causation: A Critical Examination of Six Econometrics Textbooks" (PDF). Real-World Economics Review. 65: 2–20

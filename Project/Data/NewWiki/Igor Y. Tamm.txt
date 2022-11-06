@@ -1,0 +1,29 @@
+Igor Yevgenyevich Tamm (Russian: И́горь Евге́ньевич Тамм, IPA: [ˈiɡərʲ jɪvˈɡʲenʲjɪvitɕ ˈtam] (listen); 8 July 1895 – 12 April 1971) was a Soviet physicist who received the 1958 Nobel Prize in Physics, jointly with Pavel Alekseyevich Cherenkov and Ilya Mikhailovich Frank, for their 1934 discovery and demonstration of Cherenkov radiation. He also predicted the Quasi-particle Phonon, and in 1951, together with Andrei Sakharov were the proposers of the Tokamak system.
+
+
+== Biography ==
+
+According to Russian sources, Tamm had German noble descent on his father's side through his grandfather Theodor Tamm, who emigrated from Thuringia. Although his surname "Tamm" is rather common in Estonia, other sources state he was Jewish or had Jewish ancestry.He studied at a gymnasium in Elisavetgrad (now Kropyvnytskyi, Ukraine). In 1913–1914 he studied at the University of Edinburgh together with his school-friend Boris Hessen.
+At the outbreak of World War I in 1914 he joined the army as a volunteer field medic. In 1917 he joined the Revolutionary movement and became an active anti-War campaigner, serving on revolutionary committees after the March Revolution.  He returned to the Moscow State University from which he graduated in 1918.
+Tamm married Nataliya Shuyskaya (1894–1980) in September 1917. They eventually had two children, Irina (1921–2009, chemist) and Evgeny (1926–2008, experimental physicist and famous mountain climber, leader of the Soviet Everest expedition in 1982).
+On 1 May 1923, Tamm began teaching physics at the Second Moscow State University. The same year, he finished his first scientific paper, Electrodynamics of the Anisotropic Medium in the Special Theory of Relativity. In 1928, he spent a few months with Paul Ehrenfest at the University of Leiden and made a life-long friendship with Paul Dirac. From 1934 until his death in 1971 Tamm was the head of the theoretical department at Lebedev Physical Institute in Moscow.
+In 1932, Tamm published a paper with his proposal of the concept of surface states. This concept is important for MOSFET physics.
+In 1934, Tamm and Semen Altshuller suggested that the neutron has a non-zero magnetic moment, the idea was met with scepticism at that time, as the neutron was supposed to be an elementary particle with zero charge, and thus could not have a magnetic moment. The same year, Tamm coined an idea that proton-neutron interactions can be described as an exchange force transmitted by a yet unknown massive particle, this idea was later developed by Hideki Yukawa into a theory of meson forces.
+In 1945 he developed an approximation method for many-body physics.  As Sidney Dancoff developed it independently in 1950, it is now called the Tamm-Dancoff approximation.
+He was the Nobel Laureate in Physics for the year 1958 together with Pavel Cherenkov and Ilya Frank for the discovery and the interpretation of the Cherenkov-Vavilov effect.
+In late 1940s-early 1950s Tamm was involved in the Soviet thermonuclear bomb project, in 1949–1953 he spent most of his time in the "secret city" of Sarov, working as a head of the theoretical group developing the hydrogen bomb, however he retired from the project and returned to the Moscow Lebedev Physical Institute after the first successful test of a hydrogen bomb in 1953.
+In 1951, together with Andrei Sakharov, Tamm proposed a tokamak system for the realization of CTF on the basis of toroidal magnetic thermonuclear reactor and soon after the first such devices were built by the  INF. Results from the T-3 Soviet magnetic confinement device in 1968, when the plasma parameters unique for that time were obtained, showed temperatures in their machine to be over an order of magnitude higher than what was expected by the rest of the community. The western scientists visited the experiment and verified the high temperatures and confinement, sparking a wave of optimism for the prospects of the tokamak as well as construction of new experiments, which is still the dominant magnetic confinement device today.
+In 1964 he was elected a Member of the German Academy of Sciences Leopoldina.Tamm was a student of Leonid Isaakovich Mandelshtam in science and life.
+Tamm was an atheist.Tamm died in Moscow, Soviet Union on 12 April 1971, the Lunar crater Tamm is named after him. He is buried at Novodevichy Cemetery.
+
+
+== References ==
+
+
+== Further reading ==
+
+L. I. Mandelshtam, I. E. Tamm "The uncertainty relation between energy and time in nonrelativistic quantum mechanics", Izv. Akad. Nauk SSSR (ser. fiz.) 9, 122–128 (1945). English translation: J. Phys. (USSR) 9, 249–254 (1945).
+
+
+== External links ==
+Igor Tamm on Nobelprize.org  including his Nobel Lecture, December 11, 1958 General Characteristics of Radiation Emitted by Systems Moving with Super-Light Velocities with Some Applications to Plasma Physic

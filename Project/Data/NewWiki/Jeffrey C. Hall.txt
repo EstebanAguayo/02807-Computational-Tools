@@ -1,0 +1,55 @@
+Jeffrey Connor Hall (born May 3, 1945) is an American geneticist and chronobiologist. Hall is Professor Emeritus of Biology at Brandeis University and currently resides in Cambridge, Maine.
+Hall spent his career examining the neurological component of fly courtship and behavioral rhythms. Through his research on the neurology and behavior of Drosophila melanogaster, Hall uncovered essential mechanisms of the circadian clocks and shed light on the foundations for sexual differentiation in the nervous system.  He was elected to the National Academy of Sciences for his revolutionary work in the field of chronobiology, and nominated for the T. Washington FellowsIn 2017, along with Michael W. Young and Michael Rosbash, he was awarded the 2017 Nobel Prize in Physiology or Medicine "for their discoveries of molecular mechanisms controlling the circadian rhythm".
+
+
+== Life ==
+
+
+=== Early life and education ===
+Jeffrey Hall was born in Brooklyn, New York and raised in the suburbs of Washington D.C., while his father worked as a reporter for the Associated Press, covering the U.S. Senate. Hall's father, Joseph W. Hall, greatly influenced him especially by encouraging Hall to stay updated on recent events in the daily newspaper. Hall attended Walter Johnson High School in Bethesda, Maryland, graduating in 1963.  As a good high school student, Hall planned to pursue a career in medicine. Hall began pursuing a bachelor's degree at Amherst College in 1963. However, during his time as an undergraduate student, Hall found his passion in biology. For his senior project, to gain experience in formal research, Hall began working with Philip Ives. Hall reported that Ives was one of the most influential people he encountered during his formative years. Hall became fascinated with the study of Drosophila while working in Ives' lab, a passion that has permeated his research. Under the supervision of Ives, Hall studied recombination and translocation induction in Drosophila. The success of Hall's research pursuits prompted department faculty to recommend that Hall pursue graduate school at University of Washington in Seattle, where an entire department was devoted to genetics.
+
+
+=== Early academic career ===
+Hall began working in Lawrence Sandler's laboratory during graduate school in 1967. Hall worked with Sandler on analyzing age-dependent enzyme changes in Drosophila, with a concentration on the genetic control of chromosome behavior in meiosis. Hershel Roman encouraged Hall to pursue postdoctoral work with Seymour Benzer, a pioneer in forward genetics, at the California Institute of Technology. In an interview, Hall regarded Roman as an influential figure in his early career for Roman fostered camaraderie in the laboratory and guided nascent professionals. Upon completing his doctoral work, Hall joined Benzer's laboratory in 1971. In Benzer's lab, Hall worked with Doug Kankel who taught Hall about Drosophila neuroanatomy and neurochemistry. Although Hall and Kankel made great progress on two projects, Hall left Benzer's laboratory before publishing results. In Hall's third year as a postdoctoral researcher, Roman contacted Hall regarding faculty positions that Roman had advocated for Hall. Hall joined Brandeis University as an Assistant Professor of Biology in 1974. He is known for his eccentric lecturing style.
+
+
+=== Academic adversities ===
+During his time working in the field of chronobiology, Hall faced many challenges when attempting to establish his findings.  Specifically, his genetic approach to biological clocks (see period gene section) was not easily accepted by more traditional chronobiologists.  When conducting his research on this particular topic, Hall faced skepticism when trying to establish the importance of a sequence of amino acids he isolated.  While working on this project the only other researcher working on a similar project was Michael Young.Hall not only faced hurdles when attempting to establish his own work, but also found the politics of research funding frustrating.  In fact these challenges are one of the primary reasons why he left the field.  He felt that the hierarchy and entry expectations of biology are preventing researchers from pursuing the research they desire.  Hall believed the focus should be on the individual's research; funding should not be a limiting factor on the scientist, but instead give them the flexibility to pursue new interests and hypotheses.  Hall expressed that he loves his research and flies, yet feels that the bureaucracy involved in the process prevented him from excelling and making new strides in the field.
+
+
+== Drosophila courtship behavior ==
+Hall's work with Drosophila courtship behavior began as a collaborative work with Kankel to correlate courtship behaviors with genetic sex in various regions of the nervous systems using fruit fly sex mosaics during the last months of his postdoctoral years in Benzer's laboratory. This work triggered his interest in the neurogenetics of Drosophila courtship and led him to the subsequent career path of investigation into Drosophila courtship.
+
+
+=== Discovery of period connection ===
+In the late 1970s, through a collaborative work with Florian von Schilcher, Hall successfully identified the nervous system regions in Drosophila that contributed to the regulation of male's courtship songs. Hall realized from this study that courtship singing behavior was one of the elegantly quantifiable features of courtship and decided to study this topic further. In the subsequent research with a postdoctoral fellow in his lab, Bambos Kyriacou, Hall discovered that Drosophila courtship song was produced rhythmically with a normal period of about one minute.Suspecting the period mutation for abnormal sleep-wake cycles—generated by Ron Konopka in the late 1960s—might also alter courtship song cycles, Hall and Kyriacou tested the effect of mutations in the period on courtship song.  They found that period mutations affected the courtship song in the same way they changed the circadian rhythms. pers allele produced a shorter (approximately 40 second) oscillation, perl allele produced a longer (approximately 76 second) oscillation, and pero produced a song that had no regular oscillation.
+
+
+=== Neurogenetics ===
+In his research, Hall mainly focused on flies with the fruitless gene, which he began studying during his postdoctoral years. The fruitless (fru) mutant was behaviorally sterile. Furthermore, they indiscriminately courted both females and males, but did not try to mate with either. This behavior was identified in the 1960s, but it had been neglected until Hall's group began to investigate the topic further. In the mid-1990s, through a collaborative work with Bruce Baker at Stanford University and Barbara Taylor at Stanford University, Hall successfully cloned fruitless. Through subsequent research with the cloned fruitless, Hall confirmed the previously suspected role of fruitless as the master regulator gene for courtship. By examining several fru mutations, Hall discovered that males performed little to no courtship toward females, failed to produce the pulse song component of courtship song, never attempted copulation, and exhibited increased inter-male courtship in the absence of FruM proteins.
+
+
+== Circadian rhythm of period gene and protein ==
+Hall worked primarily with Drosophila to study the mechanism of circadian rhythms. Rather than using the more traditional method of measuring eclosion, Hall measured locomotor activity of Drosophila to observe circadian rhythms.
+
+
+=== Discovery of PER protein self regulation ===
+In 1990, while in collaboration with Michael Rosbash and Paul Hardin, Hall discovered that the Period protein (PER) played a role in suppressing its own transcription. While the exact role of PER was unknown, Hall, Rosbash, and Hardin were able to develop a negative transcription-translation feedback loop model (TTFL) that serves as a central mechanism of the circadian clock in Drosophila. In this original model, per expression led to an increase of PER. After a certain concentration of PER, the expression of per decreased, causing PER levels to decrease, once again allowing per to be expressed.
+
+
+=== Discovery of synchronization between cells ===
+In 1997, Hall was a part of group with Susan Renn, Jae Park, Michael Rosbash, and Paul Taghert that discovered genes that are a part of the TTFL are expressed in cells throughout the body. Despite these genes being identified as necessary genes to the circadian clock, there was a variety of levels of expressions in various parts of the body; this variation was observed on the cellular level. Hall succeeded in entraining separate tissues to different light-dark cycles at the same time. Hall didn't discover the element that synchronizes cells until 2003. He found that the pigment dispersing factor protein (PDF) helps control the circadian rhythms, and in turn locomotor activity, of these genes in cells. This was localized to small ventral lateral neurons (sLNvs) in the Drosophila brain. From this data, Hall concluded the sLNvs serve as the primary oscillator in Drosophila and PDF allows for synchrony between cells. He was awarded the 2017 Nobel Prize in Medicine or Physiology.
+
+
+=== Refining the transcription-translation negative feedback loop model ===
+In 1998, Hall contributed to two discoveries in Drosophila that refined the TTFL model. The first discovery involved the role Cryptochrome (CRY) plays in entrainment. Hall found that CRY is a key photoreceptor for both entrainment and regulation of locomotor activity. He hypothesized CRY may not be just an input to the circadian system, but also a role as a pacemaker itself.  In the same year, Hall discovered how the Drosophila per and timeless (tim) circadian genes were regulated. Hall discovered that CLOCK and Cycle (CYC) proteins form a heterodimer via the PAS domain. Upon dimerizing, the two proteins bind to the E box promoter element of the two genes via the bHLH domain to induce expression of per and tim mRNA.
+
+
+== References ==
+
+
+== External links ==
+Interview with Jeffrey C. Hall and Michael Rosbash
+Hardin, Paul E.; Hall, Jeffrey C.; Rosbash, Michael (February 8, 1990). "Feedback of the Drosophila period gene product on circadian cycling of its messenger RNA levels". Nature. 343 (6258): 536–540. Bibcode:1990Natur.343..536H. doi:10.1038/343536a0. PMID 2105471. S2CID 4311836.
+Renn, SC; Park, JH; Rosbash, M; Hall, JC; Taghert, PH (December 1999). "A pdf Neuropeptide Gene Mutation and Ablation of PDF Neurons Each Cause Severe Abnormalities of Behavioral Circadian Rhythms in Drosophila". Cell. 99 (7): 791–802. doi:10.1016/S0092-8674(00)81676-1. PMID 10619432. S2CID 62796150.
+Jeffrey C. Hall on Nobelprize.org  including the Nobel Lecture 7 December 2017 The Little Flies: Multifaceted Basic Research Coming Out Better than Intende

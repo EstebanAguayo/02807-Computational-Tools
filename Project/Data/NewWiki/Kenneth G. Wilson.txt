@@ -1,0 +1,47 @@
+Kenneth Geddes "Ken" Wilson (June 8, 1936 – June 15, 2013) was an American theoretical physicist and a pioneer in leveraging computers for studying particle physics. He was awarded the 1982 Nobel Prize in Physics for his work on phase transitions—illuminating the subtle essence of phenomena like melting ice and emerging magnetism.  It was embodied in his fundamental work on the renormalization group.
+
+
+== Life ==
+Wilson was born on June 8, 1936, in Waltham, Massachusetts, the oldest child of Emily Buckingham Wilson and E. Bright Wilson, a prominent chemist at Harvard University, who did
+important work on microwave emissions. His mother also trained as a physicist. He attended several schools, including Magdalen College School, Oxford, England,
+ending up at the George School in eastern Pennsylvania.
+He went on to Harvard College at age 16, majoring in  Mathematics and, on two occasions, in 1954 and 1956, ranked among the top five in the William Lowell Putnam Mathematical Competition.
+He was also a star on the athletics track, representing Harvard in the Mile.  During his summer holidays he worked at the Woods Hole Oceanographic Institution.  He earned his PhD from Caltech in 1961, studying under Murray Gell-Mann. He did post-doc work at Harvard and CERN.He joined Cornell University in 1963 in the Department of Physics as a junior faculty member, becoming a full professor in 1970. He also did research at SLAC during this period.   In 1974, he became the James A. Weeks Professor of Physics at Cornell.
+In 1982 he was awarded the Nobel Prize in Physics for his work on critical phenomena using the renormalization group.He was a co-winner of the Wolf Prize in physics in 1980, together with Michael E. Fisher and Leo Kadanoff.
+His other awards include the A.C. Eringen Medal, the Franklin Medal, the Boltzmann Medal, and the Dannie Heinemann Prize. He was elected a member of the National Academy of Science and a fellow of the American Academy of Arts and Science, both in 1975, and also was elected a member of the American Philosophical Society in 1984.In 1985, he was appointed as Cornell's Director of the Center for Theory and Simulation in Science and Engineering (now known as the Cornell Theory Center), one of five national supercomputer centers created by the National Science Foundation.  In 1988, Wilson joined the faculty at Ohio State University. Wilson moved to Gray, Maine in 1995. He continued his association with Ohio State University until he retired in 2008.  Prior to his death, he was actively involved in research on physics education and was an early proponent of "active involvement" (i.e. Science by Inquiry) of K-12 students in science and math.
+Some of his PhD students include H. R. Krishnamurthy, Roman Jackiw, Michael Peskin, Serge Rudaz, Paul Ginsparg, and Steven R. White.Wilson's brother David was also a Professor at Cornell in the department of Molecular Biology and Genetics until his death, and his wife since 1982, Alison Brown, is a prominent computer scientist.
+He died in Saco, Maine on June 15, 2013 at the age of 77. He was respectfully remembered by his colleagues.
+
+
+== Work ==
+Wilson's work in physics involved formulation of a comprehensive theory of scaling: how fundamental properties and forces of a system vary depending on the scale over which they are measured.  He devised a universal "divide-and-conquer" strategy for calculating how phase transitions occur, by considering each scale separately and then abstracting the connection between contiguous ones, in a novel appreciation of renormalization group theory.  This provided  profound insights into the field of critical phenomena and phase transitions in statistical physics enabling exact calculations. One example of an important problem in solid-state physics he solved using renormalization is in quantitatively describing the Kondo effect.He then extended these insights on scaling to answer fundamental questions on the nature of quantum field theory and the operator product expansion and the physical meaning of the  renormalization group.He also pioneered the understanding of the confinement of quarks inside hadrons, utilizing lattice gauge theory,
+and initiating  an approach permitting formerly foreboding strong-coupling calculations on computers. On such a lattice, he further shed light on chiral symmetry, a crucial feature of elementary particle interactions.
+
+
+== Awards and honors ==
+Dannie Heineman Prize for Mathematical Physics, 1973
+Boltzmann Medal, 1975
+Wolf Prize, 1980
+Harvard University, D.Sc (Hon.), 1981
+Caltech, Distinguished Alumni Award,  1981
+Franklin Medal, 1982
+Nobel Prize for Physics, 1982
+Golden Plate Award of the American Academy of Achievement, 1983
+A. C. Eringen Medal, 1984
+Aneesur Rahman Prize, 1993
+American Physical Society Fellow, 1998
+Australian National University, Distinguished Anniversary Fellow, 1996
+
+
+== See also ==
+Color confinement
+Lattice field theory
+Lattice QCD
+Numerical renormalization group
+Quantum triviality
+Renormalization
+Renormalization group
+Scaling law
+Wilson loop
+
+

@@ -1,0 +1,45 @@
+Jack St. Clair Kilby (November 8, 1923 – June 20, 2005) was an American electrical engineer who took part  (along with Robert Noyce of Fairchild) in the realization of the first integrated circuit while working at Texas Instruments (TI) in 1958. He was awarded the Nobel Prize in Physics on December 10, 2000.  Kilby was also the co-inventor of the handheld calculator and the thermal printer, for which he had the patents. He also had patents for seven other inventions.
+
+
+== Early life ==
+Kilby was born in 1923 in Jefferson City, Missouri to Hubert and Vina Freitag Kilby. Both parents had Bachelor of Science degrees from the University of Illinois. His father was a manager at a local utility company. Kilby grew up and attended school in Great Bend, Kansas, graduating from the Great Bend High School. (Road signs at the entrances to the town commemorate his time there, and the Commons Area at Great Bend High School has been named The Jack Kilby Commons Area.)
+Kilby received his Bachelor of Science degree from the University of Illinois at Urbana–Champaign, where he was an honorary member of Acacia fraternity. In 1947, he received a degree in electrical engineering. He earned his Master of Science in electrical engineering from the University of Wisconsin–Milwaukee in 1950, while working at Centralab, a division of Globe-Union corporation in Milwaukee.
+
+
+== Career ==
+In mid-1958, Kilby, a newly employed engineer at Texas Instruments (TI), did not yet have the right to a summer vacation. He spent the summer working on the problem in circuit design that was commonly called the "tyranny of numbers", and he finally came to the conclusion that the manufacturing of circuit components en masse in a single piece of semiconductor material could provide a solution. On September 12, he presented his findings to company's management, which included Mark Shepherd. He showed them a piece of germanium with an oscilloscope attached, pressed a switch, and the oscilloscope showed a continuous sine wave, proving that his integrated circuit worked, and thus that he had solved the problem. U.S. Patent 3,138,743 for "Miniaturized Electronic Circuits", the first integrated circuit, was filed on February 6, 1959. Along with Robert Noyce (who independently made a similar circuit a few months later), Kilby is generally credited as co-inventor of the integrated circuit.
+Jack Kilby went on to pioneer military, industrial, and commercial applications of microchip technology. He headed teams that created the first military system and the first computer incorporating integrated circuits. He invented the handheld calculator (along with Jerry Merryman and James Van Tassel). He was also responsible for the thermal printer that was used in early portable data terminals.
+In 1970, he took a leave of absence from TI to work as an independent inventor. He explored, among other subjects, the use of silicon technology for generating electrical power from sunlight. From 1978 to 1984 he held the position of Distinguished Professor of Electrical Engineering at Texas A&M University.
+In 1983, Kilby retired from Texas Instruments.
+
+
+== Legacy ==
+He died of cancer June 20, 2005 at the age of 81, in Dallas, Texas.On December 14, 2005, Texas Instruments created the Historic TI Archives. The Jack Kilby family donated his personal manuscripts and his personal photograph collection to Southern Methodist University (SMU). The collection will be cataloged and stored at DeGolyer Library, SMU.
+In 2008, the SMU School of Engineering, with the DeGolyer Library and the Library of Congress, hosted a year-long celebration of the 50th anniversary of the birth of the digital age with Kilby's Nobel Prize-winning invention of the integrated circuit. Symposia and exhibits examined the many ways in which technology and engineers shaped the modern world. Kilby held an honorary doctorate of science from SMU and was a longtime associate of SMU through the Kilby Foundation.
+A statue of Jack Kilby stands in Texas Instruments Plaza on the campus of The University of Texas at Dallas.
+
+
+== Awards and honors ==
+Recognition of Kilby's outstanding achievements have been made by the Institute of Electrical and Electronics Engineers (IEEE), including the election to IEEE Fellow in 1966, the IEEE David Sarnoff Award in 1966, co-recipient of the first IEEE Cledo Brunetti Award in 1978, the IEEE Centennial Medal in 1984 and the IEEE Medal of Honor in 1986. He was co-recipient of the Franklin Institute’s Stuart Ballantine Medal in 1966. In 1982 and 1989, he received the Holley Medal from the American Society of Mechanical Engineers (ASME). He was elected to member of the National Academy of Engineering (NAE) in 1967 and received the Academy's Vladimir K. Zworykin Award in 1975. Kilby received the Golden Plate Award of the American Academy of Achievement in 1970 and was co-recipient of the first NAE's Charles Stark Draper Prize in 1989. The Kilby Award Foundation was founded in 1980 in his honor, and the IEEE Jack S. Kilby Signal Processing Medal was created in 1995. He was elected to the American Philosophical Society in 2001.Kilby is also the recipient of the America's most prestigious honors in science and engineering: the National Medal of Science in 1969, and the National Medal of Technology in 1990. In 1982, he was inducted into the National Inventors Hall of Fame.
+In 1993, he was awarded the Kyoto Prize by the Inamori Foundation. He was awarded both the Washington Award, administered by the Western Society of Engineers and the Eta Kappa Nu Vladimir Karapetoff Award in 1999. In 2000, Kilby was awarded the Nobel Prize in Physics for his breakthrough discovery, and delivered his personal view of the industry and its history in his acceptance speech. Archived 2008-05-29 at the Wayback Machine
+Kilby was awarded nine honorary doctorate degrees from universities including Southern Methodist University, the University of Miami, University of Illinois, University of Wisconsin–Madison, Texas A&M University, Yale and Rochester Institute of Technology. The National Chiao Tung University (NCTU) in Taiwan awarded Kilby with a certificate of Honorary Professorship in 1998.
+The Kilby Labs, TI's research laboratory for silicon manufacturing and integrated circuit design, is named after him.
+The Jack Kilby Computer Centre at the Merchiston Campus of Edinburgh Napier University in Edinburgh is also named in his honor.
+
+
+== Kilby patents ==
+U.S. Patent 2,892,130 Plug-in Circuit Units, filed December 1953, issued June 1959, assigned to Globe-Union, Inc.
+U.S. Patent 3,072,832 Semiconductor Structure Fabrication, filed May 1959, issued January 1963
+U.S. Patent 3,115,581 Miniature Semiconductor Integrated Circuit, filed May 1959, issued December 1963
+U.S. Patent 3,138,721 Miniature Semiconductor Network Diode and Gate, filed May 1959, issued June 1964
+U.S. Patent 3,138,743 Miniaturized Electronic Circuits, filed February 6, 1959, issued June, 1964
+U.S. Patent 3,138,744 Miniaturized Self-contained Circuit Modules, filed May 1959, issued June 1964
+U.S. Patent 3,435,516 Semiconductor Structure Fabrication, filed May 1959, issued April 1969
+U.S. Patent 3,496,333 Thermal Printer, filed October 1965, issued February 1970
+U.S. Patent 3,819,921 Miniature Electronic Calculator, originally filed September 1967, issued June 1974
+
+
+== See also ==
+Geoffrey Dummer, the British engineer who first conceived the idea of the integrated circuit.
+
+

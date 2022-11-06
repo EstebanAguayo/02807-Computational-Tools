@@ -1,0 +1,51 @@
+John Bannister Goodenough ( GUUD-in-uf; born July 25, 1922) is an American materials scientist, a solid-state physicist, and a Nobel laureate in chemistry.  He is a professor of Mechanical, Materials Science, and Electrical Engineering at the University of Texas at Austin. He is widely credited with the identification and development of the lithium-ion battery, for developing the Goodenough–Kanamori rules in determining the sign of the magnetic superexchange in materials, and for seminal developments in computer random-access memory.
+Goodenough was born in Jena, Germany, to American parents. During and after graduating from Yale University, Goodenough served as a U.S. military meteorologist in World War II. He went on to obtain his Ph.D. in physics at the University of Chicago, became a researcher at MIT Lincoln Laboratory, and later the head of the Inorganic Chemistry Laboratory at the University of Oxford. Since 1986, he has been a professor in the school of engineering at UT Austin. 
+Goodenough has been awarded the National Medal of Science, the Copley Medal, the Fermi Award, the Draper Prize, and the Japan Prize. The John B Goodenough Award in materials science is named for him. In 2019, he was awarded the Nobel Prize in Chemistry alongside M. Stanley Whittingham and Akira Yoshino, and, at 97 years old, became the oldest Nobel laureate in history. He became the oldest living Nobel Prize laureate on August 27, 2021, upon the death of Edmond H. Fischer.
+
+
+== Early life and education ==
+John Goodenough was born in Jena, Germany, to American parents, Erwin Ramsdell Goodenough (1893–1965) and Helen Miriam (Lewis) Goodenough. His father was working on his Ph.D. at the Harvard Divinity School at the time of John's birth and later became a professor in the history of religion at Yale University. John's brother, the late Ward Goodenough, was a University of Pennsylvania anthropologist. The brothers attended boarding school at Groton in Massachusetts. He also has a half-sister from his father's second marriage, Ursula Goodenough, who is an emeritus professor of biology at Washington University in St. Louis. In 1944, John Goodenough received a BS in Mathematics, summa cum laude from Yale University, where he was a member of Skull and Bones.After serving in the US Army as a meteorologist in World War II, Goodenough went to the University of Chicago to complete a masters and was awarded a Ph.D. in physics in 1952. His doctoral supervisor was Clarence Zener, a theorist in electrical breakdown, and he worked and studied with physicists, including Enrico Fermi and John A. Simpson. While at Chicago, he met and married history graduate student Irene Wiseman.
+
+
+== Career and research ==
+
+
+=== MIT Lincoln Laboratory ===
+After his studies, Goodenough was a research scientist and team leader at MIT's Lincoln Laboratory for 24 years. During this time he was part of an interdisciplinary team responsible for developing random access magnetic memory. His research efforts on RAM led him to develop the concepts of cooperative orbital ordering, also known as a cooperative Jahn–Teller distortion, in oxide materials, and subsequently led to his developing the rules for the sign of the magnetic superexchange in materials, now known as the Goodenough–Kanamori rules (with Junjiro Kanamori)..
+
+
+=== Tenure at the University of Oxford ===
+
+During the late 1970s and early 1980s, he continued his career as head of the Inorganic Chemistry Laboratory at University of Oxford. Among his work at Oxford, Goodenough has been credited with significant research essential to the development of commercial lithium-ion rechargeable batteries. Goodenough was able to expand upon previous work from M. Stanley Whittingham on battery materials, and found in 1980 that by using LixCoO2 as a lightweight, high energy density cathode material, he could double the capacity of lithium-ion batteries. Goodenough's work was commercialized through Sony by Akira Yoshino, who had contributed additional improvements to the battery construction. Goodenough received the Japan Prize in 2001 for his discoveries of the materials critical to the development of lightweight high energy density rechargeable lithium batteries, and he, Whittingham, and Yoshino shared the 2019 Nobel Prize in Chemistry for their research in lithium-ion batteries.
+
+
+=== Professor at University of Texas ===
+Since 1986, Goodenough has been a Professor at The University of Texas at Austin in the Cockrell School of Engineering departments of Mechanical Engineering and Electrical Engineering. During his tenure there, he has continued his research on ionic conducting solids and electrochemical devices; he stated that he continued to study improved materials for batteries to help promote the development of electric vehicles and help reduce the dependency on fossil fuels. Arumugam Manthiram and Goodenough discovered the polyanion class of cathodes. They showed that positive electrodes containing polyanions, e.g., sulfates, produce higher voltages than oxides due to the inductive effect of the polyanion. The polyanion class includes materials such as lithium-iron phosphates that are used for smaller devices like power tools. His group has also identified various promising electrode and electrolyte materials for solid oxide fuel cells. He currently holds the Virginia H. Cockrell Centennial Chair in Engineering.Goodenough still works at the university at age 98 as of 2021, hoping to find another breakthrough in battery technology.
+
+On February 28, 2017 Goodenough and his team at the University of Texas published a paper in the journal Energy and Environmental Science on their demonstration of a glass battery, a low-cost all-solid-state battery that is noncombustible and has a long cycle life with a high volumetric energy density, and fast rates of charge and discharge. Instead of liquid electrolytes, the battery uses glass electrolytes that enable the use of an alkali-metal anode without the formation of dendrites. However, this paper was met with widespread skepticism by the battery research community and remains controversial after several follow-up works. The work was criticized for a lack of comprehensive data, spurious interpretations of the data obtained, and that the proposed mechanism of battery operation would violate the first law of thermodynamics.In April 2020, a patent was filed for the glass battery on behalf of the LNEG (National Laboratory of Energy and Geology) in Portugal, the University of Porto, Portugal and the University of Texas.
+
+
+=== Advisory work ===
+In 2010, Goodenough joined the technical advisory board of Irvine, California-based Enevate, a silicon-dominant Li-ion battery technology startup. Goodenough also currently serves as an adviser to the Joint Center for Energy Storage Research (JCESR), a collaboration led by Argonne National Laboratory and funded by the Department of Energy. Since 2016 Goodenough has also worked as an adviser for Battery500, a national consortium led by Pacific Northwest National Laboratory (PNNL) and partially funded by the Department of Energy.
+
+
+== Fundamental investigations ==
+On the fundamental side, his research has focused on magnetism and on the Metal–insulator transition behavior in transition-metal oxides. Along with Junjiro Kanamori, Goodenough developed a set of semi-empirical rules to predict magnetism in these materials in the 1950s and 1960s, now called the Goodenough–Kanamori rules, forming the basis of superexchange, which is a core property for high-temperature superconductivity.
+
+
+== Distinctions ==
+
+Professor Goodenough was elected a member of the National Academy of Engineering in 1976 for his work designing materials for electronic components and clarifying the relationships between the properties, structures, and chemistry of substances. He is also a member of the National Academy of Sciences, French Academy of Sciences, the Real Academia de Ciencias Exactas, Físicas y Naturales of Spain, and the National Academy of Sciences, India. He has authored more than 550 articles, 85 book chapters and reviews, and five books, including two seminal works, Magnetism and the Chemical Bond (1963) and Les oxydes des metaux de transition (1973). Goodenough was a co-recipient of the 2009 Enrico Fermi Award for his work in lithium-ion batteries, alongside Siegfried S. Hecker of Stanford University who had received the award for his work in plutonium metallurgy.In 2010 he was elected a Foreign Member of the Royal Society. On February 1, 2013, Goodenough was presented with the National Medal of Science by President Barack Obama of the United States. He was awarded the Draper Prize in engineering. In 2015 he was listed along with M Stanley Whittingham, for pioneering research leading to the development of the lithium-ion battery on a list of Clarivate Citation Laureates for the Nobel Prize in Chemistry by Thomson Reuters. In 2017 he received the Welch Award in Chemistry and in 2019 he was awarded the Copley Medal of the Royal Society.The Royal Society of Chemistry granted a John B Goodenough Award in his honor.Goodenough received an honorary C.K. Prahalad award from Corporate EcoForum (CEF) in 2017. CEF's founder Rangaswami commented, "John Goodenough is evidence of imagination being put to work for the greater good. We're thrilled to recognize his lifetime of achievements and are hopeful that his latest discovery will have major implications for the future of sustainable battery storage."Goodenough was awarded the Nobel Prize in Chemistry on October 9, 2019, for his work on lithium-ion batteries, along with M. Stanley Whittingham and Akira Yoshino. He is the oldest person to be awarded the Nobel Prize.
+
+
+== Personal life ==
+Goodenough turned 100 on July 25, 2022.
+
+
+== Works ==
+
+
+=== Articles ===
+
+
+=== Books ==

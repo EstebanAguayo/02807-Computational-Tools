@@ -1,0 +1,49 @@
+Reona Esaki (江崎 玲於奈 Esaki Reona, born March 12, 1925), also known as Leo Esaki, is a Japanese physicist who shared the Nobel Prize in Physics in 1973 with Ivar Giaever and Brian David Josephson for his work in electron tunneling in semiconductor materials which finally led to his invention of the Esaki diode, which exploited that phenomenon. This research was done when he was with Tokyo Tsushin Kogyo (now known as Sony). He has also contributed in being a pioneer of the semiconductor superlattices.
+
+
+== Early life and education ==
+Esaki was born in Takaida-mura, Nakakawachi-gun, Osaka Prefecture (now part of Higashiōsaka City) and grew up in Kyoto, near by Kyoto Imperial University and Doshisha University. He first had contact with American culture in Doshisha Junior High School. After graduating from the Third Higher School, he studied physics at Tokyo Imperial University, where he had attended Hideki Yukawa's course in nuclear theory in October 1944. Also, he lived through the Bombing of Tokyo while he was at college.Esaki received his B.Sc. and Ph.D. in 1947 and 1959, respectively, from the University of Tokyo (UTokyo).
+
+
+== Career ==
+
+
+=== Esaki diode ===
+
+From 1947 to 1960, Esaki joined Kawanishi Corporation (now Denso Ten) and Tokyo Tsushin Kogyo (now Sony). Meanwhile, American physicists John Bardeen, Walter Brattain, and William Shockley invented the transistor, which encouraged Esaki to change fields from vacuum tube to heavily-doped germanium and silicon research in Sony. One year later, he recognized that when the PN junction width of germanium is thinned, the current-voltage characteristic is dominated by the influence of the tunnel effect and, as a result, he discovered that as the voltage is increased, the current decreases inversely, indicating negative resistance. This discovery was the first demonstration of solid tunneling effects in physics, and it was the birth of new electronic devices in electronics called Esaki diode (or tunnel diode). He received a doctorate degree from UTokyo due to this breakthrough invention in 1959.
+In 1973, Esaki was awarded the Nobel Prize for research conducted around 1958 regarding electron tunneling in solids. He became the first Nobel laureate to receive the prize from the hands of the King Carl XVI Gustaf.
+
+
+=== Semiconductor superlattice ===
+Esaki moved to the United States in 1960 and joined the IBM T. J. Watson Research Center, where he became an IBM Fellow in 1967. He predicted that semiconductor superlattices will be formed to induce a differential negative-resistance effect via an artificially one-dimensional periodic structural changes in semiconductor crystals. His unique "molecular beam epitaxy" thin-film crystal growth method can be regulated quite precisely in ultrahigh vacuum. His first paper on the semiconductor superlattice was published in 1970. A 1987 comment by Esaki regarding the original paper notes:
+
+"The original version of the paper was rejected for publication by Physical Review on the referee's unimaginative assertion that it was 'too speculative' and involved 'no new physics.' However, this proposal was quickly accepted by the Army Research Office..."
+
+In 1972, Esaki realized his concept of superlattices in III-V group semiconductors, later the concept influenced many fields like metals, and magnetic materials. He was awarded the IEEE Medal of Honor "for contributions to and leadership in tunneling, semiconductor superlattices, and quantum wells" in 1991 and the Japan Prize "for the creation and realization of the concept of man-made superlattice crystals which lead to generation of new materials with useful applications" in 1998.
+
+
+== Esaki's “five don’ts” rules ==
+In 1994 Lindau Nobel Laureate Meetings, Esaki suggests a list of “five don’ts” which anyone in realizing his creative potential should follow. Two months later,  the chairman of the Nobel Committee for Physics Carl Nordling incorporated the rules in his own speech.
+Don't allow yourself to be trapped by your past experiences.
+Don't allow yourself to become overly attached to any one authority in your field – the great professor, perhaps.
+Don't hold on to what you don't need.
+Don't avoid confrontation.
+Don't forget your spirit of childhood curiosity.
+
+
+== Later years ==
+In 1977, Esaki was elected as a member into the National Academy of Engineering for contributions to the engineering of semiconductor devices.
+Esaki moved back to Japan in 1992. Subsequently, he served as president of the University of Tsukuba and Shibaura Institute of Technology. Since 2006 he is the president of Yokohama College of Pharmacy. Esaki is also the recipient of The International Center in New York's Award of Excellence, the Order of Culture (1974) and the Grand Cordon of the Order of the Rising Sun (1998).
+In recognition of three Nobel laureates' contributions, the bronze statues of Shin'ichirō Tomonaga, Leo Esaki, and Makoto Kobayashi were set up in the Central Park of Azuma 2 in Tsukuba City in 2015.After the death of Yoichiro Nambu in 2015, Esaki is the eldest Japanese Nobel laureate.
+His daughter, Ana Esaki, is married to Craig S. Smith, former Shanghai bureau chief of The New York Times and China bureau chief of The Wall Street Journal.
+
+
+== Recognition ==
+
+
+=== Awards and honors ===
+
+
+=== Membership in learned societies ===
+
+

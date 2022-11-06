@@ -1,0 +1,62 @@
+Sir Richard Timothy Hunt,  (born 19 February 1943) is a British biochemist and molecular physiologist. He was awarded the 2001 Nobel Prize in Physiology or Medicine with Paul Nurse and Leland H. Hartwell for their discoveries of protein molecules that control the division of cells. While studying fertilized sea urchin eggs in the early 1980s, Hunt discovered cyclin, a protein that cyclically aggregates and is depleted during cell division cycles.
+
+
+== Early life and education ==
+Hunt was born on 19 February 1943 in Neston, Cheshire, to Richard William Hunt, a lecturer in palaeography in Liverpool, and Kit Rowland, daughter of a timber merchant. After the death of both his parents, Hunt found his father had worked at Bush House, then the headquarters of BBC World Service radio, most likely in intelligence, although it is not known what he actually did. In 1945, Richard became Keeper of the Western Manuscripts at the Bodleian Library, and the family relocated to Oxford. At the age of eight, Hunt was accepted into the Dragon School, where he first developed an interest in biology thanks to his German teacher, Gerd Sommerhoff. When he was fourteen, he moved to Magdalen College School, Oxford, where the science prizes now bear his name, becoming even more interested in science and studying subjects such as chemistry and zoology.In 1961, he was accepted into Clare College, Cambridge to study Natural Sciences, graduating in 1964 and immediately beginning work in the university Department of Biochemistry under Asher Korner. There, he worked with scientists such as Louis Reichardt and Tony Hunter. A 1965 talk by Vernon Ingram interested him in haemoglobin synthesis, and at a Greek conference in 1966 on the subject, he persuaded the haematologist and geneticist Irving London to allow him to work in his laboratory at Albert Einstein College of Medicine in New York, staying from July to October 1966. His PhD was supervised by Asher Korner and focused on haemoglobin synthesis in intact rabbit reticulocytes (immature red blood cells), and was awarded in 1968.
+
+
+== Career and research ==
+
+
+=== Early career ===
+Following his PhD, Hunt returned to New York to work with London, in collaboration with Nechama Kosower, her husband Edward Kosower, and Ellie Ehrenfeld. While there, they discovered that tiny amounts of glutathione inhibited protein synthesis in reticulocytes and that tiny amounts of RNA killed the synthesis altogether. After returning to Cambridge, he again began work with Tony Hunter and Richard Jackson, who had discovered the RNA strand used to start haemoglobin synthesis. After 3–4 years, the team discovered at least two other chemicals acting as inhibitors.Hunt regularly spent summers working at the Marine Biological Laboratory at Woods Hole, Massachusetts, which was popular with scientists for its advanced summer courses, and in particular, with those interested in the study of mitosis. The location provided a ready supply of surf clams and sea urchins amongst the reefs and fishing docks, and it was these invertebrates that were particularly useful for the study of the synthesis of proteins in embryogenesis, as the embryos were simply generated with the application of filtered sea water, and the transparency of the embryo cells was well suited to microscopic study.
+
+
+=== Discovery of cyclins ===
+It was at Woods Hole in the Summer of 1982, using the sea urchin (Arbacia punctulata) egg as his model organism, that he discovered the cyclin molecule. Hunt was a keen cyclist and named the protein based on his observation of the cyclical changes in its levels.Cyclins are proteins that play a key role in regulating the cell-division cycle. Hunt found that cyclins begin to be synthesised after the eggs are fertilised and increase in levels during interphase, until they drop very quickly in the middle of mitosis in each cell division. He also found that cyclins are present in vertebrate cells, where they also regulate the cell cycle. He and others subsequently showed that cyclins bind and activate a family of protein kinases, now called the cyclin-dependent kinases, one of which had been identified as a crucial cell cycle regulator by Paul Nurse. The cyclin mechanism of cell division is fundamental to all living organisms (excluding bacteria) and thus the study of the process in simple organisms helps shed light on the growth of tumours in humans.
+
+
+=== Later career ===
+In 1990, he began work at Imperial Cancer Research Fund, later known as the Cancer Research UK London Research Institute, in the United Kingdom, where his work focused on understanding on what makes cell go cancerous, that is: proliferate uncontrollably, with the ordinary inhibitory signals switched off. Hunt had his own laboratory at the Clare Hall Laboratories until the end of 2010, and remains an Emeritus Group Leader at the Francis Crick Institute.  He is a member of the Advisory Council for the Campaign for Science and Engineering.  He has served on the Selection Committee for the Shaw Prize in Life Science and Medicine. In 2010, Hunt joined the Academic Advisory Board of the Austrian think tank Academia Superior, Institute for Future Studies.Hunt is a highly regarded colleague and mentor in the research community. During his career he has supervised numerous PhD students including Hugh Pelham and Jonathon Pines.
+
+
+=== Science advocacy ===
+In addition to his scientific contributions, Hunt is a lifelong advocate for scientific research. After winning the Nobel Prize in 2001, he spent much of his time traveling the world, talking to both popular and specialist audiences. In these talks he offered his characteristic perspective on inquiry, which emphasizes the importance of having fun and being lucky. He also believes that science benefits when power is given to young people.
+
+
+==== Controversy ====
+
+In June 2015, Hunt became the target of an online shaming campaign after remarks he made at a science journalism conference were construed as sexist. The pressure of the controversy forced his resignation from several key research and policy positions, including the European Research Council, and a temporary withdrawal from public life and professional activities.By 2017, Hunt was lecturing again. In June, he travelled to Germany with the Nobel Prize Inspiration Initiative. In October, he presented at the second Molecular Frontiers Symposium at the Tokyo Institute of Technology. In December, he held the inaugural lecture for the Year of Research at the Anton Dohrn Zoological Station in Naples. In 2018, he returned to Lindau. In March 2019, he participated in the fourth Nobel Prize Dialogue in Tokyo on the theme of ageing.
+
+
+== Awards and honours ==
+Hunt was elected a member of the European Molecular Biology Organization (EMBO) in 1978, serving as a member of the organisation's Fellowship Committee 1990–1993, its Meeting Committee 2008–2009, and its governing body, the Council, 2004–2009. He was elected a Fellow of the Royal Society (FRS) in 1991, his certificate of election reads:
+Distinguished for his studies of the control of protein synthesis in animal cells and for the discovery of cyclin, a protein which regulates the eukaryotic cell cycle. Together with Jackson and their students, he defined steps in formation of the initiation complex in protein synthesis, showing that the 40S ribosomal subunit binds initiator tRNA before it binds mRNA, and that this step was the target of inhibitors such as double-stranded RNA or haem deficiency. They showed that inhibition of protein synthesis is mediated by reversible phosphorylation of initiation factor eIF-2 by two distinct protein kinases and they elucidated the unexpected roles of thioredoxin and thioredoxin reductase in protein synthesis. With Ruderman and Rosenthal, he demonstrated selective translational control of mRNA in early clam embryos. This led to Hunt's discovery of cyclin as a protein which is selectively destroyed in mitosis. He subsequently cloned and sequenced cyclin cDNA from sea urchins and frogs and showed by elegant mRNA ablation experiments that cyclin translation is necessary for mitosis in frog embryos. He has also shown that cyclin is a subunit of the mitosis-promoting factor which regulates entry into mitosis. His discovery and characterization of cyclin are major contributions to our knowledge of cell cycle regulation in eukaryotic cells.
+Hunt was elected a fellow of the UK's Academy of Medical Sciences (FMedSci) in 1998, and a foreign associate of the US National Academy of Sciences in 1999.In 2001, he was awarded the Nobel Prize in Physiology or Medicine with Leland Hartwell and Paul Nurse for their discoveries regarding cell cycle regulation by cyclin and cyclin-dependent kinases. The three laureates are cited "for their discoveries of key regulators of the cell cycle," while Hunt in particular 
+
+is awarded for his discovery of cyclins, proteins that regulate the CDK function. He showed that cyclins are degraded periodically at each cell division, a mechanism proved to be of general importance for cell cycle control.
+In 2003, Hunt was made an honorary Fellow of the Royal Society of Edinburgh (HonFRSE). In 2006, he was awarded the Royal Society's Royal Medal, two of which are presented annually for "the most important contributions to the advancement of natural knowledge", in his case for "discovering a key aspect of cell cycle control, the protein cyclin which is a component of cyclin dependent kinases, demonstrating his ability to grasp the significance of the result outside his immediate sphere of interest".Hunt was knighted in the 2006 Birthday Honours for his service to science.
+
+
+== Personal life ==
+Hunt is married to the immunologist Mary Collins, who is provost of the Okinawa Institute of Science and Technology in Japan. The couple have two daughters.
+
+
+== Selected publications ==
+
+
+== References ==
+
+
+== External links ==
+Since winning the Nobel Prize in Physiology or Medicine in 2001, Hunt has lectured regularly about the joys of scientific discovery.
+"How to Win a Nobel Prize", Royal Danish Academy of Sciences and Letters, 2015 on YouTube
+"Lessons from a Life in Science", West China School of Medicine, 2014 on YouTube
+At the 2010 Lindau Meeting, Hunt participated in a  Nature video about systems biology.
+"Meeting the 'systems' skeptic – with Tim Hunt"
+In July 2015, the historian/anthropologist Alan Macfarlane conducted two in-depth interviews with Tim Hunt:
+– Part One, 7 July
+– Part Two, 28 July 
+Tim Hunt on Nobelprize.org  including the Nobel Lecture 9 December 2001 Protein Synthesis, Proteolysis, and Cell Cycle Transitions
+Tim Hunt publications indexed by Google Scholar
+ Media related to Tim Hunt at Wikimedia Common

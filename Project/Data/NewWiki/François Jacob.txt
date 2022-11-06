@@ -1,0 +1,39 @@
+François Jacob (17 June 1920 – 19 April 2013) was a French biologist who, together with Jacques Monod, originated the idea that control of enzyme levels in all cells occurs through regulation of transcription. He shared the 1965 Nobel Prize in Medicine with Jacques Monod and André Lwoff.
+
+
+== Early years ==
+Jacob was born the only child of Simon, a merchant, and Thérèse (Franck) Jacob, in Nancy, France.  An inquisitive child, he learned to read at a young age.  Albert Franck, Jacob's maternal grandfather, a four-star general, was Jacob's childhood role model.  At seven he entered the Lycée Carnot, where he was schooled for the next ten years; in his autobiography he describes his impression of it: "a cage".  He was antagonized by rightist youth at the Lycée Carnot around 1934.  He describes his father as a "conformist in religion", while his mother and other family members important in his childhood were secular Jews; shortly after his bar mitzvah he became an atheist.Though interested (and talented) in physics and mathematics, Jacob was horrified at the prospect of spending two additional years in "an even more draconian regime" to prepare for higher study at the Polytechnique.  Instead, after observing a surgical operation that cemented his "slight interest" in medicine, he entered medical school.During the German occupation of France—and on the heels of his mother's death—Jacob left France for Great Britain to join the war effort.  Jacob, who had only completed his second year of medical studies, joined the medical company of the French 2nd Armored Division in 1940. He was injured in a German air attack in 1944 and returned to now-liberated Paris in on 1 August 1944. For his wartime service, he was awarded France's WWII highest decoration for valor, the Cross of Liberation, as well as Légion d'honneur and croix de guerre.
+After his recovery, Jacob returned to medical school and began researching tyrothricin and learning the methods of bacteriology in the process.  He completed a thesis he described as "replicating American work" on the effectiveness of the antibiotic against local infections, and became a medical doctor in 1947.  Though attracted to research as a career, he was discouraged by his own perceived ignorance after attending a microbiology congress that summer.  Instead he took a position at the Cabanel Center, where he had done his thesis research; his new work entailed the manufacture of antibiotic, tyrothricin.  Later, the center was contracted to convert gunpowder factories for penicillin production (though this proved impossible).Also in this period, he met and began courting his future wife, Lise Bloch. Jacob remarried in 1999 to Geneviève Barrier.
+
+
+== Research ==
+In 1961 Jacob and Monod explored the idea that the control of enzyme expression levels in cells is a result of regulation of transcription of DNA sequences. Their experiments and ideas gave impetus to the emerging field of molecular developmental biology, and of transcriptional regulation in particular.
+For many years it had been known that bacterial and other cells could respond to external conditions by regulating levels of their key metabolic enzymes, and/or the activity of these enzymes. For instance, if a bacterium finds itself in a broth containing lactose, rather than the simpler sugar glucose, it must adapt itself to the need to 1) import lactose, 2) cleave lactose to its constituents glucose and galactose, and 3) convert the galactose to glucose. It was known that cells ramp up their production of the enzymes that do these steps when exposed to lactose, rather than wastefully producing these enzymes all the time. Studies of enzyme activity control were progressing through theories of the (allosteric) action of small molecules on the enzyme molecule itself (switching it on or off), but the method of controlling the enzyme production was not well understood at the time.
+With the earlier determination of the structure and central importance of DNA, it became clear that all proteins were being produced in some way from its genetic code, and that this step might form a key control point. Jacob and Monod made key experimental and theoretical discoveries that demonstrated that in the case of the lactose system outlined above (in the bacterium E. coli), there are specific proteins that are devoted to repressing the transcription of the DNA to its product (RNA, which in turn is decoded into protein).
+This repressor (the lac repressor) is made in all cells, binding directly to DNA at the genes it controls, and physically preventing the transcription apparatus from gaining access to the DNA. In the presence of lactose, some of the lactose is converted to allolactose, which binds to the repressor making it no longer able to bind to DNA, and the transcriptional repression is lifted. In this way, a robust feedback loop is constructed that allows the set of lactose-digesting proteins products to be made only when they are needed.
+Jacob and Monod extended this repressor model to all genes in all organisms in their initial exuberance. The regulation of gene activity has developed into a very large sub-discipline of molecular biology, and in truth exhibits enormous variety in mechanism and many levels of complexity. Current researchers find regulatory events at every conceivable level of the processes that express genetic information. In the relatively simple genome of baker's yeast, (Saccharomyces cerevisiae), 405 of its 6,419 protein-encoding genes are directly involved in transcriptional control, compared to 1,938 that are enzymes.
+
+
+== Honours and awards ==
+1962 Grand Prix Charles-Leopold Mayer by the Académie des Sciences
+1964 elected to the American Academy of Arts and Sciences
+1965 Nobel Prize in Physiology or Medicine with André Lwoff and Jacques Monod
+1969 elected to the United States National Academy of Sciences
+1969 elected to the American Philosophical Society
+1973 Elected a Foreign Member of the Royal Society (ForMemRS)
+1996 Lewis Thomas Prize for Writing about Science
+1996 Académie française Seat 38
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+
+François Jacob on Nobelprize.org 
+François Jacob tells his life story at Web of Stories (video)
+L'Académie française (in French)
+Discoveries concerning genetic control of enzyme and virus synthesis

@@ -1,0 +1,141 @@
+Edwin Mattison McMillan (September 18, 1907 – September 7, 1991) was an American physicist credited with being the first-ever to produce a transuranium element, neptunium. For this, he shared the 1951 Nobel Prize in Chemistry with Glenn Seaborg.
+A graduate of California Institute of Technology, he earned his doctorate from Princeton University in 1933, and joined the Berkeley Radiation Laboratory, where he discovered  oxygen-15 and beryllium-10. During World War II, he first worked on microwave radar at the MIT Radiation Laboratory, and on sonar at the Navy Radio and Sound Laboratory. In 1942 he joined the Manhattan Project, the wartime effort to create atomic bombs, and he helped establish the project's Los Alamos Laboratory where the bombs were designed. He led teams working on the gun-type nuclear weapon design, and also participated in the development of the successful implosion-type nuclear weapon.
+McMillan co-invented the synchrotron with Vladimir Veksler, and after the war he returned to the Berkeley Radiation Laboratory to build them. He was appointed associate director of the Radiation Laboratory in 1954, and promoted to deputy director in 1958. He became director on the death of lab founder Ernest Lawrence later that year, and he stayed in that position until his retirement in 1973.
+
+
+== Early life ==
+McMillan was born in Redondo Beach, California, on September 18, 1907, the son of Edwin Harbaugh McMillan and his wife Anna Marie McMillan née Mattison. He had a younger sister, Catherine Helen, whose son John Clauser (that is, McMillan's nephew) won the Nobel Prize in Physics in 2022. 
+McMillan's father was a physician, as was his father's twin brother, and three of his mother's brothers. On October 18, 1908, the family moved to Pasadena, California, where he attended McKinley Elementary School from 1913 to 1918, Grant School from 1918 to 1920, and then Pasadena High School, from which he graduated in 1924.California Institute of Technology (Caltech) was only a mile from his home, and he attended some public lectures there. He entered Caltech in 1924.  He did a research project with Linus Pauling as an undergraduate and received his Bachelor of Science degree in 1928 and his Master of Science degree in 1929, writing an unpublished thesis on "An improved method for the determination of the radium content of rocks". He then took his Doctor of Philosophy from Princeton University in 1933, writing his thesis on the "Deflection of a Beam of HCI Molecules in a Non-Homogeneous Electric Field" under the supervision of Edward Condon.
+
+
+== Lawrence Berkeley Laboratory ==
+
+In 1932, McMillan was awarded a National Research Council fellowship, allowing him to attend a university of his choice for postdoctoral study. With his PhD complete, although it was not formally accepted until January 12, 1933, he accepted an offer from Ernest Lawrence at the University of California, Berkeley, to join the Berkeley Radiation Laboratory, which Lawrence had founded the year before. McMillan's initial work there involved attempting to measure the magnetic moment of the proton, but Otto Stern and Immanuel Estermann were able to carry out these measurements first.The main focus of the Radiation laboratory at this time was the development of the cyclotron, and McMillan, who was appointed to the faculty at Berkeley as an instructor in 1935, soon became involved in the effort. His skill with instrumentation came to the fore, and he contributed improvements to the cyclotron. In particular, he helped develop the process of "shimming", adjusting the cyclotron to produce a homogeneous magnetic field. Working with M. Stanley Livingston, he discovered oxygen-15, an isotope of oxygen that emits positrons. To produce it, they bombarded nitrogen gas with deuterons. This was mixed with hydrogen and oxygen to produce water, which was then collected with hygroscopic calcium chloride. Radioactivity was found concentrated in it, proving that it was in the oxygen. This was followed by an investigation of the absorption of gamma rays produced by bombarding fluorine with protons.In 1935, McMillan, Lawrence and Robert Thornton carried out cyclotron experiments with deuteron beams that produced a series of unexpected results. Deuterons fused with a target nuclei, transmuting the target to a heavier isotope while ejecting a proton. Their experiments indicated a nuclear interaction at lower energies than would be expected from a simple calculation of the Coulomb barrier between a deuteron and a target nucleus. Berkeley theoretical physicist Robert Oppenheimer and his graduate student Melba Phillips developed the Oppenheimer–Phillips process to explain the phenomenon. McMillan became an assistant professor in 1936, and an associate professor in 1941. With Samuel Ruben, he also discovered the isotope beryllium-10 in 1940. This was both interesting and difficult to isolate due to its extraordinarily long half-life, about 1.39 million years.
+
+
+== Discovery of neptunium ==
+Following the discovery of nuclear fission in uranium by Otto Hahn and Fritz Strassmann in 1939, McMillan began experimenting with uranium. He bombarded it with neutrons produced in the Radiation Laboratory's 37-inch (94 cm) cyclotron through bombarding beryllium with deuterons. In addition to the nuclear fission products reported by Hahn and Strassmann, they detected two unusual radioactive isotopes, one with a half-life of about 2.3 days, and the other with one of around 23 minutes. McMillan identified the short-lived isotope as uranium-239, which had been reported by Hahn and Strassmann. McMillan suspected that the other was an isotope of a new, undiscovered element, with an atomic number of 93.At the time it was believed that element 93 would have similar chemistry to rhenium, so he began working with Emilio Segrè, an expert on that element from his discovery of its homolog technetium. Both scientists began their work using the prevailing theory, but Segrè rapidly determined that McMillan's sample was not at all similar to rhenium. Instead, when he reacted it with hydrogen fluoride (HF) with a strong oxidizing agent present, it behaved like members of the rare-earth elements. Since these comprise a large percentage of fission products, Segrè and McMillan decided that the half-life must have been simply another fission product, titling the article "An Unsuccessful Search for Transuranium Elements".McMillan realized that his 1939 work with Segrè had failed to test the chemical reactions of the radioactive source with sufficient rigor. In a new experiment, McMillan tried subjecting the unknown substance to HF in the presence of a reducing agent, something he had not done before. This reaction resulted in the sample precipitating with the HF, an action that definitively ruled out the possibility that the unknown substance was a rare earth. In May 1940, Philip Abelson from the Carnegie Institute in Washington, DC, who had independently also attempted to separate the isotope with the 2.3-day half-life, visited Berkeley for a short vacation, and they began to collaborate. Abelson observed that the isotope with the 2.3-day half-life did not have chemistry like any known element, but was more similar to uranium than a rare earth. This allowed the source to be isolated and later, in 1945, led to the classification of the actinide series. As a final step, McMillan and Abelson prepared a much larger sample of bombarded uranium that had a prominent 23-minute half-life from 239U and demonstrated conclusively that the unknown 2.3-day half-life increased in strength in concert with a decrease in the 23-minute activity through the following reaction:
+
+  
+    
+      
+        
+          
+
+          
+          
+            U
+            
+            
+            
+            92
+            238
+          
+          +
+          
+
+          
+          
+            n
+            
+            
+            
+            0
+            1
+          
+          ⟶
+          
+
+          
+          
+            U
+            
+            
+            
+            92
+            239
+          
+          
+            
+              →
+              
+                23
+                 
+                
+                  min
+                
+              
+              
+                
+                  β
+                  −
+                
+              
+            
+          
+          
+            
+              
+                Np
+                
+                
+                
+                93
+                239
+              
+              neptunium
+            
+          
+          
+            
+              →
+              
+                2.355
+                 
+                
+                  days
+                
+              
+              
+                
+                  β
+                  −
+                
+              
+            
+          
+          
+
+          
+          
+            Pu
+            
+            
+            
+            94
+            239
+          
+        
+      
+    
+    {\displaystyle {\ce {{}^{238}_{92}U + {}^{1}_{0}n -> {}^{239}_{92}U ->[\beta^-][23\ {\ce {min}}] {\overset {neptunium}{^{239}_{93}Np}}->[\beta^-][2.355\ {\ce {days}}] {}^{239}_{94}Pu}}}
+  This proved that the unknown radioactive source originated from the decay of uranium and, coupled with the previous observation that the source was different chemically from all known elements, proved beyond all doubt that a new element had been discovered. McMillan and Abelson published their results in an article entitled Radioactive Element 93 in the Physical Review on May 27, 1940. They did not propose a name for the element in the article, but they soon decided on "neptunium", since uranium had been named after the planet Uranus, and Neptune is the next planet beyond in our solar system. McMillan suddenly departed for war-related work at this point, leaving Glenn Seaborg to pursue this line of research and discover the second transuranium element, plutonium. In 1951, McMillan shared the Nobel Prize in Chemistry with Seaborg "for their discoveries in the chemistry of the transuranium elements".
+
+
+== World War II ==
+McMillan's abrupt departure was caused by the outbreak of World War II in Europe. In November 1940, he began working at the MIT Radiation Laboratory in Cambridge, Massachusetts, where he participated in the development and testing of airborne microwave radar during World War II. He conducted tests in April 1941 with the radar operating from an old Douglas B-18 Bolo medium bomber. Flying over the Naval Submarine Base New London with Luis Walter Alvarez and Air Chief Marshal Hugh Dowding, they showed that the radar was able to detect the conning tower of a partly submerged submarine. McMillan married Elsie Walford Blumer in New Haven, Connecticut, on June 7, 1941. Her father was George Blumer, Dean Emeritus of the Yale Medical School. Her sister Mary was Lawrence's wife. The McMillans had three children: Ann Bradford, David Mattison and Stephen Walker.McMillan joined the Navy Radio and Sound Laboratory  near San Diego in August 1941. There he worked on a device called a polyscope. The idea, which came from Lawrence, was to use sonar to build up a visual image of the surrounding water. This proved to be far more difficult that doing so with radar, because of objects in the water and variations in water temperature that caused variations in the speed of sound. The polyscope proved to be impractical, and was abandoned. He also, however, developed a sonar training device for submariners, for which he received a patent.Oppenheimer recruited McMillan to join the Manhattan Project, the wartime effort to create atomic bombs, in September 1942. Initially, he commuted back and forth between San Diego, where his family was, and Berkeley. In November he accompanied Oppenheimer on a trip to New Mexico on which the Los Alamos Ranch School was selected as the site of the project's weapons research laboratory, which became the Los Alamos Laboratory. With Oppenheimer and John H. Manley, he drew up the specifications for the new laboratory's technical buildings. He recruited personnel for the laboratory, including Richard Feynman and Robert R. Wilson, established the test area known as the Anchor Ranch, and scoured the country for technical equipment from machine tools to a cyclotron.As the laboratory took shape, McMillan became deputy head of the gun-type nuclear weapon effort under Navy Captain William S. Parsons, an ordnance expert. The plutonium gun, codenamed Thin Man, needed a muzzle velocity of at least 3,000 feet (910 m) per second, which they hoped to achieve with a modified Navy 3-inch antiaircraft gun. The alternative was to build an implosion-type nuclear weapon. McMillan took an early interest in this, watching tests of this concept conducted by Seth Neddermeyer. The results were not encouraging. Simple explosions resulted in distorted shapes. John von Neumann looked at the implosion program in September 1943, and proposed a radical solution involving explosive lenses. This would require expertise in explosives, and McMillan urged Oppenheimer to bring in George Kistiakowsky. Kistiakowsky joined the laboratory on February 16, 1944, and Parsons's E (Explosives) Division was divided in two, with McMillan as deputy for the gun and Kistiakowsky as deputy for implosion.
+McMillan heard disturbing news in April 1944, and drove out to Pajarito Canyon to confer with Segrè. Segrè's group had tested samples of plutonium bred in the Manhattan Project's nuclear reactors and found that it contained  quantities of plutonium-240, an isotope that caused spontaneous fission, making Thin Man impractical. In July 1944, Oppenheimer reorganised the laboratory to make an all-out effort on implosion. McMillan remained in charge of the gun-type weapon, which would now be used only with uranium-235. This being the case, Thin Man was replaced by a new, scaled-back design called Little Boy. McMillan was also involved with the implosion as the head of the G-3 Group within the G (Gadget) Division, which was responsible for obtaining measurements and timings on implosion, and served as the laboratory's liaison with Project Camel, the aerial test program being carried out by Caltech. On July 16, 1945, he was present at the Trinity nuclear test, when the first implosion bomb was successfully detonated.
+
+
+== Later life ==
+In June 1945, McMillan's thoughts began to return to cyclotrons. Over time they had gotten larger and larger. A 184-inch cyclotron was under construction at the Radiation Laboratory, but he realised that a more efficient use could be made of the energy used to accelerate particles. By varying the magnetic field used, the particles could be made to move in stable orbits, and higher energies achieved with the same energy input. He dubbed this the "phase stability principle", and the new design a "synchrotron". Unknown to McMillan, the synchrotron principle had already been invented by Vladimir Veksler, who had published his proposal in 1944. McMillan became aware of Veksler's paper in October 1945. The two began corresponding, and eventually became friends. In 1963 they shared the Atoms for Peace Award for the invention of the synchrotron. In 1964, McMillan received the Golden Plate Award of the American Academy of Achievement.The phase stability principle was tested with the old 37-inch cyclotron at Berkeley after McMillan returned to the Radiation Laboratory in September 1945. When it was found to work, the 184-inch cyclotron was similarly modified. He became a full professor in 1946. In 1954 he was appointed associate director of the Radiation Laboratory. He was promoted to deputy director in 1958. On the death of Lawrence that year, he became director, and he stayed in that position until his retirement in 1973. The laboratory was renamed the Lawrence Radiation Laboratory in 1958. In 1970, it split into the Lawrence Berkeley Laboratory and the Lawrence Livermore Laboratory, and McMillan became director of the former.McMillan was elected to the National Academy of Sciences in 1947, serving as its chairman from 1968 to 1971. He served on the influential General Advisory Committee (GAC) of the Atomic Energy Commission from 1954 to 1958, and the Commission on High Energy Physics of the International Union of Pure and Applied Physics from 1960 to 1967.  After his retirement from the faculty at Berkeley in 1974, he spent 1974–75 at CERN, where he worked on the g minus 2 experiment to measure the magnetic moment of the muon. He was awarded the National Medal of Science in 1990.McMillan suffered the first of a series of strokes in 1984. He died at his home in El Cerrito, California, from complications from diabetes on September 7, 1991. He was survived by his wife and three children. His gold Nobel Prize medal is in the National Museum of American History, a division of The Smithsonian, in Washington DC.
+
+
+== Publications ==
+McMillan, E. M."Focusing in Linear Accelerators", University of California Radiation Laboratory, Lawrence Berkeley National Laboratory, United States Department of Energy (through predecessor agency the Atomic Energy Commission), (August 24, 1950).
+McMillan, E. M."A Thick Target for Synchrotrons and Betatrons", University of California Radiation Laboratory, Lawrence Berkeley National Laboratory, United States Department of Energy (through predecessor agency the Atomic Energy Commission), (September 19, 1950).
+McMillan, E. M."The Transuranium Elements: Early History (Nobel Lecture)", University of California Radiation Laboratory, Lawrence Berkeley National Laboratory, United States Department of Energy (through predecessor agency the Atomic Energy Commission), (December 12, 1951).
+McMillan, E. M."Notes on Quadrupole Focusing", University of California Radiation Laboratory, Lawrence Berkeley National Laboratory, United States Department of Energy (through predecessor agency the Atomic Energy Commission), (February 9, 1956).
+McMillan, E. M."Some Thoughts on Stability in Nonlinear Periodic Focusing Systems", University of California Radiation Laboratory, Lawrence Berkeley National Laboratory, United States Department of Energy (through predecessor agency the Atomic Energy Commission), (September 5, 1967).
+
+

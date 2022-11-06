@@ -1,0 +1,91 @@
+Sir Alan Lloyd Hodgkin  (5 February 1914 – 20 December 1998) was an English physiologist and biophysicist who shared the 1963 Nobel Prize in Physiology or Medicine with Andrew Huxley and John Eccles.
+
+
+== Early life and education ==
+
+Hodgkin was born in Banbury, Oxfordshire, on 5 February 1914. He was the oldest of three sons of Quakers George Hodgkin and Mary Wilson Hodgkin. His father was the son of Thomas Hodgkin and had read for the Natural Science Tripos at Cambridge where he had befriended electrophysiologist Keith Lucas. Because of poor eyesight he was unable to study medicine and eventually ended up working for a bank in Banbury. As members of the Society of Friends, George and Mary opposed the Military Service Act of 1916 and had to endure a great deal of abuse from their local community, including an attempt to throw George in one of the town canals. In 1916 George Hodgkin travelled to Armenia as part of an investigation of distress. Moved by the misery and suffering of Armenian refugees he attempted to go back there in 1918 on a route through the Persian Gulf (as the northern route was closed because of the October Revolution in Russia). He died of dysentery in Baghdad on 24 June 1918, just a few weeks after his youngest son, Keith, had been born.From an early life on, Hodgkin and his brothers were encouraged to explore the country around their home, which instilled in Alan an interest in Natural History, particularly ornithology. At the age of 15, he helped Wilfred Backhouse Alexander with surveys of heronries and later, at Gresham's School, he overlapped and spent a lot of time with David Lack. In 1930, he was the winner of a bronze medal in the Public Schools Essay Competition organised by the Royal Society for the Protection of Birds.Alan started his education at The Downs School where his contemporaries included future scientists Frederick Sanger, Alec Bangham, "neither outstandingly brilliant at school" according to Hodgkin, as well as future artists Lawrence Gowing and Kenneth Rowntree. After the Downs School, he went on to Gresham's School where he overlapped with future composer Benjamin Britten as well as Maury Meiklejohn. He ended up receiving a scholarship at Trinity College, Cambridge in Botany, Zoology and Chemistry.Between school and college, he spent May 1932 at the Freshwater Biological Station at Wray Castle based on a recommendation of his future Director of Studies at Trinity, Carl Pantin. After Wray Castle, he spent two months with a German family in Frankfurt as "in those days it was thought highly desirable that anyone intending to read science should have a reasonable knowledge of German."
+After his return to England in early August 1932, his mother Mary was remarried to Lionel Smith (1880–1972), the eldest son of A. L. Smith, whose daughter Dorothy was also married to Alan's uncle Robert Howard Hodgkin.In autumn of 1932 Hodgkin started as a freshman scholar at Trinity College, Cambridge where his friends included classicists John Raven and Michael Grant, fellow-scientists Richard Synge and John H. Humphrey, as well as Polly and David Hill, the children of Nobel Laureate Archibald Hill. He took Physiology with Chemistry and Zoology for the first two years, including lectures by Nobel Laureate E.D. Adrian. For Part II of the tripos he decided to focus on physiology instead of zoology. Nevertheless, he participated in a zoological expedition to the Atlas Mountains in Morocco led by John Pringle in 1934. He finished Part II of the tripos in July 1935 and stayed at Trinity as a research fellow.During his studies, Hodgkin, who described himself as "having been brought up as a supporter of the British Labour Party" was friends with communists and actively participated in distribution of Anti-War pamphlets. At Cambridge, he knew James Klugmann and John Cornford, but he emphasised in his autobiography that none of his friends "made any serious effort to convert me [to Communism], either then or later." From 1935 to 1937, Hodgkin was a member of the Cambridge Apostles.
+
+
+== Pre-war research ==
+
+Hodgkin started conducting experiments on how electrical activity is transmitted in the sciatic nerve of frogs in July 1934. He found that a nerve impulse arriving at a cold or compression block, can decrease the electrical threshold beyond the block, suggesting that the impulse produces a spread of an electrotonic potential in the nerve beyond the block.
+In 1936, Hodgkin was invited by Herbert Gasser, then director of the Rockefeller Institute in New York City, to work in his laboratory during 1937–38. There he met Rafael Lorente de Nó and Kenneth Stewart Cole with whom he ended up publishing a paper. During that year he also spent time at the Woods Hole Marine Biological Laboratory where he was introduced to the squid giant axon, which ended up being the model system with which he conducted most of the research that eventually led to his Nobel Prize. 
+In spring 1938 he visited Joseph Erlanger at Washington University in St. Louis who told him he would take Hodgkin's local circuit theory of nerve impulse propagation seriously if he could show that altering the resistance of the fluid outside a nerve fibre made a difference to the velocity of nerve impulse conduction. Working with single nerve fibres from shore crabs and squids, he showed that the conduction rate was much faster in sea water than in oil, providing strong evidence for the local circuit theory.After his return to Cambridge he started collaborating with Andrew Huxley who had entered Trinity as a freshman in 1935, three years after Hodgkin. With a £300 equipment grant from the Rockefeller Foundation, Hodgkin managed to set up a similar physiology setup to the one he had worked with at the Rockefeller Institute. He moved all his equipment to the Plymouth Marine Laboratory in July 1939. There, he and Huxley managed to insert a fine cannula into the giant axon of squids and record action potentials from inside the nerve fibre. They sent a short note of their success to Nature just before the outbreak of World War II.
+
+
+== Wartime activities ==
+Despite his Quaker upbringing, Hodgkin was eager to join the war effort as contact with the Nazis during his stay in Germany in 1932 had removed all his pacifist beliefs. His first post was at the Royal Aircraft Establishment where he worked on issues in Aviation Medicine, such as oxygen supply for pilots at high altitude and the decompression sickness caused by nitrogen bubbles coming out of the blood. In February 1940 he transferred to the Telecommunications Research Establishment (TRE) where he worked on the development of centimetric radar, including the design of the Village Inn AGLT airborne gun-laying system. He was a member of E.G. Bowen's group in St Athan in South Wales and lived in a local guest house together with John Pringle and Robert Hanbury Brown. The group moved to Swanage in May 1940 where Pringle replaced Bowen as leader of the group. In March 1941, Hodgkin flew on the test flight of a Bristol Blenheim fitted with the first airborne centimetric radar system. In February and March 1944, Hodgkin visited the MIT Radiation Laboratory to help foster the interchange of information on developments in radar between Britain and America.Providing a readable account of the little-known piece of military history that he was a part of during World War II was a main motivation for Hodgkin to write his autobiography Chance and Design: Reminiscences of Science in Peace and War.
+
+
+== 1945–1963: Action potential theory and Nobel Prize ==
+
+As the Allied Forces' invasion of France and their continued advance towards Germany in autumn 1944 suggested an end of the war in the foreseeable future, Hodgkin started to plan his return to a career in research at Cambridge. He renewed his collaboration with W. A. H. Rushton and they published an article on how to calculate a nerve fibre's membrane resistance, membrane capacity, its axoplasm's resistance, and the resistance of the external fluid in which the fibre is placed, from experimental observations.After being released from military service in August 1945 upon Adrian's request, Hodgkin was able to restart his experiments in collaboration with Bernard Katz and his pre-war collaborator Andrew Huxley. They spent the summers of 1947, 1948, and 1949 at the Plymouth Marine Laboratory where they continued to measure resting and action potentials from inside the giant axon of the squid. Together with Katz, he provided evidence that the permeability of the neuronal cell membrane for sodium increased during an action potential, thus allowing sodium ions to diffuse inward. 
+The data they had obtained in 1949 resulted in a series of five papers published in The Journal of Physiology that described what became later known as the Hodgkin–Huxley model of the action potential and eventually earned Hodgkin and Huxley the Nobel Prize in Physiology or Medicine. Building on work by Kenneth S. Cole they used a technique of electrophysiology, known as the voltage clamp to measure ionic currents through the membranes of squid axons, while holding the membrane voltage at a set level. They proposed that the characteristic shape of the action potential is caused by changes in the selective permeability of the membrane for different ions, specifically sodium, potassium, and chloride. A model that relies on a set of differential equations and describes each component of an excitable cell as an electrical element was in good agreement with their empirical measurements.
+
+The cell membrane depolarisation sequence where a small depolarization leads to an increase in sodium permeability, which leads to influx of sodium ions, which in turn depolarizes the membrane even more is now known as the Hodgkin cycle.In addition, Hodgkin and Huxley's findings led them to hypothesize the existence of ion channels on cell membranes, which were confirmed only decades later. Confirmation of ion channels came with the development of the patch clamp leading to a Nobel prize in 1991 for Erwin Neher and Bert Sakmann, and in 2003 for Roderick MacKinnon.After establishing ion movements across a selectively permeable cell membrane as the mechanism of the action potential, Hodgkin turned his attention to how the ionic interchange that occurs during the action potential could be reversed afterwards. Together with Richard Keynes he demonstrated that in addition to the changes in permeability that lead to an action potential there is a secretory mechanism that ejects sodium and absorbs potassium against the electrochemical gradients. A few year later, the Danish scientist Jens Christian Skou discovered the enzyme Na+/K+-ATPase that uses ATP to export three sodium ions in exchange for two potassium ions that are imported, for which he received the Nobel Prize in Chemistry in 1997.
+Hodgkin was nominated for the Nobel Prize in Physiology or Medicine in 1953 by Lord Adrian. In October 1961, he was told by Swedish journalists that he, Huxley, and Eccles had been awarded the Nobel Prize. This turned out to be a false alarm, however, when shortly thereafter it was announced that the 1961 Prize was awarded to Georg von Békésy. It was only two years later that Hodgkin, Huxley, and Eccles were finally awarded the Prize "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane". During the Nobel Banquet on 10 December 1963, Hodgkin gave the traditional speech on behalf of the three neurophysiologists, thanking the king and the Nobel Committee for Physiology or Medicine for the award. Incidentally, Hodgkin and his wife attended the Nobel Prize ceremony a second time, three years later, when Hodgkin's father-in-law, Francis Peyton Rous, was awarded the 1966 Nobel Prize in Physiology or Medicine.
+
+
+== Later career and administrative positions ==
+From 1951 to 1969, Hodgkin was the Foulerton Professor of the Royal Society at Cambridge. In 1970 he became the John Humphrey Plummer Professor of Biophysics at Cambridge. Around this time he also ended his experiments on nerve at the Plymouth Marine Laboratory and switched his focus to visual research which he could do in Cambridge with the help of others while serving as president of the Royal Society. Together with Denis Baylor and Peter Detwiler he published a series of papers on turtle photoreceptors.
+From 1970 to 1975 Hodgkin served as the 53rd president of the Royal Society (PRS). During his tenure as PRS, he was knighted in 1972 and admitted into the Order of Merit in 1973. 
+From 1978 to 1984 he was the 34th Master of Trinity College, Cambridge.
+He served on the Royal Society Council from 1958 to 1960 and on the Medical Research Council from 1959 to 1963. He was foreign secretary of the Physiological Society from 1961 to 1967.  He also held additional administrative posts such as Chancellor, University of Leicester, from 1971 to 1984
+
+
+=== Awards and honours ===
+1988 – W.H. Helmerich III Award of the Retina Research Foundation
+1983 – Lord Crook Medal of the Worshipful Company of Spectacle Makers
+1982 – F.O. Schmitt Medal and Award 1983
+1977 – Hon. DSc, University of Oxford
+1975 – Hon. Fellow, Indian Academy of Sciences
+1974 – Foreign Associate, National Academy of Sciences of the USA
+1973 – Order of Merit (O.M.)
+1973 – Foreign Member, Royal Swedish Academy of Sciences (Medical Sciences, VIII Class)
+1972 – Knight Commander of the Order of the British Empire (K.B.E.)
+1972 – Hon. Fellow, Indian National Science Academy
+1970 – President of the Royal Society (PRS)
+1968 – Member, Pontifical Academy of Sciences
+1968 – Foreign Member, American Philosophical Society
+1966 – President of the Marine Biological Association of the United Kingdom
+1965 – Copley Medal of the Royal Society
+1964 – Foreign Member, Royal Danish Academy of Sciences and Letters
+1964 – Member, German National Academy of Sciences Leopoldina
+1963 – Nobel Prize for Physiology or Medicine together with Andrew Fielding Huxley, and John Carew Eccles (for his research on synapses)
+1962 – Foreign Hon. Member, American Academy of Arts and Sciences
+1958 – Royal Medal of The Royal Society
+1958 – Hon. MD, University of Louvain
+1956 – Hon. MD, University of Berne
+1955 – Baly Medal of the Royal College of Physicians
+1948 – Fellow of The Royal Society (FRS)A portrait of Hodgkin by Michael Noakes hangs in Trinity College's collection.
+
+
+=== Publications ===
+The Conduction of the Nervous Impulse (1964)
+Chance and Design: Reminiscences of Science in Peace and War (1992)
+
+
+== Personal life ==
+During his stay at the Rockefeller Institute in 1937, Hodgkin got to know the American pathologist Francis Peyton Rous who was later awarded the 1966 Nobel Prize in Physiology or Medicine. When Rous invited him for dinner to his home, Hodgkin got to know Rous' daughter, Marni, who was then a student at Swarthmore College. He proposed to her before going back to England in 1938, but she rejected him. When Hodgkin briefly returned to the US in 1944 (see Wartime activities), they reunited and got married on 31 March. Their first daughter, Sarah, was born in April 1945, shortly before the Hodgkins moved back to Cambridge. They had three more children – Deborah Hodgkin (born 2 May 1947), Jonathan Hodgkin (born 24 August 1949), and Rachel Hodgkin (born June 1951).
+Marni became Children's Book Editor at Macmillan Publishing Company and a successful writer of children's literature, including Young Winter's Tales and Dead Indeed. Jonathan Hodgkin became a molecular biologist at Cambridge University. Deborah Hodgkin is also a successful psychologist.
+Thomas Hodgkin (1798–1866), who first described Hodgkin's lymphoma, was Alan Hodgkin's ancestor.
+
+
+=== Death ===
+Hodgkin suffered from a series of medical problems that began soon after his retirement as Master of Trinity. In 1989 he had a surgery to relieve pressure on the spinal cord from one of the intervertebral discs in his neck, which left him unable to walk without support, and with progressive disablement. Hodgkin died in 1998 in Cambridge.
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+The Master of Trinity at Trinity College, Cambridge
+Alan Hodgkin on Nobelprize.org  including the Nobel Lecture on December 11, 1963 The Ionic Basis of Nervous Conduction
+Portraits of Alan Hodgkin at the National Portrait Gallery, London 
+BBC obituary
+Action Potential Paper
+Imperial War Museum Intervie

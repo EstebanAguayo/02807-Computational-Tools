@@ -1,0 +1,53 @@
+Carolyn Widney Greider (born April 15, 1961) is an American molecular biologist and Nobel laureate. She joined the University of California, Santa Cruz as a Distinguished Professor in the department of molecular, cell, and developmental biology in October 2020.
+Greider discovered the enzyme telomerase in 1984, while she was a graduate student of Elizabeth Blackburn at the University of California, Berkeley. Greider pioneered research on the structure of telomeres, the ends of the chromosomes. She was awarded the 2009 Nobel Prize for Physiology or Medicine, along with Blackburn and Jack W. Szostak, for their discovery that telomeres are protected from progressive shortening by the enzyme telomerase.
+
+
+== Early life and education ==
+Greider was born in San Diego, California. Her father, Kenneth Greider, was a physics professor. Her family moved from San Diego to Davis, California, where she spent many of her early years and graduated from Davis Senior High School in 1979.  She graduated from the College of Creative Studies at the University of California, Santa Barbara, with a B.A. in biology in 1983. During this time she also studied at the University of Göttingen and made significant discoveries there.Greider is dyslexic and states that her "compensatory skills also played a role in my success as a scientist because one has to intuit many different things that are going on at the same time and apply those to a particular problem" Greider initially suspected her dyslexia after seeing patterns of common mistakes such as backward words when she received back graded work in the first grade. Greider started to memorize words and their spellings rather than attempting to sound out the spelling of words. Greider has worked significantly to overcome her dyslexia to become successful in her professional life and credits her dyslexia as helping her appreciate differences and making unusual decisions such as the one to work with Tetrahymena, an unusual organism.Greider initially had difficulty getting into graduate school because of her low GRE scores, a result of her dyslexia. Greider applied to thirteen grad schools and was accepted to only two, California Institute of Technology and the University of California, Berkeley. She chose Berkeley, where she would be able to work with Elizabeth Blackburn and where the two would make their telomerase discovery.
+
+
+== Discovery of telomerase ==
+Greider completed her Ph.D. in molecular biology in 1987 at Berkeley under Elizabeth Blackburn. While at Berkeley, Greider and Blackburn discovered how chromosomes are protected by telomeres and the enzyme telomerase.
+Greider joined Blackburn's laboratory in April 1984 looking for the enzyme that was hypothesized to add extra DNA bases to the ends of chromosomes. Without the extra bases, which are added as repeats of a six-base pair motif, chromosomes are shortened during DNA replication, eventually resulting in chromosome deterioration and senescence or cancer-causing chromosome fusion. Blackburn and Greider looked for the enzyme in the model organism Tetrahymena thermophila, a fresh-water protozoan with a large number of telomeres.On December 25, 1984, Greider first obtained results indicating that a particular enzyme was likely responsible. After six months of additional research, Greider and Blackburn concluded that it was the enzyme responsible for telomere addition. They published their findings in the journal Cell in December 1985. The enzyme, originally called "telomere terminal transferase," is now known as telomerase. Telomerase rebuilds the tips of chromosomes and determines the life span of cells.Greider's additional research to confirm her discovery was largely focused on identifying the mechanism that telomerase uses for elongation. Greider chose to use RNA degrading enzymes and saw that the telomeres stopped extending, which was an indication that RNA was involved in the enzyme.
+
+
+== Subsequent career ==
+Greider then started her own laboratory as a Cold Spring Harbor Laboratory Fellow, and also held a faculty position, at the Cold Spring Harbor Laboratory, Long Island, New York. Greider continued to study Tetrahymena telomerase, cloning the gene encoding the RNA component and demonstrating that it provided the template for the TTGGGG telomere repeats (1989)  as well as establishing that telomerase is processive (1991). She was also able to reconstitute Tetrahymena telomerase in vitro (1994) and define the mechanisms of template utilization (1995). Greider also worked with Calvin Harley to show that telomere shortening underlies cellular senescence (1990). To further test this idea mouse and human telomerase were characterized (1993) (1995) and the mouse telomerase RNA component was cloned (1995).During this time, Greider, in collaboration with Ronald A. DePinho, produced the first telomerase knockout mouse, showing that although telomerase is dispensable for life, increasingly short telomeres result in various deleterious phenotypes, colloquially referred to as premature aging. In the mid-1990s, Greider was recruited by Michael D. West, founder of biotechnology company Geron (now CEO of AgeX Therapeutics) to join the company's Scientific Advisory Board and remained on the Board until 1997.
+Greider accepted a faculty position at the Johns Hopkins University School of Medicine in 1997. Greider continued to study telomerase deficient mice and saw that her sixth generation of mice had become entirely sterile, but when mated with control mice the telomerase deficient mice were able to regenerate their telomeres. Greider continued to work on telomerase biochemistry, defining the secondary structure (2000)  and template boundary (2003) of vertebrate telomerase RNA as well as analyzing the pseudoknot structure in human telomerase RNA (2005). In addition to working in Tetrahymena and mammalian systems, Greider also studied telomeres and telomerase in the yeast Saccharomyces cerevisiae, further characterizing the recombination-based gene conversion mechanism that yeast cells null for telomerase use to maintain telomeres (1999) (2001). Greider also showed that short telomeres elicit a DNA damage response in yeast (2003).Greider, Blackburn, and Szostak shared the 2006 Albert Lasker Award for Basic Medical Research for their work on telomeres, before jointly receiving the Nobel Prize in 2009.
+In February 2014, Greider was named a Bloomberg Distinguished Professor at Johns Hopkins University.Greider served as director of and professor at the Department of Molecular Biology and Genetics at Johns Hopkins Medicine. Greider was first promoted to Daniel Nathans Professor at the Department of Molecular Biology and Genetics in 2004.As of 2021, she is a professor of molecular, cellular, and developmental biology at UCSC.Greider's lab employs both student and post-doctoral trainees to further examine the relationships between the biology of telomeres and their connection to disease. Greider's lab uses a variety of tools including yeast, mice, and biochemistry to look at progressive telomere shortening. Greider's lab is also researching how tumor reformation can be controlled by the presence of short telomeres. The lab's future work will focus more on identifying the processing and regulation of telomeres and telomere elongation.
+
+
+== Personal life ==
+Greider married Nathaniel C. Comfort, a fellow academic, in 1992. They divorced in 2011. She has two children.
+
+
+== Awards and honors ==
+Pew Scholar in the Biomedical Sciences (1990–1994)
+Gairdner Foundation International Award (1998)
+Rosenstiel Award in Basic Medical Research (1998) (shared with Elizabeth Blackburn)
+Member of the American Society for Cell Biology (1999)
+Passano Foundation Award (1999) (shared with Elizabeth Blackburn)
+Harvey Society Lecture (2000)
+ Academy of Achievement Golden Plate Award (2000)
+Fellow of the American Academy of Arts and Sciences (2003)
+Member of the National Academy of Sciences (2003)
+Richard Lounsbery Award (2003), National Academy of Sciences
+Member of the American Society for Biochemistry and Molecular Biology (2004)
+Lila Gruber Cancer Research Award (2006)
+Albert Lasker Award for Basic Medical Research (2006) (shared with Elizabeth Blackburn and Jack Szostak)
+Wiley Prize in Biomedical Sciences (2006) (shared with Elizabeth Blackburn)
+Dickson Prize in Medicine (2007)
+Louisa Gross Horwitz Prize of Columbia University (2007) (shared with Elizabeth Blackburn and Joseph G. Gall)
+The Pearl Meister Greengard Prize (2008) (shared with Elizabeth Blackburn and Vicki Lundblad)
+Nobel Prize in Physiology or Medicine (2009) (shared with Elizabeth Blackburn and Jack Szostak)"
+Paul Ehrlich and Ludwig Darmstaedter Prize (2009) (shared with Elizabeth Blackburn)
+Member of the Institute of Medicine (2010)
+Member, American Philosophical Society (2016)
+Pinnacle Award (2019), Association for Women in Science
+
+
+== Selected works ==
+Greider, C. W. & Blackburn, E. H. (1985). "Identification of a specific telomere terminal transferase activity in Tetrahymena extracts". Cell. 43 (2 Pt. 1): 405–413. doi:10.1016/0092-8674(85)90170-9. PMID 3907856.
+Greider, C. W. & Blackburn, E. H. (1996). "Telomeres, Telomerase and Cancer". Scientific American. 274 (2): 92–97. Bibcode:1996SciAm.274b..92G. doi:10.1038/scientificamerican0296-92. PMID 8560215.
+
+

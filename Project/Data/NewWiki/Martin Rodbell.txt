@@ -1,0 +1,50 @@
+Martin Rodbell (December 1, 1925 – December 7, 1998) was an American biochemist and molecular endocrinologist who is best known for his discovery of G-proteins. He shared the 1994 Nobel Prize in Physiology or Medicine with Alfred G. Gilman for "their discovery of G-proteins and the role of these proteins in signal transduction in cells."
+
+
+== Biography ==
+Rodbell was born in Baltimore, Maryland, the son of Shirley (née Abrams) and Milton Rodbell, a grocer. His family was Jewish. After graduating from the Baltimore City College high school, he entered Johns Hopkins University in 1943, with interests in biology and French existential literature. In 1944, his studies were interrupted by his military service as a U.S. Navy radio operator during World War II. He returned to Hopkins in 1946 and received his B.S. in biology in 1949. In 1950, he married Barbara Charlotte Ledermann, a former friend of Margot Frank, diarist Anne Frank's older sister. Martin and Barbara had four children. Rodbell received his Ph.D. in biochemistry at the University of Washington in 1954. He did post-doctoral work at the University of Illinois at Urbana-Champaign from 1954 to 1956. In 1956, Rodbell accepted a position as a research biochemist at the National Heart Institute, part of the National Institutes of Health, in Bethesda, Maryland. In 1985, Rodbell became Scientific Director of the NIH's National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina where he worked until his retirement in 1994. He was also Adjunct Professor of Cell Biology at Duke University (from 1991 to 1998) and Adjunct Professor of Pharmacology at the University of North Carolina at Chapel Hill. He died in Chapel Hill of multiple organ failure after an extended illness.
+
+
+=== Research ===
+Reflecting the increasingly common analogies between computer science and biology in the 1960s, Rodbell believed that the fundamental information processing systems of both computers and biological organisms were similar. He asserted that individual cells were analogous to cybernetic systems made up of three distinct molecular components: discriminators, transducers, and amplifiers (otherwise known as effectors). The discriminator, or cell receptor, receives information from outside the cell; a cell transducer processes this information across the cell membrane; and the amplifier intensifies these signals to initiate reactions within the cell or to transmit information to other cells.
+In December 1969 and early January 1970, Rodbell was working with a laboratory team that studied the effect of the hormone glucagon on a rat liver membrane receptor—the cellular discriminator that receives outside signals. Rodbell discovered that ATP (adenosine triphosphate) could reverse the binding action of glucagon to the cell receptor and thus dissociate the glucagon from the cell altogether. He then noted that traces of GTP (guanosine triphosphate) could reverse the binding process almost one thousand times faster than ATP. Rodbell deduced that GTP was probably the active biological factor in dissociating glucagon from the cell's receptor, and that GTP had been present as an impurity in his earlier experiments with ATP. This GTP, he found, stimulated the activity in the guanine nucleotide protein (later called the G-protein), which, in turn, produced profound metabolic effects in the cell. This activation of the G-protein, Rodbell postulated, was the "second messenger" process that Earl W. Sutherland had theorized. In the language of signal transduction, the G-protein, activated by GTP, was the principal component of the transducer, which was the crucial link between the discriminator and the amplifier. Later, Rodbell postulated, and then provided evidence for, additional G-proteins at the cell receptor that could inhibit and activate transduction, often at the same time. In other words, cellular receptors were sophisticated enough to have several different processes going on simultaneously.
+
+
+=== Rodbell's personal philosophy of science ===
+He concluded his formal written Nobel Lecture with this poem:To my Friends:Thoughts from “On High”
+Life on a roller coaster, oscillating from hither to yon,
+no respite for the iconoclast, wandering from dusk to dawn.
+Conjuring strange thoughts foreign and twice forbidden,
+like Prometheus unbound, this Nobelist climbs in vain
+to Andean peaks, seeking what most would proclaim insane.
+Why, he ponders, are there no answers to protean questions
+when others thinking cleanly and simply with Occam’s sharp razor
+proclaim what seems obvious given the beam of their unerring laser.
+Nature, happily unfettered with philosophy, or with cunning, or with intent
+moves relentlessly onward or even backward with energy unspent
+while we mortals test and probe with twinkling machines blinking precisely
+at each movement, striving to unravel its irresolute randomness, its fathomless,
+unlimited, meaningless rush into spiraling chaos,
+oblivious of its multitudinous trials & errors which we pontifically believe
+must be unerring truth & resolution.
+The laugh is on those who, burdened with pretensions of truth, believe they
+can fathom within 15 minutes of human existence what has transpired over
+eons of space and time in this Universe .
+So, I extol the intuitions encapsulated in the folds of my mind
+from whence occasionally they hurtle to the forebrain and in a twinkling of
+a proton’s discharge bring to fruition a thought, an idea borne on the feathery
+appendages of teeming neurons wedded in a seamless synergy. Those
+fleeting moments are cherished as are those precious impulses imparted by
+the innumerable individuals who nurtured and instilled unknowingly their
+encrypted thoughts in mine.
+
+So, with these fanciful thoughts in mind I give praise to you - my friends, my colleagues, my soul-mates, my loved ones - for letting my soul and thoughts meander hither and yonder in this attempt at philosophy and poetry. We now belong to the Gods on high who praise us for our frailties and our achievements.
+
+
+== Awards and honors ==
+Nobel Prize in Physiology or Medicine (1994)
+Gairdner Foundation International Award (1984)
+Richard Lounsbery Award (1987)
+Golden Plate Award of the American Academy of Achievement (1995)
+
+

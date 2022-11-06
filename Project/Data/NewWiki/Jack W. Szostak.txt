@@ -1,0 +1,44 @@
+Jack William Szostak  (born November 9, 1952) is a Canadian American biologist of Polish British descent, Nobel Prize laureate, University Professor at the University of Chicago, former Professor of Genetics at Harvard Medical School, and Alexander Rich Distinguished Investigator at Massachusetts General Hospital, Boston. Szostak has made significant contributions to the field of genetics. His achievement helped scientists to map the location of genes in mammals and to develop techniques for manipulating genes. His research findings in this area are also instrumental to the Human Genome Project. He was awarded the 2009 Nobel Prize for Physiology or Medicine, along with Elizabeth Blackburn and Carol W. Greider, for the discovery of how chromosomes are protected by telomeres.
+
+
+== Education and early life ==
+Szostak grew up in Montreal and Ottawa.  Although Szostak does not speak Polish, he stated in an interview with Wprost weekly that he remembers his Polish roots. He attended Riverdale High School (Quebec) and graduated at the age of 15 with the scholars prize. He graduated with a B.Sc in cell biology from McGill University at the age of 19. In 1970, as an undergraduate, he participated in The Jackson Laboratory's Summer Student Program under the mentorship of Dr. Chen K. Chai. He completed his PhD in biochemistry at Cornell University (advisor Prof. Ray Wu) before moving to Harvard Medical School to start his own lab at the Sidney Farber Cancer Institute. He credits Ruth Sager for giving him his job there when he had little yet to show.  In 1984 Howard Goodman recruited him to Massachusetts General Hospital and the Department of Molecular Biology. He was granted tenure and a full professorship at Harvard Medical School in 1988. In 2022, he moved to the University of Chicago as a University Professor in the Department of Chemistry and the College.
+
+
+== Research and career ==
+Szostak has made contributions to the field of genetics. He is credited with the construction of the world's first yeast artificial chromosome. That achievement helped scientists to map the location of genes in mammals and to develop techniques for manipulating genes. His achievements in this area are also instrumental to the Human Genome Project.
+His discoveries have helped to clarify the events that lead to chromosomal recombination—the reshuffling of genes that occurs during meiosis—and the function of telomeres, the specialized DNA sequences at the tips of chromosomes.
+In the early 90s his laboratory shifted its research direction and focused on studying RNA enzymes, which had been recently discovered by Cech and Altman. He developed the technique of in vitro evolution of RNA (also developed independently by Gerald Joyce) which enables the discovery of RNAs with desired functions through successive cycles of selection, amplification and mutation. He isolated the first aptamer (term he used for the first time). He isolated RNA enzymes with RNA ligase activity directly from random sequence (project of David Bartel).
+Currently, his lab focuses on the challenges of understanding the origin of life on Earth, and the construction of artificial cellular life in the laboratory. They have conducted detailed studies of mechanisms by which RNA templates may have replicated on early earth before the emergence of enzyme catalysts. In particular, they have focused on imidazole-activated ribonucleotides (phosphorimidazolides) as monomers capable of elongating a new RNA strand. Significantly, the Szostak group discovered that phosphorimidazolide-mediated template elongation occurs via 5'-5'-imidazolium bridged dinucleotide intermediates which accelerate polymerization. Phosphorimidazolides were first proposed to be critical for early-earth nucleotide polymerization by Leslie E. Orgel and colleagues. 
+Szostak and Katarzyna Adamala demonstrated that the issues of a degrading effect of magnesium ions on RNA and the disruption of a fatty acid membrane by magnesium ions can be simultaneously solved by the presence of weak cation chelator like citric acid in primitive protocells.Beyond his research, he has delivered talks about the origin of life on Earth, as he did at the first Starmus Festival in the Canary Islands, in 2011. He subsequently joined the Starmus Board of Directors, and his 2011 lecture was published in the book Starmus: 50 Years of Man in Space.In September 2022, Szostak joined the faculty of the University of Chicago as University Professor, leading a new interdisciplinary program called the Origins of Life Initiative.
+
+
+=== Awards and honors ===
+Szostak has received several awards and honors for his contributions. He is a member of the National Academy of Sciences, American Academy of Arts and Sciences and New York Academy of Sciences, the American Philosophical Society, and is a member of the Kosciuszko Foundation Collegium of Eminent Scientists of Polish Origin and Ancestry.He has received the following awards:
+
+United States National Academy of Sciences Award in Molecular Biology
+Hans Sigrist Prize, University of Bern, Switzerland
+Genetics Society of America Medal
+The 2006  Lasker Award for Basic Medical Research
+The 2008 Dr H.P. Heineken Prize for Biochemistry and Biophysics, Royal Netherlands Academy of Arts and Sciences
+The 2009 Nobel Prize for Physiology or Medicine (shared with Elizabeth Blackburn and Carol W. Greider)
+The 2011 Oparin MedalAn organism's genes are stored within DNA molecules, which are found in chromosomes inside its cells' nuclei. When a cell divides, it is important that its chromosomes are copied in full, and that they are not damaged. At each end of a chromosome lies a "cap" or telomere, as it is known, which protects it. After Elizabeth Blackburn discovered that telomeres have a particular DNA, through experiments conducted on ciliates and yeast, she and Jack Szostak proved in 1982 that the telomeres' DNA prevents chromosomes from being broken down, 
+according to the statement released by the Alfred Nobel Foundation.
+
+
+== Personal life ==
+Szostak was married to Terri-Lynn McCormick and has two sons. He has two sisters, Carolyn Szostak and Kathy Hysen.
+
+
+== References ==
+
+
+== External links ==
+"About Jack W. Szostak". The Howard Hughes Medical Institute. Retrieved November 2, 2007.
+"Jack W. Szostak at Harvard University". Harvard University. Retrieved November 2, 2007.
+"Curriculum Vitae of Jack W. Szostak" (PDF). Massachusetts General Hospital. Archived from the original (PDF) on August 28, 2008. Retrieved November 2, 2007.
+Jack W. Szostak on Nobelprize.org  including the Nobel Lecture on December 7, 2009 DNA Ends: Just the Beginning
+Nobel Prize information - Press release
+Szostak Lab website
+Jack Szostak's Lecture: "The Origin of Life on Earth"
+Last interview of Dr. Jack Szosta

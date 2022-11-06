@@ -1,0 +1,40 @@
+Robert Howard Grubbs ForMemRS (February 27, 1942 – December 19, 2021) was an American chemist and the Victor and Elizabeth Atkins Professor of Chemistry at the California Institute of Technology in Pasadena, California. He was a co-recipient of the 2005 Nobel Prize in Chemistry for his work on olefin metathesis.Grubbs was elected a member of the National Academy of Engineering in 2015 for developments in catalysts that have enabled commercial products.
+He was a co-founder of Materia, a university spin-off startup to produce catalysts.
+
+
+== Early life and education ==
+Grubbs was born on February 27, 1942, on a farm in Marshall County, Kentucky, midway between Possum Trot and Calvert City. His parents were Howard and Faye (Atwood) Grubbs. Faye was a schoolteacher. After serving in World War II, the family moved to Paducah, Kentucky, where Howard trained as a diesel mechanic, and Robert attended Paducah Tilghman High School.At the University of Florida, Grubbs initially intended to study agriculture chemistry. However, he was convinced by professor Merle A. Battiste to switch to organic chemistry. Working with Battiste, he became interested in how chemical reactions occur. He received his B.S. in 1963 and M.S. in 1965 from the University of Florida.Next, Grubbs attended Columbia University, where he worked with Ronald Breslow on organometallic compounds which contain carbon-metal bonds. Grubbs received his PhD in 1968.
+
+
+== Career ==
+Grubbs worked with James Collman at Stanford University as a National Institutes of Health fellow during 1968–1969. With Collman, he began to systematically investigate catalytic processes in organometallic chemistry, a then relatively new area of research.In 1969, Grubbs was appointed to the faculty of Michigan State University, where he began his work on olefin metathesis. Harold Hart, Gerasimos J. Karabatsos, Gene LeGoff, Don Farnum, Bill Reusch and Pete Wagner served as his early mentors at MSU. Grubbs was an assistant professor from 1969 to 1973, and an associate professor from 1973 to 1978. He received a Sloan Fellowship for 1974–1976. In 1975, he went to the Max Planck Institute for Coal Research in Mülheim, Germany on a fellowship from the Alexander von Humboldt Foundation.In 1978, Grubbs moved to California Institute of Technology as a professor of chemistry. As of 1990 he became the Victor and Elizabeth Atkins Professor of Chemistry.As of 2021, Grubbs has an h-index of 160 according to Google Scholar and of 137 according to Scopus.
+
+
+=== Commercial activities ===
+Both first and second generation Grubbs catalysts were commercially available from Materia, a startup company that Grubbs co-founded with Mike Giardello in Pasadena, California, in 1998. Materia has been able to obtain exclusive rights to manufacture many of the known olefin catalysts. Under Giardello, Materia was able to sell their catalysts through Sigma-Aldrich's chemicals catalogue. Sigma-Aldrich became their exclusive worldwide provider. In 2008, Materia partnered with Cargill to form Elevance Renewable Sciences to produce specialty chemicals from renewable oils, including biofuels. In 2017, Materia sold its catalyst business to Umicore. In 2021, Materia was acquired by ExxonMobil.Grubbs was a member of the Reliance Innovation Council formed by Reliance Industries Limited, India.Grubbs was a member of the USA Science and Engineering Festival's Advisory Board.
+
+
+== Research ==
+Grubbs's main research interests were in organometallic chemistry and synthetic chemistry, particularly the development of novel catalysts for olefin metathesis. In olefin metathesis, a catalyst is used to break the bonds of carbon molecules, which can then re-form to create chemical bonds in new ways, producing new compounds with unique properties. The basic technique can be used for creation of polymers, pharmaceuticals and petrochemicals and has broad applications in areas including pharmaceuticals, biotechnology, agriculture, and plastics.Grubbs was instrumental in developing a family of ruthenium catalysts, including Grubbs catalyst for olefin metathesis. He studied olefin transformations for ring-closing metathesis (RCM), cross-metathesis reaction (CMR), and ring-opening metathesis polymerization (ROMP) with cyclic olefins such as norbornene. He also contributed to the development of "living polymerization", in which the termination ability of a polymerization reaction is removed. The polymer will continue to replicate until a quenching agent is presented.The Grubbs group successfully polymerized the 7-oxo norbornene derivative using ruthenium trichloride, osmium trichloride as well as tungsten alkylidenes. They identified a Ru(II) carbene as an effective metal center and in 1992 published the first well-defined, ruthenium-based olefin metathesis catalyst, (PPh3)2Cl2Ru=CHCH=CPh2.
+The corresponding tricyclohexylphosphine complex (PCy3)2Cl2Ru=CHCH=CPh2 was also shown to be active. This work culminated in the now commercially available first-generation Grubbs catalyst in 1995. Second generation catalysts were developed as well.Ruthenium is stable in air and has higher selectivity and lower reactivity than molybdenum, the most promising of the previously discovered catalysts. In addition, Grubbs took a green chemistry approach to catalysis that reduced the potential to create hazardous waste. The Grubbs catalyst has become a standard for general metathesis applications in ordinary laboratories.By controlling the catalyst used, it became possible to synthesize polymers with specialized structures and functional capabilities, including cyclic olefins, alternating copolymers, and multiblock copolymers. Using catalysts allows chemists to speed up chemical transformations and to lower the cost of what were previously complicated multi-step industrial processes.
+
+
+== Personal life ==
+While at Columbia University, Grubbs also met his future wife, Helen O'Kane, a special-education teacher, with whom he had three children: Barney (born 1972), Brendan H. (born 1974) and Kathleen (Katy) (born 1977).Grubbs died from a heart attack at the City of Hope Comprehensive Cancer Center in Duarte, California on December 19, 2021, at age 79. At the time of his death, he was being treated for lymphoma.
+
+
+== Awards and honors ==
+Grubbs received the 2005 Nobel Prize in Chemistry, along with Richard R. Schrock and Yves Chauvin, for his work in the field of olefin metathesis. He has received a number of other awards and honors, including the following:
+
+
+== Publications ==
+Grubbs, Robert (2003). Handbook of Metathesis. Weinheim, Germany; Chichester, England: Wiley-VCH John Wiley distributor. ISBN 978-3-527-30616-9. OCLC 52485738.
+
+
+== References ==
+
+
+== External links ==
+"Press Release, 5 October 2005". The Nobel Prize in Chemistry 2005. NobelPrize.org.
+Robert H. Grubbs on Nobelprize.org 
+Robert H. Grubbs publications indexed by Google Schola

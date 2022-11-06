@@ -1,0 +1,20 @@
+Herbert Kroemer (German pronunciation: [ˈhɛʁbɛʁt ˈkʁøːmɐ] (listen); born August 25, 1928) is a German-American physicist who, along with Zhores Alferov, received the Nobel Prize in Physics in 2000 for "developing semiconductor heterostructures used in high-speed- and opto-electronics". Kroemer is professor emeritus of electrical and computer engineering at the University of California, Santa Barbara, having received his Ph.D. in theoretical physics in 1952 from the University of Göttingen, Germany, with a dissertation on hot electron effects in the then-new transistor. His research into transistors was a stepping stone to the later development of mobile phone technologies.
+
+
+== Career ==
+Kroemer worked in a number of research laboratories in Germany and the United States and taught electrical engineering at the University of Colorado from 1968 to 1976. He joined the UCSB faculty in 1976, focusing its semiconductor research program on the emerging compound semiconductor technology rather than on mainstream silicon technology. Along with Charles Kittel he co-authored the textbook Thermal Physics, first published in 1980, and still used today. He is also the author of the textbook Quantum Mechanics for Engineering, Materials Science and Applied Physics.Kroemer was elected as a member into the National Academy of Engineering in 1997 for conception of the semiconductor heterostructure transistor and laser, and for leadership in semiconductor materials technology. He was also elected a member of the National Academy of Sciences in 2003. 
+Kroemer always preferred to work on problems that are ahead of mainstream technology, inventing the drift transistor in the 1950s and being the first to point out that advantages could be gained in various semiconductor devices by incorporating heterojunctions. Most notably, though, in 1963 he proposed the concept of the double-heterostructure laser, which is now a central concept in the field of semiconductor lasers. Kroemer became an early pioneer in molecular beam epitaxy, concentrating on applying the technology to untried new materials.
+
+
+== Personal life ==
+Born to a working-class family in Weimar, Kroemer excelled in his physics schooling such that he was dismissed from having to do much of the coursework. He is an atheist.
+
+
+== Awards and honors ==
+J J Ebers Award (1973)
+Humboldt Research Award (1994)
+Nobel Prize in Physics (2000)
+Golden Plate Award of the American Academy of Achievement (2001)
+IEEE Medal of Honor (2002)
+
+

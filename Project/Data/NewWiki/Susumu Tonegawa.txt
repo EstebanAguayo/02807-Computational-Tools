@@ -1,0 +1,64 @@
+Susumu Tonegawa (利根川 進, Tonegawa Susumu, born September 5, 1939) is a Japanese scientist who was the sole recipient of the Nobel Prize for Physiology or Medicine in 1987 for his discovery of V(D)J recombination, the genetic mechanism which produces antibody diversity. Although he won the Nobel Prize for his work in immunology, Tonegawa is a molecular biologist by training and he again changed fields following his Nobel Prize win; he now studies neuroscience, examining the molecular, cellular and neuronal basis of memory formation and retrieval.
+
+
+== Early life and education ==
+Tonegawa was born in Nagoya, Japan and attended Hibiya High School in Tokyo. While a student at Kyoto University, Tonegawa became fascinated with operon theory after reading papers by François Jacob and Jacques Monod, whom he credits in part for inspiring his interest in molecular biology. Tonegawa graduated from Kyoto University in 1963 and, due to limited options for molecular biology study in Japan at the time, moved to the University of California, San Diego to do his doctorate study under Dr. Masaki Hayashi. He received his Ph.D. in 1968.
+
+
+== Career ==
+Tonegawa conducted post-doctoral work at the Salk Institute in San Diego in the laboratory of Renato Dulbecco. With encouragement from Dr. Dulbecco, Tonegawa moved to the Basel Institute for Immunology in Basel, Switzerland in 1971, where he transitioned from molecular biology into immunology studies and carried out his landmark immunology studies.
+In 1981, Tonegawa became a professor at the Massachusetts Institute of Technology. In 1994, he was appointed as the first Director of the MIT Center for Learning and Memory, which developed under his guidance into The Picower Institute for Learning and Memory. Tonegawa resigned his directorship in 2006 and currently serves as a Picower Professor of Neuroscience and Biology and a Howard Hughes Medical Institute Investigator.
+Tonegawa also served as Director of the RIKEN Brain Science Institute from 2009 to 2017.
+
+
+== Research ==
+
+
+=== Immunology ===
+Tonegawa's Nobel Prize work elucidated the genetic mechanism of the adaptive immune system, which had been the central question of immunology for over 100 years. Prior to Tonegawa's discovery, one early idea to explain the adaptive immune system suggested that each gene produces one protein; however, there are under 19,000 genes in the human body which nonetheless can produce millions of antibodies. In experiments beginning in 1976, Tonegawa showed that genetic material rearranges itself to form millions of antibodies. Comparing the DNA of B cells (a type of white blood cell) in embryonic and adult mice, he observed that genes in the mature B cells of the adult mice are moved around, recombined, and deleted to form the diversity of the variable region of antibodies. This process is known as V(D)J recombination. 
+In 1983, Tonegawa also discovered a transcriptional enhancer element associated with antibody gene complex, the first cellular enhancer element.
+
+
+=== Neuroscience ===
+Shortly following his Nobel Prize in 1990, Tonegawa again changed fields from immunology to neuroscience, where he has focused his research in the ensuing years.
+Tonegawa's lab pioneered introductory transgenic and gene-knockout technologies in mammalian systems. He was involved in early work demonstrating the importance of CaMKII- (1992) and the NMDA receptor-dependent synaptic plasticity (1996) in memory formation.
+Tonegawa's lab discovered that dendritic neuronal spines in the temporal cortex are a likely target for treatment of Fragile X Syndrome. With one dosage of the inhibitor drug FRAX586, Tonegawa showed a marked reduction of FXS symptoms in the mouse model.Tonegawa was an early adopter of optogenetics and biotechnology in neuroscience research, leading to his groundbreaking work identifying and manipulating memory engram cells. In 2012, his lab demonstrated that the activation of a specific sub-population of mouse hippocampal neurons, labelled during a fear conditioning paradigm, is sufficient to evoke a behavioral response correlated with a precise memory trace. This demonstrated for the first time that memory information is stored in specific cellular ensembles in the hippocampus, now frequently called memory engram cells.More recently, his lab continues to employ optogenetic technology and virus injection techniques to expand their findings on the engram cell ensemble. Notably, Tonegawa has uncovered the role of memory engram cell ensembles in memory valence, social memory, as well as their role in brain disorders such as depression, amnesia, and Alzheimer's disease. These works provide proofs of concept for future medical treatments in humans through the manipulation of memory engram ensembles.
+
+
+== Personal life ==
+Tonegawa currently resides in the Boston area with his wife, Mayumi Yoshinari Tonegawa, who worked as an NHK (Japan Broadcasting Corporation) director/interviewer and is now a freelance science writer. The Tonegawas have three children, Hidde Tonegawa, Hanna Tonegawa, and Satto Tonegawa (deceased).
+Tonegawa is a fan of the Boston Red Sox, and threw out an opening pitch during their 2004 World Series championship season.
+
+
+== Selected awards and honors ==
+1982 – Louisa Gross Horwitz Prize
+1983 – Gairdner Foundation International Award
+1984 – Order of Culture (Bunkakunsho), Emperor of Japan
+1984 – Foreign Associate, American Academy of Arts and Sciences of the United States
+1986 – Foreign Associate, National Academy of Sciences of the United States
+1986 – Robert Koch Prize
+1987 – Albert Lasker Award for Basic Medical Research
+1987 – Nobel Prize for Physiology or Medicine
+1995 – honored on a stamp (Scott No. 1635c) issued by Gambia
+2004 – Honorary Degree, Kyoto University
+2006 – Member, American Association for the Advancement of Science
+2007 – RIKEN Fellow
+2009 – Honorary Degree, City University of Hong Kong
+2010 – David M. Bonner Lifetime Achievement Award, UCSD
+
+
+== Selected publications ==
+List of publications by Susumu Tonegawa
+Tonegawa, S. (1983). Somatic generation of antibody diversity. Nature, 302(5909), 575-581.
+Gillies, S. D., Morrison, S. L., Oi, V. T., & Tonegawa, S. (1983). A tissue-specific transcription enhancer element is located in the major intron of a rearranged immunoglobulin heavy chain gene. Cell, 33(3), 717-728.
+Mombaerts, P., Iacomini, J., Johnson, R. S., Herrup, K., Tonegawa, S., & Papaioannou, V. E. (1992). RAG-1-deficient mice have no mature B and T lymphocytes. Cell, 68(5), 869-877.
+Silva, A. J., Stevens, C. F., Tonegawa, S., & Wang, Y. (1992). Deficient hippocampal long-term potentiation in alpha-calcium-calmodulin kinase II mutant mice. Science, 257(5067), 201-206.
+Haas, W., Pereira, P., & Tonegawa, S. (1993). Gamma/delta cells. Annual review of immunology, 11(1), 637-685.
+Tsien, Joe Z.; Huerta, Patricio T.; Tonegawa, Susumu (1996). "The Essential Role of Hippocampal CA1 NMDA Receptor–Dependent Synaptic Plasticity in Spatial Memory". Cell. 87 (7): 1327–1338. doi:10.1016/S0092-8674(00)81827-9. PMID 8980238. S2CID 2730362.
+Poss, K. D., & Tonegawa, S. (1997). Reduced stress defense in heme oxygenase 1-deficient cells. Proceedings of the National Academy of Sciences, 94(20), 10925-10930.
+Shen, J., Bronson, R. T., Chen, D. F., Xia, W., Selkoe, D. J., & Tonegawa, S. (1997). Skeletal and CNS defects in Presenilin-1-deficient mice. Cell, 89(4), 629-639.
+Nakazawa, K., Quirk, M. C., Chitwood, R. A., Watanabe, M., Yeckel, M. F., Sun, L. D., Kato, A., Carr, C.A., Johnston, D., Wilson, M.A., & Tonegawa, S. (2002). Requirement for hippocampal CA3 NMDA receptors in associative memory recall. Science, 297(5579), 211-218.
+Liu, X., Ramirez, S., Pang, P. T., Puryear, C. B., Govindarajan, A., Deisseroth, K., & Tonegawa, S. (2012). Optogenetic stimulation of a hippocampal engram activates fear memory recall. Nature, 484(7394), 381-385.
+Ramirez, S., Liu, X., Lin, P. A., Suh, J., Pignatelli, M., Redondo, R. L., Ryan, T.J., & Tonegawa, S. (2013). Creating a false memory in the hippocampus. Science, 341(6144), 387-391.
+
+

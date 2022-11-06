@@ -1,0 +1,20 @@
+A Svedberg unit or svedberg (symbol S, sometimes Sv) is a non-SI metric unit for sedimentation coefficients. The Svedberg unit offers a measure of a particle's size indirectly based on its sedimentation rate under acceleration (i.e. how fast a particle of given size and shape settles to the bottom of a solution). The svedberg is a measure of time, defined as exactly 10−13 seconds (100 fs).
+For biological macromolecules and cell organelles like ribosomes, the sedimentation rate is typically measured as the rate of travel in a centrifuge tube subjected to high g-force.The svedberg (S) is distinct from the SI unit sievert or the non-SI unit sverdrup, which also use the symbol Sv.
+
+
+== Naming ==
+The unit is named after the Swedish chemist Theodor Svedberg (1884–1971), winner of the 1926 Nobel Prize in chemistry for his work on disperse systems, colloids and his invention of the ultracentrifuge.
+
+
+== Factors ==
+The Svedberg coefficient is a nonlinear function. A particle's mass, density, and shape will determine its S value. The S value depends on the frictional forces retarding its movement, which, in turn, are related to the average cross-sectional area of the particle.The sedimentation coefficient is the ratio of the speed of a substance in a centrifuge to its acceleration in comparable units. A substance with a sedimentation coefficient of 26S (26×10−13 s) will travel at 26 micrometers per second (26×10−6 m/s) under the influence of an acceleration of a million gravities (107 m/s2). Centrifugal acceleration is given as rω2; where r is the radial distance from the rotation axis and ω is the angular velocity in radians per second.
+Bigger particles tend to sediment faster and so have higher Svedberg values.
+Svedberg units are not directly additive since they represent a rate of sedimentation, not weight.
+
+
+== Use ==
+In centrifugation of small biochemical species, a convention has developed in which sedimentation coefficients are expressed in the Svedberg units.
+
+The svedberg is the most important measure used to distinguish ribosomes. Ribosomes are composed of two complex subunits, each including rRNA and protein components. In prokaryotes (including bacteria), the subunits are named 30S and 50S for their "size" in Svedberg units. These subunits are made up of three forms of rRNA: 16S, 23S, and 5S and ribosomal proteins.For bacterial ribosomes, ultracentrifugation yields intact ribosomes (70S) as well as separated ribosomal subunits, the large subunit (50S) and the small subunit (30S). Within cells, ribosomes normally exist as a mixture of joined and separate subunits. The largest particles (whole ribosomes) sediment near the bottom of the tube, whereas the smaller particles (separated 50S and 30S subunits) appear in upper fractions.
+
+

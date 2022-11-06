@@ -1,0 +1,34 @@
+Sir Godfrey Newbold Hounsfield  (28 August 1919 – 12 August 2004) was an English electrical engineer who shared the 1979 Nobel Prize for Physiology or Medicine with Allan MacLeod Cormack for his part in developing the diagnostic technique of X-ray computed tomography (CT).His name is immortalised in the Hounsfield scale, a quantitative measure of radiodensity used in evaluating CT scans. The scale is defined in Hounsfield units (symbol HU), running from air at −1000 HU, through water at 0 HU, and up to dense cortical bone at +1000 HU and more.
+
+
+== Early life ==
+
+Hounsfield was born in Sutton-on-Trent, Nottinghamshire, England on 28 August 1919. He was the youngest of five children (two brothers, two sisters). His father, Thomas Hounsfield was a farmer from Beighton, and was linked to the prominent Hounsfield and Newbold families of Hackenthorpe Hall, his mother was Blanche Dilcock.
+As a child he was fascinated by the electrical gadgets and machinery found all over his parents' farm. Between the ages of eleven and eighteen, he tinkered with his own electrical recording machines, launched himself off haystacks with his own home-made glider, and almost killed himself by using water-filled tar barrels and acetylene to see how high they could be waterjet propelled. He attended the Magnus Grammar School in Newark-on-Trent, but was not academic.
+
+
+== Military service and education ==
+Shortly before World War II, he joined the Royal Air Force as a volunteer reservist where he learned the basics of electronics and radar. After the war, he attended Faraday House Electrical Engineering College in London, graduating with the DFH (Diploma of Faraday House). Before the advent of most university engineering departments, Faraday House was a specialist Electrical Engineering college that provided university level education that combined practical experience with theoretical study.
+
+
+== Career ==
+
+In 1949, Hounsfield began work at EMI, Ltd. in Hayes, Middlesex, where he researched guided weapon systems and radar. Hounsfield incorrectly gave this date as 1951 when he wrote his autobiography which is available on the Nobel Prize website. The correct date is 10 October 1949 as stated in a biography of Hounsfield. At EMI, he became interested in computers and in 1958, he helped design the first commercially available all-transistor computer made in Great Britain: the EMIDEC 1100. Shortly afterwards, he began work on the CT scanner at EMI. He continued to improve CT scanning, introducing a whole-body scanner in 1975, and was senior researcher (and after his retirement in 1984, consultant) to the laboratories.
+While on an outing in the country, Hounsfield came up with the idea that one could determine what was inside a box by taking X-ray readings at all angles around the object. He then set to work constructing a computer that could take input from X-rays at various angles to create an image of the object in "slices". Applying this idea to the medical field led him to propose what is now known as computed tomography. At the time, Hounsfield was not aware of the work that Cormack had done on the theoretical mathematics for such a device. Hounsfield built a prototype head scanner and tested it first on a preserved human brain, then on a fresh cow brain from a butcher’s shop, and later on himself. On 1 October 1971, CT scanning was introduced into medical practice with a successful scan on a cerebral cyst patient at Atkinson Morley Hospital in Wimbledon, London, United Kingdom. In 1975, Hounsfield built a whole-body scanner. The principles of computed tomography developed by Hounsfield remain in use today (2022).   
+
+
+== Awards and honours ==
+In 1979, Hounsfield and Cormack received the Nobel Prize in Physiology or Medicine.
+Hounsfield received numerous awards in addition to the Nobel Prize. He was appointed Commander of the Order of the British Empire in 1976 and knighted in 1981.
+In 1974, he received the Wilhelm Exner Medal. Hounsfield was elected a Fellow of the Royal Society (FRS) in 1975. In 1976, he received the Golden Plate Award of the American Academy of Achievement. He was awarded the Howard N. Potts Medal in 1977.
+
+
+== Personal life and death ==
+Hounsfield enjoyed hiking and skiing. He had resolved to develop what came to be CT scanning while on a country ramble.He retired from EMI in 1986 and used the prize money from his Nobel to build a personal laboratory in his home. Hounsfield died at Kingston-upon-Thames, Surrey, in 2004, at the age of 84.
+
+
+== References ==
+
+
+== External links ==
+Godfrey N. Hounsfield on Nobelprize.or

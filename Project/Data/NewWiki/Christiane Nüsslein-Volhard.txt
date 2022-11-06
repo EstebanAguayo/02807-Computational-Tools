@@ -1,0 +1,60 @@
+Christiane (Janni) Nüsslein-Volhard (German pronunciation: [kʁɪsˈti̯anə ˈnʏslaɪ̯n ˈfɔlˌhaʁt] (listen); born 20 October 1942) is a German developmental biologist and a 1995 Nobel Prize in Physiology or Medicine laureate. She is the only woman from Germany to have received a Nobel Prize in the sciences.Nüsslein-Volhard earned her PhD in 1974 from the University of Tübingen, where she studied protein-DNA interaction.  She won the Albert Lasker Award for Basic Medical Research in 1991 and the Nobel Prize in Physiology or Medicine in 1995, together with Eric Wieschaus and Edward B. Lewis, for their research on the genetic control of embryonic development.
+
+
+== Early life and education ==
+Nüsslein-Volhard was born in Magdeburg on 20 October 1942, the second of five children to Rolf Volhard, an architect, and Brigitte Haas Volhard, a nursery school teacher. She has four siblings: three sisters and one brother. She grew up and went to school in south Frankfurt, exposed to art and music and thus was "trained in looking at things and recognizing things". Her great-grandfather was the chemist Jacob Volhard, her grandfather the known internist Franz Volhard. She is the aunt of the Nobel laureate in chemistry Benjamin List.After the Abitur in 1962, she briefly considered pursuing medicine, but dropped the idea after doing a month’s nursing course in a hospital. Instead she followed her genuine interest and opted to study biology at Johann Wolfgang Goethe University in Frankfurt. In 1964 Nüsslein-Volhard left Frankfurt for the University of Tübingen, to start a new course in biochemistry. She originally wanted to do behavioral biology, "but then somehow I ended up in biochemistry (...) and molecular genetics because at the time this was the most modern aspect, and I was ambitious — I wanted to go where the leaders were. The old-fashioned botanists and zoologists were such dull people— there was nothing interesting there."She received a diploma in biochemistry in 1969 and earned a PhD in 1974 for research into protein–DNA interactions and the binding of RNA polymerase in Escherichia coli.
+
+
+== Career ==
+In 1975 Nüsslein-Volhard became a postdoctoral researcher in Walter Gehring´s laboratory at the Biozentrum, University of Basel, a specialist in the developmental biology of Drosophila melanogaster (fruit fly) supported by a long-term fellowship from the European Molecular Biology Organization (EMBO).
+In 1977, she continued in the laboratory of Klaus Sander at University of Freiburg, who was an expert in embryonic patterning.
+In 1978, she set up her own lab in the newly founded European Molecular Biology Laboratory in Heidelberg with Eric Wieschaus, whom she had met in Basel. Over the next three years they examined about 20,000 mutated fly families, collected about 600 mutants with an altered body pattern and found that out of the about 5,000 essential genes only 120 were essential for early development. In October 1980, they published the mere 15 genes controlling the segmented pattern of the Drosophila larva.In 1981, Nüsslein-Volhard moved to the Friedrich Miescher Laboratory of the Max Planck Society in Tübingen. 
+From 1984 until her retirement in 2014, she was the Director of the Max Planck Institute for Developmental Biology in Tübingen and also led its Genetics Department. After 1984 she launched work on the developmental biology of vertebrates, using the zebrafish (Danio rerio) as her research model.In 2001, she became a member of the Nationaler Ethikrat (National Ethics Council of Germany) for the ethical assessment of new developments in the life sciences and their influence on the individual and society. Her primer for the lay-reader, Coming to Life: How Genes Drive Development, was published in April 2006.
+In 2004, she started the Christiane Nüsslein-Volhard Foundation (Christiane Nüsslein-Volhard Stiftung) which aids promising young female German scientists with children. The foundation's main focus is to facilitate childcare as a supplement to existing stipends and day care.
+
+
+=== Research ===
+During the late 1970s and early 1980s little was known about the genetic and molecular mechanisms by which multicellular organisms develop from single cells to morphologically complex forms during embryogenesis. Nüsslein-Volhard and Wieschaus identified genes involved in embryonic development by a series of  genetic screens, generating random mutations in fruit flies using ethyl methanesulfonate. Some of these mutations affected genes involved in the development of the embryo. They took advantage of the segmented form of Drosophila larvae to address the logic of the genes controlling development. In normal unmutated Drosophila, each segment produces bristles called denticles in a band arranged on the side of the segment closer to the head (the anterior). They looked at the pattern of segments and denticles in each mutant under the microscope, and were therefore able to work out that particular genes were involved in different processes during development based on their differing mutant phenotypes (such as fewer segments, gaps in the normal segment pattern, and alterations in the patterns of denticles on the segments). Many of these genes were given descriptive names based on the appearance of the mutant larvae, such as hedgehog, gurken (German: "cucumbers"), and Krüppel ( "cripple"). Later, researchers identified exactly which gene had been affected by each mutation, thereby identifying a set of genes crucial for Drosophila embryogenesis. The subsequent study of these mutants and their interactions led to important new insights into early Drosophila development, especially the mechanisms that underlie the step-wise development of body segments.These experiments are not only distinguished by their sheer scale (with the methods available at the time, they involved an enormous workload), but more importantly by their significance for organisms other than fruit flies. It was later found that many of the genes identified had homologues in other species. In particular, the homeobox genes (coding for transcription factors critically involved in early body development) are found in all metazoans, and usually have similar roles in body segmentation.Her findings led to important realizations about evolution – for example, that protostomes and deuterostomes are likely to have had a relatively well-developed common ancestor with a much more complex body plan than had been conventionally thought. Additionally, they greatly increased our understanding of the regulation of transcription, as well as cell fate during development.Nüsslein-Volhard is associated with the discovery of Toll, which led to the identification of toll-like receptors.As of 2021, Nüsslein-Volhard has an h-index of 103 according to Scopus.
+
+
+== Personal life ==
+Nüsslein-Volhard married in the mid-1960s while studying at the Johann Wolfgang Goethe University in Frankfurt, but divorced soon and did not have any children. She lives in Bebenhausen, Germany. She has said that she loves to sing, play the flute and do chamber music. She published a cookbook in 2006.
+
+
+== Awards and honors ==
+
+
+=== Honorary degrees ===
+Nüsslein-Volhard has been awarded honorary degrees by the following Universities: Yale, Harvard, Princeton, Rockefeller, Utrecht, University College London, Oxford (June 2005), Sheffield, St Andrews (June 2011), Freiburg, Munich and Bath (July 2012).
+1991: Honorary doctorate from the University of Utrecht
+1991: Honorary doctorate from Princeton University
+1993: Honorary doctorate from the University of Freiburg
+1993: Honorary doctorate from Harvard University
+2001: Honorary doctorate from Rockefeller University
+2002: Honorary doctorate from University College London
+2005: Honorary doctorate from University of Oxford
+2007: Honorary doctorate from Weizmann Institute of Science
+2008: Mercator Professorship, University of Duisburg-Essen
+2011: Honorary doctorate from the University of St Andrews
+2012: Honorary doctorate from the University of Bath
+
+
+=== Memberships ===
+1989: Founding member of the Academia Europaea
+1989: Corresponding member of the Heidelberg Academy of Sciences
+1990: Corresponding member of North Rhine-Westphalia Academy for Sciences and Arts
+1990: Elected a Foreign Member of the Royal Society (ForMemRS), London
+1990: Member of the National Academy of Sciences, Washington
+1991: Member of the German Academy of Sciences Leopoldina
+1992: Member of the American Academy of Arts and Sciences
+1995: Member of the American Philosophical Society
+2001–2006: Member of the National Ethics Council of the Federal Government (German Ethics Council)
+Member of the French Academy of Sciences
+Member of the Scientific Committee of the Ingrid zu Solms Foundation
+Member of the European Molecular Biology Organization
+
+
+== See also ==
+Timeline of women in science
+
+

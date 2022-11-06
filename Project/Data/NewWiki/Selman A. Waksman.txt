@@ -1,0 +1,66 @@
+Selman Abraham Waksman (July 22, 1888 – August 16, 1973) was a Jewish Russian Empire-born American inventor, biochemist and microbiologist whose research into the decomposition of organisms that live in soil enabled the discovery of streptomycin and several other antibiotics. A professor of biochemistry and microbiology at Rutgers University for four decades, he discovered a number of antibiotics (and introduced the modern sense of that word to name them), and he introduced procedures that have led to the development of many others. The proceeds earned from the licensing of his patents funded a foundation for microbiological research, which established the Waksman Institute of Microbiology located on the Rutgers University Busch Campus in Piscataway, New Jersey (USA). In 1952, he was awarded the Nobel Prize in Physiology or Medicine for "ingenious, systematic and successful studies of the soil microbes that led to the discovery of streptomycin." Waksman and his foundation later were sued by Albert Schatz, one of his PhD students and the discoverer of streptomycin, for minimizing Schatz's role in the discovery.In 2005, Selman Waksman was granted an ACS National Historic Chemical Landmark in recognition of the significant work of his lab in isolating more than 15 antibiotics, including streptomycin, which was the first effective treatment for tuberculosis.
+
+
+== Early life and education ==
+Selman Waksman was born on July 22, 1888 (July 8th according to the Jewish calendar), to Jewish parents, in Nova Pryluka, Kiev Governorate, Russian Empire, now Vinnytsia Oblast, Ukraine. He was the son of Fradia (London) and Jacob Waksman. In 1910, shortly after receiving his diploma from the Fifth Gymnasium in Odesa, he immigrated to the United States and became a naturalized American citizen six years later.
+Waksman attended Rutgers College (now Rutgers University), where he graduated in 1915 with a Bachelor of Science in agriculture. He continued his studies at Rutgers, receiving a Master of Science the following year, in 1916. During his graduate study, he worked under J. G. Lipman at the New Jersey Agricultural Experiment Station at Rutgers performing research in soil bacteriology. Waksman spent some months in 1915-1916 at the United States Department of Agriculture in Washington, DC under Charles Thom, studying soil fungi.: 44–48  He was appointed as a research fellow at the University of California, Berkeley, and in 1918 he was awarded his doctor of philosophy in biochemistry.
+
+
+== Career ==
+He joined the faculty at Rutgers University in the Department of Biochemistry and Microbiology. 
+At Rutgers, Waksman's team discovered several antibiotics, including actinomycin, clavacin, streptothricin hydrolase, streptomycin, grisein, neomycin, fradicin, candicidin, candidin. Waksman took credit for Albert Schatz’s discovery of streptomycin, the first effective drug against gram negative bacteria  and the first antibiotic used to cure tuberculosis. Waksman is credited with coining the term antibiotics, to describe antibacterials derived from other living organisms, for example penicillin, though the term was used by the French dermatologist François Henri Hallopeau, in 1871 to describe a substance opposed to the development of life.In 1931 Waksman organized the division of Marine Bacteriology at the Woods Hole Oceanographic Institution (WHOI) in addition to his task at Rutgers. He was appointed as a marine bacteriologist there and served until 1942. He was elected a trustee at WHOI and finally a Life Trustee.
+In 1951, using half of his personal patent royalties, Waksman created the Waksman Foundation for Microbiology. At a meeting of the board of trustees of the foundation, held in July 1951, he urged the building of a facility for work in microbiology, named the Waksman Institute of Microbiology, which is located on the Busch Campus of Rutgers University in Piscataway, New Jersey. First president of the foundation, Waksman was succeeded in this position by his son, Byron H. Waksman, from 1970 to 2000.
+
+
+== Personal life and death ==
+Waksman was married to Deborah B. Mitnik. They had one son, Byron H. Waksman, M.D., who was a Assistant Professor at Harvard University Medical School, and  Professor of Microbiology at Yale University Medical School.Selman Waksman died on August 16, 1973, at a Hyannis, Massachussettes Hospital and was interred at the Woods Hole Village Cemetery in Woods Hole, Massachusetts. His tombstone is inscribed "Selman Abraham Waksman: Scientist", with his dates of birth and death, and the epitaph "The earth will unlock and fetch ahead salvation" in Hebrew and English, from Isaiah 45:8.
+
+
+== Research ==
+
+
+=== Streptomycin ===
+
+Waksman had been studying the Streptomyces family of organism since his college student days and had, for a time, been studying the organism Streptomyces griseus. Streptomycin was isolated from S. griseus and found effective against tuberculosis by one of Waksman's graduate students, Albert Schatz. These results were later confirmed by Elizabeth Bugie Gregory, whose name was also published on "Streptomycin, a Substance Exhibiting Antibiotic Activity Against Gram-Positive and Gram-Negative Bacteria" with Schatz and Waksman. However, Bugie’s name was not on the second key paper in 1944, which was regarding the efficacy of streptomycin against tuberculosis in test tubes, as Schatz claimed Bugie was not involved with the experiment. Bugie was also not given credit for her work on streptomycin, nor was she listed on the patent proposal, as she signed an affidavit stating that she did not have any contribution in discovering streptomycin. This was submitted under an attorney of the Rutgers Research and Endowment Foundation.
+
+
+==== Controversy ====
+
+The details and credit for the discovery of streptomycin and its usefulness as an antibiotic were strongly contested by Albert Schatz, leading to litigation in 1950. However, it was possible that Waksman did not see Schatz’s contribution as significantly as Schatz saw his contributions. Waksman noted that Schatz was away at the military in 1943, adding that he was only in the lab for three months and only played a small role in discovering streptomycin. Waksman and Rutgers settled out of court with Schatz, resulting in financial remuneration and entitlement to "legal and scientific credit as co-discoverer of streptomycin." Schatz was awarded $120,000 for patent rights and 3% of royalties. The Lancet claims, "the Nobel committee made a considerable mistake by failing to recognise Schatz's contribution." 
+Systematic experiments to test several strains of antibiotics against several different disease organisms were underway in Waksman's laboratory at the time. Their classic approach was to explore a complete matrix with rows consisting of antibiotics and columns consisting of different diseases. The bacteria which produced the antibiotic streptomycin were discovered by Schatz in the farmland outside his lab and tested by him. Waksman, however, eventually came to claim sole credit for the discovery.The controversy of streptomycin between Waksman and Schatz brought to light the challenges of distributing credit for scientific research, discoveries, and patents. It prompted schools and universities to become more involved in the patenting process and to have more regulations on how credit is dispersed. Schools would also provide clearer lines for each individual’s role in a lab to minimize future litigations against school.
+
+
+=== Neomycin ===
+
+Neomycin is derived from actinomycetes and was discovered by Waksman and Hubert A. Lechevalier, one of Waksman's graduate students. The discovery was published in the journal Science.
+
+
+=== Marine bacteria ===
+Waksman's research also examined the role of bacteria in marine systems, with a particular focus on the role of bacteria in nutrient cycles. Waksman examined the degradation of alginic acid, cellulose,  and zooplankton. Waksman, working with Cornelia Carey, Margaret Hotchkiss, Yvette Hardman, and Donald Johnston, conducted multiple studies on the actions of bacteria in marine systems which included quantifying the abundance  and viability of bacteria in seawater., examining the impact of copper on bacterial growth, estimating the impact of bacterial activity on the nitrogen cycle,  and a separation of bacteria into groups based on habitat use in seawater, on plankton, or in the sediments.Other tributes involve anti-fouling paint for the Navy, the use of enzymes in laundry detergents, and the practice of Concord grape rootstock to safeguard French vineyards from fungal infections.
+
+
+== Awards and honors ==
+Waksman acquired many awards and honours, including the Nobel Prize in 1952; the Star of the Rising Sun granted to him by the emperor of Japan, and the rank of Commandeur in the French Légion d'honneur.
+Waksman was awarded the Nobel Prize in 1952.  In the award speech, Waksman was called "one of the greatest benefactors to mankind," as the result of the discovery of streptomycin. Schatz protested being left out of the award, even sending a letter to the King of Sweden, King Gustav the Sixth, but the State did not have any influence over the Nobel Prize Committee’s decision and they ruled that he was a mere lab assistant working under an eminent scientist.The Selman A. Waksman Award in Microbiology of the National Academy of Sciences is given in his honor.
+
+
+== Publications ==
+Selman Waksman was author or co-author of over 400 scientific papers, as well as 28 books and 14 scientific pamphlets.
+
+Enzymes (1926)
+Humus: origin, chemical composition, and importance in nature (1936, 1938)
+Principles of Soil Microbiology (1938)
+My Life with the Microbes (1954) (an autobiography)
+
+
+== References ==
+
+
+== External links ==
+
+Selman Waksman on Nobelprize.org  including the Nobel Lecture December 12, 1952 Streptomycin: Background, Isolation, Properties, and Utilization
+Waksman Foundation for Microbiology
+"Streptomycin, Schatz v. Waksman, and the Balance of Credit for Discovery"
+Findagrave: Selman Waksman
+The Waksman Institute of Microbiology at Rutgers University
+No Nobel for You – Top 10 Nobel Snubs, Scientific America

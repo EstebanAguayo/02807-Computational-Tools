@@ -1,0 +1,31 @@
+William G. Kaelin Jr. (born November 23, 1957) is an American Nobel Laureate physician-scientist. He is a professor of medicine at Harvard University and the Dana-Farber Cancer Institute. His laboratory studies tumor suppressor proteins.
+In 2016, Kaelin received the Albert Lasker Award for Basic Medical Research and the AACR Princess Takamatsu Award.
+He also won the Nobel Prize in Physiology or Medicine in 2019 along with Peter J. Ratcliffe and Gregg L. Semenza.
+
+
+== Early life and education ==
+Kaelin was born in New York City on November 23, 1957. Kaelin earned his bachelor's degree in mathematics and chemistry at Duke University, and stayed to attain an MD, graduating in 1982. He did his residency in internal medicine at Johns Hopkins School of Medicine and his fellowship in oncology at Dana–Farber Cancer Institute (DFCI). After deciding as an undergraduate that research was not a strength of his, at DFCI he did research in the lab of David Livingston, where he found success in the study of retinoblastoma. In 1992, he set up his own lab at DFCI down the hall from Livingston's where he investigated hereditary forms of cancer such as von Hippel–Lindau disease. He became a professor at Harvard Medical School in 2002.
+
+
+== Career ==
+He became Assistant Director of Basic Science at the Dana–Farber/Harvard Cancer Center in 2008. His research at Dana–Farber has focused on understanding the role of mutations in tumor suppressor genes in cancer development. His major work has been on the retinoblastoma, von Hippel–Lindau, and p53 tumor suppressor genes.
+His work has been funded by the National Institutes of Health, American Cancer Society, Doris Duke Charitable Foundation and others.He serves as Vice-Chair of Scientific Programs on the Damon Runyon Cancer Research Foundation Board of Directors and Chair of the Damon Runyon Physician-Scientist Training Award selection committee and is a member of the board of directors at Eli Lilly and the Stand Up to Cancer scientific advisory committee.
+
+
+== Research ==
+
+Following his post-doctorate, Kaelin set up a laboratory at Dana-Farber in 1993 to continue his research on tumor suppression. He had become interested in Von Hippel–Lindau disease (VHL). VHL tumors, caused by gene mutation, were known to be angiogenic, creating blood vessels that secreted erythropoietin (EPO), a hormone known to be part of the body's mechanic to react to hypoxia, or low oxygen levels in the blood. Kaelin hypothesized that there may be a connection between the formation of VHL tumors and the deficiency of the body to detect oxygen. Kaelin's research found that in VHL subjects, there were genes expressed the formation of a protein critical in the EPO process, but which the mutation suppressed. Kaelin's work aligned with that of Peter J. Ratcliffe and Gregg Semenza who separately had identified a two-part protein, hypoxia-inducible factors (HIF) that was essential to EPO production and which was triggered by oxygen levels in the blood. Kaelin's work found that the VHL protein would help regulate the HIF, and in subjects where the VHL proteins were not present, the HIF would overproduce EPO and lead to cancer. The combined work of Kaelin, Ratcliffe, and Semenza identified the pathway of how cells detect and react to oxygen levels in the blood, and have led to the development of drugs to help patients with anaemia and kidney failure.
+
+
+== Personal life ==
+He was married to breast cancer surgeon Carolyn Kaelin from 1988 until her death from glioblastoma in 2015. They have two children.
+
+
+== Selected awards ==
+
+
+== References ==
+
+
+== External links ==
+William G. Kaelin Jr on Nobelprize.org  including the Nobel Lecture 7 December 2019 The von Hippel-Lindau Tumor Suppressor Protein: Insights into Oxygen Sensin

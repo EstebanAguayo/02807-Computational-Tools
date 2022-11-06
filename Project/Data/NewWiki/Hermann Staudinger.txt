@@ -1,0 +1,32 @@
+Hermann Staudinger (German pronunciation: [ˈhɛʁman ˈʃtaʊ̯dɪŋɐ] (listen); 23 March 1881 – 8 September 1965) was a German organic chemist who demonstrated the existence of macromolecules, which he characterized as polymers. For this work he received the 1953 Nobel Prize in Chemistry.
+He is also known for his discovery of ketenes and of the Staudinger reaction. Staudinger, together with Leopold Ružička, also elucidated the molecular structures of pyrethrin I and II in the 1920s, enabling the development of pyrethroid insecticides in the 1960s and 1970s.
+
+
+== Early work ==
+Staudinger was born in 1881 in Worms. Staudinger, who initially wanted to become a botanist, studied chemistry at the University of Halle, at the TH Darmstadt and at the LMU Munich. He received his "Verbandsexamen" (comparable to Master's degree) from TH Darmstadt. After receiving his Ph.D. from the University of Halle in 1903, Staudinger qualified as an academic lecturer at the University of Strasbourg in 1907.  It was here that he discovered the ketenes, a family of molecules characterized by the general form depicted in Figure 1. Ketenes would prove a synthetically important intermediate for the production of yet-to-be-discovered antibiotics such as penicillin and amoxicillin.In 1907, Staudinger began an assistant professorship at the Technical University of Karlsruhe.  Here, he successfully isolated a number of useful organic compounds (including a synthetic coffee flavoring) as more completely reviewed by Rolf Mülhaupt. Here too he guided future Nobel laureates Leopold Ružička (1910) and Tadeusz Reichstein to their doctorates.
+
+
+== The Staudinger reaction ==
+In 1912, Staudinger took on a new position at the Swiss Federal Institute of Technology in Zurich, Switzerland. One of his earliest discoveries came in 1919, when he and colleague Meyer reported that organic azides react with triphenylphosphine to form  phosphinimines   (Figure   2). This reaction, commonly referred to as the Staudinger reaction, produces a high phosphinimine yield.
+
+
+== Polymer chemistry ==
+While at Karlsruhe and later, Zurich, Staudinger began research in the chemistry of rubber, for which very high molecular weights had been measured by the physical methods of Raoult and van 't Hoff. Contrary to prevailing ideas (see below), Staudinger proposed in a landmark paper published in 1920 that rubber and other polymers such as starch, cellulose and proteins are long chains of short repeating molecular units linked by covalent bonds. In other words, polymers are like chains of paper clips, made up of small constituent parts linked from end to end (Figure 3). 
+
+At the time, leading organic chemists such as Emil Fischer and Heinrich Wieland believed that the measured high molecular weights were only apparent values caused by the aggregation of small molecules into colloids. At first, the majority of Staudinger’s colleagues refused to accept the possibility that small molecules could link together covalently to form high-molecular weight compounds. As Mülhaupt aptly notes, this is due in part to the fact that molecular structure and bonding theory were not fully understood in the early 20th century.In 1926, he was appointed lecturer of chemistry at the University of Freiburg at Freiburg im Breisgau (Germany), where he spent the rest of his career. In 1927, he married the Latvian botanist, Magda Voita (also shown as; German: Magda Woit), who was a collaborator with him until his death and whose contributions he acknowledged in his Nobel Prize acceptance. Further evidence to support his polymer hypothesis emerged in the 1930s. High molecular weights of polymers were confirmed by membrane osmometry, and also by Staudinger’s measurements of viscosity in solution. The X-ray diffraction studies of polymers by Herman Mark provided direct evidence for long chains of repeating molecular units. And the synthetic work led by Carothers demonstrated that polymers such as nylon and polyester could be prepared by well-understood organic reactions. His theory opened up the subject to further development, and helped place polymer science on a sound basis.
+
+
+== Legacy ==
+Staudinger's groundbreaking elucidation of the nature of the high-molecular weight compounds he termed Makromoleküle paved the way for the birth of the field of polymer chemistry. Staudinger himself saw the potential for this science long before it was fully realized. "It is not improbable," Staudinger commented in 1936, "that sooner or later a way will be discovered to prepare artificial fibers from synthetic high-molecular products, because the strength and elasticity of natural fibers depend exclusively on their macro-molecular structure – i.e., on their long thread-shaped molecules." Staudinger founded the first polymer chemistry journal in 1940, and in 1953 received the Nobel Prize in Chemistry for "his discoveries in the field of macromolecular chemistry."  In 1999, the American Chemical Society and Gesellschaft Deutscher Chemiker designated Staudinger's work as an International Historic Chemical Landmark. His pioneering research has afforded the world myriad plastics, textiles, and other polymeric materials which make consumer products more affordable, attractive and enjoyable, while helping engineers develop lighter and more durable structures.
+
+
+== See also ==
+Beta-lactam
+Carbene
+Hypervalent molecule
+Polyoxymethylene
+Pyrethrin
+Triphenylphosphine phenylimide
+Heidegger and Nazism: denounced or demoted non-Nazis
+
+

@@ -1,0 +1,85 @@
+Gérard Debreu (French: [dəbʁø]; 4 July 1921 – 31 December 2004) was a French-born economist and mathematician. Best known as a professor of economics at the University of California, Berkeley, where he began work in 1962, he won the 1983 Nobel Memorial Prize in Economic Sciences.
+
+
+== Biography ==
+His father was the business partner of his maternal grandfather in lace manufacturing, a traditional industry in Calais. Debreu was orphaned at an early age, as his father committed suicide and his mother died of natural causes. Prior to the start of World War II, he received his baccalauréat and went to Ambert to begin preparing for the entrance examination of a grande école. Later on, he moved from Ambert to Grenoble to complete his preparation, both places being in Vichy France during World War II. In 1941, he was admitted to the École Normale Supérieure in Paris, along with Marcel Boiteux. He was influenced by Henri Cartan and the Bourbaki writers. When he was about to take the final examinations in 1944, the Normandy landings occurred and he, instead, enlisted in the French army. He was transferred for training to Algeria and then served in the occupying French forces in Germany until July 1945. Debreu passed the Agrégation de Mathématiques exams at the end of 1945 and the beginning of 1946. By this time, he had become interested in economics, particularly in the general equilibrium theory of Léon Walras. From 1946 to 1948, he was an assistant in the Centre National de la Recherche Scientifique. During these two and a half years, he made the transition from mathematics to economics. In 1948, Debreu went to the United States on a Rockefeller Fellowship which allowed him to visit several American universities, as well as those in Uppsala and Oslo in 1949–50.
+Debreu married Françoise Bled in 1946 and they had two daughters, Chantal and Florence, born in 1946 and 1950 respectively.
+Debreu died in Paris at the age of 83 of natural causes on New Year's Eve, 2004.
+
+
+== Academic career ==
+Debreu began working as a Research Associate and joined the Cowles Commission at the University of Chicago in the summer of 1950. He remained there for five years, returning to Paris periodically.
+In 1954, he published a breakthrough paper, entitled Existence of an Equilibrium for a Competitive Economy, together with Kenneth Arrow, in which they provided a definitive mathematical proof of the existence of a general equilibrium, using topological rather than calculus-based methods.
+In 1955, he moved to Yale University.
+In 1959, he published his classical monograph, Theory of Value: An Axiomatic Analysis of Economic Equilibrium (Cowles Foundation Monographs Series), which is one of the most important works in mathematical economics. He also studied several problems in the theory of cardinal utility, in particular the additive decomposition of a utility function defined on a Cartesian product of sets.
+In this monograph, Debreu set up an axiomatic foundation for competitive markets. He also established the existence of an equilibrium using a novel approach. The main idea of his argument is to show that there exists a price system for which the aggregate excess demand correspondence vanishes. He did so by proving a type of fixed-point theorem that is based on the Kakutani fixed-point theorem. In Chapter 7, Debreu introduced the concept of uncertainty and showed how it could be incorporated into the deterministic model. Here, he introduced the notion of a contingent commodity, which is a promise to deliver a good should a certain state of nature be realized. This concept is very frequently used in financial economics, where it is known as the "Arrow–Debreu security".
+In 1960–61, he worked at the Center for Advanced Study in the Behavioral Sciences at Stanford and devoted most of his time to the complex proof that appeared in 1962 of a general theorem on the existence of an economic equilibrium.
+In January 1962, he started working at the University of California, Berkeley, where he held the titles of University Professor and Class of 1958 Professor of Economics and Mathematics Emeritus.
+During his sabbaticals in the late 1960s and 1970s, he visited universities in Leiden, Cambridge, Bonn and Paris. In 1987, he visited the University of Canterbury as an Erskine Fellow, lecturing in economic theory.His later studies centred mainly on the theory of differentiable economies, where he showed that, in general, aggregate excess demand functions vanish at a finite number of points – basically, he showed that economies have a finite number of price equilibria.
+In 1976, he received the French Legion of Honour. He was awarded the 1983 Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel, for having incorporated new analytical methods into economic theory and for his rigorous reformulation of general equilibrium theory. He was a member of the International Academy of Science, the American Academy of Arts and Sciences, the United States National Academy of Sciences, and the American Philosophical Society.In 1990, he served as President of the American Economic Association.
+
+
+== Major publications ==
+
+
+=== Books ===
+Debreu, Gérard (1959). The theory of value: an axiomatic analysis of economic equilibrium (PDF). New York: Wiley. OCLC 270657.
+Debreu, Gérard (1986). Mathematical economics: twenty papers of Gerard Debreu. Cambridge Cambridgeshire New York: Cambridge University Press. ISBN 9780521335614.The twenty papers: The coefficient of resource utilization · A social equilibrium existence theorem · A classical tax-subsidy problem · Existence of an equilibrium for a competitive economy (by Gérard Debreu and Kenneth J. Arrow) · Valuation equilibrium and Pareto optimum · Representation of a preference ordering by a numerical function · Market equilibrium · Economics under uncertainty · Topological methods in cardinal utility theory · New concepts and techniques for equilibrium analysis · A limit theorem on the core of an economy (by Gérard Debreu and Herbert Scarf) · Contuinity properties of Paretian utility · Neighboring economic agents · Economies with a finite set of equilibria · Smooth preferences · Excess demand functions · The rate of convergence of the core of an economy · Four aspects of the mathematical theory of economic equilibrium · The application to economics of differential topology and global analysis: differentiable economies · Least concave utility functionsDebreu, Gérard; Arrow, Kenneth J. (2001). Landmark papers in general equilibrium theory, social choice and welfare. Cheltenham, UK Northampton, Massachusetts, USA: Edward Elgar Publishing. ISBN 9781840645699.
+
+
+=== Book chapters ===
+Debreu, Gérard (1954), "Representation of a preference ordering by a numerical function",  in Thrall, Robert M.; Coombs, Clyde H.; Raiffa, Howard (eds.), Decision processes, New York: Wiley, pp. 159–167, OCLC 639321. Pdf.
+Debreu, Gérard (1960), "Topological methods in cardinal utility theory",  in Arrow, Kenneth J.; Karlin, Samuel; Suppes, Patrick (eds.), Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium, Stanford mathematical studies in the social sciences, IV, Stanford, California: Stanford University Press, pp. 16–26, ISBN 9780804700214. Pdf.
+Debreu, Gérard; Scarf, Herbert (1972), "A limit theorem on the core of an economy",  in McGuire, C.B.; Radner, Roy (eds.), Decision and organization: a volume in honor of Jacob Marschak, Studies in Mathematical and Managerial Economics Series (volume 12), Amsterdam: North-Holland Pub. Co., pp. 283–297, ISBN 9780720433135.
+Debreu, Gérard (1981), "Existence of competitive equilibrium",  in Arrow, Kenneth J.; Intriligator, Michael D. (eds.), Handbook of mathematical economics, Handbook of Economics Series, Amsterdam New York, New York: Elsevier North-Holland, pp. 697–744, ISBN 9780444861269.
+
+
+=== Journal articles ===
+Debreu, Gérard (July 1951). "The coefficient of resource utilization". Econometrica. 19 (3): 273–292. doi:10.2307/1906814. JSTOR 1906814. Pdf.
+Debreu, Gérard (April 1952). "Definite and semidefinite quadratic forms". Econometrica. 20 (2): 295–300. doi:10.2307/1907852. JSTOR 1907852.
+Debreu, Gérard (October 1952). "A social equilibrium existence theorem". Proceedings of the National Academy of Sciences. 38 (10): 886–893. Bibcode:1952PNAS...38..886D. doi:10.1073/pnas.38.10.886. JSTOR 88720. PMC 1063675. PMID 16589195. Full text.
+Debreu, Gérard; Herstein, Israel N. (October 1953). "Nonnegative square matrices". Econometrica. 21 (4): 597–607. doi:10.2307/1907925. JSTOR 1907925. Pdf.
+Debreu, Gérard (January 1954). "A classical tax-subsidy problem". Econometrica. 22 (1): 14–22. doi:10.2307/1909828. JSTOR 1909828. Pdf.
+Debreu, Gérard (June 1954). "Numerical representations of technological change". Metroeconomica. 6 (2): 45–54. doi:10.1111/j.1467-999X.1954.tb00485.x.
+Debreu, Gérard (July 1954). "Valuation equilibrium and Pareto optimum". Proceedings of the National Academy of Sciences. 40 (7): 588–592. Bibcode:1954PNAS...40..588D. doi:10.1073/pnas.40.7.588. JSTOR 89325. PMC 528000. PMID 16589528. Pdf.
+Debreu, Gérard; Arrow, Kenneth J. (July 1954). "Existence of an equilibrium for a competitive economy". Econometrica. 22 (3): 265–290. doi:10.2307/1907353. JSTOR 1907353. Pdf.
+Debreu, Gérard (November 1956). "Market equilibrium". Proceedings of the National Academy of Sciences. 42 (11): 876–878. Bibcode:1956PNAS...42..876D. doi:10.1073/pnas.42.11.876. JSTOR 89463. PMC 528356. PMID 16589963. Pdf.
+Debreu, Gérard (July 1958). "Stochastic choice and cardinal utility" (PDF). Econometrica. 26 (3): 440–444. doi:10.2307/1907622. JSTOR 1907622. Pdf.
+Debreu, Gérard (June 1959). "Cardinal utility for even-chance mixtures of pairs of sure prospects" (PDF). The Review of Economic Studies. 26 (3): 174–177. doi:10.2307/2295745. JSTOR 2295745. Pdf.
+Debreu, Gérard (1960). "Une économique de l'incertain" [Economics under uncertainty]. Économie Appliquée. 13 (1): 111–116. Archived from the original on 2016-06-02.
+Debreu, Gérard (April 1960). "On 'an identity in arithmetic'". Proceedings of the American Mathematical Society. 11 (2): 220–221. doi:10.2307/2032959. JSTOR 2032959. Pdf.
+Debreu, Gérard (September 1962). "New concepts and techniques for equilibrium analysis" (PDF). International Economic Review. 3 (3): 257–273. doi:10.2307/2525394. JSTOR 2525394. Pdf.
+Debreu, Gérard; Scarf, Herbert (September 1963). "A limit theorem on the core of an economy". International Economic Review. 4 (3): 235–246. doi:10.2307/2525306. JSTOR 2525306. Pdf.
+Debreu, Gérard (October 1963). "On a theorem of Scarf". The Review of Economic Studies. 30 (3): 177–180. doi:10.2307/2296318. JSTOR 2296318.
+Debreu, Gérard (May 1964). "Nonnegative solutions of linear inequalities". International Economic Review. 5 (2): 178–184. doi:10.2307/2525561. JSTOR 2525561.
+Debreu, Gérard (September 1964). "Contuinity properties of Paretian utility". International Economic Review. 5 (3): 285–293. doi:10.2307/2525513. JSTOR 2525513. Pdf.
+Debreu, Gérard (1967). "Integration of correspondences". Proceedings of Fifth Berkeley Symposium on Mathematical Statistics and Probability, Part 1. 2: 351–372. Pdf.
+Debreu, Gérard (January 1967). "Preference functions on measure spaces of economic agents". Econometrica. 35 (1): 111–122. doi:10.2307/1909386. JSTOR 1909386.
+Debreu, Gérard (1969). "Neighboring economic agents". La Décision. 171: 85–90. Archived from the original on 2016-02-21.
+Debreu, Gérard (May 1970). "Economies with a finite set of equilibria". Econometrica. 38 (3): 387–392. doi:10.2307/1909545. JSTOR 1909545. Pdf.
+Debreu, Gérard (July 1972). "Smooth preferences". Econometrica. 40 (4): 603–615. doi:10.2307/1912956. JSTOR 1912956. Pdf.
+Debreu, Gérard (1974). "Four aspects of the mathematical theory of economic equilibrium" (PDF). Proceedings of International Congress of Mathematicians: 65–77.
+Debreu, Gérard (March 1974). "Excess demand functions". Journal of Mathematical Economics. 1 (1): 15–21. doi:10.1016/0304-4068(74)90032-9.
+Debreu, Gérard (March 1975). "The rate of convergence of the core of an economy". Journal of Mathematical Economics. 2 (1): 1–7. doi:10.1016/0304-4068(75)90008-7.
+Debreu, Gérard (May 1976). "The application to economics of differential topology and global analysis: regular differentiable economies". The American Economic Review: Papers and Proceedings. 66 (2): 280–287. JSTOR 1817234.
+Debreu, Gérard (July 1976). "Least concave utility functions". Journal of Mathematical Economics. 3 (2): 121–129. doi:10.1016/0304-4068(76)90020-3.
+Debreu, Gérard; Koopmans, Tjalling C. (December 1982). "Additively decomposed quasiconvex functions" (PDF). Mathematical Programming. 24 (1): 1–38. doi:10.1007/BF01585092. S2CID 206799604.
+Debreu, Gérard (June 1984). "Economic theory in the mathematical mode". The American Economic Review. 74 (3): 267–278. JSTOR 1804007. Pdf.
+Debreu, Gérard (December 1984). "Economic theory in the mathematical mode". The Scandinavian Journal of Economics. 86 (4): 393–410. doi:10.2307/3439651. JSTOR 3439651. Pdf.
+Debreu, Gérard (November 1986). "Theoretic models: mathematical form and economic content". Econometrica. 54 (6): 1259–1270. doi:10.2307/1914299. JSTOR 1914299.
+Debreu, Gérard (March 1991). "The mathematization of economic theory". The American Economic Review. 81 (1): 1–7. JSTOR 2006785. (Presidential address delivered at the 103rd meeting of the American Economic Association, 29 December 1990, Washington, DC.) Full text.
+Debreu, Gérard (1994). "Innovation and research: an economist's viewpoint on uncertainty". Nobelists for the Future.
+Debreu, Gérard; Buchanan, James M.; Klein, Lawrence R.; Friedman, Milton; Solow, Robert M. (Autumn 2001). "The most significant contributions to economics during the twentieth century: lists of the Nobel laureates". The European Journal of the History of Economic Thought. 8 (3): 289–297. doi:10.1080/09672560110062915. S2CID 154302343.
+
+
+== References ==
+
+
+== External links ==
+
+Gérard Debreu on Nobelprize.org  including the Nobel Lecture December 8, 1983 Economic Theory in the Mathematical Mode
+Obituary for Debreu
+Guide to the Gérard Debreu Papers at The Bancroft Library
+Lectures on Mathematical Economics from 1987 at University of Canterbury  via YouTube
+Düppe, Till (Fall 2012). "Gerard Debreu's secrecy: his life in order and silence". History of Political Economy. 44 (3): 413–449. doi:10.1215/00182702-1717239.
+"Gerard Debreu (1921–2004)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008

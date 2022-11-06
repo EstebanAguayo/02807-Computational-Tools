@@ -1,0 +1,23 @@
+Koichi Tanaka (田中 耕一, Tanaka Kōichi, born August 3, 1959) is a Japanese electrical engineer who shared the Nobel Prize in Chemistry in 2002 for developing a novel method for mass spectrometric analyses of biological macromolecules with John Bennett Fenn and Kurt Wüthrich (the latter for work in NMR spectroscopy).
+
+
+== Early life and education ==
+Tanaka was born and raised in Toyama, Japan, his biological mother died one month after he was born. Tanaka graduated from Tohoku University with a bachelor's degree in electrical engineering in 1983, afterward he joined Shimadzu Corporation, where he engaged in the development of mass spectrometers.
+
+
+== Soft laser desorption ==
+
+For mass spectrometry analyses of a macromolecule, such as a protein, the analyte must be ionized and vaporized by laser irradiation. The problem is that the direct irradiation of an intense laser pulse on a macromolecule causes cleavage of the analyte into tiny fragments and the loss of its structure. In February 1985, Tanaka found that by using a mixture of ultra fine metal powder in glycerol as a matrix, an analyte can be ionized without losing its structure. His work was filed as a patent application in 1985, and after the patent application was made public reported at the Annual Conference of the Mass Spectrometry Society of Japan held in Kyoto, in May 1987 and became known as soft laser desorption (SLD).However, there was some criticism about his winning the prize, saying that contribution by two German scientists, Franz Hillenkamp and Michael Karas was also big enough not to be dismissed, and therefore they should also be included as prize winners. This is because they first reported in 1985 a method, with higher sensitivity using a small organic compound as a matrix, that they named matrix-assisted laser desorption/ionization (MALDI). Also Tanaka's SLD is not used currently for biomolecules analysis, meanwhile MALDI is widely used in mass spectrometry research laboratories. But while MALDI was developed prior to SLD, it was not used to ionize proteins until after Tanaka's report.
+
+
+== Recognition ==
+1989 – Award of the Mass Spectrometry Society of Japan
+2002 – Nobel Prize in Chemistry
+2002 – Order of Culture
+2002 – Person of Cultural Merit
+2002 – Honorary doctor of Tohoku University
+2003 – Honorary citizenship of Toyama Prefecture
+2003 – Special Award of the Mass Spectrometry Society of Japan
+2006 – Member of Japan Academy
+
+

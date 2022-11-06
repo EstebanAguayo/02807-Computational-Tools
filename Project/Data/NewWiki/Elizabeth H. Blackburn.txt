@@ -1,0 +1,104 @@
+Elizabeth Helen Blackburn,  (born 26 November 1948) is an Australian-American Nobel laureate who is the former president of the Salk Institute for Biological Studies. Previously she was a biological researcher at the University of California, San Francisco, who studied the telomere, a structure at the end of chromosomes that protects the chromosome. In 1984, Blackburn co-discovered telomerase, the enzyme that replenishes the telomere, with Carol W. Greider. For this work, she was awarded the 2009 Nobel Prize in Physiology or Medicine, sharing it with Greider and Jack W. Szostak, becoming the first Australian woman Nobel laureate. She also worked in medical ethics, and was controversially dismissed from the Bush administration's President's Council on Bioethics.
+
+
+== Early life and education ==
+
+Elizabeth Helen Blackburn, one of seven children, was born in Hobart, Tasmania, on 26 November 1948 to parents who were both family physicians. Her family moved to the city of Launceston when she was four, where she attended the Broadland House Church of England Girls' Grammar School (later amalgamated with Launceston Church Grammar School) until the age of sixteen. Upon her family's relocation to Melbourne, she attended University High School, and ultimately gained very high marks in the end-of-year final statewide matriculation exams. She went on to earn a Bachelor of Science in 1970 and Master of Science in 1972, both from the University of Melbourne in the field of biochemistry. Blackburn then went to receive her PhD in 1975 from Darwin College at the University of Cambridge, where she worked with Frederick Sanger developing methods to sequence DNA using RNA, as well as studying the bacteriophage Phi X 174. It was also here, the Medical Research Council (MRC) Laboratory of Molecular Biology at Cambridge University, where Blackburn met her husband John Sedat. Blackburn's soon to be husband had taken a position at Yale, where she then decided to finish her postdoctoral. "Thus it was that love brought me to a most fortunate and influential choice: Joe Gall’s lab at Yale".
+
+
+== Career and research ==
+During her postdoctoral work at Yale, Blackburn was doing research on the protozoan Tetrahymena thermophila and noticed a repeating codon at the end of the linear rDNA which varied in size. Blackburn then noticed that this hexanucleotide at the end of the chromosome contained a TTAGGG sequence that was tandemly repeated, and the terminal end of the chromosomes were palindromic. These characteristics allowed Blackburn and colleagues to conduct further research on the protozoan. Using the telomeric repeated end of Tetrahymena, Blackburn and colleague Jack Szostak showed the unstable replicating plasmids of yeast were protected from degradation, proving that these sequences contained characteristics of telomeres. This research also proved the telomeric repeats of Tetrahymena were conserved evolutionarily between the species. Through this research, Blackburn and collaborators noticed the replication system for chromosomes was not likely to add to the lengthening of the telomere, and that the addition of these hexanucleotides to the chromosomes was likely due to the activity of an enzyme that is able to transfer specific functional groups. The proposition of a possible transferase-like enzyme led Blackburn and PhD student Carol W. Greider to the discovery of an enzyme with reverse transcriptase activity that was able to fill in the terminal ends of telomeres without leaving the chromosome incomplete and unable to divide without loss of the end of the chromosome. This 1985 discovery led to the purification of this enzyme in lab, showing the transferase-like enzyme contained both RNA and protein components. The RNA portion of the enzyme served as a template for adding the telomeric repeats to the incomplete telomere, and the protein added enzymatic function for the addition of these repeats.Through this breakthrough, the term "telomerase" was given to the enzyme, solving the end-replication process that had troubled scientists at the time.
+
+
+=== Telomerase ===
+Telomerase works by adding base pairs to the overhang of DNA on the 3' end, extending the strand until DNA polymerase and an RNA primer can complete the complementary strand and successfully synthesize the double stranded DNA. Since DNA polymerase only synthesizes DNA in the leading strand direction, the shortening of the telomere results. Through their research, Blackburn and collaborators were able to show that the telomere is effectively replenished by the enzyme telomerase, which conserves cellular division by preventing the rapid loss of genetic information internal to the telomere, leading to cellular aging.
+On 1 January 2016, Blackburn was interviewed about her studies, discovering telomerase, and her current research. When she was asked to recall the moment of telomerase discovery she stated:Carol had done this experiment, and we stood, just in the lab, and I remember sort of standing there, and she had this – we call it a gel. It's an autoradiogram because there were trace amounts of radioactivity that were used to develop an image of the separated DNA products of what turned out to be the telomerase enzyme reaction. I remember looking at it and just thinking, 'Ah! This could be very big. This looks just right.' It had a pattern to it. There was a regularity to it. There was something that was not just sort of garbage there, and that was really kind of coming through, even though we look back at it now, we'd say, technically, there was this, that and the other, but it was a pattern shining through, and it just had this sort of sense, 'Ah! There's something real here.' But then, of course, the good scientist has to be very sceptical and immediately say, 'Okay, we're going to test this every way around here, and really nail this one way or the other.' If it's going to be true, you have to make sure that it's true, because you can get a lot of false leads, especially if you're wanting something to work.In 1978, Blackburn joined the faculty of the University of California, Berkeley, in the Department of Molecular Biology. In 1990, she moved across the San Francisco Bay to the Department of Microbiology and Immunology at the University of California, San Francisco (UCSF), where she served as the Department Chair from 1993 to 1999 and was the Morris Herzstein Professor of Biology and Physiology at UCSF. Blackburn became a Professor Emeritus at UCSF at the end of 2015.Blackburn co-founded the company Telomere Health which offers telomere length testing to the public, but later severed ties with the company.In 2015, Blackburn was announced as the new President of the Salk Institute for Biological Studies in La Jolla, California. "Few scientists garner the kind of admiration and respect that Dr. Blackburn receives from her peers for her scientific accomplishments and her leadership, service and integrity", says Irwin M. Jacobs, chairman of Salk's Board of Trustees, on Blackburn's appointment as President of the institute. "Her deep insight as a scientist, her vision as a leader, and her warm personality will prove invaluable as she guides the Salk Institute on its continuing journey of discovery".  In 2017, she announced her plans to retire from the Salk Institute the following year.
+
+
+=== Nobel Prize ===
+For their research and contributions to the understanding of telomeres and the enzyme telomerase, Elizabeth Blackburn, Carol Greider, and Jack Szostak were awarded the 2009 Nobel Prize in Physiology or Medicine. The substantial research on the effects of chromosomal protection from telomerase, and the impact this has on cellular division has been a revolutionary catalyst in the field of molecular biology. For example, the addition of telomerase to cells that do not possess this enzyme has shown to bypass the limit of cellular aging in those cells, thereby linking this enzyme to reduced cellular aging. The addition of telomerase, and the presence of the enzyme in cancer cells has been shown to provide an immunity mechanism for the cell in proliferating, linking the transferase activity to increased cellular growth and reduced sensitivity for cellular signalling. The importance of discovering this enzyme has since led her continued research at the University of California San Francisco, where she studies the effect of telomeres and telomerase activity on cellular aging.
+
+
+=== Bioethics ===
+Blackburn was appointed a member of the President's Council on Bioethics in 2002. She supported human embryonic cell research, in opposition to the Bush Administration. Her Council terms were terminated by White House directive on 27 February 2004. Dr. Blackburn believes that she was dismissed from the Council due to her disapproval of the Bush administration's position against stem cell research. This was followed by expressions of outrage over her removal by many scientists, 170 of whom signed an open letter to the president maintaining that she was fired because of political opposition to her advice.Scientists and ethicists at the time even went as far to say that Blackburn's removal was in violation of the Federal Advisory Committee Act of 1972, which "requires balance on such advisory bodies""There is a growing sense that scientific research—which, after all, is defined by the quest for truth—is being manipulated for political ends", wrote Blackburn. "There is evidence that such manipulation is being achieved through the stacking of the membership of advisory bodies and through the delay and misrepresentation of their reports."Blackburn serves on the Science Advisory Board of the Regenerative Medicine Foundation formerly known as the Genetics Policy Institute.
+
+
+=== Publications ===
+Blackburn's first book The Telomere Effect: A Revolutionary Approach to Living Younger, Healthier, Longer (2017) was co-authored with health psychologist Dr. Elissa S. Epel of Aging, Metabolism, and Emotions (AME) Center at the UCSF Center for Health and Community. Blackburn comments on aging reversal and care for one's telomeres through lifestyle: managing chronic stress, exercising, eating better and getting enough sleep; telomere testing, plus cautions and advice. While studying telomeres and the replenishing enzyme, telomerase, Blackburn discovered a vital role played by these protective caps that revolved around one central idea: aging of cells. The book hones in on many of the effects that poor health can have on telomeres and telomerase activity. Since telomeres shorten with every division of a cell, replenishing these caps is essential to long term cell growth. Through research and data, Blackburn explained that people that lead stressful lives exhibit less telomerase functioning in the body, which leads to a decrease in the dividing capabilities of the cell. Once telomeres shorten drastically, the cells can no longer divide, meaning the tissues they replenish with every division would therefore die out, highlighting the aging mechanism in humans. To increase telomerase activity in people with stress-filled lives, Blackburn suggests moderate exercise, even 15 minutes a day, which has been proven to stimulate telomerase activity and replenish the telomere.Blackburn states that unhappiness in lives also has an effect on the shortening of telomeres. In a study done on divorced couples, their telomere length was "significantly shorter" compared to couples in healthy relationships, and Blackburn states, "There's an obvious stressor ... we are intensely social beings." She suggests positivity in daily life increases health. While increasing the amount of exercise, decreasing stress, tobacco use, and maintaining a balanced sleep schedule, Blackburn explains that telomere length can be maintained, leading to a decrease in cell aging. Blackburn also tells readers to be wary of clinical pills who proclaim to lengthen or telomeres and protect the body from aging. She says that these pills and creams have no scientific proof of being anti-aging supplements, and that the key to preserving our telomeres and stimulating telomerase activity comes from leading a healthy life.
+
+
+=== Current research ===
+In recent years Blackburn and her colleagues have been investigating the effect of stress on telomerase and telomeres with particular emphasis on mindfulness meditation. She is also one of several biologists (and one of two Nobel Prize laureates) in the 1995 science documentary Death by Design/The Life and Times of Life and Times. She also featured in the 2012 Emmy award-winning science documentary, 'Decoding Immortality' (also known as 'Immortal') by Genepool Productions. Studies suggest that chronic psychological stress may accelerate ageing at the cellular level. Intimate partner violence was found to shorten telomere length in formerly abused women versus never abused women, possibly causing poorer overall health and greater morbidity in abused women.At the University of California San Francisco, Blackburn currently researches telomeres and telomerase in many organisms, from yeast to human cells. The lab is focused on telomere maintenance, and how this has an impact on cellular aging. Many chronic diseases have been associated with the improper maintenance of these telomeres, thereby effecting cellular division, cycling, and impaired growth. At the cutting edge of telomere research, the Blackburn lab currently investigates the impact of limited maintenance of telomeres in cells through altering the enzyme telomerase.
+
+
+=== Awards and honours ===
+Blackburns awards and honours include:
+
+Eli Lilly Research Award for Microbiology and Immunology (1988)
+United States National Academy of Sciences Award in Molecular Biology (1990)
+Harvey Society Lecturer at the Harvey Society in New York (1990)
+Honorary Doctorate of Science from Yale University (1991)
+Fellow of American Academy of Arts and Sciences (1991)
+Elected a Fellow of the Royal Society (FRS) in 1992
+Fellow of American Academy of Microbiology (1993)
+Foreign Associate of National Academy of Sciences (1993)
+Australia Prize (1998)
+Gairdner Foundation International Award (1998)
+Harvey Prize (1999)
+Keio Medical Science Prize (1999)
+Passano Award (1999)
+California Scientist of the Year in 1999
+American Academy of Achievement's Golden Plate Award (2000)
+American Association for Cancer Research – G.H.A. Clowes Memorial Award (2000)
+American Cancer Society Medal of Honor (2000)
+Fellow of American Association for the Advancement of Science (2000)
+AACR-Pezcoller Foundation International Award for Cancer Research (2001)
+General Motors Cancer Research Foundation Alfred P. Sloan Award (2001)
+E.B.Wilson Award of the American Society for Cell Biology (2001)
+Bristol-Myers Squibb Award (2003)
+Robert J. and Claire Pasarow Foundation Medical Research Award (2003)
+Dr A.H. Heineken Prize for Medicine (2004)
+Benjamin Franklin Medal in Life Science of The Franklin Institute (2005)
+Albert Lasker Award for Basic Medical Research (2006) (shared with Carol W. Greider and Jack Szostak)
+Genetics Prize from the Peter Gruber Foundation (2006)
+Honorary Doctorate of Science from Harvard University (2006)
+Wiley Prize in Biomedical Sciences from the Wiley Foundation (shared with Carol W. Greider) (2006)
+Fellow of Australian Academy of Science (2007)
+Corresponding fellow of the Australian Academy of Science (2007)
+Recipient of the UCSF Women's Faculty Association Award
+Honorary Doctorate of Science from Princeton University (2007)
+Louisa Gross Horwitz Prize of Columbia University (2007) (shared with Carol W. Greider and Joseph G. Gall)
+L'Oréal-UNESCO Award for Women in Science (2008)
+Albany Medical Center Prize (2008)
+Pearl Meister Greengard Prize (2008)
+Tasmanian Honour Roll of Women (2008)
+Victorian Honour Roll of Women (2010)
+Mike Hogg Award (2009)
+Paul Ehrlich and Ludwig Darmstaedter Prize (2009) (shared with Carol W. Greider)
+The Nobel Prize in Physiology or Medicine 2009, shared with Carol W. Greider and Jack W. Szostak "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+Companion of the Order of Australia (Australia Day Honours, 2010), for "eminent service to science as a leader in the field of biomedical research, particularly through the discovery of telomerase and its role in the development of cancer and ageing of cells and through contributions as an international adviser in Bioethics."
+Fellow of the Royal Society of New South Wales (FRSN) (2010)
+California Hall of Fame (2011)
+AIC Gold Medal (2012)
+The Royal Medal of the Royal Society (2015).Blackburn was elected:
+
+President of the Salk Institute for Biological Studies (2016–2017)
+President of the American Association for Cancer Research for 2010
+President of the American Society for Cell Biology for 1998
+Foreign associate of the National Academy of Sciences (1993)
+Member of the Institute of Medicine (2000)
+Board member of the Genetics Society of America (2000–2002)
+Member of the American Philosophical Society (2006)In 2007, Blackburn was listed among Time magazine's 100 people who shape our world.
+
+
+== Personal life ==
+Blackburn splits her time living between La Jolla and San Francisco with her husband, scientist John W. Sedat, whom she met while at Cambridge, and has a son, Benjamin. In her personal life, Blackburn serves as a mentor and advocate for scientific research and policy, influencing generations to come to continue the research and work that she has initiated.
+
+
+== References ==
+
+
+== External links ==
+
+Elizabeth Blackburn on Nobelprize.org 
+Video Lecture on Telomeres and Telomeras

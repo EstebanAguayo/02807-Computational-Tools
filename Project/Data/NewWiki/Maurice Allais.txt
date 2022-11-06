@@ -1,0 +1,78 @@
+Maurice Félix Charles Allais (31 May 1911 – 9 October 2010) was a French physicist and economist, the 1988 winner of the Nobel Memorial Prize in Economic Sciences "for his pioneering contributions to the theory of markets and efficient utilization of resources", along with John Hicks (Value and Capital, 1939) and Paul Samuelson (The Foundations of Economic Analysis, 1947), to neoclassical synthesis. They formalize the self-regulation of markets, that Keynes refuted, while reiterating some of his ideas.
+Born in Paris, France, Allais attended the Lycée Lakanal, graduated from the École Polytechnique in Paris and studied at the École nationale supérieure des mines de Paris. His academic and other posts have included being Professor of Economics at the École Nationale Supérieure des Mines de Paris (since 1944) and Director of its Economic Analysis Centre (since 1946). In 1949, he received the title of doctor-engineer from the University of Paris, Faculty of Science. He also held teaching positions at various institutions, including at the University of Paris X–Nanterre. His first works oriented him towards the sciences of the concrete and the experiments of fundamental physics, on which he will also publish numerous works, notably on pendular oscillations and the laws of gravitation. It's after a trip in 1933 to the United States during the Great Depression, that he decides to make the economy. Allais died at his home in Saint-Cloud, near Paris, at the age of 99.Allais considered Léon Walras, Wilfredo Pareto, and Irving Fisher to be his primary influences. He was reluctant to write in or translate his work into English, and many of his major contributions became known to the dominant community only when they were independently rediscovered or popularized by English-speaking economists. At the same time, he claimed Keynes's liberalism and declared himself in favor of an important public sector. Allais attended the inaugural meeting of the Mont Pelerin Society, but he was alone among the attendees to refuse to sign the statement of aims because of a disagreement over the extent of property rights. He exerted an important influence, at the end of the war, on French economists such as Gérard Debreu, Jacques Lesourne, Edmond Malinvaud and Marcel Boiteux.
+Paul Samuelson   said "Had Allais earliest writings been in English, a generation of economic theory would have taken a different course", and felt the Nobel Prize should have been awarded to him much earlier. Assar Lindbeck, the chairman of the selection committee, considered Allais as "a giant within the world of economic analysis".
+
+
+== Economist ==
+Author of several theoretical and applied economics studies, his work has focused on the development of mathematical economics, especially in the fields of general equilibrium theory, capital theory, decision theory, and monetary policy. A pioneer in macroeconomic monetary analyses, the economist has been authoritative for his theoretical studies of risk, illustrated by his famous paradox: "the less the risk is, the more speculators flee." He has also been a pioneer in various fields such as the role of central banks and the pricing of public services.
+
+
+=== Inspired at first by Walras ===
+His first book develops the microeconomic aspect. With Traité d'économie pure, which he wrote between January 1941 and July 1943, based on his contributions, along with Hicks and Samuelson, to the concept of neoclassical synthesis. He anticipates several of the propositions and theorems put forward by Hicks, Samuelson and others, sometimes giving them a more general and rigorous formulation. In particular, he demonstrates the equivalence theorems that Kenneth Arrow and Gerard Debreu will find in 1954: "Every equilibrium situation in a market economy is a situation of maximum efficiency, and reciprocally, every situation of maximum efficiency Is a equilibrium situation in a market economy. " The market thus ensures economic efficiency and optimal distribution of income in the nation. At the same time, Samuelson exposed the process of trial and error which leads to the equilibrium of markets.
+In 1947, in the second part of his work Économie et Intérêt, Allais introduced time and currency and thus tackled the dynamics and growth of capitalist economies. Again, he made several proposals, that would be later attributed to other, better-known economists. He introduced the first overlapping generations model(OLG model) (later popularized and attributed to Paul Samuelson in 1958), introduced the golden rule of optimal growth before Trevor Swan and Edmund Phelps, show that an interest rate equal to the growth rate maximizes consumption. He also described the transaction demand for money rule before William Baumol and James TobinHe was also responsible for early work in Behavioral economics, which in the US is generally attributed to Daniel Kahneman and Amos Tversky.
+In the 1940s, Allais  worked on "decision theory" (or "theory of choice") under uncertainty and developed a theory of cardinal utility. Due to war conditions and his commitment to publish in French, his work was undertaken independently of Theory of games and economic behavior developed by John von Neumann and Oskar Morgenstern. He formulated the Allais paradox in 1953, which questions the traditional model of rationality of choices and contradicts the expected utility hypothesis. It shows that when confronted with a lottery, an individual does not maximize his hoped-for gains, but rather aims at certainty.
+
+
+=== Liberalism and socialism ===
+Although he participated in the Mont Pelerin Society, Allais was convinced of an affinity between liberalism and socialism, stating: "‘For the true liberal, as for the true socialist, it matters little whether the means of production are privately or collectively owned, so long as the essential goals they pursue, namely efficiency and justice, are achieved." He advocated "competitive planning" as a "possible synthesis of liberalism and socialism." In 1959, he and other French members of Mont Pelerin such as Jacques Rueff established an organization called  Mouvement pour une société libre which spoke readily of a social liberalism that would go "beyond laissez-faire and socialism."
+
+
+=== Rejection of general equilibrium theory ===
+Finally he criticizes the drifts of a discipline that privileges mathematical virtuosity at the expense of realism. With this "new scholastic totalitarianism" he moved away, in the 60s, from the analysis of the general equilibrium developed by Walras and  replace it with a study focusing on real markets rather than a  utopian market, favoring the study of imbalance and based on the idea of surplus. The economic dynamics are thus characterized by the research, the realization and the distribution of a surplus and there is a general equilibrium when there is no longer any realizable surplus.
+Allais’s Hereditary, Relativist and Logistic (HRL) theory of monetary dynamics contains an original theory of expectations formation that is a genuine alternative to both adaptive and rational expectations. It was praised by Milton Friedman in 1968 with the following words:
+"This work [the HRL formulation] introduces a very basic and important distinction between psychological time and chronological time. It is one of the most important and original paper that has been written for a long time … for its consideration of the problem of the formation of expectations".
+Allais's contribution has nevertheless been "lost": it has been absent from the debate about expectations.
+
+
+=== Position against globalization ===
+On the first page, he dedicates his book La mondialisation: destruction des emplois et de la croissance (1990), Globalization: destruction of jobs and growth, "To the countless victims worldwide of the free-trade ideology, ideology as fatal as it is erroneous, and to all those who are not blind to some partisan passion". Allais believes that Ricardo's theory is valid only in a steady state, but disappears when the specializations evolve and when the capital is mobile.
+According to him, "Globalization can only bring everywhere instability, unemployment, injustices [...] and "widespread globalization is neither inevitable nor necessary nor desirable". He considers that "unemployment arise from the offshoring, themselves due to the excessive differences in wages"; "reasoned protectionism between countries with very different incomes, is not only justified but absolutely necessary"; and the absence of protection will destroy all industries of each country with higher incomes.
+In his opinion, crisis and globalization are linked: "The financial and banking crisis which, is only the spectacular symptom of a deeper economic crisis: the deregulation of competition in the global labor market". "Current unemployment is due to this total liberalization of trade[...] As such, it constitutes a major foolishness, starting from an unbelievable contradiction. Just as attributing the crisis of 1929 to protectionist causes is a historical contradiction. The true origin was already in the careless development of credit in the years preceding it."
+In 1992, Allais criticised the Maastricht Treaty for its excessive emphasis on free trade. He also expressed reservations on the single European currency. In 2005, he expressed similar reservations concerning the European Constitution.
+
+
+== Physics ==
+
+Besides his career in economics, he performed experiments between 1952 and 1960 in the fields of gravitation, special relativity and electromagnetism, to investigate possible links between the fields. He reported three effects:
+
+An unexpected anomalous effect in the angular velocity of the plane of oscillation of a paraconical pendulum, detected during two partial solar eclipses in 1954 and 1959. The claimed effect is now called the Allais effect.
+Anomalous irregularities in the oscillation of the paraconical pendulum with respect to a sidereal diurnal periodicity of 23 hours 56 minutes and tidal periodicity of 24 hours 50 minutes.
+Anomalous irregularities in optical theodolite measurements, with the same lunisolar periodicities.Over the years, a number of pendulum experiments were performed by scientists around the world to test his findings. However, the results were mixed.
+
+
+== Bibliography ==
+Les Lignes directrices de mon œuvre, Conférence Nobel prononcée devant l'Académie royale des Sciences de Suède;
+À la recherche d'une discipline économique (1943) ;
+Économie pure et rendement social (1945) ;
+Abondance ou misère (1946) ;
+Économie et intérêt, (1947) ;
+La Gestion des houillères nationalisées et la théorie économique (1949) ;
+Le Comportement de l’homme rationnel devant le risque: critique des postulats et axiomes de l’école américaine (1953) ;
+Les Fondements comptables de la macro-économique (1954) ;
+L'Europe unie, route de la prospérité (1959) ;
+Le Tiers monde au carrefour (1961) ;
+L'Algérie d'Evian (1962);
+The Role of Capital in Economic Development (Rôle du capital dans le développement économique) (1963) ;
+Reformulation de la théorie quantitative de la monnaie (1965) ;
+Growth Without Inflation (Croissance sans inflation) (1967) ;
+La Libéralisation des relations économiques internationales – Accords commerciaux ou intégration économique (1970) ;
+L'Inflation française et la croissance – Mythologies et réalité (1974) ;
+L'Impôt sur le capital et la réforme monétaire (1976) ;
+La Théorie générale des surplus (1978) ;
+Les Conditions monétaires d'une économie de marchés (1987) ;
+Autoportrait (1989) ;
+Pour l'indexation (1990) ;
+Les Bouleversements à l’Est. Que faire? (1990) ;
+La Théorie générale des surplus et l'économie de marchés (1990 – trois mémoires de 1967, 1971, 1988) ;
+Contributions à la théorie générale de l'efficacité maximale et des surplus (1990 – quatre mémoires de 1964, 1965, 1973 et 1975) ;
+Pour la réforme de la fiscalité (1990) ;
+L'Europe face à son avenir. Que faire? (1991) ;
+Erreurs et impasses de la construction européenne (1992) ;
+Combats pour l'Europe. 1992–1994 (1994) ;
+La Crise mondiale aujourd'hui (Clément Juglar, 1999) ;
+Nouveaux combats pour l'Europe. 1995–2002 (2002) ;
+L'Europe en crise. Que faire? (2005) ;
+La Mondialisation, la destruction des emplois et de la croissance, l'évidence empirique (Ed. Clément Juglar, 2007 – ISBN 978-2-908735-12-3) ;
+Lettre aux Français – Contre les Tabous Indiscutés (2009).
+
+

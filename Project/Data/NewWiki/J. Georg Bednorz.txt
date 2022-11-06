@@ -1,0 +1,30 @@
+Johannes Georg Bednorz (German pronunciation: [ˈɡeːɔʁk ˈbɛdnɔʁt͡s] (listen); born 16 May 1950) is a German physicist who, together with K. Alex Müller, discovered high-temperature superconductivity in ceramics, for which they shared the 1987 Nobel Prize in Physics.
+
+
+== Life and work ==
+Bednorz was born in Neuenkirchen, North Rhine-Westphalia, Germany to elementary-school teacher Anton and piano teacher Elisabeth Bednorz, as the youngest of four children. His parents were both from Silesia in Central Europe, but were forced to move westwards in turbulences of World War II.As a child, his parents tried to get him interested in classical music, but he was more practically inclined, preferring to work on motorcycles and cars. (Although as a teenager he did eventually learn to play the violin and trumpet.) In high school he developed an interest in the natural sciences, focusing on chemistry, which he could learn in a hands-on manner through experiments.In 1968, Bednorz enrolled at the University of Münster to study chemistry. However, he soon felt lost in the large body of students, and opt to switch to the much less popular subject of crystallography, a subfield of mineralogy at the interface of chemistry and physics. In 1972, his teachers Wolfgang Hoffmann and Horst Böhm arranged for him to spend the summer at the IBM Zurich Research Laboratory as a visiting student. The experience here would shape his further career: not only did he meet his later collaborator K. Alex Müller, the head of the physics department, but he also experienced the atmosphere of creativity and freedom cultivated at the IBM lab, which he credits as a strong influence on his way of conducting science.After another visit in 1973, he came to Zurich in 1974 for six months to do the experimental part of his diploma work. Here he grew crystals of SrTiO3, a ceramic material belonging to the family of perovskites. Müller, himself interested in perovskites, urged him to continue his research, and after obtaining his master's degree from Münster in 1977 Bednorz started a PhD at the ETH Zurich (Swiss Federal Institute of Technology) under supervision of Heini Gränicher and Alex Müller. In 1978, his future wife, Mechthild Wennemer, whom he had met in Münster, followed him to Zürich to start her own PhD.In 1982, after obtaining his PhD, he joined the IBM lab. There, he joined Müller's ongoing research on superconductivity. In 1983, Bednorz and Müller began a systematic study of the electrical properties of ceramics formed from transition metal oxides, and in 1986 they succeeded in inducing superconductivity in a lanthanum barium copper oxide (LaBaCuO, also known as LBCO). The oxide's critical temperature (Tc) was 35 K, a full 12 K higher than the previous record. This discovery stimulated a great deal of additional research in high-temperature superconductivity on cuprate materials with structures similar to LBCO, soon leading to the discovery of compounds such as BSCCO (Tc 107K) and YBCO (Tc 92K).
+In 1987, Bednorz and Müller were jointly awarded the Nobel Prize in Physics "for their important break-through in the discovery of superconductivity in ceramic materials". In the same year Bednorz was appointed an IBM Fellow.
+
+
+== Awards and honors ==
+Thirteenth Fritz London Memorial Award (1987)
+Dannie Heineman Prize of the Göttingen Academy (1987)
+Robert Wichard Pohl Prize (1987)
+Hewlett-Packard Europhysics Prize (1988)
+Marcel Benoist Prize (1986)
+Nobel Prize for Physics (1987)
+James C. McGroddy Prize for New Materials (1988)
+Minnie Rosen Award (1988)
+Viktor Mortiz Goldschmidt Prize
+Otto Klung Prize (1987)
+National Academy of Sciences foreign associate (2018)
+Honorable member of the Swiss Physical Society since 2011
+
+
+== References ==
+
+
+== External links ==
+
+Pioneers in Electricity and Magnetism – Johannes Georg Bednorz, National High Magnetic Field Laboratory.
+Georg Bednorz on Nobelprize.org  including the Nobel Lecture, December 8, 1987 Perovskite-Type Oxides – The New Approach to High-Tc Superconductivit

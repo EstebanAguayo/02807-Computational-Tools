@@ -1,0 +1,32 @@
+Rudolph Arthur Marcus (born July 21, 1923) is a Canadian-born chemist who received the 1992 Nobel Prize in Chemistry "for his contributions to the theory of electron transfer reactions in chemical systems". Marcus theory, named after him, provides a thermodynamic and kinetic framework for describing one electron outer-sphere electron transfer. He is a professor at Caltech, Nanyang Technological University, Singapore and a member of the International Academy of Quantum Molecular Science.
+
+
+== Education and early life ==
+Marcus was born in Montreal, Quebec, the son of Esther (born Cohen) and Myer Marcus. His father was born in New York and his mother was born in England. His family background is from Ukmergė. He is Jewish and grew up mostly in a Jewish neighborhood in Montreal but also spent some of his childhood in Detroit, United States. His interest in the sciences began at a young age. He excelled at mathematics at Baron Byng High School. He then studied at McGill University under Carl A. Winkler, who had studied under Cyril Hinshelwood at the University of Oxford. At McGill, Marcus took more math courses than an average chemistry student, which would later aid him in creating his theory on electron transfer.Marcus earned a B.Sc. in 1943 and a Ph.D. in 1946, both from McGill University. In 1958, he became a naturalized citizen of the United States.
+
+
+== Career and research ==
+After graduating, in 1946, he first worked at the National Research Council (Canada) followed by University of North Carolina, and  Polytechnic Institute of Brooklyn. In 1952, at the University of North Carolina, he developed Rice–Ramsperger–Kassel–Marcus theory by combining RRK theory with transition state theory. In 1964, he taught at the University of Illinois. His approach to solving a problem is to "go full tilt."
+
+
+=== Marcus theory of electron transfer ===
+Electron transfer is one of the simplest forms of a chemical reaction. It consists of one outer-sphere electron transfer between substances of the same atomic structure likewise to Marcus’s studies between bivalent and trivalent iron ions. Electron transfer may be one of the most basic forms of chemical reaction but without it life cannot exist. Electron transfer is used in all respiratory functions as well as photosynthesis. In the process of oxidizing food molecules, two hydrogen ions, two electrons, and an oxygen molecule react to make an exothermic reaction as well as H2O (water). Due to fact that electron transfer is such a broad, common, and essential reaction within nature, Marcus's theory has become vital within the field of chemistry.
+2H+ + 2e− + 1/2 O2 → H2O + heat
+A type of chemical reaction linked to his many studies of electron transfer would be the transfer of an electron between metal ions in different states of oxidation. An example of this type of chemical reaction would be one between a bivalent and a trivalent iron ion in an aqueous solution. In Marcus's time chemists were astonished at the slow rate in which this specific reaction took place. This attracted many chemists in the 1950s and is also what began Marcus's interests in electron transfer.  Marcus made many studies based on the principles that were found within this chemical reaction, and through his studies was able to create his famous Marcus theory. This theory gave way to new experimental programs that contributed to all branches within chemistry.
+
+
+== Honors and awards ==
+Marcus was awarded honorary degrees from the University of Chicago in 1983, the University of Goteborg in 1986, the Polytechnic Institute of Brooklyn in 1987, McGill University in 1988, Queen's University in 1993, the University of New Brunswick in 1993, the University of Oxford in 1995, the University of North Carolina at Chapel Hill in 1996, the Yokohama National University in 1996, the University of Illinois at Urbana–Champaign in 1997,  the Technion – Israel Institute of Technology in 1998, the Technical University of Valencia in 1999, Northwestern University in 2000, the University of Waterloo in 2002, the Nanyang Technological University in 2010, the Tumkur University in 2012, the University of Hyderabad in 2012, and  the University of Calgary in 2013. In addition, he was awarded an honorary doctorate from the University of Santiago, Chile in 2018.
+Among the awards he received before the Nobel Prize in 1992, Marcus received the Irving Langmuir Prize in Chemical Physics in 1978, the Robinson Award of the Faraday Division of the Royal Society of Chemistry in 1982, Columbia University's Chandler Award in 1983,  the Wolf Prize in Chemistry in 1984/5, the Centenary Prize, the Willard Gibbs Award  and the Peter Debye Award  in 1988, the National Medal of Science in 1989, Ohio State's William Lloyd Evans Award in 1990,   the Theodore William Richards Award (NESACS) in 1990, the Pauling Medal,  the Remsen_Award and the Edgar Fahs Smith Lecturer in 1991, the Golden Plate Award of the American Academy of Achievement and the Hirschfelder Prize in Theoretical Chemistry in 1993.
+He also received a professorial fellowship at University College, Oxford, from 1975 to 1976.
+He was elected to the National Academy of Sciences in 1970, the American Academy of Arts and Sciences in 1973, the American Philosophical Society in 1990, received honorary membership in the Royal Society of Chemistry in 1991, and in the Royal Society of Canada in 1993. He was elected a Foreign Member of the Royal Society (ForMemRS) in 1987.In 2019 he was awarded with the Fray International Sustainability award at SIPS 2019 by FLOGEN Star Outreach 
+
+
+== References ==
+
+
+== External links ==
+Center for Oral History. "Rudolph A. Marcus". Science History Institute.
+Bohning, James J. (20 June 1991). Rudolph A. Marcus, Transcript of an Interview Conducted by James J. Bohning in Pasadena, California on 20 June 1991 (PDF). Philadelphia, PA: Chemical Heritage Foundation.
+Marcus Rudolph, Nobel Luminaries Project, The Museum of the Jewish People at Beit Hatfutsot
+Rudolph A. Marcus on Nobelprize.or

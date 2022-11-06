@@ -1,0 +1,25 @@
+William Spencer Vickrey (21 June 1914 – 11 October 1996) was a Canadian-American professor of economics and Nobel Laureate. Vickrey was awarded the 1996 Nobel Memorial Prize in Economic Sciences with James Mirrlees for their research into the economic theory of incentives under asymmetric information, becoming the only Nobel laureate born in British Columbia.
+The announcement of his Nobel Prize was made just three days prior to his death. Vickrey died while traveling to a conference of Georgist academics that he helped found and never missed once in 20 years. His Columbia University economics department colleague C. Lowell Harriss accepted the posthumous prize on his behalf. There are only three other cases where a Nobel Prize has been presented posthumously.
+
+
+== Early years ==
+Vickrey was born in Victoria, British Columbia and attended high school at Phillips Academy in Andover, Massachusetts. After obtaining his B.S. in Mathematics at Yale University in 1935, he went on to complete his M.A. in 1937 and PhD in 1948 at Columbia University, where he remained for most of his career.
+
+
+== Career ==
+Vickrey was the first to use the tools of game theory to explain the dynamics of auctions. In his seminal paper, Vickrey derived several auction equilibria, and provided an early revenue-equivalence result. The revenue equivalence theorem remains the centrepiece of modern auction theory. The Vickrey auction is named after him.Vickrey worked on congestion pricing, the notion that roads and other services should be priced so that users see the costs that arise from the service being fully used when there is still demand. Congestion pricing gives a signal to users to adjust their behavior or to investors to expand the service in order to remove the constraint. The theory was later partially put into action in London.
+In public economics, Vickrey extended the Georgist marginal cost pricing approach of Harold Hotelling and showed how public goods should be provided at marginal cost and capital investment outlays financed with land value tax. Vickrey wrote that replacing taxes on production and labor ("including property taxes on improvements") with fees for holding valuable land sites "would substantially improve the economic efficiency of the jurisdiction". Vickrey further argued that land value tax had no adverse effects and that replacing existing taxes in this way would increase local productivity enough that land prices would rise instead of fall. He also made an ethical argument for Georgist value capture, noting that owners of valuable locations still take (exclude others from) local public goods, even if they choose not to use them, so without land value tax, land users have to pay twice for those public services (once in tax to government and once in rent to holders of land title).Vickrey's economic philosophy was influenced by John Maynard Keynes and Henry George. He was sharply critical of the Chicago school of economics and was vocal in opposing the political focus on achieving balanced budgets and fighting inflation, especially in times of high unemployment. Working under General MacArthur, Vickrey helped accomplish radical land reform in Japan.Vickrey had many graduate students and protegés at Columbia University, including the economists Jacques Drèze, Harvey J. Levin, and Lynn Turgeon.
+
+
+== Personal life ==
+Vickrey married Cecile Thompson in 1951. He was a Quaker and a member of Scarsdale Friends Meeting. He died in Harrison, New York in 1996 from heart failure.
+
+
+== Selected works ==
+"Counterspeculation, Auctions, and Competitive Sealed Tenders", Journal of Finance,  1961. The paper originated auction theory, a subfield of game theory.
+"Fifteen Fatal Fallacies of Financial Fundamentalism: A Disquisition on Demand Side Economics". October 5, 1996.
+Arrow, Kenneth Joseph; Arnott, Richard J.; Atkinson, Anthony A.; Drèze, Jacques, eds. (1997). Public Economics: Selected Papers by William Vickrey. Cambridge, UK: Cambridge University Press. ISBN 978-0-521-59763-0.
+Warner, Aaron W.; Forstater, Mathew; Rosen, Sumner M., eds. (2000). Commitment to Full Employment: The Economics and Social Policy of William S. Vickrey. Armonk, N.Y: M.E. Sharpe. ISBN 978-0-7656-0633-4.
+Pavlina R. Tcherneva; Forstater, Mathew (2004). Full Employment and Price Stability: The Macroeconomic Vision of William S. Vickrey. Edward Elgar Publishing. ISBN 978-1-84376-409-0.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+
+

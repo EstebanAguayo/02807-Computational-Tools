@@ -1,0 +1,60 @@
+Roy Jay Glauber (September 1, 1925 – December 26, 2018) was an American theoretical physicist. He was the Mallinckrodt Professor of Physics at Harvard University and Adjunct Professor of Optical Sciences at the University of Arizona. Born in New York City, he was awarded one half of the 2005 Nobel Prize in Physics "for his contribution to the quantum theory of optical coherence", with the other half shared by John L. Hall and Theodor W. Hänsch. In this work, published in 1963, he created a model for photodetection and explained the fundamental characteristics of different types of light, such as laser light (see coherent state) and light from light bulbs (see blackbody). His theories are widely used in the field of quantum optics. In statistical physics he pioneered the study of the dynamics of first-order phase transitions, since he first defined and investigated the stochastic dynamics of an Ising model in a largely influential paper published in 1963.  
+He served on the National Advisory Board of the Center for Arms Control and Non-Proliferation, the research arms of Council for a Livable World.
+
+
+== Education ==
+Glauber was born in 1925 in New York City, the son of Felicia (Fox) and Emanuel B. Glauber. He was a member of the 1941 graduating class of the Bronx High School of Science, the first graduating class from that school.  He then went on to do his undergraduate work at Harvard University. After his sophomore year he was recruited to work on the Manhattan Project, where (at the age of 18) he was one of the youngest scientists at Los Alamos National Laboratory. His work involved calculating the critical mass for the atom bomb. After two years at Los Alamos, he returned to Harvard, receiving his bachelor's degree in 1946 and his PhD in 1949.
+
+
+== Research ==
+Glauber's recent research dealt with problems in a number of areas of quantum optics, a field which, broadly speaking, studies the quantum electrodynamical interactions of light and matter. He also continued work on several topics in high-energy collision theory, including the analysis of hadron collisions, and the statistical correlation of particles produced in high-energy reactions.
+Specific topics of his research included: the quantum mechanical behavior of trapped wave packets; interactions of light with trapped ions; atom counting-the statistical properties of free atom beams and their measurement; algebraic methods for dealing with fermion statistics; coherence and correlations of bosonic atoms near the Bose–Einstein condensation; the theory of continuously monitored photon counting-and its reaction on quantum sources; the fundamental nature of "quantum jumps"; resonant transport of particles produced multiply in high-energy collisions; the multiple diffraction model of proton-proton and proton-antiproton scattering.
+
+
+== Awards and honors ==
+Glauber received many honors for his research, including the Albert A. Michelson Medal from the Franklin Institute in Philadelphia (1985), the Max Born Award from the Optical Society of America (1985), the Dannie Heineman Prize for Mathematical Physics from the American Physical Society (1996), and the 2005 Nobel Prize in Physics. Professor Glauber was awarded the 'Medalla de Oro del CSIC' ('CSIC's Gold Medal') in a ceremony held in Madrid, Spain. He was elected a Foreign Member of the Royal Society (ForMemRS) in 1997.
+
+
+=== Ig Nobel ===
+For many years before winning his Nobel Prize, Glauber was familiar to audiences of the Ig Nobel Prize ceremonies, where he took a bow each year as "Keeper of the Broom," sweeping the stage clean of the paper airplanes that have traditionally been thrown during the event.  He missed the 2005 event, though, as he was being awarded his real Nobel Prize for Physics.
+
+
+== Personal life ==
+Glauber lived in Arlington, Massachusetts.
+Glauber was a guest scientist at the European Organization for Nuclear Research (CERN) in 1967, during a sabbatical. In 1951, Glauber became a temporary lecturer at the California Institute of Technology, where he replaced Richard Feynman.Glauber had a son and a daughter, and five grandchildren. He died on December 26, 2018 in Newton, Massachusetts.  His remains were laid to rest in Kensico Cemetery, Valhalla, NY.
+
+
+== Controversy regarding Nobel Prize ==
+There is controversy regarding the 2005 Nobel Prize that was awarded to Glauber but not to George Sudarshan whose ideas were rebranded by Glauber as P-representation. Glauber had criticized Sudarshan's use of classical electromagnetic theory in explaining optical fields, which surprised Sudarshan because he believed the theory provided accurate explanations. Sudarshan subsequently wrote a paper expressing his ideas and sent a preprint to Glauber. Glauber informed Sudarshan of similar results and asked to be acknowledged in the latter's paper, while criticizing Sudarshan in his own paper. "Glauber criticized Sudarshan’s representation, but his own was unable to generate any of the typical quantum optics phenomena, hence he introduces what he calls a P-representation, which was Sudarshan’s representation by another name", wrote a physicist. "This representation, which had at first been scorned by Glauber, later becomes known as the Glauber–Sudarshan representation."Sudarshan was passed over for the Physics Nobel Prize on more than one occasion, leading to controversy in 2005 when several physicists wrote to the Swedish Academy, protesting that Sudarshan should have been awarded a share of the Prize for the Sudarshan diagonal representation (also known as Glauber–Sudarshan representation) in quantum optics, for which Glauber won his share of the prize. Sudarshan and other physicists sent a letter to the Nobel Committee claiming that the P representation had more contributions of "Sudarshan" than "Glauber". The letter goes on to say that Glauber criticized Sudarshan's theory—before renaming it the "P representation" and incorporating it into his own work. In an unpublished letter to The New York Times, Sudarshan calls the "Glauber–Sudarshan representation" a misnomer, adding that "literally all subsequent theoretic developments in the field of Quantum Optics make use of" Sudarshan's work— essentially, asserting that he had developed the breakthrough. In 2007, Sudarshan told the Hindustan Times, "The 2005 Nobel prize for Physics was awarded for my work, but I wasn't the one to get it. Each one of the discoveries that this Nobel was given for work based on my research."
+
+
+== Selected publications ==
+
+
+=== Journal papers ===
+Glauber, R. J. (October 1955). "Cross Sections in Deuterium at High Energies". Physical Review. 100 (1): 242–248. doi:10.1103/physrev.100.242.
+Glauber, Roy J. (February 1963). "Photon Correlations". Physical Review Letters. 10 (3): 84–86. doi:10.1103/physrevlett.10.84.
+Glauber, Roy J. (February 1963). "Time-Dependent Statistics of the Ising Model". Journal of Mathematical Physics. 4 (2): 294–307. doi:10.1063/1.1703954.
+Glauber, Roy J. (June 1963). "The Quantum Theory of Optical Coherence". Physical Review. 130 (6): 2529–2539. doi:10.1103/physrev.130.2529.
+Glauber, Roy J. (September 1963). "Coherent and Incoherent States of the Radiation Field". Physical Review. 131 (6): 2766–2788. doi:10.1103/physrev.131.2766.
+Cahill, K. E.; Glauber, R. J. (January 1969). "Ordered Expansions in Boson Amplitude Operators". Physical Review. 177 (5): 1857–1881. doi:10.1103/physrev.177.1857.
+Cahill, K. E.; Glauber, R. J. (January 1969). "Density Operators and Quasiprobability Distributions". Physical Review. 177 (5): 1882–1902. doi:10.1103/physrev.177.1882.
+Glauber, R.J.; Matthiae, G. (1970). "High-energy scattering of protons by nuclei". Nuclear Physics B. 21 (2): 135–157. doi:10.1016/0550-3213(70)90511-0.
+Glauber, Roy J.; Lewenstein, M. (January 1991). "Quantum optics of dielectric media". Physical Review A. 43 (1): 467–491. doi:10.1103/physreva.43.467.
+Glauber, Roy J. (November 2006). "Nobel Lecture: One hundred years of light quanta". Reviews of Modern Physics. 78 (4): 1267–1278. doi:10.1103/revmodphys.78.1267.
+
+
+=== Books ===
+Glauber, Roy J. (2007). Quantum Theory of Optical Coherence: Selected Papers and Lectures. Wiley.
+Glauber, Roy J.; Osland, Per (2019). Asymptotic Diffraction Theory and Nuclear Scattering. Cambridge University Press.
+
+
+== References ==
+
+
+== External links ==
+
+2013 Video Interview with Roy Glauber by Cynthia C. Kelly Voices of the Manhattan Project
+Audio Interview with Roy Glauber by Owen Gingerich Voices of the Manhattan Project
+Glauber States: Coherent states of Quantum Harmonic Oscillator
+Roy J. Glauber at the 2012 Harvard Physics Department Faculty websit

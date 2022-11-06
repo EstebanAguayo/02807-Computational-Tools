@@ -1,0 +1,29 @@
+Howard Robert Horvitz ForMemRS NAS AAA&S APS NAM (born May 8, 1947) is an American biologist best known for his research on the nematode worm Caenorhabditis elegans, for which he was awarded the 2002 Nobel Prize in Physiology or Medicine, together with Sydney Brenner and John E. Sulston, whose "seminal discoveries concerning the genetic regulation of organ development and programmed cell death" were "important for medical research and have shed new light on the pathogenesis of many diseases".
+
+
+== Education and early life ==
+Horvitz was born in Chicago, Illinois to Jewish parents, the son of Mary R. (Savit), a school teacher, and Oscar Freedom Horvitz, a GAO accountant. He majored in mathematics at Massachusetts Institute of Technology, where he joined Alpha Epsilon Pi and spent his summers working for IBM, at first wiring panels for accounting machines and then in his final summer helping to develop IBM's Conversational Programming System.During his senior year, Horvitz took his first courses in biology and was encouraged by his professors to continue to study biology in graduate school, despite his limited coursework in the field. After he completed his undergraduate studies in 1968, he enrolled in graduate studies in biology at Harvard University, where he studied T4-induced modifications of E. coli RNA polymerase under the direction of Walter Gilbert and James Watson. He completed his PhD in 1974.
+
+
+== Career ==
+In 1974, Horvitz took a postdoctoral position at the Laboratory of Molecular Biology (LMB) in Cambridge, England, where he worked with his future Nobel prize co-winners Sydney Brenner and John Sulston on the genetics and cell lineage of C. elegans. In 1978, Horvitz was offered a faculty position at MIT, where he is currently Professor of Biology and a member of the McGovern Institute for Brain Research. He is also an Investigator of the Howard Hughes Medical Institute.
+Horvitz serves as the chair of the board of trustees for Society for Science & the Public and is a member of the USA Science and Engineering Festival's Advisory Board.
+
+
+== Research ==
+At LMB, Horvitz worked with Sulston to track every non-gonadal cell division that occurred during larval development, and published a complete description of these lineages in 1977. Later, in cooperation with Sulston and Martin Chalfie, Horvitz began investigations first characterizing several cell lineage mutants and then seeking genes that controlled cell lineage or that controlled specific linages. In 1981, they identified and characterized the gene lin-4, a "heterochronic" mutant that changes the timeline of cell fates.In his early work at MIT, Horvitz continued his work on cell lineage and cell fate, using C. elegans to investigate whether there was a genetic program controlling cell death, or apoptosis. In 1986, he identified the first "death genes", ced-3 and ced-4. He showed that functional ced-3 and ced-4 genes were a prerequisite for cell death to be executed. He went on to show that another gene, ced-9, protects against cell death by interacting with ced-4 and ced-3, as well as identifying a number of genes that direct how a dead cell is eliminated. Horvitz showed that the human genome contains a ced-3-like gene.Horvitz's later research continued to use C. elegans to analyze the genetic control of animal development and behavior, as well as to link discoveries in the nematode to human diseases, particularly cancer and neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS). He made further advancements in defining the molecular pathway of programmed cell death, and has identified several key components, including: EGL-1, a protein which activates apoptosis by inhibiting CED-9; transcription factors ces-1 and ces-2, and ced-8, which controls the timing of cell death. He has also continued work on heterochronic mutants and other aspects of cell lineage, and established lines of research in signal transduction, morphogenesis, and neural development. Horvitz has collaborated with Victor Ambros and David Bartel on a project to characterize the complete set of the more than 100 microRNAs in the C. elegans genome.
+
+
+== Works ==
+
+Robert Horvitz has over 255 publications, has been cited over 49,000 times and has an h-index of 108.
+Sulston, J.E.; Horvitz, H.R. (March 1977). "Post-embryonic cell lineages of the nematode, Caenorhabditis elegans". Developmental Biology. 56 (1): 110–156. doi:10.1016/0012-1606(77)90158-0. PMID 838129.
+Ellis, Hillary M.; Horvitz, H. Robert (28 March 1986). "Genetic control of programmed cell death in the nematode C. elegans". Cell. 44 (6): 817–829. doi:10.1016/0092-8674(86)90004-8. PMID 3955651. S2CID 44031839.
+Ellis, R E; Yuan, J; Horvitz, H R (November 1991). "Mechanisms and Functions of Cell Death". Annual Review of Cell Biology. 7 (1): 663–698. doi:10.1146/annurev.cb.07.110191.003311. PMID 1809356.
+Yuan, J; Shaham, S; Ledoux, S; Ellis, HM; Horvitz, HR (19 November 1993). "The C. elegans cell death gene ced-3 encodes a protein similar to mammalian interleukin-1 beta-converting enzyme". Cell. 75 (4): 641–52. doi:10.1016/0092-8674(93)90485-9. PMID 8242740.
+Hengartner, MO; Horvitz, HR (25 February 1994). "C. elegans cell survival gene ced-9 encodes a functional homolog of the mammalian proto-oncogene bcl-2". Cell. 76 (4): 665–76. doi:10.1016/0092-8674(94)90506-1. PMID 7907274. S2CID 29437409.
+
+
+== Awards and honors ==
+
+

@@ -1,0 +1,31 @@
+Sir John Ernest Walker  (born 7 January 1941) is a British chemist who won the Nobel Prize in Chemistry in 1997. As of 2015 Walker is Emeritus Director and Professor at the MRC Mitochondrial Biology Unit in Cambridge, and a Fellow of Sidney Sussex College, Cambridge.
+
+
+== Early life and education ==
+Walker was born in Halifax, Yorkshire, the son of Thomas Ernest Walker, a stonemason, and Elsie Lawton, an amateur musician. He was brought up with his two younger sisters (Judith and Jen) in a rural environment and went to Rastrick Grammar School. At school, he was a keen sportsman and specialized in physical sciences and mathematics during his final three years there. He received a Bachelor of Arts degree in Chemistry from St Catherine's College, Oxford. Walker began his study of peptide antibiotics with Edward Abraham at Oxford in 1965 and received his Doctor of Philosophy degree in 1969. During this period, he became interested in developments in molecular biology.
+
+
+== Career and research ==
+From 1969 to 1971, Walker worked at the University of Wisconsin–Madison, and from 1971–1974 in France. He met Fred Sanger in 1974 at a workshop at the University of Cambridge. This resulted in an invitation to work at the Laboratory of Molecular Biology of the Medical Research Council, which became a long-term appointment. Among the other staff was Francis Crick, who was well known for his discovery of the molecular structure of DNA. At first, he analyzed the sequences of proteins and then uncovered details of the modified genetic code in mitochondria. In 1978, he decided to apply protein chemical methods to membrane proteins. In this way, Walker characterized the subunit composition of proteins in the mitochondrial membrane and the DNA sequence of the mitochondrial genome.
+His landmark crystallographic studies of the F1-ATPase, the catalytic region of the ATP synthase  (done in collaboration with crystallographer Andrew Leslie), from bovine heart mitochondria revealed the three catalytic sites in three different conformations imposed by the position of the asymmetric central stalk. This structure supported the binding change mechanism and rotary catalysis for the ATP synthase (and related enzymes), one of the catalytic mechanisms proposed by Paul Boyer. This work, published in 1994, led to Walker's share of the 1997 Nobel prize for chemistry. Since this structure, Walker and his colleagues have produced most of the crystal structures in the PDB of mitochondrial ATP synthase, including transition state structures and protein with bound inhibitors and antibiotics. Scientists trained in Walker's group at the MRC Laboratory of Molecular Biology in Cambridge or MRC Mitochondrial Biology Unit have gone on to determine crystal bacterial complex I and cryo-EM maps of mitochondrial complex I and vacuolar type ATPases.
+
+
+=== Teaching and mentoring ===
+Students and postdoctoral research fellows who studied with John Walker who have gone on to independent research careers include:
+
+
+=== Awards and honours ===
+Walker was elected an EMBO Member in 1984. He shared his Nobel Prize with the American chemist Paul D. Boyer for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate. They also shared the prize with Danish chemist Jens C. Skou for research unrelated to theirs (Discovery of the Na+/K+-ATPase). Sir John was knighted in 1999 for services to molecular biology. He is a member of the Advisory Council for the Campaign for Science and Engineering. He was elected a Fellow of the Royal Society (FRS) in 1995. Walker is also a Foreign Associate of the National Academy of Sciences and an Honorary Fellow of St Catherine's College, Oxford. He became a foreign member of the Royal Netherlands Academy of Arts and Sciences in 1999. In 2012 he was awarded the Copley Medal.
+
+
+== Personal life ==
+Walker married Christina Westcott in 1963, and has two daughters.
+
+
+== External links ==
+Interview by Alan Macfarlane 14 January 2008 (video)Honorary members of the Mitochondrial Physiology Society
+
+
+== References ==
+
+ This article incorporates text available under the CC BY 4.0 license

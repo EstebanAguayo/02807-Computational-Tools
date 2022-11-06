@@ -1,0 +1,26 @@
+Leonid Vitaliyevich Kantorovich (Russian: Леони́д Вита́льевич Канторо́вич, IPA: [lʲɪɐˈnʲit vʲɪˈtalʲjɪvʲɪtɕ kəntɐˈrovʲɪtɕ] (listen); 19 January 1912 – 7 April 1986) was a Soviet mathematician and economist, known for his theory and development of techniques for the optimal allocation of resources. He is regarded as the founder of linear programming. He was the winner of the Stalin Prize in 1949 and the Nobel Memorial Prize in Economic Sciences in 1975.
+
+
+== Biography ==
+Kantorovich was born on 19 January 1912, to a Russian Jewish family. His father was a doctor practicing in Saint Petersburg. In 1926, at the age of fourteen, he began his studies at Leningrad State University. He graduated from the Faculty of Mathematics and Mechanics in 1930, and began his graduate studies. In 1934, at the age of 22 years, he became a full professor.
+Later, Kantorovich worked for the Soviet government. He was given the task of optimizing production in a plywood industry. He devised the mathematical technique now known as linear programming in 1939, some years before it was advanced by George Dantzig. He authored several books including The Mathematical Method of Production Planning and Organization (Russian original 1939), The Best Uses of Economic Resources (Russian original 1959), and, with Vladimir Ivanovich Krylov, Approximate methods of higher analysis (Russian original 1936). For his work, Kantorovich was awarded the Stalin Prize in 1949.
+After 1939, he became a professor at Military Engineering-Technical University. During the Siege of Leningrad, Kantorovich was a professor at VITU of Navy and worked on safety of the Road of Life. He calculated the optimal distance between cars on ice in dependence of the thickness of ice and the temperature of the air. In December 1941 and January 1942, Kantorovich walked himself between cars driving on the ice of Lake Ladoga on the Road of Life to ensure that  cars did not sink. However, many cars with food for survivors of the siege were destroyed by the German airstrikes. In 1948 Kantorovich was assigned to the atomic project of the USSR. For his feat and courage Kantorovich was awarded the Order of the Patriotic War, and was decorated with the medal For Defense of Leningrad.
+After 1960, Kantorovich lived and worked in Novosibirsk, where he created and took charge of the Department of Computational Mathematics in Novosibirsk State University.The Nobel Memorial Prize, which he shared with Tjalling Koopmans, was given "for their contributions to the theory of optimum allocation of resources."
+
+
+== Mathematics ==
+In mathematical analysis, Kantorovich had important results in functional analysis, approximation theory, and operator theory.
+In particular, Kantorovich formulated some fundamental results in the theory of normed vector lattices, especially in Dedekind complete vector lattices called "K-spaces" which are now referred to as "Kantorovich spaces" in his honor.
+Kantorovich showed that functional analysis could be used in the analysis of iterative methods, obtaining the Kantorovich inequalities on the convergence rate of the gradient method and of Newton's method (see the Kantorovich theorem).
+Kantorovich considered infinite-dimensional optimization problems, such as the Kantorovich-Monge problem in transport theory. His analysis proposed the Kantorovich-Rubinstein metric, which is used in probability theory, in the theory of the weak convergence of probability measures.
+
+		
+		
+
+
+== See also ==
+List of Russian mathematicians
+List of economists
+Shadow price
+
+

@@ -1,0 +1,48 @@
+Paul Christian Lauterbur (May 6, 1929 – March 27, 2007) was an American chemist who shared the Nobel Prize in Physiology or Medicine in 2003 with Peter Mansfield for his work which made the development of magnetic resonance imaging (MRI) possible.Lauterbur was a professor at Stony Brook University from 1963 until 1985, where he conducted his research for the development of the MRI. In 1985 he became a professor along with his wife Joan at the University of Illinois at Urbana-Champaign for 22 years until his death in Urbana.  He never stopped working with undergraduates on research, and he served as a professor of chemistry, with appointments in bioengineering, biophysics, the College of Medicine at Urbana-Champaign and computational biology at the Center for Advanced Study.
+
+
+== Early life ==
+Lauterbur was of Luxembourgish ancestry. Born and raised in Sidney, Ohio, Lauterbur graduated from Sidney High School, where a new Chemistry, Physics, and Biology wing was dedicated in his honor. As a teenager, he built his own laboratory in the basement of his parents' house.  His chemistry teacher at school understood that he enjoyed experimenting on his own, so the teacher allowed him to do his own experiments at the back of class.When he was drafted into the United States Army in the 1953s, he was assigned to the Army Chemical Center in Edgewood, Maryland. His superiors allowed him to spend his time working on an early nuclear magnetic resonance (NMR) machine; he had published four scientific papers by the time he left the Army. Paul became an atheist later on.
+
+
+== Education and career ==
+Lauterbur received a BS in chemistry from the Case Institute of Technology, now part of Case Western Reserve University in Cleveland, Ohio where he became a Brother of the Alpha Delta chapter of Phi Kappa Tau fraternity. He then went to work at the Mellon Institute laboratories of the Dow Corning Corporation, with a 2-year break to serve at the Army Chemical Center in Edgewood, Maryland. While working at Mellon Institute he pursued graduate studies in chemistry at the University of Pittsburgh. Earning his PhD in 1962, the following year Lauterbur accepted a position as associate professor at Stony Brook University. As a visiting faculty in chemistry at Stanford University during the 1969–1970 academic year, he undertook NMR-related research with the help of local businesses Syntex and Varian Associates. Lauterbur returned to Stony Brook, continuing there until 1985 when he moved to the University of Illinois.
+
+
+== The development of the MRI ==
+Lauterbur credits the idea of the MRI to a brainstorm one day at a suburban Pittsburgh Eat'n Park Big Boy Restaurant, with the MRI's first model scribbled on a table napkin while he was a student and researcher at both the University of Pittsburgh and the Mellon Institute of Industrial Research.  The further research that led to the Nobel Prize was performed at Stony Brook University in the 1970s.
+The Nobel Prize in Physics in 1952, which went to Felix Bloch and Edward Purcell, was for the development of nuclear magnetic resonance (NMR), the scientific principle behind MRI. However, for decades magnetic resonance was used mainly for studying the chemical structure of substances. It wasn't until the 1970s with Lauterbur's and Mansfield's developments that NMR could be used to produce images of the body.
+Lauterbur used the idea of Robert Gabillard (developed in his doctoral thesis, 1952) of introducing gradients in the magnetic field which allows for determining the origin of the radio waves emitted from the nuclei of the object of study. This spatial information allows two-dimensional pictures to be produced.While Lauterbur conducted his work at Stony Brook, the best NMR machine on campus belonged to the chemistry department; he had to visit it at night to use it for experimentation and would carefully change the settings so that they would return to those of the chemists' as he left.   The original MRI machine is located at the Chemistry building on the campus of Stony Brook University in Stony Brook, New York.
+Some of the first images taken by Lauterbur included those of a 4-mm-diameter clam his daughter had collected on the beach at the Long Island Sound, green peppers and two test tubes of heavy water within a beaker of ordinary water; no other imaging technique in existence at that time could distinguish between two different kinds of water.  This last achievement is particularly important as the human body consists mostly of water.When Lauterbur first submitted his paper with his discoveries to Nature, the paper was rejected by the editors of the journal. Lauterbur persisted and requested them to review it again, upon which time it was published and is now acknowledged as a classic Nature paper. The Nature editors pointed out that the pictures accompanying the paper were too fuzzy, although they were the first images to show the difference between heavy water and ordinary water. Lauterbur said of the initial rejection: "You could write the entire history of science in the last 50 years in terms of papers rejected by Science or Nature."Peter Mansfield of the University of Nottingham in the United Kingdom took Lauterbur's initial work another step further, replacing the slow (and prone to artefacts) projection-reconstruction method used by Lautebur's original technique with a method that used frequency and phase encoding by spatial gradients of magnetic field. Owing to Larmor precession, a mathematical technique called a Fourier transformation could then be used to recover the desired image, greatly speeding up the imaging process.Lauterbur unsuccessfully attempted to file patents related to his work to commercialize the discovery. The State University of New York chose not to pursue patents, with the rationale that the expense would not pay off in the end. "The company that was in charge of such applications decided that it would not repay the expense of getting a patent. That turned out not to be a spectacularly good decision," Lauterbur said in 2003. He attempted to get the federal government to pay for an early prototype of the MRI machine for years in the 1970s, and the process took a decade.  The University of Nottingham did file patents which later made Mansfield wealthy.
+
+
+== Nobel Prize ==
+Lauterbur was awarded the Nobel Prize along with Mansfield in the fall of 2003.  Controversy occurred when Raymond Damadian took out full-page ads in The New York Times, The Washington Post and The Los Angeles Times headlined "The Shameful Wrong That Must Be Righted" saying that the Nobel committee had not included him as a Prize winner alongside Lauterbur and Mansfield for his early work on the MRI. Damadian claimed that he discovered MRI and the two Nobel-winning scientists refined his technology.
+The New York Times published an editorial saying that while scientists credit Damadian for holding an early patent in MRI technology, Lauterbur and Mansfield expanded upon Herman Carr's technique in order to produce first 2D and then 3D MR images. The editorial deems this to be worthy of a Nobel prize even though it states clearly in Alfred Nobel's will that prizes are not to be given out solely on the basis of improving an existing technology for commercial use.  The newspaper then points out a few cases in which precursor discoveries had been awarded with a Nobel, along with a few deserving cases in which it had not, such as Rosalind Franklin, Oswald Avery, Robert Gabillard.
+
+
+== Death ==
+Lauterbur died aged 77 in March 2007 of kidney disease at his home in Urbana, Illinois.  University of Illinois Chancellor Richard Herman said, "Paul's influence is felt around the world every day, every time an MRI saves the life of a daughter or a son, a mother or a father."
+
+
+== Other awards and honors ==
+Albert Lasker Award for Clinical Medical Research, 1984
+General Motors Cancer Research Foundation Kettering Prize, 1985
+Gairdner Foundation International Award, 1985
+The Harvey Prize, 1986
+National Medal of Science, 1987
+National Medal of Technology, 1988, (with Raymond Damadian)
+Bower Award, Franklin Institute of Philadelphia, 1990 (first recipient)
+Carnegie Mellon Dickson Prize in Science in 1993.
+NAS Award for Chemistry in Service to Society of the National Academy of Sciences, 2001
+Charter member, Phi Kappa Tau Hall of Fame in 2006.
+National Inventors Hall of Fame, class of 2007
+Asteroid 255598 Paullauterbur, discovered by Italian amateur astronomer Silvano Casulli in 2006, was named in his honor. The official naming citation was published by the Minor Planet Center on January 12, 2017 (M.P.C. 103028).
+
+
+=== Honorary Degrees ===
+Carnegie-Mellon University in Pittsburgh
+University of Liège in Belgium
+Nicolaus Copernicus University Medical School in Kraków, Poland
+
+

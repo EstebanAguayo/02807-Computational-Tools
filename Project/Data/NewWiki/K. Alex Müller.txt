@@ -1,0 +1,35 @@
+Karl Alexander Müller (born 20 April 1927) is a Swiss physicist and Nobel laureate. He received the Nobel Prize in Physics in 1987 with Georg Bednorz for their work in superconductivity in ceramic materials.
+
+
+== Biography ==
+Müller was born in Basel, Switzerland, on 20 April 1927, to Irma (née Feigenbaum) and Paul Müller. His family immediately moved to Salzburg, Austria, where his father was studying music. Alex and his mother then moved to Dornach, near Basel, to the home of his grandparents. Then they moved to Lugano, in the Italian-speaking part of Switzerland, where he learned to speak Italian fluently. His mother died when he was 11.
+In the spring of 1956 Müller married Ingeborg Marie Louise Winkler. They had a son, Eric, in the summer of 1957, and a daughter, Sylvia, in 1960.
+
+
+== Education ==
+After his mother’s death, Müller was sent to school at the Evangelical College in Schiers, in the eastern part of Switzerland. Here he studied from 1938 to 1945, obtaining his baccalaureate (Matura).
+Müller then enrolled in the Physics and Mathematics Department of the Swiss Federal Institute of Technology (ETH Zürich). He took courses by Wolfgang Pauli, who made a deep impression on him. After receiving his Diplom, he worked for one year, then returned to ETH Zürich for a PhD, submitting his thesis at the end of 1957.
+
+
+== Career ==
+Müller joined the Battelle Memorial Institute in Geneva, soon becoming the manager of a magnetic resonance group. During this time he became a lecturer at the University of Zürich. In 1963 he accepted an offer as a research staff member at the IBM Zürich Research Laboratory in Rüschlikon, where he remained until his retirement. In parallel, he maintained his affiliation with University of Zurich where he was appointed professor in 1970. From 1972 to 1985 Müller was manager of the ZRL physics department. In 1982 he became an IBM Fellow. He received an honorary doctorate from Technical University of Munich and University of Geneva. In 1987 (before winning the Nobel Prize) he got an honorary degree (laurea honoris causa) in Physics from the University of Pavia.
+
+
+== Research ==
+
+For his undergraduate diploma work, Müller studied under G. Busch. He worked on the Hall Effect in gray tin, a semimetal.
+Between his undergraduate degree and beginning his graduate studies, he worked for one year in the Department of Industrial Research at ETH on the Eidophor large-scale display system.
+At IBM his research for almost 15 years centered on SrTiO3 (strontium titanate) and related perovskite compounds. He studied their photochromic properties when doped with various transition-metal ions; their chemical binding, ferroelectric and soft-mode properties; and the critical and multicritical phenomena of their structural phase transitions. Important highlights of this research have been published in a book written together with Tom Kool from the University of Amsterdam (publisher: World Scientific).
+
+
+== Nobel Prize–winning work ==
+
+In the early 1980s, Müller began searching for substances that would become superconductive at higher temperatures. The highest critical temperature (Tc) attainable at that time was about 23 K. In 1983 Müller recruited Georg Bednorz to IBM, to help systematically test various oxides. A few recent studies had indicated these materials might superconduct, but experts who knew about Müller’s idea thought it was “crazy”. In 1986 the two researchers succeeded in achieving superconductivity in lanthanum barium copper oxide (LBCO) at a temperature of 35 K. Over the previous 75 years the critical temperature had risen from 11 K in 1911 to 23 K in 1973 where it had remained for 13 years. Thus 35 K was incredibly high by the prevailing standards of superconductivity research. This discovery stimulated a great deal of additional research in high-temperature superconductivity, leading to the discovery of compounds such as BSCCO (Tc = 107 K) and YBCO (T'c = 92 K).
+They reported their discovery in the June 1986 issue of Zeitschrift für Physik B. Before the end of the year, Shoji Tanaka at the University of Tokyo and then Paul Chu at the University of Houston had each independently confirmed their result. A couple of months later Chu achieved superconductivity at 93 K in YBCO, triggering a stampede of scientific interest exemplified by the 1987 "Woodstock of physics", at which Müller was a featured presenter.In 1987 Müller and Bednorz were jointly awarded the Nobel Prize in physics—the shortest time between the discovery and the prize award for any scientific Nobel.
+
+
+=== Other honors ===
+Honorary degree, University of Pavia, 1987.
+Honorary degree, dr. techn., Norwegian University of Science and Technology, 1992.
+
+

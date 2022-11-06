@@ -1,0 +1,53 @@
+Otto Loewi (German: [ˈɔtoː ˈløːvi] (listen); 3 June 1873 – 25 December 1961) was a German-born pharmacologist and psychobiologist who discovered the role of acetylcholine as an endogenous neurotransmitter. For his discovery he was awarded the Nobel Prize in Physiology or Medicine in 1936, which he shared with Sir Henry Dale, who was a lifelong friend that helped to inspire the neurotransmitter experiment. Loewi met Dale in 1902 when spending some months in Ernest Starling's laboratory at University College, London.
+
+
+== Biography ==
+Loewi was born in Frankfurt, Germany on June 3, 1873 in a Jewish family. He went to study medicine at the University of Strasbourg , Germany (now part of France) in 1891, where he attended courses by famous professors Gustav Schwalbe, Oswald Schmiedeberg, and Bernhard Naunyn among others. He received his medical doctoral degree in 1896. He also was a member of the fraternity Burschenschaft Germania Strassburg.Subsequently, he worked with Martin Freund at Goethe University of Frankfurt and with Franz Hofmeister in Strasbourg. From 1897 to 1898, he served as an assistant to Carl von Noorden, clinician at the City Hospital in Frankfurt. Soon, however, after seeing the high mortality in countless cases of far-advanced tuberculosis and pneumonia, left without any treatment because of lack of therapy, he decided to drop his intention to become a clinician and instead to carry out research in basic medical science, in particular pharmacology. In 1898, he became an assistant of Professor Hans Horst Meyer, the renowned pharmacologist at the University of Marburg. During his first years in Marburg, Loewi's studies were in the field of metabolism. As a result of his work on the action of phlorhizin, a glucoside provoking glycosuria, and another one on nuclein metabolism in man, he was appointed «Privatdozent» (lecturer) in 1900. Two years later he published his paper «Über Eiweisssynthese im Tierkörper» (on protein synthesis in the animal body), proving that animals are able to rebuild their proteins from their degradation products, the amino acids – an essential discovery with regard to nutrition.
+
+In 1902 Loewi was a guest researcher in Ernest Starling's laboratory in London, where he met his lifelong friend Henry Dale.
+In 1903, he accepted an appointment at the University of Graz in Austria, where he would remain until being forced out of the country in 1938. In 1905, Loewi became Associate Professor at Meyer's laboratory and received Austrian citizenship. In 1909 he was appointed to the Chair of Pharmacology in Graz.
+He married Guida Goldschmiedt (1889-1958) in 1908.  They had three sons and a daughter.  He was the last Jew hired by the University between 1903 and the end of the war.
+In 1921, Loewi investigated how vital organs respond to chemical and electrical stimulation. He also established their relative dependence on epinephrine for proper function. Consequently, he learnt how nerve impulses are transmitted by chemical messengers. The first chemical neurotransmitter that he identified was acetylcholine.
+After being arrested, along with two of his sons, on the night of the German invasion of Austria, March 11, 1938, Loewi was released after three months on condition that he "voluntarily" relinquish all his possessions, including his research, to the Nazis. He went initially to Britain and shortly afterwards the he was offered a visiting professorship at the Université libre de Bruxelles via the Francqui Foundation. Loewi moved to the United States in 1940, where he became a research professor at the New York University College of Medicine. In 1946, he became a naturalized citizen of the United States. In 1954, he became a Foreign Member of the Royal Society. He died in New York City on December 25, 1961.
+Shortly after Loewi's death in late 1961, his youngest son bestowed the gold Nobel medal on the Royal Society in London.  He gave the Nobel diploma to the University of Graz in Austria in 1983, where it currently resides, along with a bronze copy of a bust of Loewi.  The original of the bust is at the Marine Biological Laboratory in Woods Hole, Massachusetts, Loewi's summer home from his arrival in the US until his death.
+
+
+== Research ==
+
+Before Loewi's experiments, it was unclear whether signaling across the synapse was bioelectrical or chemical. While pharmacology experiments had established that physiological responses such as muscle contraction could be induced by chemical application, there was no evidence that cells released chemical substances to cause these responses. On the contrary, researchers had shown that physiological responses could be caused by applying an electrical impulse, which suggested that electrical transmission may be the only mode of endogenous signaling. In the early 20th century the controversy of whether cells used chemical or electrical transmission divided even the most prominent scientists.Loewi's famous experiment, published in 1921, largely answered this question. He dissected out of frogs two beating hearts: one with the vagus nerve which controls heart rate attached, the other heart on its own. Both hearts were bathed in a saline solution (i.e. Ringer's solution). By electrically stimulating the vagus nerve, Loewi made the first heart beat slower. Then, Loewi took some of the liquid bathing the first heart and applied it to the second heart. The application of the liquid made the second heart also beat slower, proving that some soluble chemical released by the vagus nerve was controlling the heart rate. He called the unknown chemical Vagusstoff, naming it after the nerve and the German word for substance. It was later found that this chemical corresponded to acetylcholine. His experiment was iconic because it was the first to demonstrate the endogenous release of a chemical substance that could cause a response in the absence of electrical stimulation. It paved the way for the understanding that the electrical signaling event (action potential) causes a chemical event (release of neurotransmitter from synapses) that is ultimately the effector on the tissue.
+Loewi's investigations "On an augmentation of adrenaline release by cocaine" and "On the connection between digitalis and the action of calcium" stimulated a considerable body of research in the years following their publication.
+He also clarified two mechanisms of therapeutic importance: the blockade and the augmentation of nerve action by certain drugs.
+Loewi is also known for the means by which the idea for his experiment came to him. On Easter Saturday 1921, he dreamed of an experiment that would prove once and for all that transmission of nerve impulses was chemical, not electrical. He woke up, scribbled the experiment onto a scrap of paper on his night-stand, and went back to sleep.
+The next morning, he found, to his horror, that he couldn't read his midnight scribbles. That day, he said, was the longest day of his life, as he could not remember his dream. That night, however, he had the same dream. This time, he immediately went to his lab to perform the experiment.  From that point on, the consensus was that the Nobel was not a matter of "if" but of "when."
+Thirteen years later, Loewi was awarded the Nobel Prize in Physiology or Medicine, which he shared with Sir Henry Hallett Dale.
+
+
+== Loewi's mydriatic test ==
+Loewi observed the removing the pancreas from dogs, giving them an experimental form of diabetes led a change of the response of the eye to adrenaline: this compound in normal dogs has no effect, but in the dogs without a pancreas the pupil dilated. 
+This test involves instilling repeated doses of 1:1000 adrenaline solution into the eye and looking for pupillary dilation. Surgeons used this as a diagnostic test for acute pancreatitis, which was based on Loewi's observation of such a phenomenon in dogs that had had their pancreas removed. The usefulness of this test was reported in a case series of two patients; it was, as expected, negative in a case involving carcinoma of the bile duct, but positive in a case of pancreatitis. The effectiveness of this test was subsequently investigated. The mechanism of action of this phenomenon is unclear, but has been attributed to "probably due to a functional toxic disturbance of the sympathetic post-ganglionic neuron innervating the iris".
+
+
+== Awards and honours ==
+1936: Nobel Prize for Medicine (with Henry Hallett Dale)
+Honorary doctorates from New York University, Yale University, University of Graz and the University of Frankfurt
+Physiology Prize of the Royal Academy of Sciences of Bologna
+Lieben Prize of the Academy of Vienna
+1944: Cameron Prize for Therapeutics of the University of Edinburgh
+Honorary member of The Physiological Society in London, Harvey Society in New York and the Società Italiana di Biologia Sperimentale
+Corresponding member of the Medical Association in Vienna, Biological Society of Vienna, and the Society for the Advancement of Science in Marburg.
+Member of the German Academy of Sciences Leopoldina in Halle.
+Elected a Foreign Member of the Royal Society (ForMemRS) in 1954
+1957: Schmiedeberg badge of the German Pharmacological Society
+1959: Austrian Medal for Science and Art
+1959: Honorary Ring of the city of Graz
+A street, "Otto Loewi Gasse" was named after him in the parish of St. Peter, Graz, Austria.
+
+
+== References ==
+
+
+== External links ==
+Otto Loewi on Nobelprize.org  including the Nobel Lecture, December 12, 1936 The Chemical Transmission of Nerve Action
+Nobel Lectures, Physiology or Medicine 1922–1941, Elsevier Publishing Company, Amsterdam, 1965.
+Kandel ER, Schwartz JH, Jessell TM. Principles of Neural Science, 4th ed. McGraw-Hill, New York (2000). ISBN 0-8385-7701-6
+From the Workshop of Discoveries Porter Lecture at the University of Kansas, 1953 (University of Kansas Press, Lawrence, 1953). Full-text PDF file

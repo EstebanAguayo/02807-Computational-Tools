@@ -1,0 +1,47 @@
+Paul Greengard (December 11, 1925 – April 13, 2019) was an American neuroscientist best known for his work on the molecular and cellular function of neurons. In 2000, Greengard, Arvid Carlsson and Eric Kandel were awarded the Nobel Prize for Physiology or Medicine for their discoveries concerning signal transduction in the nervous system. He was Vincent Astor Professor at Rockefeller University, and served on the Scientific Advisory Board of the Cure Alzheimer's Fund, as well as the Scientific Council of the Brain & Behavior Research Foundation. He was married to artist Ursula von Rydingsvard.
+
+
+== Biography ==
+Greengard was born in New York City, the son of Pearl (née Meister) and Benjamin Greengard, a vaudeville comedian. His older sister was actress Irene Kane, who later became a writer by the name of Chris Chase; she died in 2013, aged 89. Their mother died in childbirth and their father remarried in 1927. The Greengard siblings' parents were Jewish, but their stepmother was Episcopalian. He and his sister were "brought up in the Christian tradition".During World War II, he served in the United States Navy as an electronics technician at the Massachusetts Institute of Technology working on an early warning system against Japanese kamikaze planes. After World War II, he attended Hamilton College where he graduated in 1948 with a bachelor's degree in mathematics and physics. He decided against graduate school in physics because most post-war physics research was focusing on nuclear weapons, and instead became interested in biophysics.
+Greengard began his graduate studies at Johns Hopkins University in the lab of Haldan Keffer Hartline. Inspired by a lecture by Alan Hodgkin, Greengard began work on the molecular and cellular function of neurons. He received his PhD in 1953 and began postdoctoral work at the University of London, Cambridge University, and the University of Amsterdam. Greengard then became director of the Department of Biochemistry at the Geigy Research Laboratories.
+After leaving Geigy in 1967, he worked briefly at the Albert Einstein College of Medicine and Vanderbilt University before taking a position as Professor in the Department of Pharmacology at Yale University. In 1983 he joined the faculty of The Rockefeller University. Greengard was a member of the Board of Scientific Governors at The Scripps Research Institute. He was the acting chairman of the Fisher Center for Alzheimer's Research Foundation and served on the board of the Michael Stern Parkinson's Research Foundation, which later merged with The Michael J. Fox Foundation. Both internationally renowned foundations support the research conducted in the Greengard laboratory at The Rockefeller University.He died on April 13, 2019.
+
+
+== Research ==
+Greengard's research focused on events inside the neuron caused by neurotransmitters. Specifically, Greengard and his fellow researchers studied the behavior of second messenger cascades that transform the docking of a neurotransmitter with a receptor into permanent changes in the neuron. In a series of experiments, Greengard and his colleagues showed that when dopamine interacts with a receptor on the cell membrane of a neuron, it causes an increase in cyclic AMP inside the cell. This increase of cyclic AMP, in turn activates a protein called protein kinase A, which turns other proteins on or off by adding phosphate groups in a reaction known as phosphorylation. The proteins activated by phosphorylation can then perform a number of changes in the cell: transcribing DNA to make new proteins, moving more receptors to the synapse (and thus increasing the neuron's sensitivity), or moving ion channels to the cell surface (and thus increasing the cell's excitability). He shared the 2000 Nobel Prize in Physiology or Medicine with Arvid Carlsson and Eric Kandel for his work on the central regulatory protein DARPP-32.
+
+
+== Family ==
+Paul Greengard had two sons from his first marriage, Claude and Leslie. Claude Greengard holds a PhD in mathematics from UC Berkeley, and is the Founder of Foss Hill Partners. Leslie holds an MD from the Yale School of Medicine and a PhD in computer science from Yale University, and is a professor of mathematics and computer science at and former director of the Courant Institute of Mathematical Sciences at NYU, a winner of the Steele Prize for a seminal contribution to research, a recipient of both a Packard Foundation Fellowship and an NSF Presidential Young Investigator Award, and a member of both the U.S. National Academy of Engineering and the U.S. National Academy of Sciences. In 1985, Paul Greengard married internationally renowned sculptor Ursula von Rydingsvard, who has received numerous awards and grants, including two awards from the National Endowment of the Arts, a Guggenheim Fellowship, the Skowhegan Medal for Sculpture, and three awards from the American section of the International Association of Art Critics. von Rydingsvard is a member of the American Academy of Arts and Letters, and her artworks are among the permanent collections of the Museum of Modern Art, the Metropolitan Museum of Art, The Brooklyn Museum, the Nelson-Atkins Museum of Art, the National Gallery of Art and the Walker Art Center.
+
+
+== Discrimination complaints ==
+In February 2018, a federal jury in the Southern District of New York found The Rockefeller University liable for discrimination based on race and national origin which occurred in 2007 in the lab of, and under the supervision of, Greengard.
+
+
+== Pearl Meister Greengard Prize ==
+Paul Greengard used his Nobel Prize honorarium to help fund the Pearl Meister Greengard Prize, an award for women scientists. The award is named after his mother, who died during childbirth. It was established in 2004 to shine a spotlight on exceptional women in science, since, as Greengard observed, "[women] are not yet receiving awards and honors at a level commensurate with their achievements." The annual prize is awarded to an outstanding woman conducting biomedical research.
+
+
+== Awards and honors ==
+Elected member of the National Academy of Sciences (1978)
+Elected member of the American Academy of Arts and Sciences (1978)
+NAS Award in the Neurosciences from the National Academy of Sciences (1991)
+Karl Spencer Lashley Award (1993)
+Elected member of the American Philosophical Society (1994)
+Golden Plate Award of the American Academy of Achievement (2002)
+Honoris causa degree in Medicine, (September 2007) University of Brescia
+Member of the Norwegian Academy of Science and Letters
+
+
+== References ==
+
+
+== Sources ==
+Les Prix Nobel. 2001. The Nobel Prizes 2000, Editor Tore Frängsmyr, Nobel Foundation: Stockholm.
+
+
+== External links ==
+Paul Greengard on Nobelprize.org  including the Nobel Lecture on 8 December 2000 The Neurobiology of Dopamine Signaling
+The Greengard Lab at The Rockefeller University
+Paul Greengard US Patent

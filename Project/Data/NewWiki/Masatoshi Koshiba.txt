@@ -1,0 +1,49 @@
+Masatoshi Koshiba (小柴 昌俊, Koshiba Masatoshi, 19 September 1926 – 12 November 2020) was a Japanese physicist and one of the founders of neutrino astronomy. His work with the neutrino detectors Kamiokande and Super-Kamiokande was instrumental in detecting solar neutrinos, providing experimental evidence for the solar neutrino problem.
+Koshiba won the Nobel Prize in Physics in 2002 (jointly with Raymond Davis Jr.) "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos".
+He was a senior counselor at the International Center for Elementary Particle Physics (ICEPP) and professor at the University of Tokyo.
+
+
+== Early life ==
+Koshiba was born in Toyohashi in central Japan on September 19, 1926, to Toshio and Hayako Koshiba. His father was a military officer. His mother died when he was three, leading to his father marrying his wife's elder sister. He grew up in Yokosuka, and completed his high school in Tokyo. It is mentioned that his initial interest was in studying German literature, but, ended up studying physics, spurred by a teacher's denigrating comments.He graduated from the University of Tokyo in 1951 and received a PhD in physics from the University of Rochester, New York, in 1955.
+
+
+== Career and research ==
+
+Koshiba started his career as a Research Associate at the Department of Physics, University of Chicago from July 1955 to February 1958, and was an associate professor at Institute of Nuclear Study, University of Tokyo from March 1958 to October 1963. While on leave from November 1959 to August 1962 he served as the acting director, Laboratory of High Energy Physics and Cosmic Radiation, Department of Physics, University of Chicago. At the University of Tokyo he became associate professor in March 1963 and then professor in March 1970 in the Department of Physics, Faculty of Science, and emeritus professor there in 1987. From 1987 to 1997, Koshiba taught at Tokai University.In 2002, he jointly won the Nobel Prize in Physics for "pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos". (The other shares of that year's Prize were awarded to Raymond Davis Jr. and Riccardo Giacconi of the U.S.A.)Koshiba's initial research was in cosmic rays.  In 1969, he shifted into electron-positron collider physics, and was involved with the JADE detector in Germany, which helped confirm the Standard Model.  Along with Masayuki Nakahata and Atsuto Suzuki, Koshiba designed the Kamiokande experiment to detect proton decay, a prediction of grand unified theories.  No proton decay was detected, but Koshiba realized the detector could be made to detect neutrinos, and adapted the project accordingly, following the pioneering U.S. work of Davis.In the early 1970s, Koshiba collaborated with Gersh Budker (1918-1977), the particle-accelerator electron cooling pioneer in the Soviet Union. This collaboration was cut short for unknown reasons but Budker died of heart attack a few years later.Through this experiment, he (and Davis in the U.S.) were able to confirm the prediction that neutrinos are generated during the nuclear fusion reaction in the sun. However, these experiments detected fewer neutrinos than had been expected.  This deficit was called the solar neutrino problem.  The deficit would be eventually explained by "neutrino oscillations", whose existence was confirmed by an enlarged version of Kamiokande, known as Super-Kamiokande, run under the direction of Koshiba's student Takaaki Kajita.In 1987, the Kamiokande experimental detector detected neutrinos from the supernova explosion (designated SN 1987A) outside the Milky Way, the Large Magellanic Cloud. His research was pioneering in the establishment of neutrino astronomy as a field of study.In 1996, with the promising results from Kaokande, the team operationalized a larger and more sensitive detector called Super-Kamiokande. With this detector, scientists was able to demonstrate strong evidence to prove that neutrinos changed from one type to another of three types during flight. This demonstration resolved the solar neutrino problem with the reasoning being that the early detectors could detect one type of neutrino rather than all three types.Koshiba was a member of the Board of Sponsors of the Bulletin of the Atomic Scientists, and also a foreign fellow of Bangladesh Academy of Sciences. He was a founding member of the Edogawa NICHE Prize Steering committee.
+
+
+== Personal life ==
+Koshiba married Kyoto Kato, an art museum curator, when he returned to Japan in the late 1950s. The couple had a son and a daughter.He died on November 12, 2020, at the Edogawa Hospital in Tokyo at the age of 94.
+
+
+== Awards ==
+Source(s):
+
+1987 – Asahi Prize
+1987 – Nishina Memorial Prize
+1997 – Humboldt Prize
+2000 – Wolf Prize in Physics
+2002 – Nobel Prize in Physics
+2002 – Panofsky Prize
+2003 – Benjamin Franklin Medal in Physics
+
+
+== Honors ==
+Source(s):
+
+1985 – Order of Merit of the Federal Republic of Germany
+1997 – Order of Culture
+2002 – Honorary citizenship of Suginami
+2002 – Honorary doctor of Meiji University
+2002 – Elected Fellow of the American Physical Society.
+2003 – Grand Cordon of the Order of the Rising Sun
+2003 – In commemoration of the Nobel Prize-winning by Masatoshi Koshiba, Koshiba hall was established at the University of Tokyo's School of science.
+2003 – Honorary citizenship of Tokyo
+2003 – Emeritus Professor of the University of Tokyo
+
+
+== Publications ==
+Koshiba, M.; Fukuda, Y;  et al. (1998). "Evidence for Oscillation of Atmospheric Neutrinos". Physical Review Letters. 81 (8): 1562–1567. arXiv:hep-ex/9807003. Bibcode:1998PhRvL..81.1562F. doi:10.1103/PhysRevLett.81.1562.
+Koshiba, M.; Fukuda, Y;  et al. (1999). "Constraints on Neutrino Oscillation Parameters from the Measurement of Day-Night Solar Neutrino Fluxes at Super-Kamiokande". Physical Review Letters. 82 (9): 1810–1814. arXiv:hep-ex/9812009. Bibcode:1999PhRvL..82.1810F. doi:10.1103/PhysRevLett.82.1810. S2CID 119409084.
+
+

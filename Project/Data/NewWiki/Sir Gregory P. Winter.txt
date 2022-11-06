@@ -1,0 +1,31 @@
+Sir Gregory Paul Winter  (born 14 April 1951) is a Nobel Prize-winning English molecular biologist best known for his work on the therapeutic use of monoclonal antibodies. His research career has been based almost entirely at the MRC Laboratory of Molecular Biology and the MRC Centre for Protein Engineering, in Cambridge, England.
+He is credited with having invented techniques to both humanise (1986) and, later, to fully humanise using phage display, antibodies for therapeutic uses. Previously, antibodies had been derived from mice, which made them difficult to use in human therapeutics because the human immune system had anti-mouse reactions to them. For these developments Winter was awarded the 2018 Nobel Prize in Chemistry along with George Smith and Frances Arnold.He is a Fellow of Trinity College, Cambridge and was appointed Master of Trinity College, Cambridge on 2 October 2012. From 2006 to 2011, he was Deputy Director of the Laboratory of Molecular Biology, Medical Research Council, acting Director from 2007 to 2008 and Head of the Division of Protein and Nucleic Acids Chemistry from 1994 to 2006. He was also Deputy Director of the MRC Centre for Protein Engineering from 1990 to its closure in 2010.
+
+
+== Education ==
+Winter was educated at the Royal Grammar School, Newcastle upon Tyne. He went on to study Natural Sciences at the University of Cambridge graduating from Trinity College, Cambridge in 1973. He was awarded a PhD degree, from the MRC Laboratory of Molecular Biology, for research on the amino acid sequence of tryptophanyl tRNA synthetase from the bacterium Bacillus stearothermophilus in 1977 supervised by Brian S. Hartley. Later, Winter completed a term of post-doctoral fellowship at Imperial College London, and another at the Institute of genetics in University of Cambridge.
+
+
+== Career and research ==
+Following his PhD, Winter completed postdoctoral research at the Laboratory of Molecular Biology in Cambridge. He continued to specialise in protein and nucleic acid sequencing and became a Group Leader at the MRC Laboratory of Molecular Biology in 1981. He became interested in the idea that all antibodies have the same basic structure, with only small changes making them specific for one target. Georges J. F. Köhler and César Milstein had won the 1984 Nobel Prize for their work at the Laboratory of Molecular Biology, in discovering a method to isolate and reproduce individual, or monoclonal, antibodies from among the multitude of different antibody proteins that the immune system makes to seek and destroy foreign invaders attacking the body. These monoclonal antibodies had limited application in human medicine, because mouse monoclonal antibodies are rapidly inactivated by the human immune response, which prevents them from providing long-term benefits.
+Winter pioneered a technique to "humanise" mouse monoclonal antibodies; a technique used in the development of Campath-1H  by the Laboratory of Molecular Biology and University of Cambridge scientists. This antibody now looks promising for the treatment of multiple sclerosis. Humanised monoclonal antibodies form the majority of antibody-based drugs on the market today and include several blockbuster antibodies, such as Keytruda.
+Winter founded Cambridge Antibody Technology in 1989, and Bicycle Therapeutics.
+He worked on the Scientific Advisory Board of Covagen, (now part of Cilag) and is also the chairman of the Scientific Advisory Board for Biosceptre International Limited.
+In 1989, Winter was a founder of Cambridge Antibody Technology, one of the early commercial biotech companies involved in antibody engineering. One of the most successful antibody drugs developed was HUMIRA (adalimumab), which was discovered by Cambridge Antibody Technology as D2E7, and developed and marketed by Abbott Laboratories. HUMIRA, an antibody to TNF alpha, was the world's first fully human antibody, which went on to become the world's top selling pharmaceutical with sales of over $18Bn in 2017 Cambridge Antibody Technology was acquired by AstraZeneca in 2006 for £702m.In 2000, Winter founded Domantis to pioneer the use of domain antibodies, which use only the active portion of a full-sized antibody. Domantis was acquired by the pharmaceutical GlaxoSmithKline in December 2006 for £230 million.Winter subsequently founded another company, Bicycle Therapeutics Limited as a start up company which is developing very small protein mimics based on a covalently bonded hydrophobic core.
+
+
+=== Awards and honours ===
+
+Winter was elected a Fellow of the Royal Society (FRS) in 1990 and awarded the Royal Medal by the society in 2011 "for his pioneering work in protein engineering and therapeutic monoclonal antibodies, and his contributions as an inventor and entrepreneur". He was given the Scheele Award in 1994.
+In 1995, Winter won several international awards including the King Faisal International Prize for Medicine (Molecular Immunology) and in 1999, the Cancer Research Institute William B. Coley Award. Winter was formerly the Joint Head of the Division of Protein and Nucleic acid Chemistry-Biotechnology, and was Deputy Director, at the Laboratory of Molecular Biology, Cambridge, an institution funded by the UK Medical Research Council. He was also Deputy Director of the MRC's Centre for Protein Engineering until its absorption into the Laboratory of Molecular Biology. He is a member of the Advisory Council for the Campaign for Science and Engineering. Winter was appointed Commander of the Order of the British Empire (CBE) in 1997 and Knight Bachelor in 2004. He  served as Master of Trinity College, Cambridge from 2012 to 2019. In 2015 he received the Wilhelm Exner Medal.Winter was awarded the Nobel Prize in Chemistry on 3 October 2018 for his work on phage displays for antibodies, along with George Smith and Frances Arnold. In 2020 he was featured on The Times' 'Science Power List'.
+
+
+== References ==
+
+ This article incorporates text available under the CC BY 4.0 license.
+
+
+== External links ==
+
+Gregory Winter publications indexed by Google Scholar
+Gregory Winter on Nobelprize.org  including the Nobel Lecture on 8 December 2018 Harnessing Evolution to Make Medicine

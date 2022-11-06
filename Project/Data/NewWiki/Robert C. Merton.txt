@@ -1,0 +1,47 @@
+Robert Cox Merton (born July 31, 1944) is an American economist, Nobel Memorial Prize in Economic Sciences laureate, and professor at the MIT Sloan School of Management, known for his pioneering contributions to continuous-time finance, especially the first continuous-time option pricing model, the Black–Scholes–Merton model. In 1993 Merton co-founded hedge fund Long-Term Capital Management. 
+In 1997 Merton together with Myron Scholes were awarded the Nobel Memorial Prize in Economic Sciences for the method to determine the value of derivatives.
+Merton's current research focus is on the topics of lifecycle investing and retirement funding, measuring and monitoring systemic risks in macrofinance, and financial innovation coupled with changing dynamics in financial institutions. 
+
+
+== Biography ==
+Merton was born in New York City to a Jewish father sociologist Robert K. Merton and mother Suzanne Carhart, who was from a "multigenerational southern New Jersey Methodist/Quaker family." He grew up in Hastings-on-Hudson, NY. He earned a Bachelor of Science in Engineering Mathematics from the School of Engineering and Applied Science of Columbia University, a Masters of Science from the California Institute of Technology, and his doctorate in economics from the Massachusetts Institute of Technology in 1970 under the guidance of Paul Samuelson. He then joined the faculty of the MIT Sloan School of Management, where he taught until 1988. Subsequently, Merton moved to Harvard University, where he was George Fisher Baker Professor of Business Administration from 1988 to 1998. He was the John and Natty McArthur University Professor from 1998-2010. He rejoined the MIT Sloan School of Management in 2010 when he went Emeritus.
+
+
+== Career ==
+Robert C. Merton is the School of Management Distinguished Professor of Finance at the MIT Sloan School of Management. He is Resident Scientist at Dimensional Fund Advisors, where he developed a next-generation integrated pension-management solution system that addresses deficiencies associated with traditional defined-benefit and defined-contribution plans. Merton is University Professor Emeritus at Harvard University. He was the George Fisher Baker Professor of Business Administration (1988–98) and John and Natty McArthur University Professor (1998–2010) at the Harvard Business School. He previously served on the finance faculty of the Sloan School from 1970 until 1988. Merton received the Alfred Nobel Memorial Prize in Economic Sciences in 1997 for a new methodology to value derivatives. He is past President of the American Finance Association, a member of the National Academy of Sciences and a fellow of the American Academy of Arts and Sciences. He holds honorary degrees from eighteen universities.
+Merton’s research focuses on finance theory including lifecycle finance, optimal intertemporal portfolio selection, capital asset pricing, pricing of options, risky corporate debt, loan guarantees, and other complex derivative securities. He has also written on the operation and regulation of financial institutions. Merton’s current academic interests include financial innovation and dynamics of institutional change, controlling the propagation of macro financial risk, and improving methods of measuring and managing sovereign risk. He is the author of Continuous-Time Finance, and a co-author of Cases in Financial Engineering: Applied Studies of Financial Innovation and The Global Financial System: A Functional Perspective; Finance; and Financial Economics. Merton was a founding co-editor of the Annual Review of Financial Economics, serving from 2009 to 2021.Merton has also been recognized for translating finance science into practice. He received the inaugural Financial Engineer of the Year Award from the International Association of Financial Engineers in 1993, which also elected him a senior fellow. Derivatives Strategy magazine named him to its Derivatives Hall of Fame as did Risk magazine to its Risk Hall of Fame. He also received Risk’s Lifetime Achievement Award for contributions to the field of risk management. A distinguished fellow of the Institute for Quantitative Research in Finance ('Q Group') and a fellow of the Financial Management Association, Merton received the Nicholas Molodovsky Award from the CFA Institute.
+His first professional association with a hedge fund came in 1968. His advisor at the time, Paul Samuelson, brought him on board Arbitrage Management Company (AMC), to join founder Michael Goodkin and chief executive Harry Markowitz. AMC is the first known attempt at computerized arbitrage trading. After a successful run as a private hedge fund, AMC was sold to Stuart & Co. in 1971. In 1993, Merton co-founded a hedge fund, Long-Term Capital Management, which earned high returns for four years but later lost $4.6 billion in 1998 and was bailed out by a consortium of banks and closed out in early 2000.
+
+
+== Personal life ==
+Merton married June Rose in 1966. They separated in 1996. They have three children: two sons and one daughter.
+
+
+== Honours and awards ==
+In 1986, Merton became a Fellow at the American Academy of Arts and Sciences.
+In 1986, Merton was President of the American Finance Association.
+In 1993, Merton became a member of the U.S. United States National Academy of Sciences.
+In 1993, Merton was awarded the International INA - Accademia Nazionale dei Lincei Prize, National Academy of Lincei, Rome.
+In 1993, Merton won the inaugural Financial Engineer of the Year Award by the International Association of Financial Engineers (since renamed International Association for Quantitative Finance).
+In 1994, Merton became of Senior Fellow at the International Association of Financial Engineers.
+In 1997, Merton became a Distinguished Fellow at the Institute for Quantitative Research in Finance ('Q Group').
+In 1997, Merton was awarded the Nobel Memorial Prize in Economic Sciences with Myron Scholes for their work on stock options.
+In 1998, Merton was awarded the Michael I. Pupin Medal for Service to the Nation from Columbia University.
+In 1999, Merton was awarded a lifetime achievement award in mathematical finance.
+In 2000, Merton became a FMA Fellow at the Financial Management Association.
+In 2000, Merton became a Fellow at the Society of Fellows, American Finance Association.
+In 2005 the Baker Library at Harvard University opened The Merton Exhibit in his honor.
+In 2009, Merton was awarded the Robert A. Muh Award in the Humanities, Arts and Social Sciences from Massachusetts Institute of Technology.
+In 2009, Merton was awarded the Tjalling  C. Koopmans Asset Award from Tilburg University.
+In 2010, Merton received the Kolmogorov medal from the University of London.
+In 2010, Merton received the Hamilton Medal from the Royal Irish Academy.
+In 2011, Merton received the CME Group Melamed-Arditti Innovation Award.
+In 2013, Merton received the WFE Award for Excellence from the World Federation of Exchanges.
+In 2014, Merton received the Lifetime Achievement Award from the Financial Intermediation Research Society.
+In 2017, Merton received the Finance Diamond Price from the Fundacion de Investigacion IMEF, Mexico.
+
+
+== Publications ==
+Theory of rational option pricing (1973) [1]
+
+

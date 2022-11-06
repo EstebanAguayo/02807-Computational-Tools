@@ -1,0 +1,31 @@
+Merton Howard Miller (May 16, 1923 – June 3, 2000) was an American economist, and the co-author of the Modigliani–Miller theorem (1958), which proposed the irrelevance of debt-equity structure. He shared the Nobel Memorial Prize in Economic Sciences in 1990, along with Harry Markowitz and William F. Sharpe. Miller spent most of his academic career at the University of Chicago's Booth School of Business.
+
+
+== Biography ==
+
+
+=== Early years ===
+Miller was born in Boston, Massachusetts to Jewish parents Sylvia and Joel Miller, a housewife and attorney. He attended Harvard University as an undergraduate student. He worked during World War II as an economist in the division of tax research of the Treasury Department, and received a Ph.D. in economics from Johns Hopkins University, 1952. His first academic appointment after receiving his doctorate was Visiting Assistant Lecturer at the London School of Economics.
+
+
+=== Career ===
+In 1958, at Carnegie Institute of Technology (now Carnegie Mellon University), he collaborated with his colleague Franco Modigliani on the paper The Cost of Capital, Corporate Finance and the Theory of Investment. This paper urged a fundamental objection to the traditional view of corporate finance, according to which a corporation can reduce its cost of capital by finding the right debt-to-equity ratio. According to the Modigliani–Miller theorem, on the other hand, there is no right ratio, so corporate managers should seek to minimize tax liability and maximize corporate net wealth, letting the debt ratio chips fall where they will.
+The way in which they arrived at this conclusion made use of the "no arbitrage" argument, i.e. the premise that any state of affairs that will allow traders of any market instrument to create a riskless money machine will almost immediately disappear. They set the pattern for many arguments based on that premise in subsequent years.
+Miller wrote or co-authored eight books. He became a fellow of the Econometric Society in 1975 and was president of the American Finance Association in 1976. He was on the faculty of the University of Chicago's Booth School of Business from 1961 until his retirement in 1993, although he continued teaching at the school for several more years.
+His works formed the basis of the "Modigliani-Miller Financial Theory".
+He served as a public director on the Chicago Board of Trade 1983–85 and the Chicago Mercantile Exchange from 1990 until his death in Chicago on June 3, 2000. In 1993, Miller waded into the controversy surrounding $2 billion in trading losses by what was characterized as a rogue futures trader at a subsidiary of Metallgesellschaft, arguing in the Wall Street Journal that management of the subsidiary was to blame for panicking and liquidating the position too early. In 1995, Miller was engaged by Nasdaq to rebut allegations of price fixing.
+
+
+=== Personal life ===
+Miller was married to Eleanor Miller, who died in  1969.  He was survived by his second wife, Katherine Miller, and by three children from his first marriage: Pamela (1952), Margot (1955), and Louise (1958), and two grandsons.
+
+
+== Bibliography ==
+Merton H. Miller (1991). Merton Miller on Derivatives. New York: John Wiley & Sons. ISBN 0-471-18340-7.
+Merton H. Miller (1991). Financial Innovations and Market Volatility. Cambridge, MA: Blackwell Publishing. ISBN 1-55786-252-4.
+Merton, Miller H.; Charles W. Upton (1986). Macroeconomics: A Neoclassical Introduction. Chicago: University of Chicago Press. ISBN 0-226-52623-2.
+Kessel, Reuben A.; R. H. Coase; Merton H. Miller (1980). Essays in Applied Price Theory. Chicago: University of Chicago Press. ISBN 0-226-43200-9.
+Fama, Eugene F.; Merton H. Miller (1972). The Theory of Finance. New York: Holt, Rinehart & Winston. ISBN 0-03-086732-0.
+Merton H. Miller (1997). "The Private Interest & the Public Interest". The Green Bag.
+
+

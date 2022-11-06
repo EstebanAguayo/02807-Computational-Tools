@@ -1,0 +1,34 @@
+Richard Frederick Heck (August 15, 1931 – October 9, 2015) was an American chemist noted for the discovery and development of the  Heck reaction, which uses palladium to catalyze organic chemical reactions that couple aryl halides with alkenes. The analgesic naproxen is an example of a compound that is prepared industrially using the Heck reaction.
+For his work in palladium-catalyzed coupling reactions and organic synthesis, Heck was awarded the 2010 Nobel Prize in Chemistry, shared with the Japanese chemists Ei-ichi Negishi and Akira Suzuki.
+
+
+== Early life and education ==
+Heck was born in Springfield, Massachusetts in 1931. He moved to Los Angeles when eight years old and later attended the University of California, Los Angeles (UCLA), gaining a bachelor's degree in 1952 and then a Ph.D. in 1954 working under the supervision of Saul Winstein on the chemistry of aryl sulfonates. After postdoctoral research at the ETH in Zurich, Switzerland with Vladimir Prelog, and then back at UCLA, Heck took a position with the Hercules Corporation in Wilmington, Delaware in 1956, working initially on polymer chemistry.
+
+
+== Career ==
+
+At Hercules, Heck soon became interested in organometallic chemistry, including work with David S. Breslow on organocobalt reactions. This led to the development of the Heck reaction, which began with his investigation during the late 1960s of the coupling of arylmercury compounds with olefins using palladium as a catalyst. This work was published in a series of seven consecutive articles in the Journal of the American Chemical Society for which Heck was the sole author.During the early 1970s, Tsutomu Mizoroki independently reported the use of the less toxic aryl halides as the coupling partner in the reaction. Heck became a professor of chemistry at the University of Delaware's Department of Chemistry and Biochemistry in 1971, where he continued to improve the transformation, developing it into a powerful synthetic method for organic synthesis.The importance of this reaction grew as it was taken up by others in the organic synthesis community. In 1982, Heck was able to write an Organic Reactions chapter that covered all the known instances in just 45 pages. By 2002, applications had grown to the extent that the Organic Reactions chapter published that year, limited to intramolecular Heck reactions, covered 377 pages. These reactions, a small part of the total, couple two parts of the same molecule.
+The reaction is now one of the most widely used methods for the creation of carbon-carbon bonds in the synthesis of organic chemicals. It has been subject to numerous scientific review articles, including a monograph dedicated to this subject published in 2009.Heck's contributions were not limited to the activation of halides by the oxidative addition of palladium. He was the first to fully characterize a π-allyl metal complex, and the first to elucidate the mechanism of alkene hydroformylation.
+
+
+=== Palladium-catalyzed coupling reactions ===
+
+Heck's work set the stage for a variety of other palladium-catalyzed coupling reactions, including those of aryl halides with derivatives of boronic acid (Suzuki–Miyaura coupling), organotin reagents (Stille coupling), organomagnesium compounds (Kumada-Corriu coupling), silanes (Hiyama coupling), and organozincs (Negishi coupling), as well as with amines (Buchwald–Hartwig amination) and alcohols. These palladium-catalyzed coupling reactions are now widely practiced in organic synthesis, including for the manufacture of pharmaceutical drugs such as naproxen.Of the several reactions developed by Heck, the greatest societal impact has been from the palladium-catalyzed coupling of an alkyne with an aryl halide. This is the reaction that was used to couple fluorescent dyes to DNA bases, allowing the automation of DNA sequencing and the examination of the human genome; the reaction also allows biologically important proteins to be tracked. In Sonogashira's original report of what is now known as the Sonogashira coupling, his group modified an alkyne coupling procedure previously reported by Heck, by adding a copper(I) salt.
+
+
+== Later life and death ==
+Heck retired from the University of Delaware in 1989, where he became the Willis F. Harrington Professor Emeritus in the Department of Chemistry and Biochemistry. Its  annual lectureship was named in his honor in 2004. In 2005, he was awarded the Wallace H. Carothers Award, which recognizes creative applications of chemistry that have had substantial commercial impact. He was awarded the 2006 Herbert C. Brown Award for creative research in synthetic methods. On October 6, 2010, the Swedish Royal Academy of Sciences awarded Heck the Nobel Prize in Chemistry, which he shared with Ei-ichi Negishi and Akira Suzuki "for palladium-catalyzed cross couplings in organic synthesis". In 2011, Heck was awarded the Glenn T. Seaborg Medal for this work. In 2012, he was appointed by De La Salle University in Manila as an adjunct professor in its chemistry department. He had moved to Quezon City, Philippines after retirement, with his wife, Socorro Nardo-Heck. The couple had no children.Heck died on October 9, 2015, in Manila in a public hospital. His wife predeceased him by 2 years.
+
+
+== Honorary degrees ==
+Heck received honorary doctorates from the Faculty of Pharmacy at Uppsala University in 2011 and De La Salle University in 2012.
+
+
+== References ==
+
+
+== External links ==
+
+Department of Chemistry and Biochemistry at the University of Delaware
+Richard F. Heck on Nobelprize.or

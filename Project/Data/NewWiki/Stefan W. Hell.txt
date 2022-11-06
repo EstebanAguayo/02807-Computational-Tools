@@ -1,0 +1,64 @@
+Stefan Walter Hell HonFRMS (German pronunciation: [ˈʃtɛfan ˈhɛl] (listen): born 23 December 1962) is a Romanian-German physicist and one of the directors of the Max Planck Institute for Biophysical Chemistry in Göttingen, Germany. He received the Nobel Prize in Chemistry in 2014 "for the development of super-resolved fluorescence microscopy", together with Eric Betzig and William Moerner.
+
+
+== Life ==
+Born into a Roman Catholic Banat Swabian family in Arad, Romania, he grew up at his parents'  home in nearby Sântana. Hell attended primary school there between 1969 and 1977. Subsequently, he attended one year of secondary education at the Nikolaus Lenau High School in Timișoara before leaving with his parents to West Germany in 1978. His father was an engineer and his mother a teacher; the family settled in Ludwigshafen after emigrating.Hell began his studies at the Heidelberg University in 1981, where he received his doctorate in physics in 1990. His thesis advisor was the solid-state physicist Siegfried Hunklinger.  The title of the thesis was “Imaging of transparent microstructures in a confocal microscope”. He was an independent inventor for a short period thereafter working on improving depth (axial) resolution in confocal microscopy, which became later known as the 4Pi microscope. Resolution is the possibility to separate two similar objects in close proximity and is therefore the most important property of a microscope.
+From 1991 to 1993, Hell worked at the European Molecular Biology Laboratory in Heidelberg, where he succeeded in demonstrating the principles of 4-Pi microscopy. From 1993 to 1996 he worked as a group leader at the University of Turku (Finland) in the department for Medical Physics, where he developed the principle for stimulated emission depletion STED microscopy. From 1993 to 1994 Hell was also for 6 months a visiting scientist at the University of Oxford (England).
+He received his habilitation in physics from the University of Heidelberg in 1996. On 15 October 2002, Hell became a director of the Max Planck Institute for Biophysical Chemistry in Göttingen  and he established the department of Nanobiophotonics. Since 2003 Hell has also been the leader of the department "Optical Nanoscopy division" at the German Cancer Research Center (DKFZ) in Heidelberg and "non-budgeted professor" (apl. Prof.) in the Heidelberg University Faculty of Physics and Astronomy. Since 2004 he has been an honorary professor for experimental physics at the faculty of physics of the University of Göttingen.With the invention and subsequent development of Stimulated Emission Depletion microscopy and related microscopy methods, he was able to show that one can substantially improve the resolving power of the fluorescence microscope, previously limited to half the wavelength of the employed light (> 200 nanometers). A microscope's resolution is its most important property. Hell was the first to demonstrate, both theoretically and experimentally, how one can decouple the resolution of the fluorescence microscope from diffraction and increase it to a fraction of the wavelength of light (to the nanometer scale). Ever since the work of Ernst Karl Abbe in 1873, this feat was not thought possible. For this achievement and its significance for other fields of science, such as the life-sciences and medical research, he received the 10th German Innovation Award (Deutscher Zukunftspreis) on 23 November 2006. He received the Nobel Prize in Chemistry in 2014, becoming the second Nobelist born in the Banat Swabian community (after Herta Müller, the 2009 recipient of the Nobel Prize in Literature).As of 2021, Hell has an h-index of 132 according to Google Scholar.
+
+
+== Awards ==
+Prize of the International Commission for Optics, 2000
+Helmholtz-Award for metrology, Co-Recipient, 2001
+Berthold Leibinger Innovationspreis, 2002
+Carl-Zeiss Research Award, 2002
+Karl-Heinz-Beckurts-award, 2002
+C. Benz u. G. Daimler-Award of Berlin-Brandenburgisch academy, 2004
+Robert B. Woodward Scholar, Harvard University, Cambridge, MA, USA, 2006
+Innovation Award of the German Federal President, 2006
+Julius Springer Prize for Applied Physics, 2007
+Member of the Akademie der Wissenschaften zu Göttingen, 2007
+Gottfried Wilhelm Leibniz Prize, 2008
+Lower Saxony State Prize, 2008
+Nomination for European Inventor of the Year of the European Patent Office, 2008
+Method of the year 2008 in Nature Methods
+Otto-Hahn-Preis, 2009
+Ernst-Hellmut-Vits-Prize, 2010
+Hansen Family Award, 2011
+Körber European Science Prize, 2011
+The Gothenburg Lise Meitner prize, 2010/11
+Meyenburg Prize, 2011
+Science Prize of the Fritz Behrens Foundation 2012
+Doctor Honoris Causa of Vasile Goldiș Western University of Arad, 2012
+Romanian Academy, Honorary Member, 2012
+Paul Karrer Gold Medal, University of Zürich, 2013
+Member of German National Academy of Sciences Leopoldina, 2013
+Carus Medal of the Leopoldina, 2013
+Kavli Prize, 2014
+Nobel Prize in Chemistry, 2014
+Romanian Royal Family: Knight Commander of the Order of the Crown, 2015
+Romania: Grand Cross of the Order of the Star of Romania, 2015
+Glenn T. Seaborg Medal, 2015
+Wilhelm Exner Medal, 2016
+Foreign associate of the National Academy of Sciences, 2016
+Honorary Fellow of the Royal Microscopical Society (HonFRMS) for his contributions to microscopy, 2017
+Fellow of the Norwegian Academy of Science and Letters.
+
+
+== Publications ==
+Balzarotti, F.; Eilers, Y.; Gwosch, K.; Gynnå, A. H.; Westphal, V.; Stefani, F. D.; Elf, J.; Hell, S. W. (2017). "Nanometer resolution imaging and tracking of fluorescent molecules with minimal photon fluxes". Science. 355 (6325): 606–612. arXiv:1611.03401. Bibcode:2017Sci...355..606B. doi:10.1126/science.aak9913. PMID 28008086. S2CID 5418707.
+Butkevich, A.; Mitronova, G.; Sidenstein, S.; Klocke, J.; Kamin, D.; Meineke, D. N. H.; D'Este, E.; Kraemer, P. T.; Danzl, J. G.; Belov, V. N.;  et al. (2016). "Fluorescent rhodamines and fluorogenic carbopyronines for super-resolution STED microscopy in living cells". Angewandte Chemie International Edition. 55 (10): 3290–3294. doi:10.1002/anie.201511018. PMC 4770443. PMID 26844929.
+
+
+== References ==
+
+
+== External links ==
+
+Chemistry Tree: Stefan W. Hell Details
+Curriculum vitae on the Website of Max Planck Institute for Biophysical Chemistry
+Stefan Hell Lecture: Super-Resolution: Overview and Stimulated Emission Depletion (STED) Microscopy, May 2013
+Innovation Award of the German Federal President
+List of articles from Steffan Hell
+Stefan Hell on Nobelprize.org 
+Stefan Hell publications indexed by Google Schola

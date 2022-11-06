@@ -1,0 +1,33 @@
+Robert Fry Engle III (born November 10, 1942) is an American economist and statistician. He won the 2003 Nobel Memorial Prize in Economic Sciences, sharing the award with Clive Granger, "for methods of analyzing economic time series with time-varying volatility (ARCH)".
+
+
+== Biography ==
+Engle was born in Syracuse, New York into Quaker family and went on to graduate from Williams College with a BS in physics. He earned an MS in physics and a PhD in economics, both from Cornell University in 1966 and 1969 respectively. After completing his PhD, Engle became an economics professor at the Massachusetts Institute of Technology from 1969 to 1977. He joined the faculty of the University of California, San Diego (UCSD) in 1975, wherefrom he retired in 2003. He now holds positions of Professor Emeritus and Research Professor at UCSD. He currently teaches at New York University, Stern School of Business where he is the Michael Armellino professor in Management of Financial Services. At New York University, Engle teaches for the Master of Science in Risk Management Program for Executives, which is offered in partnership with the Amsterdam Institute of Finance.Engle's most important contribution was his path-breaking discovery of a method for analyzing unpredictable movements in financial market prices and interest rates. Accurate characterization and prediction of these volatile movements are essential for quantifying and effectively managing risk. For example, risk measurement plays a key role in pricing options and financial derivatives. Previous researchers had either assumed constant volatility or had used simple devices to approximate it. Engle developed new statistical models of volatility that captured the tendency of stock prices and other financial variables to move between high volatility and low volatility periods ("Autoregressive Conditional Heteroskedasticity: ARCH"). These statistical models have become essential tools of modern arbitrage pricing theory and practice.
+Engle was the central founder and director of NYU-Stern's Volatility Institute which publishes weekly date on systemic risk across countries on its V-LAB site.More recently, Engle (and Eric Ghysels) co-founded the Society for Financial Econometrics (SoFiE).
+In 2022, he replaced Former secretary of state John Kerry as chairman of the climate finance partners advisory board, which is the non discretionary sub advisor to the KraneShares Global Carbon ETF or KRBN, one of the largest carbon allowance funds globally.
+
+
+=== Personal life ===
+Paternal Grandfather – Robert Fry Engle, Sr. (b. 1879 d. 1946)
+Father – Robert Fry Engle, Jr. (b. 1910 d. 1981, DuPont chemist)
+Mother – Mary Starr Engle ("Murry", French teacher, m. 1939)
+Sister – Patricia Lee Engle ("Patty", twin, UNICEF official)
+Sister – Sally Engle Merry (anthropologist, twin)
+Wife – Marianne Eger Engle (psychologist, m. 10-Aug-1969, two children)
+Daughter – Lindsey Engle Richland (psychologist)
+Son – Jordan Engle (actor, b. May-1980)
+Mother-in-law – Edith Eger (psychologist, b. 29-Sept-1927)
+
+
+== Selected works ==
+Engle, Robert F. (1982). "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation". Econometrica. 50 (4): 987–1008. doi:10.2307/1912773. JSTOR 1912773.
+Engle, Robert F.; Hendry, David F.; Richard, Jean-Francois (1983). (with David F. Hendry and Jean-Francois Richard). "Exogeneity". Econometrica. 51 (2): 277–304. doi:10.2307/1911990. JSTOR 1911990.
+. (with C. Granger, J. Rice and A. Weiss). "Semi-parametric Estimates of the Relation between Weather and Electricity Demand". J. Amer. Statist. Assoc. 81 (394): 310–320. 1986. doi:10.1080/01621459.1986.10478274.{{cite journal}}:  CS1 maint: others (link)
+Engle, Robert F.; Granger, C. W. J. (1987). (with Clive Granger). "Co-Integration and Error Correction: Representation, Estimation, and Testing" (PDF). Econometrica. 55 (2): 251–276. doi:10.2307/1913236. JSTOR 1913236. S2CID 16616066.
+Engle, Robert F.; Lilien, David M.; Robins, Russell P. (1987). (with David Lilien and Russell Robins). "Estimation of Time Varying Risk Premia in the Term Structure: the ARCH-M Model". Econometrica. 55 (2): 391–407. doi:10.2307/1913242. JSTOR 1913242.
+. (with V. Ng, and M. Rothschild). "Asset Pricing with a Factor ARCH Covariance Structure: Empirical Estimates for Treasury Bills" (PDF). Journal of Econometrics. 45 (1–2): 213–237. 1990. doi:10.1016/0304-4076(90)90099-F. hdl:2027.42/28496. S2CID 55667632.{{cite journal}}:  CS1 maint: others (link)
+Engle, Robert F.; Russell, Jeffrey R. (1998). (with J.R. Russell). "Autoregressive Conditional Duration: A New Model for Irregularly Spaced Transaction Data". Econometrica. 66 (5): 1127–1162. doi:10.2307/2999632. JSTOR 2999632.
+"Dynamic Conditional Correlation – A Simple Class of Multivariate GARCH Models". Journal of Business and Economic Statistics. 20 (3): 339–350. 2002. doi:10.1198/073500102288618487. S2CID 14784060.
+Easley, D.; Engle, R. F.; O'Hara, M.; Wu, L. (2008). (with Maureen O'Hara, David Easley and L. Wu). "Time-Varying Arrival Rates of Informed and Uninformed Traders". Journal of Financial Econometrics. 6 (2): 171–207. doi:10.1093/jjfinec/nbn003.
+
+

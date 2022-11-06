@@ -1,0 +1,42 @@
+Richard Royce Schrock (born January 4, 1945) is an American chemist and Nobel laureate recognized for his contributions to the olefin metathesis reaction used in organic chemistry.
+
+
+== Education ==
+Born in Berne, Indiana, Schrock went to Mission Bay High School in San Diego, California. He holds a B.A. (1967) from the University of California, Riverside and a Ph. D. (1971) from Harvard University  under the direction of John A. Osborn (fr).
+
+
+== Career ==
+Following his PhD, Schrock carried out postdoctoral research at the University of Cambridge with Jack Lewis. In 1972, he was hired by DuPont, where he worked at the Experimental Station in Wilmington, Delaware in the group of George Parshall. He joined the faculty of the Massachusetts Institute of Technology in 1975 and became full professor in 1980.He has held his current post, the Frederick G. Keyes Professor of Chemistry, at MIT since 1989. Schrock is a member of the American Academy of Arts and Sciences, National Academy of Sciences and was elected to the Board of Overseers of Harvard University in 2007.
+He is co-founder and member of the board of a Swiss-based company focused on the development and application of proprietary metathesis catalyst.In 2018, Schrock joined the faculty of his alma mater, the University of California, Riverside. He cited his interest in mentoring junior faculty and students. “My experience as an undergraduate at UCR in research in the laboratory of James Pitts and the quality of the classes in chemistry prepared me for my Ph.D. experience at Harvard.  I look forward to returning to UCR for a few years to give back some of what it gave to me,” Schrock said.Schrock currently sits on the board of directors for Xyleco.
+
+
+== Research ==
+Schrock was the first to elucidate the structure and mechanism of so-called 'black box' olefin metathesis catalysts. Initial work at DuPont involved the synthesis of tantalum alkylidenes, alkylidenes being a crucial resting state in the catalytic cycle of olefin metathesis. His work at MIT has led to a detailed understanding of a group of molybdenum alkylidenes and alkylidynes which are active olefin and alkyne metathesis catalysts, respectively. Schrock has done much work to demonstrate that metallacyclobutanes are the key intermediate in olefin metathesis, with metallacyclobutadienes being the key intermediate in alkyne metathesis.
+Many supporting ligands have been explored in efforts to better understand the nature of the single molecule catalysts, most notably 2,6-diisopropylphenylimido and adamantylimido, as well as various tert-butyl alkoxides with varying degrees of fluorination. The prototypical Schrock catalyst is (R"O)2(R'N)Mo(CHR) where R = tert-butyl, R' = 2,6-diisopropylphenyl, and R" = C(Me)(CF3)2. Such catalysts are now commercially available from such major suppliers as Sigma-Aldrich, and are used frequently in synthetic applications of olefin metathesis. Schrock's work is ongoing with goals of furthering the understanding of metathesis selectivity, developing new catalyst architectures, as well as projects outside of metathesis, such as elucidating the mechanism of dinitrogen fixation and developing single molecule catalysts which form ammonia from dinitrogen, mimicking the activity of nitrogenase enzymes in biology.
+
+
+== Awards and honors ==
+
+
+=== Nobel Prize ===
+In 2005, Schrock received the Nobel Prize in Chemistry, with Robert H. Grubbs and Yves Chauvin, for his work in the area of olefin metathesis, an organic synthesis technique. 
+In addition to the Nobel Prize, Schrock has won numerous awards including:
+
+
+== Personal life ==
+Schrock married Nancy Carlson in 1971 and has two children, Andrew and Eric. Nancy Schrock was the Thomas F. Peterson Jr. Conservator of Special Collections for the MIT Libraries from 2006 to 2013. The family lives in Winchester, Massachusetts.
+
+
+== References ==
+
+
+== External links ==
+
+Richard R. Schrock on Nobelprize.org  with the Nobel Lecture Multiple Metal-Carbon Bonds for Catalytic Metathesis Reactions
+Schrock Research Group
+Research Summary
+Schrock wins Nobel Prize
+"MSU Chemistry". Dow/Karabatsos Lectureship. September 7, 2006. Archived from the original on September 7, 2006. Retrieved April 5, 2021.
+A video interview with Richard R. Schrock @ Vega Science Trust
+Richard R. Schrock video interview @ MIT Infinite History
+XiMo catalyst company founded in 2010 by Richard R. Schrock and Boston College Professor Amir Hoveyd

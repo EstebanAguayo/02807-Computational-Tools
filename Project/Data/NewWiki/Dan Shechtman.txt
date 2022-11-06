@@ -1,0 +1,54 @@
+Dan Shechtman (Hebrew: דן שכטמן; born January 24, 1941) is the Philip Tobias Professor of Materials Science at the Technion – Israel Institute of Technology, an Associate of the US Department of Energy's Ames National Laboratory, and Professor of Materials Science at Iowa State University. On April 8, 1982, while on sabbatical at the U.S. National Bureau of Standards in Washington, D.C., Shechtman discovered the icosahedral phase, which opened the new field of quasiperiodic crystals.He was awarded the 2011 Nobel Prize in Chemistry for the discovery of quasicrystals, making him one of six Israelis who have won the Nobel Prize in Chemistry.
+
+
+== Biography ==
+Dan Shechtman was born in 1941 in Tel Aviv, in what was then Mandatory Palestine; the city became part of the new state of Israel in 1948. He grew up in Petah Tikva and Ramat Gan. His grandparents had immigrated to Palestine during the  Second Aliyah (1904–1914) and founded a printing house. As a child Shechtman was fascinated by Jules Verne's The Mysterious Island (1874), which he read many times. His childhood dream was to become an engineer like the main protagonist, Cyrus Smith.
+I thought that was the best thing a person could do. The engineer in the book knows mechanics and physics, and he creates a whole way of life on the island out of nothing. I wanted to be like that.Shechtman is married to Prof. Tzipora Shechtman, Head of the Department of Counseling and Human Development at Haifa University, and author of two books on psychotherapy. They have a son Yoav Shechtman (a postdoctoral researcher in the lab of W. E. Moerner) and three daughters: Tamar Finkelstein (an organizational psychologist at the Israeli police leadership center), Ella Shechtman-Cory (a PhD in clinical psychology), and Ruth Dougoud-Nevo (also a PhD in clinical psychology). He is an atheist.
+
+
+== Academic career ==
+
+After receiving his Ph.D. in Materials Engineering from the Technion in 1972, where he also obtained his B.Sc. in Mechanical Engineering in 1966 and M.Sc. in Materials Engineering in 1968, Shechtman was an NRC fellow at the Aerospace Research Laboratories at Wright Patterson AFB, Ohio, where he studied for three years the microstructure and physical metallurgy of titanium aluminides. In 1975, he joined the department of materials engineering at Technion. In 1981–1983 he was on sabbatical at Johns Hopkins University, where he studied rapidly solidified aluminum transition metal alloys, in a joint program with NBS. During this study he discovered the icosahedral phase which opened the new field of quasiperiodic crystals.
+In 1992–1994 he was on sabbatical at National Institute of Standards and Technology (NIST), where he studied the effect of the defect structure of CVD diamond on its growth and properties. Shechtman's Technion research is conducted in the Louis Edelstein Center, and in the Wolfson Centre which is headed by him. He served on several Technion Senate Committees and headed one of them.
+Shechtman joined the Iowa State faculty in 2004. He currently spends about five months a year in Ames on a part-time appointment.Since 2014 he has been the head of the International Scientific Council of Tomsk Polytechnic University.
+
+
+== Work on quasicrystals ==
+
+From the day Shechtman published his findings on quasicrystals in 1984 to the day Linus Pauling died (1994), Shechtman experienced hostility from him toward the non-periodic interpretation. "For a long time it was me against the world," he said. "I was a subject of ridicule and lectures about the basics of crystallography. The leader of the opposition to my findings was the two-time Nobel Laureate Linus Pauling, the idol of the American Chemical Society and one of the most famous scientists in the world. For years, 'til his last day, he fought against quasi-periodicity in crystals. He was wrong, and after a while, I enjoyed every moment of this scientific battle, knowing that he was wrong."Linus Pauling is noted saying "There is no such thing as quasicrystals, only quasi-scientists." Pauling was apparently unaware of a paper in 1981 by H. Kleinert and K. Maki which had pointed out the possibility of a non-periodic Icosahedral Phase in quasicrystals (see the
+historical notes). The head of Shechtman's research group told him to "go back and read the textbook" and a couple of days later "asked him to leave for 'bringing disgrace' on the team." Shechtman felt dejected. On publication of his paper, other scientists began to confirm and accept empirical findings of the existence of quasicrystals.The Nobel Committee at the Royal Swedish Academy of Sciences said that "his discovery was extremely controversial," but that his work "eventually forced scientists to reconsider their conception of the very nature of matter."
+Through Shechtman's discovery, several other groups were able to form similar quasicrystals by 1987, finding these materials to have low thermal and electrical conductivity, while possessing high structural stability. Quasicrystals have also been found naturally.A quasiperiodic crystal, or, in short, quasicrystal, is a structure that is ordered but not periodic. A quasicrystalline pattern can continuously fill all available space, but it lacks translational symmetry. "Aperiodic mosaics, such as those found in the medieval Islamic mosaics of the Alhambra palace in Spain and the Darb-i Imam shrine in Iran, have helped scientists understand what quasicrystals look like at the atomic level. In those mosaics, as in quasicrystals, the patterns are regular – they follow mathematical rules – but they never repeat themselves.""An intriguing feature of such patterns, [which are] also found in Arab mosaics, is that the mathematical constant known as the Greek letter tau [sic], or the "golden ratio", occurs over and over again. Underlying it is a sequence worked out by Fibonacci in the 13th century, where each number is the sum of the preceding two."Quasicrystalline materials could be used in a large number of applications, including the formation of durable steel used for fine instrumentation, and non-stick insulation for electrical wires and cooking equipment., but presently have no technological applications.
+The Nobel prize was 10 million Swedish krona (approximately US$1.5 million).
+
+
+== Presidential bid ==
+On January 17, 2014, in an interview with Israel's Channel One, Shechtman announced his candidacy for President of Israel. Shechtman received the endorsement of the ten Members of Knesset required to run. In the elections, held on June 10, 2014, he was awarded only one vote. This led Israeli press and Israeli humorists to qualify Shechtman as "quasi-president" in reference to the "quasi-scientist" quote.
+
+
+== Awards ==
+
+2019 Honorary John von Neumann Professor title 
+2014 Fray International Sustainability Award, SIPS 2014 
+2013 Honorary doctorate from Bar-Ilan University
+2011 Nobel Prize in Chemistry for the discovery of quasicrystals
+2008 European Materials Research Society (E-MRS) 25th Anniversary Award
+2002 EMET Prize in Chemistry
+2000 Muriel & David Jacknow Technion Award for Excellence in Teaching
+2000 Gregori Aminoff Prize of the Royal Swedish Academy of Sciences
+1999 Wolf Prize in Physics.
+1998 Israel Prize, for Physics.
+1993 Weizmann Science Award
+1990 Rothschild Prize in Engineering
+1988 New England Academic Award of the Technion
+1988 International Award for New Materials of the American Physical Society
+1986 Physics Award of the Friedenberg Fund for the Advancement of Science and Education
+
+
+== Published works ==
+Shechtman, D.; Blech, I.; Gratias, D.; Cahn, J.W. (1984). "Metallic Phase with Long-Range Orientational Order and No Translational Symmetry". Physical Review Letters. 53 (20): 1951. Bibcode:1984PhRvL..53.1951S. doi:10.1103/PhysRevLett.53.1951.
+Swartzendruber, L.; Shechtman, D.; Bendersky, L.; Cahn, J.W. (1985). "Nuclear γ-ray resonance observations in an aluminum-based icosahedral quasicrystal". Physical Review B. 32 (2): 1383–1385. Bibcode:1985PhRvB..32.1383S. doi:10.1103/PhysRevB.32.1383. PMID 9937171.
+Cahn, John W.; Gratias, Denis; Shechtman, Dan (1986). "Pauling's model not universally accepted". Nature. 319 (6049): 102. Bibcode:1986Natur.319..102C. doi:10.1038/319102a0. S2CID 4372556.
+Shechtman, Dan (1988). "The Icosahedral Quasiperiodic Phase". Physica Scripta. T23: 49. Bibcode:1988PhST...23...49S. doi:10.1088/0031-8949/1988/T23/008. S2CID 250844166.
+Cahn, John W.; Shechtman, Dan; Gratias, Denis (1986). "Indexing of icosahedral quasiperiodic crystals". Journal of Materials Research. 1 (1): 13. Bibcode:1986JMatR...1...13C. doi:10.1557/JMR.1986.0013.
+
+

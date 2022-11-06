@@ -1,0 +1,69 @@
+Roger Yonchien Tsien (pronounced , "CHEN"; February 1, 1952 – August 24, 2016) was an American biochemist. He was a professor of chemistry and biochemistry at the University of California, San Diego and was awarded the Nobel Prize in Chemistry for his discovery and development of the green fluorescent protein, in collaboration with organic chemist Osamu Shimomura and neurobiologist Martin Chalfie. Tsien was also a pioneer of calcium imaging.
+
+
+== Early life ==
+
+Tsien was born to a Chinese American family in New York, in 1952. He grew up in Livingston, New Jersey and attended Livingston High School. Tsien traces his family ancestry to Hangzhou, China. His father Hsue-Chu Tsien, an MIT and Shanghai Jiao Tong University alumnus, was a mechanical engineer and had excelled academically, graduating at the top of his university class.
+Tsien suffered from asthma as a child, and as a result, he was often indoors. He spent hours conducting chemistry experiments in his basement laboratory. When he was 16, he won first prize in the nationwide Westinghouse Talent Search with a project investigating how metals bind to thiocyanate.
+
+
+== Education ==
+Tsien attended Harvard College on a National Merit Scholarship, where he was elected to Phi Beta Kappa as a junior. He graduated summa cum laude with a Bachelor of Arts in chemistry and physics in 1972. According to his freshman-year roommate, economist and Iowa politician Herman Quirmbach, "It's probably not an exaggeration to say he's the smartest person I ever met ... [a]nd I have met a lot of brilliant people."After completing his bachelor's degree, Tsien joined the Physiological Laboratory at the University of Cambridge in Cambridge, England with the aid of a Marshall Scholarship, and resided at Churchill College, Cambridge. He received his Ph.D. in physiology in 1977 for research on The Design and Use of Organic Chemical Tools in Cellular Physiology  formally supervised by Richard Adrian in the Department of Physiology and assisted by Andy Holmes, Gerry Smith and Jeremy Sanders in the Department of Chemistry.
+
+
+== Research and career ==
+Following his Ph.D., Tsien was a Research Fellow at Gonville and Caius College, Cambridge from 1977 to 1981. He was appointed to the faculty at the University of California, Berkeley, from 1982 to 1989. Beginning in 1989, he worked at the University of California, San Diego, as Professor of Pharmacology and Professor of Chemistry and Biochemistry, and as an investigator of the Howard Hughes Medical Institute.Tsien contributed to the fields of cell biology and neurobiology by discovering genetically programmable fluorescent tags, thereby allowing scientists to watch the behavior of molecules in living cells in real time.  He also developed fluorescent indicators of calcium ions and other ions important in biological processes.
+
+In 2004, Tsien was awarded the Wolf Prize in Medicine "for his seminal contribution to the design and biological application of novel fluorescent and photolabile molecules to analyze and perturb cell signal transduction."In 2008, Tsien shared the Nobel Prize in Chemistry with Osamu Shimomura and Martin Chalfie for "the green fluorescent protein: discovery, expression and development."
+
+
+=== Fluorescent proteins ===
+The multicolored fluorescent proteins developed in Tsien's lab are used by scientists to track where and when certain genes are expressed in cells or in whole organisms.  Typically, the gene coding for a protein of interest is fused with the gene for a fluorescent protein, which causes the protein of interest to glow inside the cell when the cell is irradiated with ultraviolet light and allows microscopists to track its location in real time.  This is such a popular technique that it has added a new dimension to the fields of molecular biology, cell biology, and biochemistry.Since the discovery of the wild type GFP, numerous different mutants of GFP have been engineered and tested. The first significant leap forward was a single point mutation (S65T) reported by Tsien in 1995 in Nature. This mutation dramatically improved the fluorescent (both intensity and photostability) and spectral characteristics of GFP. A shift of the major excitation peak to 488 nm with the emission peak staying at 509 nm thus can be clearly observed, which matched very well the spectral characteristics of commonly available FITC facilities. All these then largely amplified the practicality of using GFP by scientists in their research. Tsien mainly contributed to much of our understanding of how GFP works and for developing new techniques and mutants of GFP.
+Former trainees of Roger Y. Tsien include Atsushi Miyawaki and Alice Y. Ting.
+Timelines of GFP-development involved by Tsien:
+1994: Tsien showed the mechanism that GFP chromophore is formed in a chemical reaction which requires oxygen but without help from the other proteins.
+1994–1998: Tsien and collaborators made various GFP mutants by genetic modification and structural tweaking. Newly created variants of GFP can shine more brightly and show different colours, such as yellow, cyan, and blue.
+2000–2002: Tsien produced monomeric variants of DsRED, which can glow in shades of red, pink, and orange. Remarkably, since then complicated marcromolecular networks of living organisms can be labelled or marked by using "all the colours of the rainbow".Other detailed highlights involved by Tsien:
+2002: The critical structural difference between GFP and DsRed was revealed. One extra double-bond in the chromophore of DsRed extends its conjugation thus causes the red-shift.
+2002: Monomeric DsRed (mRFP) was first developed.
+2004: New "fruit" FPs were generated (by in vitro and in vivo directed evolutions).In 2009, a new kind of Infrared Fluorescent Protein (IFP) was developed by Tsien's group, and further reported and described by Science. The new IFPs are developed from bacterial phytochromes instead of from multicellular organism like jellyfish. Under normal conditions, bacterial phytochromes absorb light for signaling instead of fluorescence, but they can be turned fluorescent after deleting some of the signaling parts by genetic means such as site-directed mutagenesis. In order to fluoresce, IFPs require an exogenous chromophore, biliverdin.In 2016, a new class of fluorescent protein was evolved from a cyanobacterial (Trichodesmium erythraeum) phycobiliprotein, α-allophycocyanin, and named small ultra red fluorescent protein (smURFP). smURFP autocatalytically self-incorporates the chromophore biliverdin without the need of an external protein, known as a lyase. Jellyfish- and coral-derived fluorescent proteins require oxygen and produce a stoichiometric amount of hydrogen peroxide upon chromophore formation. smURFP does not require oxygen or produce hydrogen peroxide and uses the chromophore, biliverdin. smURFP has a large extinction coefficient (180,000 M−1 cm−1) and has a modest quantum yield (0.20), which makes it comparable biophysical brightness to eGFP and ~2-fold brighter than most red or far-red fluorescent proteins derived from coral. smURFP spectral properties are similar to the organic dye Cy5.
+
+
+=== Next generation sequencing ===
+Roger Tsien had built the foundation of next generation sequencing technology that is widely used today. On 26 October 1990, Roger Tsien et al. filed a patent of stepwise ("base-by-base") sequencing with removable 3' blockers on DNA arrays. Illumina integrated this concept with DNA cloning for their next generation sequencer.
+
+
+=== Calcium imaging ===
+Tsien was a pioneer of calcium imaging and known for developing various dyes which become fluorescent in the presence of particular ions such as calcium. One such dye, Fura-2, is widely used to track changes of calcium concentration within cells. Indo-1 and Fluo-3, other popular calcium indicators, were also developed by Tsien's group in 1985 and 1989 respectively.  He has also developed fluorescent indicators for other ions such as magnesium, zinc, copper, iron, lead, cadmium, aluminum, nickel, cobalt, and mercury.Aequorin is also a useful tool to indicate calcium level inside cells; however, it has some limitations, primarily is that its prosthetic group coelenterazine is consumed irreversibly when emits light, thus requires continuous addition of coelenterazine into the media. To overcome such issues, Tsien's group also developed the calmodulin-based sensor, named Cameleon.
+
+
+=== FlAsH-EDT2 ===
+FlAsH-EDT2 is a biochemical method for specific covalent labeling inside live cells. It's a method based on recombinant protein molecules, and was developed by Tsien and his colleagues in 1998.
+"FLASH-EDT2": Fluorescein arsenical helix binder, bis-EDT adduct,
+"EDT": 1,2-ethanedithiol.
+
+
+=== Fluorescence-assisted cancer surgery ===
+Mouse experiments by Tsien's group suggest that cancer surgery can be guided and assisted by fluorescent peptides. The peptides are used as probes, and are harmless to living tissues and organs. Their lifetime in the body is only 4 or 5 days. Clinical trials are awaited.
+
+
+=== Industrial activities ===
+Tsien was also a notable biochemical inventor and holds or co-holds about 100 patents till 2010. In 1996, Tsien co-founded the Aurora Biosciences Corporation, which went public in 1997. In 2001, Aurora was acquired by the Vertex Pharmaceuticals. Similarly, Tsien was also a scientific co-founder of Senomyx in 1999.Tsien also promoted science education to promising young scientists through the first-ever San Diego Science Festival Lunch with a Laureate Program.
+
+
+== Personal life ==
+According to the Qian (Tsien) clan genealogy book, Tsien is a 34th-generational descendant of King Qian Liu of the Wuyue Kingdom of ancient China. His family belongs to the line of King Qian Hongzong. Tsien's parents Hsue-Chu Tsien and Yi-Ying Li (李懿颖) came from Hangzhou and Beijing, respectively.
+Tsien had a number of engineers in his extended family, including his father Hsue-Chu Tsien who was an MIT-educated mechanical engineer and his mother's brothers Y. T. Li (李耀滋) and Shihying Lee (李诗颖), who were engineering professors at MIT. Tsien's mother Yi-Ying Li was a nurse. The famous rocket scientist Tsien Hsue-shen, regarded as the co-founding father of the Jet Propulsion Laboratory of the California Institute of Technology and, later, the director of the Chinese ballistic-missile and space programs, is a cousin of Tsien's father.Tsien was the younger brother of Richard Tsien, a renowned neurobiologist currently at New York University, and Louis Tsien, a software engineer.  Tsien, who called his own work molecular engineering, once said, "I'm doomed by heredity to do this kind of work."He was married to Wendy Globe.
+
+
+=== Death ===
+Tsien died on August 24, 2016. Although the specific cause of death was not disclosed, it was reported that he died while on a bike trail in Eugene, Oregon. Prior to his death, Tsien had survived cancer and suffered a stroke in 2013."He was ahead of us all," said Tsien's wife, Wendy. "He was ever the adventurer, the pathfinder, the free and soaring spirit. Courage, determination, creativity and resourcefulness were hallmarks of his character. He accomplished much. He will not be forgotten."
+
+
+== Awards and honors ==
+Roger Y. Tsien has received numerous honors and awards in his life, including:
+
+
+=== Named lectures and lectureships ===
+
+

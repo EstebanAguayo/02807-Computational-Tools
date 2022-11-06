@@ -1,0 +1,79 @@
+Hannes Olof Gösta Alfvén (Swedish: [alˈveːn]; 30 May 1908 – 2 April 1995) was a Swedish electrical engineer, plasma physicist and winner of the 1970 Nobel Prize in Physics for his work on magnetohydrodynamics (MHD).  He described the class of MHD waves now known as Alfvén waves. He was originally trained as an electrical power engineer and later moved to research and teaching in the fields of plasma physics and electrical engineering.  Alfvén made many contributions to plasma physics, including theories describing the behavior of aurorae, the Van Allen radiation belts, the effect of magnetic storms on the Earth's magnetic field, the terrestrial magnetosphere, and the dynamics of plasmas in the Milky Way galaxy.
+
+
+== Education ==
+Alfvén received his PhD from the University of Uppsala in 1934. His thesis was titled "Investigations of High-frequency Electromagnetic Waves."
+
+
+== Early years ==
+In 1934, Alfvén taught physics at both the University of Uppsala and the Nobel Institute for Physics (later renamed the Manne Siegbahn Institute of Physics) in Stockholm, Sweden. In 1940, he became professor of electromagnetic theory and electrical measurements at the Royal Institute of Technology in Stockholm. In 1945, he acquired the nonappointive position of Chair of Electronics. His title was changed to Chair of Plasma Physics in 1963. From 1954 to 1955, Alfvén was a Fulbright Scholar at the University of Maryland, College Park. In 1967, after leaving Sweden and spending time in the Soviet Union, he moved to the United States. Alfvén worked in the departments of electrical engineering at both the University of California, San Diego and the University of Southern California.
+
+
+== Later years ==
+In 1991, Alfvén retired as professor of electrical engineering at the University of California, San Diego and professor of plasma physics at the Royal Institute of Technology in Stockholm.
+Alfvén spent his later adult life alternating between California and Sweden. He died at the age of 86.
+
+
+== Research ==
+In 1937, Alfvén argued that if plasma pervaded the universe, it could then carry electric currents capable of generating a galactic magnetic field. After winning the Nobel Prize for his works in magnetohydrodynamics, he emphasized that:
+
+In order to understand the phenomena in a certain plasma region, it is necessary to map not only the magnetic but also the electric field and the electric currents. Space is filled with a network of currents which transfer energy and momentum over large or very large distances. The currents often pinch to filamentary or surface currents. The latter are likely to give space, as also interstellar and intergalactic space, a cellular structure.
+His theoretical work on field-aligned electric currents in the aurora (based on earlier work by Kristian Birkeland) was confirmed in 1967, these currents now being known as Birkeland currents.
+Alfvén's work was disputed for many years by the senior scientist in space physics, the British mathematician and geophysicist Sydney Chapman.   Alfvén was regarded as a person with unorthodox opinions in the field by many physicists, R. H. Stuewer noting that "... he remained an embittered outsider, winning little respect from other scientists even after he received the Nobel Prize..." and was often forced to publish his papers in obscure journals. Alfvén recalled:
+
+When I describe [plasma phenomena] according to this formalism most referees do not understand what I say and turn down my papers. With the referee system which rules US science today, this means that my papers are rarely accepted by the leading US journals.
+Alfvén played a central role in the development of:
+
+Plasma physics
+Charged particle beams
+Interplanetary medium
+Magnetospheric physics
+Magnetohydrodynamics
+Solar phenomena investigation (such as the solar wind)
+Aurorae scienceIn 1939, Alfvén proposed the theory of magnetic storms and auroras and the theory of plasma dynamics in the earth's magnetosphere. This was the paper rejected by the U.S. journal Terrestrial Magnetism and Atmospheric Electricity.
+Applications of Alfvén's research in space science include:
+
+Van Allen radiation belt theory
+Reduction of the Earth's magnetic field during magnetic storms
+Magnetosphere (protective plasma covering the Earth)
+Formation of comet tails
+Formation of the Solar System
+Dynamics of plasmas in the galaxy
+Physical cosmologyAlfvén's views followed those of the founder of magnetospheric physics, Kristian Birkeland. At the end of the nineteenth century, Birkeland proposed (backed by extensive data) that electric currents flowing down along the Earth's magnetic fields into the atmosphere caused the aurora and polar magnetic disturbances.
+Areas of technology benefiting from Alfvén's contributions include:
+
+Particle accelerators
+Controlled thermonuclear fusion
+Hypersonic flight
+Rocket propulsion
+Reentry braking of space vehiclesContributions to astrophysics:
+
+Galactic magnetic field (1937)
+Identified nonthermal synchrotron radiation from astronomical sources (1950)Alfvén waves (low frequency hydromagnetic plasma oscillations) are named in his honor, and propagate at the Alfvén speed. Many of his theories about the solar system were verified as late as the 1980s through external measurements of cometary and planetary magnetospheres. However, Alfvén himself noted that astrophysical textbooks poorly represented known plasma phenomena:
+
+A study of how a number of the most used textbooks in astrophysics treat important concepts such as double layers, critical velocity, pinch effects, and circuits is made. It is found that students using these textbooks remain essentially ignorant of even the existence of these concepts, despite the fact that some of them have been well known for half a century (e.g, double layers, Langmuir, 1929; pinch effect, Bennet, 1934).
+Alfvén reported that of 17 of the most used textbooks on astrophysics, none mention the pinch effect, none mentioned critical ionization velocity, only two mentioned circuits, and three mentioned double layers.
+Alfvén believed the problem with the Big Bang was that astrophysicists tried to extrapolate the origin of the universe from mathematical theories developed on the blackboard, rather than starting from known observable phenomena. He also considered the Big Bang to be a myth devised to explain creation. Alfvén and colleagues proposed the Alfvén–Klein model as an alternative cosmological theory to both the Big Bang and steady state theory cosmologies.
+
+
+== Personal life ==
+Alfvén was married for 67 years to his wife Kerstin (1910–1992). They raised five children, one boy and four girls. Their son became a physician, while one daughter became a writer and another a lawyer in Sweden. The writer was Inger Alfvén and is well known for her work in Sweden. The composer Hugo Alfvén was Hannes Alfvén's uncle.
+Alfvén studied the history of science, oriental philosophy, and religion. On his religious views, Alfven was irreligious and critical of religion. He spoke Swedish, English, German, French, and Russian, and some Spanish and Chinese. He expressed great concern about the difficulties of permanent high-level radioactive waste management." Alfvén was also interested in problems in cosmology and all aspects of auroral physics, and used Schröder's well known book on aurora, Das Phänomen des Polarlichts. Letters of Alfvén, Treder, and Schröder were published on the occasion of Treder's 70th birthday. The relationships between Hans-Jürgen Treder, Hannes Alfvén and Wilfried Schröder were discussed in detail by Schröder in his publications.
+Alfvén died on 2 April, 1995 at Djursholm aged 86.
+
+
+== Awards and honours ==
+The Hannes Alfvén Prize, awarded annually by the European Physical Society for outstanding contributions in plasma physics, is named after him. The asteroid 1778 Alfvén is named in his honour.
+
+
+=== Awards ===
+
+Alfvén was one of the few scientists who was a foreign member of both the United States and Soviet Academies of Sciences.
+
+
+== Selected bibliography ==
+For full list of publications see.
+Books
+Articles
+
+

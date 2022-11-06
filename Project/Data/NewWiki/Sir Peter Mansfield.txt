@@ -1,0 +1,35 @@
+Sir Peter Mansfield  (9 October 1933 – 8 February 2017) was an English physicist who was awarded the 2003 Nobel Prize in Physiology or Medicine, shared with Paul Lauterbur, for discoveries concerning Magnetic Resonance Imaging (MRI). Mansfield was a professor at the University of Nottingham.
+
+
+== Early life ==
+Mansfield was born in Lambeth, London on 9 October 1933, to Sidney George (b. 1904, d. 1966) and Lillian Rose Mansfield (b. 1905, d. 1984; née Turner). Mansfield is the youngest of three sons, Conrad (b. 1925) and Sidney (b. 1927).Mansfield grew up in Camberwell. During World War II he was evacuated from London, initially to Sevenoaks and then twice to Torquay, Devon, where he was able to stay with the same family on both occasions. On returning to London after the war he was told by a school master to take the 11+ exam. Having never heard of the exam before, and having no time to prepare, Mansfield failed to gain a place at the local Grammar school. His mark was, however, high enough for him to go to a Central School in Peckham. At the age of 15 he was told by a careers teacher that science wasn't for him. He left school shortly afterwards to work as a printer's assistant.
+At the age of 18, having developed an interest in rocketry, Mansfield took up a job with the Rocket Propulsion Department of the Ministry of Supply in Westcott, Buckinghamshire. Eighteen months later he was called up for National Service.
+
+
+== Education ==
+After serving in the army for two years, Mansfield returned to Westcott and started studying for A-levels at night school. Two years later he was admitted to study physics at Queen Mary College, University of London.
+Mansfield graduated with a BSc from Queen Mary's in 1959. His final-year project, supervised by Jack Powles, was to construct a portable, transistor-based spectrometer to measure the Earth's magnetic field. Towards the end of this project Powles offered Mansfield a position in his NMR (Nuclear Magnetic Resonance) research group. Powles' interest was in studying molecular motion, mainly liquids. Mansfield's project was to build a pulsed NMR spectrometer to study solid polymer systems. He received his PhD in 1962; his thesis was titled Proton magnetic resonance relaxation in solids by transient methods.
+
+
+== Career ==
+Following his PhD, Mansfield was invited to postdoctoral research with Charlie Slichter at the University of Illinois at Urbana–Champaign, where he carried out an NMR study of doped metals.
+In 1964, Mansfield returned to England to take up a place as a lecturer at Nottingham University where he could continue his studies in multiple-pulse NMR. He was successively appointed Senior Lecturer in 1968 and Reader in 1970. During this period his team developed the MRI equipment with the help of grants from the Medical Research Council. It was not until the 1970s with Paul Lauterbur's and Mansfield's developments that NMR could be used to produce images of the body. In 1979 Mansfield was appointed Professor of the Department of Physics until his retirement in 1994.
+
+1962: Research Associate, Department of Physics, University of Illinois
+1964: Lecturer, Department of Physics, University of Nottingham
+1968: Senior Lecturer, Department of Physics, University of Nottingham
+1970: Reader, Department of Physics, University of Nottingham
+1972–73: Senior Visitor, Max Planck Institute for Medical Research, Heidelberg
+1979: Professor, Department of Physics, University of NottinghamMansfield is credited with inventing 'slice selection' for MRI - i.e. the method by which a localised axial slice of a subject can be selectively imaged, rather than the entire subject - and understanding how the radio signals from MRI can be mathematically analysed, making interpretation of the signals into a useful image a possibility. He is also credited with discovering how fast imaging could be possible by developing the MRI protocol called echo-planar imaging. Echo-planar imaging allows T2* weighted images to be collected many times faster than previously possible. It also has made functional magnetic resonance imaging (fMRI) feasible.
+Whilst working at Nottingham University, Mansfield tested the first full body prototype, installed just before Christmas, 1978. Mansfield was so keen, that he volunteered to test it himself and produced the first scan of a live patient. The prototype machine is now an exhibit, in the Medical Section of the Science Museum.
+
+
+== Awards and honours ==
+
+
+== Private life ==
+Mansfield married Jean Margaret Kibble (b. 1935) on 1 September 1962. He had two daughters.
+Mansfield died in Nottingham on 8 February 2017, aged 83.
+
+
+== References =

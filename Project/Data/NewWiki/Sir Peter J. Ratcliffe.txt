@@ -1,0 +1,41 @@
+Sir Peter John Ratcliffe, FRS, FMedSci (born 14 May 1954) is a British Nobel Laureate physician-scientist who is trained as a nephrologist. He was a practising clinician at the John Radcliffe Hospital, Oxford and Nuffield Professor of Clinical Medicine and head of the Nuffield Department of Clinical Medicine at the University of Oxford from 2004 to 2016. He has been a Fellow of Magdalen College, Oxford since 2004. In 2016 he became Clinical Research Director at the Francis Crick Institute, retaining a position at Oxford as member of the Ludwig Institute of Cancer Research and Director of the Target Discovery Institute, University of Oxford.Ratcliffe is best known for his work on cellular reactions to hypoxia, for which he shared the 2019 Nobel Prize in Physiology or Medicine with William Kaelin Jr. and Gregg L. Semenza.
+
+
+== Education and training ==
+Ratcliffe was born in Lancashire on 14 May 1954, to William Ratcliffe and Alice Margaret Ratcliffe. He attended Lancaster Royal Grammar School from 1965 to 1972.He won an open scholarship to Gonville and Caius College, Cambridge in 1972 to study Medicine at the University of Cambridge and then completed his MB BChir medical degree with distinction at St Bartholomew's Hospital Medical College in 1978.Ratcliffe then trained in renal medicine at Oxford University, focusing on renal oxygenation. He earned a higher MD degree from University of Cambridge in 1987.
+
+
+== Career ==
+In 1990, Ratcliffe received a Wellcome Trust Senior Fellowship to study cellular responses to hypoxia from low oxygen levels in the blood.
+From 1992 to 2004 he was Senior Research Fellow in Clinical Medicine at Jesus College, Oxford. 
+In 2002, Ratcliffe was accepted into the Academy of Medical Sciences and was appointed the following year the Nuffield Professor and Head of the Nuffield Department of Clinical Medicine at Oxford.
+
+
+== Research ==
+
+In 1989, Ratcliffe established a laboratory in Oxford University's Nuffield Department of Medicine to explore the regulation of erythropoietin (EPO), a hormone released by the kidneys and responsible for stimulating the production of red blood cells. EPO was known to be produced by the kidneys in response to low oxygen levels, and Ratcliffe's work looked to understand the mechanisms of how the kidneys detected hypoxia (low oxygen levels in the blood) to trigger EPO production. From his studies, Ratcliffe discovered that the mRNA from kidneys that were part of the EPO production pathway that were capable of detecting hypoxia was also present in several other organs, both human and animal, including the spleen, brain, and testes. His group found that cells from these organs could switch on EPO production when deprived of oxygen. Further, Ratcliffe was able to modify other cells using the identified mRNA to give these cells oxygen-sensing capabilities.Building on these discoveries, the Ratcliffe group, along with joint studies with William Kaelin and Gregg Semenza, helped to uncover a detailed molecular chain of events that cells use to sense oxygen. A specific step identified was the binding of proteins expressed by the Von Hippel–Lindau tumor suppressor gene (VHL) to hypoxia-inducible factors (HIF), a transcription factor which trans-activates the EPO gene. Ratcliffe found that the VHL protein can bind a hydroxylated residues of HIF when oxygen is present at acceptable levels; the VHL protein then ubiquitylates the HIF protein which ultimately leads to the HIF protein's destruction. When oxygen levels fall, oxygen-requiring HIF hydroxylase enzymes, PHD1, 2 and 3 no longer act and VHL does not bind HIF, allowing HIF to remain and activate the EPO gene. This is a process that takes minutes to complete allowing the body to react quickly to hypoxia.This same pathway is also switched on in many cancer tumours, allowing them to create new blood vessels to sustain their growth. Much of the current understanding of hypoxia has emerged from the laboratory of Ratcliffe. The understanding of the molecular pathway of EPO production from hypoxia has led to the development of drugs that block VHL from binding with HIF to help treat patients with anaemia and kidney failure.
+
+
+== Personal life ==
+Ratcliffe married Fiona Mary MacDougall in 1983.
+
+
+== Selected honours and awards ==
+Ratcliffe has received a number of awards, accolades, and honours for his seminal work on hypoxia.
+
+The Louis-Jeantet Prize for Medicine (2009)
+The Canada Gairdner International Award (2010)
+The Lasker Award, along with William Kaelin and Gregg Semenza (2016)
+Buchanan Medal of the Royal Society (2017)
+Massry Prize (2018)
+Nobel Prize in Physiology or Medicine, along with William Kaelin and Gregg Semenza (2019), awarded by the Nobel Prize committee "for their discoveries of how cells sense and adapt to oxygen availability."
+Member of the German Academy of Sciences Leopoldina (2020)He was knighted in the 2014 New Year Honours for services to clinical medicine.
+
+
+== References ==
+
+
+== External links ==
+
+Personal Webpage at the University of Oxford
+Sir Peter J. Ratcliffe on Nobelprize.org  including the Nobel Lecture on 7 December 2019 Elucidation of Oxygen Sensing Systems in Human and Animal Cell

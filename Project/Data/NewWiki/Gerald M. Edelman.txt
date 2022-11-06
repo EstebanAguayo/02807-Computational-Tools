@@ -1,0 +1,79 @@
+Gerald Maurice Edelman (; July 1, 1929 – May 17, 2014) was an American biologist who shared the 1972 Nobel Prize in Physiology or Medicine for work with Rodney Robert Porter on the immune system.  Edelman's Nobel Prize-winning research concerned discovery of the structure of antibody molecules.  In interviews, he has said that the way the components of the immune system evolve over the life of the individual is analogous to the way the components of the brain evolve in a lifetime. There is a continuity in this way between his work on the immune system, for which he won the Nobel Prize, and his later work in neuroscience and in philosophy of mind.
+
+
+== Early life ==
+Gerald Edelman was born in 1929 in Ozone Park, Queens, New York, to Jewish parents, physician Edward Edelman, and Anna (née Freedman) Edelman, who worked in the insurance industry. He studied violin for years, but eventually realized that he did not have the inner drive needed to pursue a career as a concert violinist, and decided to go into medical research instead. He attended public schools in New York, graduating from John Adams High School, and going on to college in Pennsylvania where he graduated magna cum laude with a B.S. from Ursinus College in 1950 and received an M.D. from the University of Pennsylvania School of Medicine in 1954.
+
+
+== Career ==
+After a year at the Johnson Foundation for Medical Physics, Edelman became a resident at the Massachusetts General Hospital; he then practiced medicine in France while serving with US Army Medical Corps. In 1957, Edelman joined the Rockefeller Institute for Medical Research as a graduate fellow, working in the laboratory of Henry Kunkel and receiving a Ph.D. in 1960. The institute made him the Assistant (later Associate) Dean of Graduate Studies; he became a professor at the school in 1966. In 1992, he moved to California and became a professor of neurobiology at The Scripps Research Institute.After his Nobel prize award, Edelman began research into the regulation of primary cellular processes, particularly the control of cell growth and the development of multi-celled organisms, focusing on cell-to-cell interactions in early embryonic development and in the formation and function of the nervous system. These studies led to the discovery of cell adhesion molecules (CAMs), which guide the fundamental processes that help an animal achieve its shape and form, and by which nervous systems are built. One of the most significant discoveries made in this research is that the precursor gene for the neural cell adhesion molecule gave rise in evolution to the entire molecular system of adaptive immunity.For his efforts, Edelman was an elected member of both the American Academy of Arts and Sciences (1968) and the American Philosophical Society (1977).
+
+
+== Nobel Prize ==
+While in Paris serving in the Army, Edelman read a book that sparked his interest in antibodies. He decided that, since the book said so little about antibodies, he would investigate them further upon returning to the United States, which led him to study physical chemistry for his 1960 Ph.D. Research by Edelman and his colleagues and Rodney Robert Porter in the early 1960s produced fundamental breakthroughs in the understanding of the antibody's chemical structure, opening a door for further study. For this work, Edelman and Porter shared the Nobel Prize in Physiology or Medicine in 1972.In its Nobel Prize press release in 1972, the Karolinska Institutet lauded Edelman and Porter's work as a major breakthrough:
+
+The impact of Edelman's and Porter's discoveries is explained by the fact that they provided a clear picture of the structure and mode of action of a group of biologically particularly important substances. By this they laid a firm foundation for truly rational research, something that was previously largely lacking in immunology. Their discoveries represent clearly a break-through that immediately incited a fervent research activity the whole world over, in all fields of immunological science, yielding results of practical value for clinical diagnostics and therapy.
+
+
+=== Disulfide bonds ===
+
+Edelman's early research on the structure of antibody proteins revealed that disulfide bonds link together the protein subunits. The protein subunits of antibodies are of two types, the larger heavy chains and the smaller light chains. Two light and two heavy chains are linked together by disulfide bonds to form a functional antibody.
+
+
+=== Molecular models of antibody structure ===
+Using experimental data from his own research and the work of others, Edelman developed molecular models of antibody proteins. A key feature of these models included the idea that the antigen binding domains of antibodies (Fab) include amino acids from both the light and heavy protein subunits. The inter-chain disulfide bonds help bring together the two parts of the antigen binding domain.
+
+
+=== Antibody sequencing ===
+Edelman and his colleagues used cyanogen bromide and proteases to fragment the antibody protein subunits into smaller pieces that could be analyzed for determination of their amino acid sequence. At the time when the first complete antibody sequence was determined (1969) it was the largest complete protein sequence that had ever been determined. The availability of amino acid sequences of antibody proteins allowed recognition of the fact that the body can produce many different antibody proteins with similar antibody constant regions and divergent antibody variable regions.
+
+
+=== Topobiology ===
+Topobiology is Edelman's theory which asserts that morphogenesis is driven by differential adhesive interactions among heterogeneous cell populations and it explains how a single cell can give rise to a complex multi-cellular organism. As proposed by Edelman in 1988, topobiology is the process that sculpts and maintains differentiated tissues and is acquired by the energetically favored segregation of cells through heterologous cellular interactions.
+
+
+== Theory of consciousness ==
+
+In his later career, Edelman was noted for his theory of consciousness, documented in a trilogy of technical books and in several subsequent books written for a general audience, including Bright Air, Brilliant Fire (1992), A Universe of Consciousness (2001, with Giulio Tononi), Wider than the Sky (2004) and Second Nature: Brain Science and Human Knowledge (2007).
+In Second Nature Edelman defines human consciousness as:
+
+"... what you lose on entering a dreamless deep sleep ... deep anesthesia or coma ... what you regain after emerging from these states. [The] experience of a unitary scene composed variably of sensory responses ... memories ... situatedness ..."The first of Edelman's technical books, The Mindful Brain (1978), develops his theory of Neural Darwinism, which is built around the idea of plasticity in the neural network in response to the environment. The second book, Topobiology (1988), proposes a theory of how the original neuronal network of a newborn's brain is established during development of the embryo. The Remembered Present (1990) contains an extended exposition of his theory of consciousness.
+In his books, Edelman proposed a biological theory of consciousness, based on his studies of the immune system. He explicitly roots his theory within Charles Darwin's Theory of Natural Selection, citing the key tenets of Darwin's population theory, which postulates that individual variation within species provides the basis for the natural selection that eventually leads to the evolution of new species. He explicitly rejected dualism and also dismissed newer hypotheses such as the so-called 'computational' model of consciousness, which liken the brain's functions to the operations of a computer. Edelman argued that mind and consciousness are purely biological phenomena, arising from complex cellular processes within the brain, and that the development of consciousness and intelligence can be explained by Darwinian theory.
+Edelman's theory seeks to explain consciousness in terms of the morphology of the brain. A brain comprises a massive population of neurons (approx. 100 billion cells) each with an enormous number of synaptic connections to other neurons. During development, the subset of connections that survive the initial phases of growth and development will make approximately 100 trillion connections with each other. A sample of brain tissue the size of a match head contains about a billion connections, and if we consider how these neuronal connections might be variously combined, the number of possible permutations becomes hyper-astronomical – in the order of ten followed by millions of zeros. The young brain contains many more neural connections than will ultimately survive to maturity, and Edelman argued that this redundant capacity is needed because neurons are the only cells in the body that cannot be renewed and because only those networks best adapted to their ultimate purpose will be selected as they organize into neuronal groups.
+
+
+=== Neural Darwinism ===
+Edelman's theory of neuronal group selection, also known as 'Neural Darwinism', has three basic tenets—Developmental Selection, Experiential Selection and Reentry.
+
+Developmental selection -- the formation of the gross anatomy of the brain is controlled by genetic factors, but in any individual the connectivity between neurons at the synaptic level and their organisation into functional neuronal groups is determined by somatic selection during growth and development. This process generates tremendous variability in the neural circuitry—like the fingerprint or the iris, no two people will have precisely the same synaptic structures in any comparable area of brain tissue. Their high degree of functional plasticity and the extraordinary density of their interconnections enables neuronal groups to self-organise into many complex and adaptable "modules."  These are made up of many different types of neurons which are typically more closely and densely connected to each other than they are to neurons in other groups.
+Experiential selection -- Overlapping the initial growth and development of the brain, and extending throughout an individual's life, a continuous process of synaptic selection occurs within the diverse repertoires of neuronal groups. This process may strengthen or weaken the connections between groups of neurons and it is constrained by value signals that arise from the activity of the ascending systems of the brain, which are continually modified by successful output. Experiential selection generates dynamic systems that can 'map' complex spatio-temporal events from the sensory organs, body systems and other neuronal groups in the brain onto other selected neuronal groups. Edelman argues that this dynamic selective process is directly analogous to the processes of selection that act on populations of individuals in species, and he also points out that this functional plasticity is imperative, since not even the vast coding capability of entire human genome is sufficient to explicitly specify the astronomically complex synaptic structures of the developing brain.
+Reentry —the concept of reentrant signalling between neuronal groups. He defines reentry as the ongoing recursive dynamic interchange of signals that occurs in parallel between brain maps, and which continuously interrelates these maps to each other in time and space (film clip: Edelman demonstrates spontaneous group formation among neurons with re-entrant connections). Reentry depends for its operations on the intricate networks of massively parallel reciprocal connections within and between neuronal groups, which arise through the processes of developmental and experiential selection outlined above. Edelman describes reentry as "a form of ongoing higher-order selection ... that appears to be unique to animal brains" and that "there is no other object in the known universe so completely distinguished by reentrant circuitry as the human brain."
+
+
+== Evolution theory ==
+Edelman and Gally were the first to point out the pervasiveness of degeneracy in biological systems and the fundamental role that degeneracy plays in facilitating evolution.
+
+
+=== Later career ===
+Edelman founded and directed The Neurosciences Institute, a nonprofit research center in San Diego that between 1993 and 2012 studied the biological bases of higher brain function in humans. He served on the scientific board of the World Knowledge Dialogue project.Edelman was a member of the USA Science and Engineering Festival's Advisory Board.
+
+
+== Personal ==
+Edelman married Maxine M. Morrison in 1950. They have two sons, Eric, a visual artist in New York City, and David, an adjunct professor of neuroscience at University of San Diego. Their daughter, Judith Edelman, is a bluegrass musician, recording artist, and writer. Some observers have noted that a character in Richard Powers' The Echo Maker may be a nod at Edelman.
+
+
+=== Health and death ===
+Later in his life, he had prostate cancer and Parkinson's disease. Edelman died on May 17, 2014, in La Jolla, California, aged 84.
+
+
+== Bibliography ==
+Neural Darwinism: The Theory of Neuronal Group Selection (Basic Books, New York 1987). ISBN 0-19-286089-5
+Topobiology: An Introduction to Molecular Embryology (Basic Books, 1988, Reissue edition 1993) ISBN 0-465-08653-5
+The Remembered Present: A Biological Theory of Consciousness (Basic Books, New York 1990). ISBN 0-465-06910-X
+Bright Air, Brilliant Fire: On the Matter of the Mind (Basic Books, 1992, Reprint edition 1993). ISBN 0-465-00764-3
+The Brain, Edelman and Jean-Pierre Changeux, editors, (Transaction Publishers, 2000). ISBN 0-7658-0717-3
+A Universe of Consciousness: How Matter Becomes Imagination, Edelman and Giulio Tononi, coauthors, (Basic Books, 2000, Reprint edition 2001). ISBN 0-465-01377-5
+Wider than the Sky: The Phenomenal Gift of Consciousness (Yale Univ. Press 2004) ISBN 0-300-10229-1
+Second Nature:  Brain Science and Human Knowledge (Yale University Press 2006) ISBN 0-300-12039-7
+
+

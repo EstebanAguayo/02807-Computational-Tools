@@ -1,0 +1,40 @@
+Robert Eric Betzig (born January 13, 1960) is an American physicist who works as a professor of physics and professor of molecular and cell biology at the University of California, Berkeley. He is also a senior fellow at the Janelia Farm Research Campus in Ashburn, Virginia.Betzig has worked to develop the field of fluorescence microscopy and photoactivated localization microscopy. He was awarded the 2014 Nobel Prize in Chemistry for "the development of super-resolved fluorescence microscopy" along with Stefan Hell and fellow Cornell alumnus William E. Moerner.
+
+
+== Early life and education ==
+Betzig was born in Ann Arbor, Michigan, in 1960, the son of Helen Betzig and engineer Robert Betzig. Aspiring to work in the aerospace industry, Betzig studied physics at the California Institute of Technology and graduated with a BS degree in 1983. He then went on to study at Cornell University where he was advised by Aaron Lewis and Michael Isaacson. There he obtained an MS degree and a PhD degree in applied physics and engineering physics in 1985 and 1988, respectively. For his PhD he focused on developing high-resolution optical microscopes that could see past the theoretical limit of .2 micrometers.
+
+
+== Career ==
+
+
+=== Bell Laboratories ===
+After receiving his doctorate, Betzig was hired by AT&T Bell Laboratories in the Semiconductor Physics Research Department in 1989. That year Betzig's colleague, William E. Moerner, developed the first optical microscope that could see past the .2 micrometer limit, known as the Abbe limit, but it could only function at temperatures near absolute zero.  Inspired by Moerner's research, Betzig became the first person to image individual fluorescent molecules at room temperature while determining their positions within less than .2 micrometers in 1993. For this he received the William O. Baker Award for Initiatives in Research (previously known as the National Academy of Sciences Award for Initiatives in Research).  Betzig was also awarded the William L. McMillan Award in 1992.
+
+
+=== Ann Arbor Machine Company ===
+In 1994, Betzig became frustrated with the academic community and the uncertainty of the corporate structure of Bell Laboratories, prompting him to leave both. He spent some years as a stay-at-home dad before reentering the workforce in 1996, when he took up the position of vice president of research and development at Ann Arbor Machine Company, which was owned by the Betzig family. Here he developed Flexible Adaptive Servohydraulic Technology (FAST), but after spending millions of dollars on development he only sold two devices.
+
+
+=== Return to academia ===
+In 2002, Betzig returned to the field of microscopy and founded New Millennium Research in Okemos, Michigan. Inspired by Mike Davidson's work with fluorescent proteins, he developed photoactivated localization microscopy (PALM), a method of controlling fluorescent proteins that used pulses of light to create images of a higher resolution than were previously thought possible. In the living room of his old Bell Labs collaborator Harald Hess, Betzig and Hess developed the first optical microscope based on this technology. They built their first prototype in under two months, earning them widespread attention. In October of that year, the Howard Hughes Medical Institute's Janelia Farm Research Campus hired him, but his lab was still under construction at the time.In early 2006, he formally joined Janelia as a group leader to work on developing super high-resolution fluorescence microscopy techniques. He used this technique to study the division of cells in human embryos. In 2010, he was offered the Max Delbruck Prize, but he declined it and Xiaowei Zhuang received the award. In 2014, Betzig was jointly awarded the Nobel Prize in Chemistry along with Stefan Hell and William E. Moerner.
+
+On May 31, 2016 he was appointed an Academician of the Pontifical Academy of Sciences by Pope Francis.
+In the summer of 2017, Betzig joined the faculty of UC Berkeley with a joint appointment at Lawrence Berkeley National Laboratory.
+
+
+== Selected research papers ==
+1993: Single molecules observed by near-field scanning optical microscopy, E Betzig, RJ Chichester – Science – science.sciencemag.org
+1992: Near-field optics: microscopy, spectroscopy, and surface modification beyond the diffraction limit, E Betzig, JK Trautman – Science – science.sciencemag.org
+2006: Imaging intracellular fluorescent proteins at nanometer resolution, E Betzig, GH Patterson, R Sougrat. – science.sciencemag.org
+2014: Lattice light-sheet microscopy: imaging molecules to embryos at high spatiotemporal resolution, G Seydoux, US Tulu, DP Kiehart, E Betzig – science.sciencemag.org
+
+
+== References ==
+
+
+== External links ==
+Eric Betzig talk: Developing PALM Microscopy
+Eric Betzig, SPIE Photonics West plenary presentation: Single molecules, cells, and super-resolution optics
+Eric Betzig, Beyond the Nobel Prize -- New approaches to microscopy
+Eric Betzig on Nobelprize.or

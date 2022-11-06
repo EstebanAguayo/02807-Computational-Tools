@@ -1,0 +1,45 @@
+Robert Emerson Lucas Jr. (born September 15, 1937) is an American economist at the University of Chicago, where he is currently the John Dewey Distinguished Service Professor Emeritus in Economics and the College. Widely regarded as the central figure in the development of the new classical approach to macroeconomics, he received the Nobel Prize in Economics in 1995 "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy". He has been characterized by N. Gregory Mankiw as "the most influential macroeconomist of the last quarter of the 20th century." As of 2020, he ranks as the 11th most cited economist in the world.
+
+
+== Biography ==
+Lucas was born in 1937 in Yakima, Washington, and was the eldest child of Robert Emerson Lucas and Jane Templeton Lucas.
+Lucas received his B.A. in History in 1959 from the University of Chicago. Lucas attended the University of California, Berkeley as a first-year graduate student, but he left Berkeley due to financial reasons and returned to Chicago in 1960, earning a PhD in Economics in 1964. His dissertation "Substitution between Labor and Capital in U.S. Manufacturing: 1929–1958" was written under the supervision of H. Gregg Lewis and Dale Jorgenson. Lucas studied economics for his PhD on "quasi-Marxist" grounds. He believed that economics was the true driver of history, and so he planned to immerse himself fully in economics and then return to the history department.Following his graduation, Lucas taught at the Graduate School of Industrial Administration (now Tepper School of Business) at Carnegie Mellon University until 1975, when he returned to the University of Chicago.Lucas was elected to the American Academy of Arts and Sciences in 1980, the National Academy of Sciences in 1981, and the American Philosophical Society in 1997.After his divorce from Rita Lucas, he married Nancy Stokey. They have collaborated in papers on growth theory, public finance, and monetary theory. Lucas has two sons: Stephen Lucas and Joseph Lucas.A collection of his papers is housed at the Rubenstein Library at Duke University.
+
+
+== Contributions ==
+
+
+=== Rational expectations ===
+Lucas is well known for his investigations into the implications of the assumption of the rational expectations theory. Lucas (1972) incorporates the idea of rational expectations into a dynamic general equilibrium model.  The agents in Lucas's model are rational: based on the available information, they form expectations about future prices and quantities, and based on these expectations they act to maximize their expected lifetime utility. He also provided sound theory fundamental to Milton Friedman and Edmund Phelps's view of the long-run neutrality of money, and provide an explanation of the correlation between output and inflation, depicted by the Phillips curve.
+
+
+=== Lucas critique ===
+
+Lucas (1976) challenged the foundations of macroeconomic theory (previously dominated by the Keynesian economics approach), arguing that a macroeconomic model should be built as an aggregated version of microeconomic models while noting that aggregation in the theoretical sense may not be possible within a given model. He developed the "Lucas critique" of economic policymaking, which holds that relationships that appear to hold in the economy, such as an apparent relationship between inflation and unemployment, could change in response to changes in economic policy. That led to the development of new classical macroeconomics and the drive towards microeconomic foundations for macroeconomic theory.
+
+
+=== Other contributions ===
+Lucas developed a theory of supply that suggests people can be tricked by unsystematic monetary policy; the Uzawa–Lucas model (with Hirofumi Uzawa) of human capital accumulation; and the "Lucas paradox", which considers why more capital does not flow from developed countries to developing countries. Lucas (1988) is a seminal contribution in the economic development and growth literature. Lucas and Paul Romer heralded the birth of endogenous growth theory and the resurgence of research on economic growth in the late 1980s and the 1990s.
+He also contributed foundational contributions to behavioral economics, and provided the intellectual foundation for the understanding of deviations from the law of one price based on the irrationality of investors.
+In 2003, he stated, about 5 years before the Great Recession, that the "central problem of depression-prevention has been solved, for all practical purposes, and has in fact been solved for many decades."He also proposed the Lucas Wedge which tries to show how much higher GDP would be in the presence of proper policy.
+
+
+== Bibliography ==
+Lucas, Robert (1972). "Expectations and the Neutrality of Money". Journal of Economic Theory. 4 (2): 103–24. CiteSeerX 10.1.1.592.6178. doi:10.1016/0022-0531(72)90142-1.
+Lucas, Robert (1976). "Econometric Policy Evaluation: A Critique". Carnegie-Rochester Conference Series on Public Policy. 1: 19–46. CiteSeerX 10.1.1.726.1610. doi:10.1016/S0167-2231(76)80003-6.
+Lucas, Robert (1988). "On the Mechanics of Economic Development". Journal of Monetary Economics. 22 (1): 3–42. doi:10.1016/0304-3932(88)90168-7. S2CID 154875771.
+Lucas, Robert (1990). "Why Doesn't Capital Flow from Rich to Poor Countries". American Economic Review. 80 (2): 92–96. JSTOR 2006549.
+Lucas, Robert (1981). Studies in Business-Cycle Theory. MIT Press. ISBN 978-0-262-62044-4.
+Lucas, Robert (1995) – "Monetary Neutrality" Prize Lecture – 1995 Nobel Prize in economics , December 7, 1995
+Stokey, Nancy; Robert Lucas; and Edward Prescott (1989), Recursive Methods in Economic Dynamics. Harvard University Press, ISBN 0-674-75096-9.
+Lucas, Robert E. Jr. "The History and Future of Economic Growth", The 4% Solution: Unleashing the Economic Growth America Needs, edited by Brendan Miniter. New York: Crown Business. 2012.
+Lucas, Robert E. Jr. and Benjamin Moll, 2014, "Knowledge Growth and the Allocation of Time", Journal of Political Economy, University of Chicago Press, vol. 122(1), pages 1 - 51.
+
+
+== See also ==
+Welfare cost of business cycles
+List of economists
+Lucas islands model
+Uzawa–Lucas model
+
+
