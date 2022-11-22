@@ -2,7 +2,6 @@ import pandas as pd
 import wikipedia as wiki
 import os #For data files extraction from folder
 
-
 exception_list = []
 file_loc = os.getcwd()
 
